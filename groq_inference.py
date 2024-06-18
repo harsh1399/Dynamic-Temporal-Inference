@@ -5,7 +5,7 @@ from groq import Groq
 import time
 
 client = Groq(
-    api_key="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",
+    api_key="",
     )
 
 def create_prompt(timeline,question):
