@@ -1,0 +1,23 @@
+entity,question,actual_answer,predicted_answer
+Oman national cricket team,Name the person(s) who served as the od captain when Duleep Mendis was the coach of the Oman national cricket team.,Zeeshan Maqsood,Zeeshan Maqsood.
+Oman national cricket team,Does the Oman national cricket team have the best win percentage in the odi format in 2019 or 2023?(Answer in year),2019,2021
+Oman national cricket team,Was the Oman national cricket team's win percentage the highest in the odi format in either 2021 or 2023?(Answer in year),2021,2021
+Oman national cricket team,In which year did Duleep Mendis become the coach of the Oman national cricket team for the first time?,2022,2022
+Oman national cricket team,"How long did Ajay Lalcheta serve as the t20i captain of Oman national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",205 days,61 days.
+Oman national cricket team,"Which person had the longest tenure as the t20i captain of the Oman national cricket team?(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Zeeshan Maqsood,Zeeshan Maqsood.
+Oman national cricket team,How many people served as the t20i captain of the Oman national cricket team?,2,Only one person: Zeeshan Maqsood.
+Oman national cricket team,Who was the t20i captain of the Oman national cricket team before Zeeshan Maqsood?,Ajay Lalcheta,Ajay Lalcheta.
+Oman national cricket team,How many odi matches did the Oman national cricket team play between 2020 and 2023? (including both years),37,27
+Oman national cricket team,How many t20 matches did the Oman national cricket team play between 2021 and 2023? (including both years),18,"Between 2021 and 2023, Oman national cricket team played 18 t20 matches."
+Oman national cricket team,Who were the individual(s) who held the position of the t20i captain for the (folder name) from 2019 and 2021? (including both years),"Zeeshan Maqsood', 'Ajay Lalcheta",Zeeshan Maqsood.
+Oman national cricket team,Who were the individual(s) who acted as the t20i captain of the Oman national cricket team in 2022?,Zeeshan Maqsood,Zeeshan Maqsood.
+Oman national cricket team,what was the best t20i rank of the Oman national cricket team in 2019?,14,The best T20I rank of the Oman national cricket team in 2019 was 14th.
+Oman national cricket team,what was the best t20i rank of the Oman national cricket team in 2022?,17,The answer is 17th.
+Oman national cricket team,What is the win to loss ratio of Oman national cricket team in odi format in 2021?,1.6666666666666667,The win to loss ratio of Oman national cricket team in ODI format in 2021 is 3/1 = 3.
+Oman national cricket team,What is the ratio of wins to losses for the Oman national cricket team in the t20i format for 2022?,0.6666666666666666,"According to the timeline, on 2022-07-13T01:59:27Z, the t20i_record is ""20/26, (0 ties, 1 no result)"". This means they won 20 and lost 26.
+
+On 2022-12-31T14:12:23Z, the t20i_record is ""23/30, (0 ties, 1 no result)"". This means they won 23 and lost 30.
+
+So, in 2022, they won 3 more games (23 - 20 = 3) and lost 4 more games (30 - 26 = 4). 
+
+The total wins in 2022 are 23, and total losses are 30. The ratio of wins to losses is 23/30, which is approximately 0.77."

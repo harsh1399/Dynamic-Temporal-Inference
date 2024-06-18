@@ -1,0 +1,48 @@
+entity,question,actual_answer,predicted_answer
+Netherlands national cricket team,Name the person(s) who served as the coach when Scott Edwards was the t20i captain of the Netherlands national cricket team.,"Ryan Cook', 'Ryan Campbell",Ryan Campbell and Ryan Cook.
+Netherlands national cricket team,Name the person(s) who served as the od captain when Ryan Campbell was the coach of the Netherlands national cricket team.,"Pieter Seelaar', 'Scott Edwards",Pieter Seelaar.
+Netherlands national cricket team,Does the Netherlands national cricket team have the best win percentage in the odi format in 2019 or 2023?(Answer in year),2019,2019.
+Netherlands national cricket team,Does the Netherlands national cricket team have the best win percentage in the t20i format in 2021 or 2022?(Answer in year),2022,Neither.
+Netherlands national cricket team,In which year did Ryan Cook first assume the role of coach for the Netherlands national cricket team?,2023,2023
+Netherlands national cricket team,In which year did Scott Edwards become the od captain of the Netherlands national cricket team for the first time?,2022,The answer is 2022.
+Netherlands national cricket team,"How long did Scott Edwards serve as the od captain of Netherlands national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",560 days,"The answer is 615 days.
+
+Scott Edwards first appears as the ODI captain on 2022-06-19T18:23:54Z, and he is still the captain at the end of the timeline on 2023-12-31T16:34:05Z. The duration between these two dates is 615 days."
+Netherlands national cricket team,"What was the duration of Ryan Campbell's tenure as the coach of Netherlands national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1632 days,"Ryan Campbell's tenure as the coach of the Netherlands national cricket team was from 2019-01-01 to 2023-06-21 (when Ryan Cook replaced him). Therefore, the duration of Ryan Campbell's tenure was approximately 1573 days."
+Netherlands national cricket team,"Who had the longest stint as the t20i captain of the Netherlands national cricket team?(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Pieter Seelaar,Pieter Seelaar
+Netherlands national cricket team,"Who had the shortest stint as the coach of the Netherlands national cricket team?(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Ryan Cook,Ryan Cook.
+Netherlands national cricket team,How many people served as the coach of the Netherlands national cricket team?,2,2
+Netherlands national cricket team,Who was the t20i captain of the Netherlands national cricket team before Scott Edwards?,Pieter Seelaar,Pieter Seelaar.
+Netherlands national cricket team,Who was the coach of Netherlands national cricket team after Ryan Campbell?,Ryan Cook,Ryan Cook.
+Netherlands national cricket team,How many odi matches did the Netherlands national cricket team play between 2022 and 2023? (including both years),24,12
+Netherlands national cricket team,How many t20 matches did the Netherlands national cricket team play between 2022 and 2023? (including both years),15,The answer is: 13.
+Netherlands national cricket team,Who were the individual(s) who held the position of the od captain for the (folder name) from 2019 and 2022? (including both years),"Pieter Seelaar', 'Scott Edwards",Pieter Seelaar.
+Netherlands national cricket team,Name the people who serve as coach of Netherlands national cricket team between 2019 and 2023. (including both years),"Ryan Cook', 'Ryan Campbell",Ryan Campbell and Ryan Cook.
+Netherlands national cricket team,Who were the individual(s) who acted as the t20i captain of the Netherlands national cricket team in 2022?,"Pieter Seelaar', 'Scott Edwards",Pieter Seelaar and Scott Edwards.
+Netherlands national cricket team,Name the person(s) who served as the coach of the Netherlands national cricket team in 2019.,Ryan Campbell,Ryan Campbell
+Netherlands national cricket team,what was the best odi rank of the Netherlands national cricket team in 2023?,15,The best ODI rank of the Netherlands national cricket team in 2023 was 15th.
+Netherlands national cricket team,what was the best t20i rank of the Netherlands national cricket team in 2022?,17,18th.
+Netherlands national cricket team,What is the ratio of wins to losses for the Netherlands national cricket team in the t20i format for 2019?,1.1818181818181819,"The ratio of wins to losses for the Netherlands national cricket team in the t20i format for 2019 is:
+
+Wins: 3
+Losses: 1
+Ties: 1
+No Results: 0
+
+The win-loss ratio is: 3/1 = 3.0"
+Netherlands national cricket team,What is the win to loss ratio of Netherlands national cricket team in t20i format in 2022?,1.1428571428571428,"To calculate the win-to-loss ratio of the Netherlands national cricket team in T20I format in 2022, we need to extract the T20I records for 2022 from the timeline.
+
+From the timeline, we get:
+
+* 2022-01-23T05:59:47Z: t20i_record_this_year = ""0/0, (0 tie, 0 no result)""
+* 2022-06-19T18:23:54Z: t20i_record_this_year = ""0/0, (0 tie, 0 no result)""
+* 2022-12-31T02:38:51Z: t20i_record_this_year = ""8/7, (0 tie, 0 no result)""
+
+Combining these records, we get:
+
+Wins: 8
+Losses: 7
+
+Win-to-loss ratio = Wins / Losses = 8/7 = 1.14 (in decimal form)
+
+So, the answer is 1.14."

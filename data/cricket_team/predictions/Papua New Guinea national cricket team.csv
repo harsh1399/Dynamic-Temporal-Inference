@@ -1,0 +1,11 @@
+entity,question,actual_answer,predicted_answer
+Papua New Guinea national cricket team,Was the Papua New Guinea national cricket team's win percentage the highest in the odi format in either 2019 or 2021?(Answer in year),2019,None.
+Papua New Guinea national cricket team,Does the Papua New Guinea national cricket team have the best win percentage in the t20i format in 2021 or 2022?(Answer in year),2022,2021
+Papua New Guinea national cricket team,"What was the duration of Assad Vala's tenure as the od captain of Papua New Guinea national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1460 days,The duration of Assad Vala's tenure as the ODI captain of Papua New Guinea national cricket team is 1461 days.
+Papua New Guinea national cricket team,what was the best odi rank of the Papua New Guinea national cricket team in 2022?,20,20th
+Papua New Guinea national cricket team,what was the best t20i rank of the Papua New Guinea national cricket team in 2022?,18,19th.
+Papua New Guinea national cricket team,What is the ratio of wins to losses for the Papua New Guinea national cricket team in the odi format for 2022?,0.42857142857142855,"The ratio of wins to losses for the Papua New Guinea national cricket team in the odi format for 2022 can be calculated as follows:
+
+In 2022, the team played 3 odi matches and won 3, lost 7. 
+So, the ratio of wins to losses is 3/7 = 0.428."
+Papua New Guinea national cricket team,What is the win to loss ratio of Papua New Guinea national cricket team in t20i format in 2021?,0.0,"Based on the timeline, in 2021, the t20i record of Papua New Guinea is 14/2. To calculate the win to loss ratio, we can divide the number of wins by the number of losses: 14/2 = 7. So, the win to loss ratio is 7."

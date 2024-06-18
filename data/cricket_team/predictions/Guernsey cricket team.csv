@@ -1,0 +1,11 @@
+entity,question,actual_answer,predicted_answer
+Guernsey cricket team,Who were the individual(s) serving as the coach during the tenure of Jamie Nussbaumer as the t20i captain of the Guernsey cricket team?,"Andrew Cornford, Ashley Wright (cricketer)",Ashley Wright and Andrew Cornford.
+Guernsey cricket team,Was the Guernsey cricket team's win percentage the highest in the t20i format in either 2019 or 2022?(Answer in year),2022,2022.
+Guernsey cricket team,"How long did Jamie Nussbaumer serve as the t20i captain of Guernsey cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1292 days,1265 days
+Guernsey cricket team,"What was the duration of Andrew Cornford's tenure as the coach of Guernsey cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",342 days,544 days.
+Guernsey cricket team,"Who had the longest stint as the coach of the Guernsey cricket team?(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Ashley Wright (cricketer),"Ashley Wright (cricketer), then Andrew Cornford."
+Guernsey cricket team,"Which person had the shortest tenure as the t20i captain of the Guernsey cricket team?(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Jamie Nussbaumer,No one replaced Jamie Nussbaumer as t20i captain.
+Guernsey cricket team,How many individuals took on the role of coach of the Guernsey cricket team?,2,Two individuals.
+Guernsey cricket team,Who was the coach of Guernsey cricket team after Ashley Wright (cricketer)?,Andrew Cornford,Andrew Cornford.
+Guernsey cricket team,What is the win to loss ratio of Guernsey cricket team in t20i format in 2019?,0.4,0.
+Guernsey cricket team,What is the win to loss ratio of Guernsey cricket team in t20i format in 2022?,0.8333333333333334,5/6 = 0.833.

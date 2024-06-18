@@ -1,0 +1,17 @@
+entity,question,actual_answer,predicted_answer
+Malta national cricket team,Who were the individual(s) serving as the t20i captain during the tenure of Rajkumar Sharma as the coach of the Malta national cricket team?,"Nowell Khosla', 'Bikram Arora","Nowell Khosla, Bikram Arora"
+Malta national cricket team,Who were the individual(s) serving as the t20i captain during the tenure of Subhas Roy as the coach of the Malta national cricket team?,"Samuel Aquilina', 'Bikram Arora",Samuel Aquilina and Bikram Arora.
+Malta national cricket team,Was the Malta national cricket team's win percentage the highest in the t20i format in either 2019 or 2021?(Answer in year),2021,2021.
+Malta national cricket team,"What was the duration of Nowell Khosla's tenure as the t20i captain of Malta national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",242 days,213 days.
+Malta national cricket team,"How long did Subhas Roy serve as the coach of Malta national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1089 days,1523 days
+Malta national cricket team,"Which person had the longest tenure as the t20i captain of the Malta national cricket team?(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Bikram Arora,Bikram Arora
+Malta national cricket team,"Which person had the shortest tenure as the t20i captain of the Malta national cricket team?(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Nowell Khosla,Nowell Khosla.
+Malta national cricket team,How many people served as the t20i captain of the Malta national cricket team?,3,"Three people: Nowell Khosla, Bikram Arora, and Samuel Aquilina."
+Malta national cricket team,How many people served as the coach of the Malta national cricket team?,2,Two people: Rajkumar Sharma and Subhas Roy.
+Malta national cricket team,Who served as the t20i captain of the Malta national cricket team prior to Samuel Aquilina?,Bikram Arora,Bikram Arora.
+Malta national cricket team,Who assumed the role of coach for the Malta national cricket team following Rajkumar Sharma?,Subhas Roy,Subhas Roy.
+Malta national cricket team,Who were the individual(s) who acted as the t20i captain of the Malta national cricket team in 2023?,Bikram Arora,Bikram Arora.
+Malta national cricket team,Name the person(s) who served as the coach of the Malta national cricket team in 2023.,Subhas Roy,Subhas Roy.
+Malta national cricket team,what was the best t20i rank of the Malta national cricket team in 2023?,54,55th.
+Malta national cricket team,What is the win to loss ratio of Malta national cricket team in t20i format in 2019?,0.0,0.
+Malta national cricket team,What is the ratio of wins to losses for the Malta national cricket team in the t20i format for 2021?,0.8888888888888888,The ratio of wins to losses for the Malta national cricket team in the t20i format for 2021 is 5/8.

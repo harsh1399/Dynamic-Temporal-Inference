@@ -1,0 +1,8 @@
+entity,question,actual_answer,predicted_answer
+Isle of Man cricket team,Name the person(s) who served as the coach when Matthew Ansell was the t20i captain of the Isle of Man cricket team.,Greig Wright,Greig Wright.
+Isle of Man cricket team,Does the Isle of Man cricket team have the best win percentage in the t20i format in 2020 or 2023?(Answer in year),2023,2022.
+Isle of Man cricket team,"What was the duration of Greig Wright's tenure as the coach of Isle of Man cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1230 days,1249 days
+Isle of Man cricket team,How many people served as the t20i captain of the Isle of Man cricket team?,1,One person: Matthew Ansell.
+Isle of Man cricket team,Name the person(s) who served as the t20i captain of the Isle of Man cricket team in 2023.,Matthew Ansell,Matthew Ansell.
+Isle of Man cricket team,What was the highest ranking achieved by the Isle of Man cricket team in the t20i format in 2023?,38,38th.
+Isle of Man cricket team,What is the win to loss ratio of Isle of Man cricket team in t20i format in 2023?,0.0,0.

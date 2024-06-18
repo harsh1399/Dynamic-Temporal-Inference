@@ -1,0 +1,14 @@
+entity,question,actual_answer,predicted_answer
+Qatar national cricket team,Who were the individual(s) serving as the coach during the tenure of Inam-ul-Haq (cricketer) as the t20i captain of the Qatar national cricket team?,Abdul Rehman Chohan,Abdul Rehman Chohan.
+Qatar national cricket team,Who were the individual(s) serving as the t20i captain during the tenure of Asadullah Khan as the coach of the Qatar national cricket team?,Rizlan Iqbar,Rizlan Iqbar.
+Qatar national cricket team,Was the Qatar national cricket team's win percentage the highest in the t20i format in either 2019 or 2022?(Answer in year),2022,2019
+Qatar national cricket team,"What was the duration of Shakeel Ansar's tenure as the t20i captain of Qatar national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",361 days,Shakeel Ansar's tenure: 364 days.
+Qatar national cricket team,"What was the duration of Shahid Mahboob's tenure as the coach of Qatar national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1259 days,531 days
+Qatar national cricket team,"Which person had the longest tenure as the t20i captain of the Qatar national cricket team?(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Tamoor Sajjad,Tamoor Sajjad.
+Qatar national cricket team,"Who had the shortest stint as the coach of the Qatar national cricket team?(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Asadullah Khan,Abdul Rehman Chohan.
+Qatar national cricket team,How many individuals took on the role of t20i captain of the Qatar national cricket team?,4,Four individuals.
+Qatar national cricket team,How many people served as the coach of the Qatar national cricket team?,3,Three coaches served the Qatar national cricket team.
+Qatar national cricket team,Who was the t20i captain of the Qatar national cricket team before Tamoor Sajjad?,Inam-ul-Haq (cricketer),Inam-ul-Haq (cricketer)
+Qatar national cricket team,Who was the t20i captain of Qatar national cricket team after Tamoor Sajjad?,Shakeel Ansar,Shakeel Ansar.
+Qatar national cricket team,Who was the coach of Qatar national cricket team after Abdul Rehman Chohan?,Shahid Mahboob,Shahid Mahboob.
+Qatar national cricket team,What is the ratio of wins to losses for the Qatar national cricket team in the t20i format for 2019?,1.5,The ratio of wins to losses for the Qatar national cricket team in the t20i format for 2019 is 0.75 (6/4).

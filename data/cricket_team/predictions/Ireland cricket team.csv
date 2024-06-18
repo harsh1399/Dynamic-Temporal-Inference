@@ -1,0 +1,53 @@
+entity,question,actual_answer,predicted_answer
+Ireland cricket team,Who were the individual(s) serving as the coach during the tenure of Andrew Balbirnie as the od captain of the Ireland cricket team?,"Graham Ford', 'Heinrich Malan",Graham Ford and Heinrich Malan.
+Ireland cricket team,Name the person(s) who served as the od captain when Andrew Balbirnie was the test captain of the Ireland cricket team.,Andrew Balbirnie,Andrew Balbirnie.
+Ireland cricket team,Does the Ireland cricket team have the best win percentage in the odi format in 2017 or 2020?(Answer in year),2017,2017
+Ireland cricket team,Does the Ireland cricket team have the best win percentage in the t20i format in 2017 or 2021?(Answer in year),2021,2017
+Ireland cricket team,Who was the test captain when t20i captain was Andrew Balbirnie and coach was Graham Ford of the Ireland cricket team?,Andrew Balbirnie,Andrew Balbirnie.
+Ireland cricket team,Who was the od captain when t20i captain was Gary Wilson and test captain was William Porterfield of the Ireland cricket team?,William Porterfield,William Porterfield.
+Ireland cricket team,In which year did William Porterfield become the test captain of the Ireland cricket team for the first time?,2018,2018.
+Ireland cricket team,In which year did Gary Wilson first assume the role of t20i captain for the Ireland cricket team?,2018,2018
+Ireland cricket team,"How long did William Porterfield serve as the od captain of Ireland cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",822 days,William Porterfield served as the od captain of Ireland cricket team from 2017-10-15 to 2020-01-15. The duration is approximately 825 days.
+Ireland cricket team,"What was the duration of Heinrich Malan's tenure as the coach of Ireland cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",136 days,Heinrich Malan's tenure as the coach of Ireland cricket team started on 2023-01-18T15:35:47Z and ended on 2023-06-03T15:40:18Z. The duration is approximately 136 days.
+Ireland cricket team,"Which person had the longest tenure as the od captain of the Ireland cricket team?(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Andrew Balbirnie,William Porterfield (2017-2020).
+Ireland cricket team,"Who had the shortest stint as the od captain of the Ireland cricket team?(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",William Porterfield,William Porterfield.
+Ireland cricket team,How many individuals took on the role of coach of the Ireland cricket team?,3,2.
+Ireland cricket team,Who served as the coach of the Ireland cricket team prior to Graham Ford?,John Bracewell,John Bracewell.
+Ireland cricket team,Who assumed the role of t20i captain for the Ireland cricket team following Gary Wilson?,Andrew Balbirnie,Andrew Balbirnie.
+Ireland cricket team,Who assumed the role of coach for the Ireland cricket team following Graham Ford?,Heinrich Malan,Heinrich Malan.
+Ireland cricket team,"How many total(including ODIs,Tests,T20Is) matches did the Ireland cricket team play between 2018 and 2020? (including both years)",73,"To find the total number of matches played by the Ireland cricket team between 2018 and 2020, we need to extract the number of ODIs, Tests, and T20Is played during this period.
+
+From the timeline, we can extract the following information:
+
+* In 2018:
+	+ num_odis: 136 (initial) -> 139 (final)
+	+ num_tests: 1 (initial) -> 1 (final)
+	+ num_t20is: 61 (initial) -> 69 (final)
+* In 2020:
+	+ num_odis: 156 (initial) -> 159 (final)
+	+ num_tests: 3 (initial) -> 3 (final)
+	+ num_t20is: 93 (initial) -> 98 (final)
+
+Now, we can calculate the total number of matches played between 2018 and 2020:
+
+* ODIs: 139 - 136 = 3 (in 2018) + 159 - 156 = 3 (in 2020) = 6
+* Tests: 1 (in 2018) + 3 - 3 = 1 (in 2020) = 1
+* T20Is: 69 - 61 = 8 (in 2018) + 98 - 93 = 5 (in 2020) = 13
+
+In total, the Ireland cricket team played 6 ODIs, 1 Test, and 13 T20Is between 2018 and 2020. Therefore, the total number of matches played is:
+
+6 (ODIs) + 1 (Test) + 13 (T20Is) = 20"
+Ireland cricket team,How many t20 matches did the Ireland cricket team play between 2018 and 2021? (including both years),52,49.
+Ireland cricket team,Who were the individual(s) who held the position of the od captain for the (folder name) from 2018 and 2020? (including both years),"Andrew Balbirnie, William Porterfield","William Porterfield (until 2018), Andrew Balbirnie (from 2020)."
+Ireland cricket team,Who were the individual(s) who held the position of the coach for the (folder name) from 2018 and 2021? (including both years),Graham Ford,Graham Ford.
+Ireland cricket team,Name the person(s) who served as the t20i captain of the Ireland cricket team in 2021.,Andrew Balbirnie,Andrew Balbirnie.
+Ireland cricket team,Who were the individual(s) who acted as the coach of the Ireland cricket team in 2018?,Graham Ford,Graham Ford.
+Ireland cricket team,What was the highest ranking achieved by the Ireland cricket team in the odi format in 2021?,11,Highest ODI ranking in 2021 was 11th.
+Ireland cricket team,what was the best t20i rank of the Ireland cricket team in 2018?,17,17th.
+Ireland cricket team,What is the ratio of wins to losses for the Ireland cricket team in the odi format for 2018?,1.6,"According to the timeline, in 2018, Ireland's odi record was 60/66 (3 ties, 7 no results). Wins are 60 and losses are 66. So, the ratio of wins to losses is 60/66 = 0.909."
+Ireland cricket team,What is the ratio of wins to losses for the Ireland cricket team in the t20i format for 2020?,0.3333333333333333,"Based on the timeline, for 2020, the t20i record is 41/48, (1 ties, 6 no result).
+
+Wins: 41
+Losses: 48 - 41 = 7 (excluding ties and no results)
+
+Ratio of wins to losses: 41/7 = 5.86 (decimal form)"

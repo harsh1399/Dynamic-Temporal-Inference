@@ -1,0 +1,28 @@
+entity,question,actual_answer,predicted_answer
+England cricket team,Name the person(s) who served as the coach when Joe Root was the test captain of the England cricket team.,"Trevor Bayliss, Chris Silverwood","Trevor Bayliss, Chris Silverwood, Brendon McCullum."
+England cricket team,Name the person(s) who served as the test coach when Matthew Mott was the od coach of the England cricket team.,Brendon McCullum,Brendon McCullum
+England cricket team,Was the England cricket team's win percentage the highest in the test format in either 2019 or 2022?(Answer in year),2022,2022.
+England cricket team,Was the England cricket team's win percentage the highest in the odi format in either 2021 or 2022?(Answer in year),2021,2021
+England cricket team,"Name the person(s) who served as the od coach during the tenure of Jos Buttler and Brendon McCullum as the t20i captain and test coach, respectively, of the England cricket team.",Matthew Mott,Matthew Mott.
+England cricket team,Who was the od captain when test coach was Brendon McCullum and od coach was Matthew Mott of the England cricket team?,"Eoin Morgan, Jos Buttler",Jos Buttler.
+England cricket team,In which year did Ben Stokes become the test captain of the England cricket team for the first time?,2022,2022
+England cricket team,In which year did Jos Buttler first assume the role of t20i captain for the England cricket team?,2022,2022.
+England cricket team,"What was the duration of Joe Root's tenure as the test captain of England cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1201 days,The answer is 1379 days.
+England cricket team,"How long did Ben Stokes serve as the test captain of England cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",312 days,"Ben Stokes became the test captain on 2022-05-12T13:36:04Z and was still the captain on 2023-03-20T07:03:41Z. Therefore, he served as the test captain for approximately 315 days."
+England cricket team,"Which person had the longest tenure as the test captain of the England cricket team?(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Joe Root,Joe Root.
+England cricket team,"Who had the longest stint as the od captain of the England cricket team?(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Eoin Morgan,Eoin Morgan.
+England cricket team,How many individuals took on the role of test captain of the England cricket team?,2,"Only 1 individual, Joe Root, and later Ben Stokes, took on the role of test captain of the England cricket team."
+England cricket team,Who served as the test captain of the England cricket team prior to Ben Stokes?,Joe Root,Joe Root.
+England cricket team,Who were the individual(s) who acted as the od captain of the England cricket team in 2022?,"Eoin Morgan, Jos Buttler",Eoin Morgan (until 2022-09-12) and Jos Buttler (from 2022-09-12).
+England cricket team,Who were the individual(s) who acted as the test coach of the England cricket team in 2023?,Brendon McCullum,Brendon McCullum.
+England cricket team,What was the highest ranking achieved by the England cricket team in the test format in 2022?,3,4th
+England cricket team,What is the win to loss ratio of England cricket team in test format in 2021?,0.6666666666666666,"The win to loss ratio of England cricket team in test format in 2021 can be calculated from the data provided.
+
+In 2021, England played 7 test matches, winning 4 and losing 3, with 2 draws.
+
+So, the win to loss ratio is 4/3, which is approximately 1.33.
+
+Answer: 1.33"
+England cricket team,What is the win to loss ratio of England cricket team in odi format in 2022?,0.8333333333333334,"The win to loss ratio of England cricket team in ODI format in 2022 can be calculated from the records provided in the timeline.
+
+In 2022, England played 6 ODI matches, winning 3 and losing 3. The win-loss ratio is 3/3 = 1."

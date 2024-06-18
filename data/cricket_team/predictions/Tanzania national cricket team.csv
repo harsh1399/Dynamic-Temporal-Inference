@@ -1,0 +1,7 @@
+entity,question,actual_answer,predicted_answer
+Tanzania national cricket team,Name the person(s) who served as the coach when Abhik Patwa was the t20i captain of the Tanzania national cricket team.,Steve Tikolo,Steve Tikolo.
+Tanzania national cricket team,Does the Tanzania national cricket team have the best win percentage in the t20i format in 2021 or 2022?(Answer in year),2022,2021
+Tanzania national cricket team,"What was the duration of Abhik Patwa's tenure as the t20i captain of Tanzania national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",409 days,531 days.
+Tanzania national cricket team,what was the best t20i rank of the Tanzania national cricket team in 2022?,30,30th
+Tanzania national cricket team,What is the ratio of wins to losses for the Tanzania national cricket team in the t20i format for 2021?,3.0,1.000.
+Tanzania national cricket team,What is the win to loss ratio of Tanzania national cricket team in t20i format in 2022?,5.0,The win to loss ratio of Tanzania national cricket team in t20i format in 2022 is 4/1 = 4.

@@ -1,0 +1,9 @@
+entity,question,actual_answer,predicted_answer
+Nigeria national cricket team,Who were the individual(s) serving as the coach during the tenure of Ademola Onikoyi as the t20i captain of the Nigeria national cricket team?,Asanka Gurusinha,Asanka Gurusinha.
+Nigeria national cricket team,Was the Nigeria national cricket team's win percentage the highest in the t20i format in either 2019 or 2022?(Answer in year),2022,2022.
+Nigeria national cricket team,"How long did Sylvester Okpe serve as the t20i captain of Nigeria national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",0 days,364 days.
+Nigeria national cricket team,"Which person had the longest tenure as the t20i captain of the Nigeria national cricket team?(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Ademola Onikoyi,"Ademola Onikoyi, from 2019-05-23 to 2022-12-31."
+Nigeria national cricket team,How many individuals took on the role of t20i captain of the Nigeria national cricket team?,2,Two: Ademola Onikoyi and Sylvester Okpe.
+Nigeria national cricket team,Who served as the t20i captain of the Nigeria national cricket team prior to Sylvester Okpe?,Ademola Onikoyi,Ademola Onikoyi.
+Nigeria national cricket team,Who was the t20i captain of Nigeria national cricket team after Ademola Onikoyi?,Sylvester Okpe,Sylvester Okpe.
+Nigeria national cricket team,What is the ratio of wins to losses for the Nigeria national cricket team in the t20i format for 2019?,0.2857142857142857,The ratio of wins to losses for the Nigeria national cricket team in the t20i format for 2019 is 2/7 = 0.29.

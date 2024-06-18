@@ -1,0 +1,75 @@
+entity,question,actual_answer,predicted_answer
+Bangladesh national cricket team,Who were the individual(s) serving as the coach during the tenure of Shakib Al Hasan as the test captain of the Bangladesh national cricket team?,"Steve Rhodes', 'Richard Halsall', 'Sridharan Sriram', 'Russell Domingo', 'Vacant', 'Chandika Hathurusingha","Based on the timeline, the coaches who served during the tenure of Shakib Al Hasan as the test captain of the Bangladesh national cricket team were:
+
+* Richard Halsall (2018-01-27)
+* Steve Rhodes (2018-06-07)
+* Russell Domingo (2019-09-13)
+* Sridharan Sriram (2023-01-10)
+* Chandika Hathurusingha (2023-03-27)"
+Bangladesh national cricket team,Name the person(s) who served as the test captain when Mahmudullah was the t20i captain of the Bangladesh national cricket team.,Mominul Haque,Mominul Haque.
+Bangladesh national cricket team,Was the Bangladesh national cricket team's win percentage the highest in the test format in either 2018 or 2020?(Answer in year),2020,No.
+Bangladesh national cricket team,Was the Bangladesh national cricket team's win percentage the highest in the t20i format in either 2017 or 2020?(Answer in year),2020,2017
+Bangladesh national cricket team,"Name the person(s) who served as the coach during the tenure of Shakib Al Hasan and Jamie Siddons as the t20i captain and test coach, respectively, of the Bangladesh national cricket team.",Sridharan Sriram,Sridharan Sriram
+Bangladesh national cricket team,"Name the person(s) who served as the coach during the tenure of Shakib Al Hasan and Mushfiqur Rahim as the t20i captain and test captain, respectively, of the Bangladesh national cricket team.",Chandika Hathurusingha,Chandika Hathurusingha
+Bangladesh national cricket team,Who was the t20i captain when test captain was Shakib Al Hasan and coach was Russell Domingo of the Bangladesh national cricket team?,Shakib Al Hasan,Mahmudullah.
+Bangladesh national cricket team,In which year did Mominul Haque first assume the role of test captain for the Bangladesh national cricket team?,2019,2018
+Bangladesh national cricket team,In which year did Tamim Iqbal become the od captain of the Bangladesh national cricket team for the first time?,2020,2020
+Bangladesh national cricket team,"What was the duration of Shakib Al Hasan's tenure as the test captain of Bangladesh national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",884 days,"Shakib Al Hasan first became the test captain on 2017-12-31. He gave up the captaincy on 2019-09-13 and then regained it on 2023-01-10. So, the total duration of his tenure as test captain is:
+
+2019-09-13 - 2017-12-31 = 633 days (first term)
+2023-03-27 - 2023-01-10 = 77 days (second term)
+
+Total duration: 710 days."
+Bangladesh national cricket team,"What was the duration of Tamim Iqbal's tenure as the od captain of Bangladesh national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1119 days,"Tamim Iqbal became the ODI captain on 2020-05-20T08:16:48Z, and he was still the ODI captain until the end of the timeline. The first record of him being the ODI captain is on 2020-05-20T08:16:48Z, and the last record of the timeline is on 2023-06-13T11:21:49Z. 
+
+So, the duration of Tamim Iqbal's tenure as the ODI captain of Bangladesh national cricket team is: 
+2023-06-13T11:21:49Z - 2020-05-20T08:16:48Z = 1064 days."
+Bangladesh national cricket team,"Which person had the longest tenure as the od captain of the Bangladesh national cricket team?(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Tamim Iqbal,Mashrafe Mortaza.
+Bangladesh national cricket team,"Which person had the shortest tenure as the t20i captain of the Bangladesh national cricket team?(Assume that tenure for a position starts when the person first appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Shakib Al Hasan,"Based on the timeline, Mahmudullah had the shortest tenure as the T20I captain of the Bangladesh national cricket team, serving from 2020-01-02T20:28:00Z to 2023-01-10T15:06:38Z, approximately 3 years."
+Bangladesh national cricket team,How many people served as the test captain of the Bangladesh national cricket team?,3,Three people.
+Bangladesh national cricket team,How many people served as the od captain of the Bangladesh national cricket team?,2,2
+Bangladesh national cricket team,Who served as the coach of the Bangladesh national cricket team prior to Steve Rhodes?,Richard Halsall,Chandika Hathurusingha.
+Bangladesh national cricket team,Who assumed the role of test captain for the Bangladesh national cricket team following Mushfiqur Rahim?,Shakib Al Hasan,Shakib Al Hasan.
+Bangladesh national cricket team,"How many total(including ODIs,Tests,T20Is) matches did the Bangladesh national cricket team play between 2019 and 2020? (including both years)",39,"To find the total number of matches played by the Bangladesh national cricket team between 2019 and 2020, we can analyze the data from the timeline.
+
+From the timeline, we can see that:
+
+* In 2019:
+	+ num_odis increased from 355 to 373 (18 ODIs played)
+	+ num_tests increased from 112 to 117 (5 Tests played)
+	+ num_t20is increased from 85 to 92 (7 T20Is played)
+* In 2020:
+	+ num_odis increased from 373 to 388 (15 ODIs played)
+	+ num_tests increased from 117 to 119 (2 Tests played)
+	+ num_t20is increased from 92 to 96 (4 T20Is played)
+
+In total, the Bangladesh national cricket team played:
+
+* 18 (ODIs) + 5 (Tests) + 7 (T20Is) = 30 matches in 2019
+* 15 (ODIs) + 2 (Tests) + 4 (T20Is) = 21 matches in 2020
+
+Therefore, the team played a total of 30 + 21 = 51 matches between 2019 and 2020."
+Bangladesh national cricket team,"How many total(including ODIs,Tests,T20Is) matches did the Bangladesh national cricket team play between 2020 and 2021? (including both years)",55,"Between 2020 and 2021, the Bangladesh national cricket team played a total of:
+
+* Tests: 7 (from 2020-12-31 to 2021-09-10)
+* ODIs: 12 (from 2020-05-20 to 2021-09-10)
+* T20Is: 16 (from 2020-05-20 to 2021-09-10)
+
+So, the total number of matches played is: 7 + 12 + 16 = 35."
+Bangladesh national cricket team,How many odi matches did the Bangladesh national cricket team play between 2018 and 2019? (including both years),38,28.
+Bangladesh national cricket team,Who were the individual(s) who held the position of the od captain for the (folder name) from 2018 and 2021? (including both years),"Tamim Iqbal', 'Mashrafe Mortaza","Mashrafe Mortaza (from 2018 to 2020), Tamim Iqbal (from 2020 to 2021)"
+Bangladesh national cricket team,Who were the individual(s) who held the position of the t20i captain for the (folder name) from 2018 and 2020? (including both years),"Mahmudullah', 'Shakib Al Hasan",Shakib Al Hasan
+Bangladesh national cricket team,Who were the individual(s) who acted as the test captain of the Bangladesh national cricket team in 2021?,Mominul Haque,Mominul Haque.
+Bangladesh national cricket team,Who were the individual(s) who acted as the od captain of the Bangladesh national cricket team in 2019?,Mashrafe Mortaza,Mashrafe Mortaza
+Bangladesh national cricket team,what was the best test rank of the Bangladesh national cricket team in 2019?,9,The best test rank of the Bangladesh national cricket team in 2019 was 9th.
+Bangladesh national cricket team,what was the best t20i rank of the Bangladesh national cricket team in 2020?,8,The best T20I rank of the Bangladesh national cricket team in 2020 was 8th.
+Bangladesh national cricket team,What is the ratio of wins to losses for the Bangladesh national cricket team in the odi format for 2017?,0.5714285714285714,"Based on the timeline, in 2017, Bangladesh won 4 ODI matches and lost 6 ODI matches.
+
+The ratio of wins to losses in ODI format for 2017 is 4:6.
+
+In decimal form, the ratio is 0.67 (4/6 = 0.67)."
+Bangladesh national cricket team,What is the win to loss ratio of Bangladesh national cricket team in odi format in 2021?,2.0,"Based on the timeline provided, in 2021, Bangladesh national cricket team's odi record is ""136/245 (0 ties, 7 no results)"".
+
+For 2021 specifically, the odi record is ""8/4 (0 ties, 0 no result)"".
+
+So, the win to loss ratio in odi format in 2021 is 8/4 = 2."
