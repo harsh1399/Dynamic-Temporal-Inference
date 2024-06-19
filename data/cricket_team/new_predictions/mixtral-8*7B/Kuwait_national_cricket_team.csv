@@ -1,0 +1,40 @@
+entity,question,actual_answer,predicted_answer
+Kuwait_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Muthumudalige Pushpakumara as the coach of the Kuwait national cricket team?,"Mohammed Aslam, Muhammad Kashif, Mohammad Amin","Mohammad Amin, Muhammad Kashif, Mohammed Aslam"
+Kuwait_national_cricket_team,Name the person(s) who served as the coach when Mohammad Amin was the t20i captain of the Kuwait national cricket team.,"Muthumudalige Pushpakumara, Herschelle Gibbs",Herschelle Gibbs
+Kuwait_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Muhammad Kashif as the t20i captain of the Kuwait national cricket team?,Muthumudalige Pushpakumara,Muthumudalige Pushpakumara
+Kuwait_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Mohammed Aslam as the t20i captain of the Kuwait national cricket team?,Muthumudalige Pushpakumara,Muthumudalige Pushpakumara
+Kuwait_national_cricket_team,Was the Kuwait national cricket team's win percentage the highest in the t20i format in either 2019 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"No, in neither 2019 nor 2023."
+Kuwait_national_cricket_team,Was the Kuwait national cricket team's win percentage the highest in the t20i format in either 2022 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"No, in both 2022 and 2023. 
+
+The Kuwait national cricket team's win percentage was not the highest in the t20i format in either 2022 or 2023. 
+
+In 2022, the team played 5 matches with 1 win, 0 losses, and 3 ties/no results, resulting in a win percentage of 20%.
+
+In 2023, the team played 0 matches with 0 wins, 0 losses, and 0 ties/no results.
+
+Therefore, the team's win percentage was not the highest in either year."
+Kuwait_national_cricket_team,"What was the duration of Mohammad Amin's tenure as the t20i captain of Kuwait national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",343 days,510 days (approximately)
+Kuwait_national_cricket_team,"What was the duration of Muthumudalige Pushpakumara's tenure as the coach of Kuwait national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1641 days,1416 days (as of 2023-12-31T06:58:56Z)
+Kuwait_national_cricket_team,"Who had the shortest stint as the t20i captain of the Kuwait national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Mohammad Amin,"Mohammad Amin, 2019-05-03 to 2019-12-31"
+Kuwait_national_cricket_team,"Which person had the shortest tenure as the coach of the Kuwait national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Herschelle Gibbs,Herschelle Gibbs
+Kuwait_national_cricket_team,"Who had the longest stint as the t20i captain of the Kuwait national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Muhammad Kashif,"Mohammed Aslam, 2022-present.
+
+The timeline shows that Mohammed Aslam became the T20I captain of the Kuwait national cricket team in January 2022, and he continues to hold the position until the last entry in the timeline in December 2023. Therefore, Mohammed Aslam had the longest stint as the T20I captain of the Kuwait national cricket team."
+Kuwait_national_cricket_team,"Who had the longest stint as the coach of the Kuwait national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Muthumudalige Pushpakumara,"Muthumudalige Pushpakumara, 4 years 11 months."
+Kuwait_national_cricket_team,How many people served as the t20i captain of the Kuwait national cricket team?,3,Four people served as the T20I captain of the Kuwait national cricket team.
+Kuwait_national_cricket_team,How many people served as the coach of the Kuwait national cricket team?,2,Four coaches in total.
+Kuwait_national_cricket_team,Who was the t20i captain of the Kuwait national cricket team before Muhammad Kashif?,Mohammad Amin,Mohammad Amin
+Kuwait_national_cricket_team,Who was the coach of the Kuwait national cricket team before Muthumudalige Pushpakumara?,Herschelle Gibbs,Herschelle Gibbs
+Kuwait_national_cricket_team,Who was the coach of Kuwait national cricket team after Herschelle Gibbs?,Muthumudalige Pushpakumara,Muthumudalige Pushpakumara
+Kuwait_national_cricket_team,Who assumed the role of t20i captain for the Kuwait national cricket team following Muhammad Kashif?,Mohammed Aslam,Mohammed Aslam
+Kuwait_national_cricket_team,Who were the individual(s) who acted as the coach of the Kuwait national cricket team in 2023?,Muthumudalige Pushpakumara,Muthumudalige Pushpakumara
+Kuwait_national_cricket_team,What was the highest ranking achieved by the Kuwait national cricket team in the t20i format in 2023?,24,25th (achieved twice)
+Kuwait_national_cricket_team,What is the win to loss ratio of Kuwait national cricket team in t20i format in 2022?(Answer in decimal form.),5.0,The win to loss ratio of the Kuwait national cricket team in T20I format in 2022 is 5/8 or 0.625.
+Kuwait_national_cricket_team,What is the win to loss ratio of Kuwait national cricket team in t20i format in 2023?(Answer in decimal form.),0.0,"0 wins, 3 losses, 0 ties, 0 no result -> 0 wins / 3 losses = 0.00
+
+The Kuwait national cricket team did not have any wins in the T20I format in 2023. The t20i\_record\_this\_year entry for all the 2023 records is ""0/x, (y ties, 0 no results)"", where x is the number of losses, and y is the number of ties. This indicates that the team did not win any matches and lost all the matches they played. Therefore, the win to loss ratio is 0.00."
+Kuwait_national_cricket_team,What is the win to loss ratio of Kuwait national cricket team in t20i format in 2019?(Answer in decimal form.),1.0,"The win to loss ratio of Kuwait national cricket team in t20i format in 2019 is 0.75.
+
+Explanation:
+In 2019, the Kuwait national cricket team played a total of 10 T20Is (refer to ""num\_t20is"" value in the timeline), winning 7 and losing 3.
+So, the win to loss ratio for the year 2019 can be calculated as 7 (wins) / 3 (losses) = 2.33. Usually, people prefer this value in decimal form which is the quotient of the number of wins divided by the absolute value of the number of losses, this would result in 7 / abs(3) = 0.75."

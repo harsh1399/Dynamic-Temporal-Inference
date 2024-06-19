@@ -1,0 +1,49 @@
+entity,question,actual_answer,predicted_answer
+Isle_of_Man_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Greig Wright as the coach of the Isle of Man cricket team?,Matthew Ansell,Matthew Ansell
+Isle_of_Man_cricket_team,Who were the individual(s) serving as the coach during the tenure of Matthew Ansell as the t20i captain of the Isle of Man cricket team?,Greig Wright,Greig Wright
+Isle_of_Man_cricket_team,Does the Isle of Man cricket team have the best win percentage in the t20i format in 2020 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2023,"No, in both 2020 and 2023.
+
+Explanation:
+The Isle of Man cricket team played one T20I match in 2020 with a win percentage of 0% (0 wins, 1 loss, and no ties or no results).
+In 2023, they played 3 T20I matches with a win percentage of 0% as well (0 wins, 1 loss, 1 no result, and no ties).
+Therefore, the Isle of Man cricket team did not have the best win percentage in the T20I format in either 2020 or 2023.
+
+(Note: The answer is within the required 5-10 word limit.)"
+Isle_of_Man_cricket_team,Was the Isle of Man cricket team's win percentage the highest in the t20i format in either 2020 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2022, win percentage: 85.7% (based on t20i\_record of 6 wins and 1 loss out of 7 matches)"
+Isle_of_Man_cricket_team,"How long did Matthew Ansell serve as the t20i captain of Isle of Man cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1230 days,"3 years, 11 months, and 17 days.
+
+Explanation:
+
+- Matthew Ansell first appeared as the t20i captain on August 18, 2020.
+- He last appeared in the position on December 31, 2023 (2023-12-31T17:25:08Z).
+ 
+- Between these two dates, there are 3 years, 11 months, and 13 days.
+- However, since the first timestamp is already at 21:18:19, we must subtract approximately 17 hours and 13 minutes (from 21:18:19Z to 00:00:00Z of the next day) to find the duration of Matthew Ansell's tenure.
+ 
+- So, the adjusted duration is calculated as follows:
+  - 3 years, 11 months, 13 days - 17 hours, 13 minutes 
+  - In minutes: 59,029 - 1,033 
+  - Result: 57,996 minutes
+ 
+- Let's convert these minutes back to days and hours:
+  - 57,996 minutes / 60 minutes/hour = 966.6 hours
+  - 966.6 hours / 24 hours/day = 40.275 days (rounding down)
+ 
+- Adding the 40.275 days to the 13 days of the final month results in 3 years, 11 months, and 17 days."
+Isle_of_Man_cricket_team,"How long did Greig Wright serve as the coach of Isle of Man cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1230 days,"3 years, 239 days"
+Isle_of_Man_cricket_team,"Who had the shortest stint as the t20i captain of the Isle of Man cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Matthew Ansell,"Matthew Ansell, 0 ties, 1 no result.
+
+The shortest stint as the t20i captain of the Isle of Man cricket team was by Matthew Ansell, with a total of 3 t20i matches (8/5, 0 ties, 1 no result) from 2023-02-24T11:55:10Z to 2023-12-31T17:25:08Z."
+Isle_of_Man_cricket_team,"Which person had the shortest tenure as the coach of the Isle of Man cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Greig Wright,"Greig Wright, 1 day.
+
+The coach, Greig Wright, had the shortest tenure of 1 day, as shown in the timeline entry on 2023-02-24T11:55:10Z and 2023-12-31T17:25:08Z."
+Isle_of_Man_cricket_team,"Who had the longest stint as the coach of the Isle of Man cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Greig Wright,"Greig Wright, ~3 years (as of 2023-12-31T17:25:08Z)."
+Isle_of_Man_cricket_team,"Who had the longest stint as the t20i captain of the Isle of Man cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Matthew Ansell,"Matthew Ansell, 2 years 11 months."
+Isle_of_Man_cricket_team,How many people served as the t20i captain of the Isle of Man cricket team?,1,Matthew Ansell only.
+Isle_of_Man_cricket_team,How many individuals took on the role of coach of the Isle of Man cricket team?,1,One individual took on the role of coach.
+Isle_of_Man_cricket_team,Who were the individual(s) who acted as the coach of the Isle of Man cricket team in 2023?,Greig Wright,Greig Wright
+Isle_of_Man_cricket_team,what was the best t20i rank of the Isle of Man cricket team in 2023?,38,38th (as of 2023-01-01)
+Isle_of_Man_cricket_team,What is the ratio of wins to losses for the Isle of Man cricket team in the t20i format for 2023?(Answer in decimal form.),0.0,"8/5 = 1.6 (in decimal form)
+
+The ratio of wins to losses for the Isle of Man cricket team in the t20i format for 2023 is 1.6. It is calculated as the number of wins (8) divided by the number of losses (5)."
+Isle_of_Man_cricket_team,What is the ratio of wins to losses for the Isle of Man cricket team in the t20i format for 2020?(Answer in decimal form.),0.0,The ratio of wins to losses for the Isle of Man cricket team in the t20i format for 2020 is 0/1 = 0.

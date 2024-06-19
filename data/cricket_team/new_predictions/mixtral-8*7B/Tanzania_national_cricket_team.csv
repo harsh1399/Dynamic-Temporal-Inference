@@ -1,0 +1,23 @@
+entity,question,actual_answer,predicted_answer
+Tanzania_national_cricket_team,Name the person(s) who served as the t20i captain when Steve Tikolo was the coach of the Tanzania national cricket team.,Abhik Patwa,Abhik Patwa
+Tanzania_national_cricket_team,Was the Tanzania national cricket team's win percentage the highest in the t20i format in either 2021 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2022, win percentage: 72.22%
+
+Explanation:
+The Tanzania national cricket team played a total of 25 T20I matches in 2022 (excluding ties, ties, and draws). They won 18 and lost 7, resulting in a win percentage of 72.22%. This win percentage is the highest for the team in either 2021 or 2022. In 2021, the team played a total of 6 T20I matches, with 6 wins and no losses, resulting in a win percentage of 100%. However, the total number of matches played in 2021 is less than that of 2022."
+Tanzania_national_cricket_team,"What was the duration of Abhik Patwa's tenure as the t20i captain of Tanzania national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",409 days,"420 days (from Nov 17, 2021 to Dec 31, 2022)"
+Tanzania_national_cricket_team,"Which person had the shortest tenure as the t20i captain of the Tanzania national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Abhik Patwa,"The shortest tenure as T20i captain is 0 days, held by Abhik Patwa from 2021-11-17T11:11:38Z to 2021-11-17T20:08:28Z, as there is no timeline entry for this captaincy period."
+Tanzania_national_cricket_team,"Who had the longest stint as the t20i captain of the Tanzania national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Abhik Patwa,"Abhik Patwa, throughout the timeline."
+Tanzania_national_cricket_team,How many individuals took on the role of t20i captain of the Tanzania national cricket team?,1,"Only one individual, Abhik Patwa."
+Tanzania_national_cricket_team,Name the person(s) who served as the coach of the Tanzania national cricket team in 2022.,Steve Tikolo,Steve Tikolo
+Tanzania_national_cricket_team,what was the best t20i rank of the Tanzania national cricket team in 2022?,30,30th (achieved on 2022-11-11)
+Tanzania_national_cricket_team,What is the ratio of wins to losses for the Tanzania national cricket team in the t20i format for 2022?(Answer in decimal form.),5.0,"2.09 (rounded to two decimal places)
+
+Explanation:
+In 2022, the Tanzania national cricket team played 20 T20I matches, with 16 wins, 4 losses, and 0 ties or no results. The ratio of wins to losses is therefore 16:4, which simplifies to 4:1. Therefore, the ratio in decimal form is 4/1 = 2.09 (rounded to two decimal places)."
+Tanzania_national_cricket_team,What is the win to loss ratio of Tanzania national cricket team in t20i format in 2021?(Answer in decimal form.),3.0,"The win to loss ratio of Tanzania national cricket team in t20i format in 2021 is 0.67 (6 wins and 3 losses).
+
+Here's the calculation behind this:
+
+* From the timeline, we can see that the Tanzania national cricket team played a total of 9 t20i matches in 2021 (from 2021-11-17T20:08:28Z to 2021-12-31T17:50:19Z).
+* Out of these 9 matches, they won 6 and lost 3.
+* Therefore, their win to loss ratio is 6/3 = 2/1 = 0.67 (when expressed in decimal form)."

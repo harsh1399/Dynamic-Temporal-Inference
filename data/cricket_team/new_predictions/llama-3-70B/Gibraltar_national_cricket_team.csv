@@ -1,0 +1,6 @@
+entity,question,actual_answer,predicted_answer
+Gibraltar_national_cricket_team,Name the person(s) who served as the coach when Balaji Pai was the t20i captain of the Gibraltar national cricket team.,Paul Edgellar,Paul Edgellar.
+Gibraltar_national_cricket_team,Was the Gibraltar national cricket team's win percentage the highest in the t20i format in either 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,2022
+Gibraltar_national_cricket_team,In which year did Avinash Pai become the t20i_captain of the Gibraltar national cricket team for the first time?,2023,2023.
+Gibraltar_national_cricket_team,What is the ratio of wins to losses for the Gibraltar national cricket team in the t20i format for 2022?(Answer in decimal form.),0.25,2/16 = 0.125
+Gibraltar_national_cricket_team,What is the win to loss ratio of Gibraltar national cricket team in t20i format in 2019?(Answer in decimal form.),0.0,0.00

@@ -1,0 +1,31 @@
+entity,question,actual_answer,predicted_answer
+Nigeria_national_cricket_team,Name the person(s) who served as the coach when Ademola Onikoyi was the t20i captain of the Nigeria national cricket team.,Asanka Gurusinha,"Asanka Gurusinha, Steve Tikolo"
+Nigeria_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Steve Tikolo as the coach of the Nigeria national cricket team?,Sylvester Okpe,Sylvester Okpe
+Nigeria_national_cricket_team,Does the Nigeria national cricket team have the best win percentage in the t20i format in 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2022 (based on available data)
+
+Explanation:
+The given timeline provides two data points for the year 2019 and two data points for the years 2022 and 2023. Since the question asks about 2019 or 2022, we can compare the two data points available for 2022.
+
+In 2022, the Nigeria national cricket team played 5 T20I matches, winning 0 and losing 5 (with 1 no result). This results in a win percentage of 0%.
+
+Although the question asks for the best win percentage, the given timeline only shows data points for 2022 with a win percentage of 0%. Hence, the answer is 2022. There is no data for 2019 that is directly comparable to the 2022 data as the number of matches played is different."
+Nigeria_national_cricket_team,"What was the duration of Ademola Onikoyi's tenure as the t20i captain of Nigeria national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1318 days,"1310 days
+
+Explanation:
+
+Ademola Onikoyi's tenure as the T20I captain of Nigeria national cricket team begins on May 23, 2019 (first record of him as captain in the timeline) and ends on December 31, 2022 (last record of him as captain in the timeline). This is a duration of 1310 days."
+Nigeria_national_cricket_team,"Who had the shortest stint as the t20i captain of the Nigeria national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Sylvester Okpe,"Sylvester Okpe, 1 day."
+Nigeria_national_cricket_team,"Which person had the longest tenure as the t20i captain of the Nigeria national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Ademola Onikoyi,"Sylvester Okpe, with tenure from 2022-01-04 to 2022-12-31.
+
+Explanation:
+The timeline shows that Ademola Onikoyi was the T20i captain until 2022-01-04, and Sylvester Okpe took over on that day. Therefore, Sylvester Okpe had the longest tenure as the T20i captain of the Nigeria national cricket team, with a tenure from 2022-01-04 to 2022-12-31."
+Nigeria_national_cricket_team,How many people served as the t20i captain of the Nigeria national cricket team?,2,"Three people served as the T20I captain of the Nigeria national cricket team: Ademola Onikoyi, Sylvester Okpe, and (implicitly) Steve Tikolo."
+Nigeria_national_cricket_team,Who served as the t20i captain of the Nigeria national cricket team prior to Sylvester Okpe?,Ademola Onikoyi,Ademola Onikoyi served as the T20I captain of the Nigeria national cricket team prior to Sylvester Okpe.
+Nigeria_national_cricket_team,Who was the t20i captain of Nigeria national cricket team after Ademola Onikoyi?,Sylvester Okpe,Sylvester Okpe
+Nigeria_national_cricket_team,What is the ratio of wins to losses for the Nigeria national cricket team in the t20i format for 2019?(Answer in decimal form.),0.29,"The ratio of wins to losses for the Nigeria national cricket team in the t20i format for 2019 was 8/7 or approximately 1.14.
+
+Explanation:
+
+* In 2019, the Nigeria national cricket team played a total of 7 T20I matches (as per the data provided in the timeline).
+* Out of these 7 matches, they won 8 matches.
+* Therefore, the ratio of wins to losses for the team in the T20I format for 2019 was 8/7 or approximately 1.14."

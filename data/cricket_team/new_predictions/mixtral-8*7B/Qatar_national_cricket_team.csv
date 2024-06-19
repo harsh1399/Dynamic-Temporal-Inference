@@ -1,0 +1,35 @@
+entity,question,actual_answer,predicted_answer
+Qatar_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Shahid Mahboob as the coach of the Qatar national cricket team?,"Tamoor Sajjad, Shakeel Ansar","Inam-ul-Haq, Tamoor Sajjad, Shakeel Ansar"
+Qatar_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Rizlan Iqbar as the t20i captain of the Qatar national cricket team?,Asadullah Khan,Asadullah Khan
+Qatar_national_cricket_team,Does the Qatar national cricket team have the best win percentage in the t20i format in 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2022, based on the provided timeline, the Qatar national cricket team has a higher win percentage in the T20I format in 2022 (1/0, (0 ties, 0 no result)) than in 2019 (6/4, (2 ties, 0 no result)). The T20I record this year in 2022 is ""1/0, (0 ties, 0 no result)"" out of a total of 1 match played, while in 2019 it is ""6/4, (2 ties, 0 no result)"" out of a total of 10 matches played. The calculation for win percentage is (number of wins / total number of matches) \* 100.
+
+In 2019: (6/10) \* 100 = 60%
+In 2022: (1/1) \* 100 = 100%
+
+Therefore, the win percentage for the Qatar national cricket team is higher in 2022 (100%) compared to 2019 (60%).
+
+Note: The provided timeline includes information about the Qatar national cricket team from multiple points in time, including dates in 2019 and 2022.It includes the data required to answer the question about the best win percentage in the T20I format for the Qatar national cricket team in 2019 or 2022.
+Also note that the win percentage is calculated based on the information provided in the timeline, the actual calculation may differ if other information was taken into account."
+Qatar_national_cricket_team,"What was the duration of Shahid Mahboob's tenure as the coach of Qatar national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1259 days,"1036 days (approximately)
+
+Explanation:
+
+Shahid Mahboob became the coach of the Qatar national cricket team on July 21, 2019 (2019-07-21T15:08:27Z), and remained in that position until December 31, 2022 (2022-12-31T09:15:59Z). To calculate the duration of his tenure, subtract the earlier timestamp from the later timestamp:
+
+(2022-12-31T09:15:59Z) - (2019-07-21T15:08:27Z)
+
+The result is 1036.76 days (approximately), so the answer is 1036 days."
+Qatar_national_cricket_team,"What was the duration of Tamoor Sajjad's tenure as the t20i captain of Qatar national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",898 days,"510 days (approximately)
+
+Explanation:
+Tamoor Sajjad became the T20i captain of the Qatar national cricket team on July 21, 2019, and served until December 31, 2021, during which there are 510 days (rounded down to the nearest whole number)."
+Qatar_national_cricket_team,"Who had the shortest stint as the coach of the Qatar national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Asadullah Khan,The shortest stint as coach was Shahid Mahboob from 2019-07-21T15:08:27Z to 2022-01-04T10:10:18Z.
+Qatar_national_cricket_team,"Which person had the longest tenure as the coach of the Qatar national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Shahid Mahboob,"Shahid Mahboob, ~3 years."
+Qatar_national_cricket_team,"Which person had the longest tenure as the t20i captain of the Qatar national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Tamoor Sajjad,"Rizlan Iqbar, with tenure from 2022-12-31T09:15:59Z until the end of the timeline."
+Qatar_national_cricket_team,"Who had the shortest stint as the t20i captain of the Qatar national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Rizlan Iqbar,"Rizlan Iqbar, 1 day."
+Qatar_national_cricket_team,How many people served as the coach of the Qatar national cricket team?,3,Four people served as the coach.
+Qatar_national_cricket_team,How many people served as the t20i captain of the Qatar national cricket team?,4,Five people served as the T20I captain of the Qatar national cricket team.
+Qatar_national_cricket_team,Who was the coach of the Qatar national cricket team before Shahid Mahboob?,Abdul Rehman Chohan,The coach before Shahid Mahboob was Abdul Rehman Chohan.
+Qatar_national_cricket_team,Who assumed the role of t20i captain for the Qatar national cricket team following Shakeel Ansar?,Rizlan Iqbar,Rizlan Iqbar
+Qatar_national_cricket_team,Who assumed the role of t20i captain for the Qatar national cricket team following Inam-ul-Haq (cricketer)?,Tamoor Sajjad,Tamoor Sajjad assumed the role of T20i captain for the Qatar national cricket team following Inam-ul-Haq (cricketer).
+Qatar_national_cricket_team,What is the ratio of wins to losses for the Qatar national cricket team in the t20i format for 2019?(Answer in decimal form.),1.5,The ratio of wins to losses for the Qatar national cricket team in the t20i format for 2019 is 6/4 or 1.5 in decimal form.

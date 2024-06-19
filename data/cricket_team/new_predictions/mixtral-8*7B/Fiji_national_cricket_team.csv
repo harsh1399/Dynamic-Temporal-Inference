@@ -1,0 +1,25 @@
+entity,question,actual_answer,predicted_answer
+Fiji_national_cricket_team,Name the person(s) who served as the t20i captain when Shane Jurgensen was the coach of the Fiji national cricket team.,"Jone Wesele, Josefa Rika",Jone Wesele
+Fiji_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Josefa Rika as the t20i captain of the Fiji national cricket team?,Shane Jurgensen,Shane Jurgensen
+Fiji_national_cricket_team,Name the person(s) who served as the coach when Jone Wesele was the t20i captain of the Fiji national cricket team.,Shane Jurgensen,Shane Jurgensen
+Fiji_national_cricket_team,Does the Fiji national cricket team have the best win percentage in the t20i format in 2022 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2023,"No, in 2022: 3/3, in 2023: 2/4."
+Fiji_national_cricket_team,"What was the duration of Jone Wesele's tenure as the t20i captain of Fiji national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",476 days,1096 days
+Fiji_national_cricket_team,"How long did Josefa Rika serve as the t20i captain of Fiji national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",985 days,367 days
+Fiji_national_cricket_team,"Who had the longest stint as the t20i captain of the Fiji national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Josefa Rika,"Jone Wesele, 2 years (as of 2023-12-31T06:57:18Z)"
+Fiji_national_cricket_team,"Who had the shortest stint as the t20i captain of the Fiji national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Jone Wesele,"Jone Wesele, tenure of 1 month (Mar 14 - Apr 14, 2023)."
+Fiji_national_cricket_team,How many people served as the t20i captain of the Fiji national cricket team?,2,Jone Wesele served as the T20I captain of the Fiji national cricket team.
+Fiji_national_cricket_team,Who served as the t20i captain of the Fiji national cricket team prior to Jone Wesele?,Josefa Rika,"There was no previous T20I captain before Jone Wesele. The timeline provided shows that Jone Wesele has been the T20I captain of the Fiji national cricket team since December 31, 2022. Therefore, there is no other captain to list before him."
+Fiji_national_cricket_team,Who was the t20i captain of Fiji national cricket team after Josefa Rika?,Jone Wesele,Jone Wesele
+Fiji_national_cricket_team,Who were the individual(s) who acted as the coach of the Fiji national cricket team in 2023?,Shane Jurgensen,Shane Jurgensen
+Fiji_national_cricket_team,what was the best t20i rank of the Fiji national cricket team in 2023?,62,62nd (achieved twice in 2023)
+Fiji_national_cricket_team,What is the win to loss ratio of Fiji national cricket team in t20i format in 2022?(Answer in decimal form.),1.0,"The win to loss ratio of Fiji national cricket team in T20I format in 2022 is 2/1 or 2.0.
+
+Explanation:
+
+- According to the provided timeline, the Fiji national cricket team played a total of 3 T20I matches in 2022, with a record of 2 wins and 1 loss. 
+- Therefore, the win to loss ratio can be calculated by dividing the number of wins (2) by the number of losses (1), which equals 2.0.
+- Alternatively, the win to loss ratio can be expressed as a fraction (2/1), with 2 representing the number of wins and 1 representing the number of losses.
+- Either way, the win to loss ratio reflects the team's performance in T20I matches played in 2022.
+- It is worth noting that the ratio does not take into account any matches played outside of 2022 or any other performance indicators, such as run rate or net run rate.
+- Therefore, the ratio should be interpreted with caution and in the context of the provided timeline."
+Fiji_national_cricket_team,What is the win to loss ratio of Fiji national cricket team in t20i format in 2023?(Answer in decimal form.),1.0,The win to loss ratio of the Fiji national cricket team in T20I format in 2023 is 1/1 = 1.0.

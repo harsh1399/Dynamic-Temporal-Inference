@@ -1,0 +1,65 @@
+entity,question,actual_answer,predicted_answer
+Ireland_cricket_team,Name the person(s) who served as the coach when Andrew Balbirnie was the od captain of the Ireland cricket team.,"Heinrich Malan, Graham Ford","Graham Ford, Heinrich Malan"
+Ireland_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Graham Ford as the coach of the Ireland cricket team?,"Andrew Balbirnie, William Porterfield, Gary Wilson","William Porterfield (until 2018-12-31) and Gary Wilson (on 2018-12-31). Then, Andrew Balbirnie (from 2020 onwards)."
+Ireland_cricket_team,Name the person(s) who served as the test captain when Gary Wilson was the t20i captain of the Ireland cricket team.,William Porterfield,William Porterfield.
+Ireland_cricket_team,Was the Ireland cricket team's win percentage the highest in the odi format in either 2018 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2018,2018
+Ireland_cricket_team,Was the Ireland cricket team's win percentage the highest in the t20i format in either 2020 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,2021.
+Ireland_cricket_team,Was the Ireland cricket team's win percentage the highest in the t20i format in either 2017 or 2020?(Answer in year)(Include no results/ties/draws in total number of matches.),2017,2020.
+Ireland_cricket_team,Does the Ireland cricket team have the best win percentage in the odi format in 2020 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,2021.
+Ireland_cricket_team,"Name the person(s) who served as the od captain during the tenure of Gary Wilson and Graham Ford as the t20i captain and coach, respectively, of the Ireland cricket team.",William Porterfield,William Porterfield
+Ireland_cricket_team,Who was the coach when t20i captain was Gary Wilson and od captain was William Porterfield of the Ireland cricket team?,Graham Ford,Graham Ford.
+Ireland_cricket_team,In which year did Gary Wilson become the t20i_captain of the Ireland cricket team for the first time?,2018,2018.
+Ireland_cricket_team,"How long did Gary Wilson serve as the t20i captain of Ireland cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",380 days,"Gary Wilson served as the t20i captain of Ireland cricket team from 2018-12-31 to 2020-01-15. 
+
+So, he served as captain for approximately 15 days."
+Ireland_cricket_team,"How long did William Porterfield serve as the t20i captain of Ireland cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",442 days,"William Porterfield served as the t20i captain of Ireland cricket team from 2017-12-31 to 2018-12-31, which is approximately 365 days."
+Ireland_cricket_team,"Which person had the shortest tenure as the coach of the Ireland cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",John Bracewell,John Bracewell.
+Ireland_cricket_team,"Who had the shortest stint as the t20i captain of the Ireland cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Gary Wilson,Gary Wilson.
+Ireland_cricket_team,"Who had the longest stint as the coach of the Ireland cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Graham Ford,Graham Ford.
+Ireland_cricket_team,"Which person had the longest tenure as the od captain of the Ireland cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Andrew Balbirnie,William Porterfield (2017-2020).
+Ireland_cricket_team,How many individuals took on the role of t20i captain of the Ireland cricket team?,3,2
+Ireland_cricket_team,How many people served as the od captain of the Ireland cricket team?,2,2 people served as the ODI captain of the Ireland cricket team.
+Ireland_cricket_team,Who served as the coach of the Ireland cricket team prior to Heinrich Malan?,Graham Ford,Graham Ford.
+Ireland_cricket_team,Who was the t20i captain of Ireland cricket team after Gary Wilson?,Andrew Balbirnie,The answer is Andrew Balbirnie.
+Ireland_cricket_team,Who was the t20i captain of Ireland cricket team after William Porterfield?,Gary Wilson,Gary Wilson
+Ireland_cricket_team,How many odi matches did the Ireland cricket team play between 2018 and 2021? (including both the years),47,The answer is 39.
+Ireland_cricket_team,How many t20 matches did the Ireland cricket team play between 2018 and 2020? (including both the years),37,The Ireland cricket team played 52 T20 matches between 2018 and 2020.
+Ireland_cricket_team,"How many total(including ODIs,Tests,T20Is) matches did the Ireland cricket team play between 2018 and 2021? (including both the years)",102,Ireland cricket team played 126 matches between 2018 and 2021.
+Ireland_cricket_team,"How many total(including ODIs,Tests,T20Is) matches did the Ireland cricket team play between 2018 and 2020? (including both the years)",73,"The answer is: 136 ODIs, 3 Tests, and 54 T20Is."
+Ireland_cricket_team,Who were the individual(s) who held the position of the od_captain for the Ireland cricket team from 2018 and 2020? (including both the years),"Andrew Balbirnie, William Porterfield","From 2018 to 2020, the ODI captain of the Ireland cricket team was William Porterfield (until 2018) and Andrew Balbirnie (from 2020 onwards)."
+Ireland_cricket_team,Who were the individual(s) who held the position of the coach for the Ireland cricket team from 2018 and 2020? (including both the years),Graham Ford,Graham Ford.
+Ireland_cricket_team,Who were the individual(s) who held the position of the t20i_captain for the Ireland cricket team from 2018 and 2021? (including both the years),"Andrew Balbirnie, William Porterfield, Gary Wilson","The t20i_captains for the Ireland cricket team from 2018 to 2021 were:
+
+* Gary Wilson (in 2018)
+* Andrew Balbirnie (from 2019 to 2021)"
+Ireland_cricket_team,Name the person(s) who served as the coach of the Ireland cricket team in 2018.,Graham Ford,Graham Ford.
+Ireland_cricket_team,Who were the individual(s) who acted as the coach of the Ireland cricket team in 2021?,Graham Ford,Graham Ford.
+Ireland_cricket_team,Name the person(s) who served as the manager of the Ireland cricket team in 2018.,Chris Siddell,Chris Siddell.
+Ireland_cricket_team,What was the highest ranking achieved by the Ireland cricket team in the t20i format in 2021?,11,11th
+Ireland_cricket_team,What was the highest ranking achieved by the Ireland cricket team in the test format in 2021?,12,12th
+Ireland_cricket_team,What was the highest ranking achieved by the Ireland cricket team in the odi format in 2018?,12,The highest ODI ranking achieved by the Ireland cricket team in 2018 was 12th.
+Ireland_cricket_team,What is the win to loss ratio of Ireland cricket team in test format in 2018?(Answer in decimal form.),0.0,"Based on the timeline, in 2018, Ireland cricket team played 1 test with a record of 0/1 (0 draws), which means 0 wins and 1 loss. Therefore, the win to loss ratio is 0/1 = 0."
+Ireland_cricket_team,What is the ratio of wins to losses for the Ireland cricket team in the odi format for 2021?(Answer in decimal form.),0.5,"Based on the timeline, for 2021, the odi record is:
+
+* 2021-01-24T17:23:35Z: ""odi_record"": ""69/83, (3 ties, 8 no result)""
+* 2021-06-02T17:17:59Z: ""odi_record"": ""69/85, (3 ties, 8 no result)""
+* 2021-09-08T17:38:40Z: ""odi_record"": ""71/88, (3 ties, 9 no results)""
+* 2021-12-31T03:16:39Z: ""odi_record"": ""72/88, (3 ties, 10 no results)""
+
+Wins: 71 - 69 = 2 (from 69/83 to 71/88)
+Losses: 88 - 83 = 5 (from 69/83 to 71/88)
+
+Ratio of wins to losses for 2021: 2/5 = 0.4"
+Ireland_cricket_team,What is the win to loss ratio of Ireland cricket team in t20i format in 2021?(Answer in decimal form.),0.5,"To find the win-to-loss ratio of Ireland cricket team in the T20I format in 2021, we need to calculate the number of wins and losses in T20I matches played in 2021.
+
+From the timeline, we can see the T20I record in 2021:
+
+`t20i_record_this_year: ""3/5 (0 ties, 0 no result)""`
+
+This means that Ireland won 3 T20I matches and lost 5 matches in 2021.
+
+The win-to-loss ratio is calculated by dividing the number of wins by the number of losses:
+
+Win-to-loss ratio = 3 (wins) / 5 (losses) = 0.6
+
+So, the win-to-loss ratio of Ireland cricket team in the T20I format in 2021 is 0.6."

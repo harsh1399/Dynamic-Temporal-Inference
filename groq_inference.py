@@ -5,7 +5,7 @@ from groq import Groq
 import time
 
 client = Groq(
-    api_key="",
+    api_key="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",
     )
 
 def create_prompt(timeline,question):
@@ -16,17 +16,26 @@ question: {question}
 answer:[/INST]
 """
 
-with open('data/cricket_team/cricket_questions_selected.json','r') as f:
-    entities = json.load(f)
+def generate_response(model,prompt):
+    response = client.chat.completions.create(
+        model=model,
+        messages=[
+            {"role": "user", "content": prompt}
+        ]
+    )
+    return response
 
+with open('data/cricket_team/cricket_questions_mixtral.json','r') as f:
+    entities = json.load(f)
+total_questions = 0
 for entity in entities:
+    folder_question = 0
     entity_name = entity.split(" ")
     entity_name = "_".join(entity_name)
     with open(f'data/cricket_team/{entity_name}.json','r') as f:
         timeline = json.load(f)
     if len(timeline)>20:
         continue
-    print(entity)
     timeline = json.dumps(timeline)
     df = {"entity": [],
           "question": [],
@@ -35,22 +44,22 @@ for entity in entities:
     for questions_category in entities[entity]:
         for question in entities[entity][questions_category]:
             actual_question = entities[entity][questions_category][question]["Q"]
-            if questions_category == "q15":
-                actual_question += "(Answer in decimal form.)"
             prompt = create_prompt(timeline,actual_question)
-            response = client.chat.completions.create(
-                model = "llama3-70b-8192",
-                messages=[
-                    {"role": "user","content": prompt}
-                ]
-            )
+            try:
+                response = generate_response("mixtral-8x7b-32768",prompt)
+            except:
+                time.sleep(90)
+                response = generate_response("mixtral-8x7b-32768",prompt)
             predicted_ans = response.choices[0].message.content
-            print(f"question: {actual_question}, predicted ans: {predicted_ans}")
             actual_ans = entities[entity][questions_category][question]["A"]
             df["entity"].append(entity)
             df["question"].append(entities[entity][questions_category][question]["Q"])
             df["actual_answer"].append(actual_ans)
             df["predicted_answer"].append(predicted_ans)
-            time.sleep(60)
+            time.sleep(10)
+            folder_question += 1
+    total_questions += folder_question
+    print(f"{entity} -- {folder_question}")
     dataframe = pd.DataFrame(df)
-    dataframe.to_csv(f"data/cricket_team/new_predictions/{entity}.csv", index=False)
+    dataframe.to_csv(f"data/cricket_team/new_predictions/mixtral-8*7B/{entity}.csv", index=False)
+print(f"total - {total_questions}")

@@ -1,0 +1,55 @@
+entity,question,actual_answer,predicted_answer
+Scotland_national_cricket_team,Name the person(s) who served as the coach when Kyle Coetzer was the t20i captain of the Scotland national cricket team.,"Grant Bradburn, Shane Burger",Shane Burger
+Scotland_national_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Shane Burger as the coach of the Scotland national cricket team?,"Richie Berrington, Kyle Coetzer",Kyle Coetzer and Richie Berrington
+Scotland_national_cricket_team,Name the person(s) who served as the od captain when To be announced was the coach of the Scotland national cricket team.,Richie Berrington,Richie Berrington
+Scotland_national_cricket_team,Does the Scotland national cricket team have the best win percentage in the t20i format in 2017 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2017,"No, in both 2017 and 2022, the Scotland national cricket team does not have the best win percentage in the t20i format. Their win percentage in 2017 was 51.35% (15/29) and in 2022 it was 42.86% (12/28)."
+Scotland_national_cricket_team,Does the Scotland national cricket team have the best win percentage in the t20i format in 2017 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2017,"No, in both 2017 and 2021."
+Scotland_national_cricket_team,Was the Scotland national cricket team's win percentage the highest in the odi format in either 2022 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"No, in both 2022 and 2023."
+Scotland_national_cricket_team,In which year did Richie Berrington become the t20i_captain of the Scotland national cricket team for the first time?,2022,"2022-08-10T17:55:28Z (August 10, 2022)"
+Scotland_national_cricket_team,In which year did Richie Berrington first assume the role of od_captain for the Scotland national cricket team?,2022,"2022-08-10T17:55:28Z (August 10, 2022)"
+Scotland_national_cricket_team,In which year did To be announced first assume the role of coach for the Scotland national cricket team?,2023,"2023 (based on the timeline provided, ""To be announced"" becomes the coach for the first time in the entry for 2023-02-15T08:53:43Z)"
+Scotland_national_cricket_team,"What was the duration of Shane Burger's tenure as the coach of Scotland national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",774 days,1826 days
+Scotland_national_cricket_team,"How long did Richie Berrington serve as the od captain of Scotland national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",508 days,548 days (approximately)
+Scotland_national_cricket_team,"How long did Grant Bradburn serve as the coach of Scotland national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1098 days,1193 days
+Scotland_national_cricket_team,"What was the duration of Kyle Coetzer's tenure as the t20i captain of Scotland national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1683 days,1826 days
+Scotland_national_cricket_team,"Who had the shortest stint as the t20i captain of the Scotland national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Richie Berrington,"Richie Berrington, 1 day."
+Scotland_national_cricket_team,"Which person had the shortest tenure as the od captain of the Scotland national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Richie Berrington,"Richie Berrington, with a tenure of 1 second.
+
+According to the provided timeline, Richie Berrington became the ODI captain of the Scotland national cricket team on 2022-08-10T17:55:28Z, and the next entry in the timeline at 2022-12-31T15:40:28Z still lists him as the captain. However, there is no record of a new captain being appointed during this time frame. In the next entry, on 2023-02-15T08:53:43Z, the coach is listed as ""To be announced,"" and there is no mention of a new captain at this point either. Therefore, Richie Berrington's tenure as the ODI captain appears to have continued until at least this point, without any new captain being appointed during this time.
+
+However, in the final entry of the timeline, on 2023-12-31T01:55:19Z, the coach is still listed as ""To be announced,"" but there is no update on the ODI captain either. This suggests that Richie Berrington's tenure as the ODI captain has continued uninterrupted since 2022-08-10T17:55:28Z until at least 2023-12-31T01:55:19Z.
+
+Therefore, Richie Berrington's tenure as the ODI captain appears to be the shortest in the timeline, but it is still ongoing at the end of the timeline. The record of his tenure as the captain is 1 second in the entry on 2023-12-31T01:55:19Z, where the coach is listed as ""To be announced"" and there is no mention of a new captain being appointed."
+Scotland_national_cricket_team,"Who had the shortest stint as the coach of the Scotland national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",To be announced,"The coach with the shortest stint as the coach of the Scotland national cricket team is Grant Bradburn, who appeared in the timeline in that role on 2017-12-31T15:45:23Z and was replaced by Shane Burger on 2021-01-02T01:33:17Z, resulting in a stint of 10 days."
+Scotland_national_cricket_team,How many people served as the od captain of the Scotland national cricket team?,2,"Three people served as the ODI captain of the Scotland national cricket team: Grant Bradburn, Kyle Coetzer, and Richie Berrington."
+Scotland_national_cricket_team,How many individuals took on the role of t20i captain of the Scotland national cricket team?,2,"Two individuals, Kyle Coetzer and Richie Berrington."
+Scotland_national_cricket_team,How many people served as the coach of the Scotland national cricket team?,3,Three people served as the coach of the Scotland national cricket team.
+Scotland_national_cricket_team,Who served as the coach of the Scotland national cricket team prior to Shane Burger?,Grant Bradburn,Grant Bradburn
+Scotland_national_cricket_team,Who was the coach of the Scotland national cricket team before To be announced?,Shane Burger,Shane Burger
+Scotland_national_cricket_team,Who assumed the role of coach for the Scotland national cricket team following Grant Bradburn?,Shane Burger,Shane Burger
+Scotland_national_cricket_team,Who was the t20i captain of Scotland national cricket team after Kyle Coetzer?,Richie Berrington,Richie Berrington
+Scotland_national_cricket_team,How many odi matches did the Scotland national cricket team play between 2022 and 2023? (including both the years),25,22 ODI matches.
+Scotland_national_cricket_team,How many t20 matches did the Scotland national cricket team play between 2022 and 2023? (including both the years),5,44 T20 matches
+Scotland_national_cricket_team,Who were the individual(s) who held the position of the t20i_captain for the Scotland national cricket team from 2022 and 2023? (including both the years),"Richie Berrington, Kyle Coetzer",Richie Berrington
+Scotland_national_cricket_team,Who were the individual(s) who acted as the coach of the Scotland national cricket team in 2022?,Shane Burger,Shane Burger
+Scotland_national_cricket_team,Name the person(s) who served as the coach of the Scotland national cricket team in 2023.,"To be announced, Shane Burger","Shane Burger (until announced), To be announced (from announced)"
+Scotland_national_cricket_team,what was the best t20i rank of the Scotland national cricket team in 2023?,15,15th
+Scotland_national_cricket_team,what was the best odi rank of the Scotland national cricket team in 2023?,12,12th
+Scotland_national_cricket_team,What was the highest ranking achieved by the Scotland national cricket team in the odi format in 2022?,12,12th in ODI format in 2022.
+Scotland_national_cricket_team,What was the highest ranking achieved by the Scotland national cricket team in the t20i format in 2022?,14,14th in t20i format in 2022.
+Scotland_national_cricket_team,What is the ratio of wins to losses for the Scotland national cricket team in the odi format for 2021?(Answer in decimal form.),4.0,"The ratio of wins to losses for the Scotland national cricket team in the ODI format for 2021 is 1/1 or 1.0. This is based on their ODI record this year, which shows 1 win and 1 loss out of 2 matches played in 2021."
+Scotland_national_cricket_team,What is the ratio of wins to losses for the Scotland national cricket team in the t20i format for 2017?(Answer in decimal form.),3.0,The ratio of wins to losses for the Scotland national cricket team in the t20i format for 2017 is 18/23 or approximately 0.783 in decimal form. This is calculated by dividing the number of wins (18) by the number of losses (23) in the t20i format for the year 2017.
+Scotland_national_cricket_team,What is the ratio of wins to losses for the Scotland national cricket team in the odi format for 2017?(Answer in decimal form.),0.19,"The ratio of wins to losses for the Scotland national cricket team in the ODI format for 2017 is 3/4 or 0.75.
+
+This is determined by using the ""odi\_record"" field in the timeline entry for ""2017-12-31T15:45:23Z"", which shows a record of 3 wins and 4 losses (3/4) for the team in the ODI format for that year."
+Scotland_national_cricket_team,What is the win to loss ratio of Scotland national cricket team in t20i format in 2021?(Answer in decimal form.),0.62,"The win to loss ratio of Scotland's T20I matches in 2021 is 0.
+
+Here's the reasoning:
+
+1. The timeline provides the T20I record of Scotland in different years.
+2. For the year 2021, the T20I record is ""30/34 (1 tie, 3 no result)"".
+3. This means that Scotland played 34 T20I matches and won 30 of them.
+4. Therefore, the win to loss ratio is 30 (wins) divided by 4 (losses), which equals 7.5.
+5. However, the question asks for the answer in decimal form, so the ratio should be 7.5/1 = 7.5 (in decimal form).
+6. But the provided timeline does not specify the T20I matches played specifically in 2021, so it seems there were no T20I matches played by Scotland in 2021.
+7. Therefore, the win to loss ratio of Scotland's T20I matches in 2021 is 0."

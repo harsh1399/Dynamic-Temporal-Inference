@@ -1,0 +1,60 @@
+entity,question,actual_answer,predicted_answer
+United_States_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Saurabh Netravalkar as the t20i captain of the United States national cricket team?,"Pubudu Dassanayake, Kiran More, James Pamment",Pubudu Dassanayake and Kiran More.
+United_States_national_cricket_team,Name the person(s) who served as the coach when Saurabh Netravalkar was the od captain of the United States national cricket team.,"Pubudu Dassanayake, Kiran More, James Pamment",Pubudu Dassanayake and Kiran More.
+United_States_national_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Kiran More as the coach of the United States national cricket team?,Saurabh Netravalkar,Saurabh Netravalkar.
+United_States_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Pubudu Dassanayake as the coach of the United States national cricket team?,Saurabh Netravalkar,Saurabh Netravalkar.
+United_States_national_cricket_team,Does the United States national cricket team have the best win percentage in the odi format in 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,2022
+United_States_national_cricket_team,Was the United States national cricket team's win percentage the highest in the t20i format in either 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,2022.
+United_States_national_cricket_team,Does the United States national cricket team have the best win percentage in the odi format in 2022 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2023,2022.
+United_States_national_cricket_team,Was the United States national cricket team's win percentage the highest in the odi format in either 2019 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2023,2023.
+United_States_national_cricket_team,In which year did Kevin Darlington (interim) become the coach of the United States national cricket team for the first time?,2023,2023.
+United_States_national_cricket_team,"How long did Saurabh Netravalkar serve as the od captain of United States national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",976 days,156 days.
+United_States_national_cricket_team,"What was the duration of Saurabh Netravalkar's tenure as the t20i captain of United States national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",976 days,245 days
+United_States_national_cricket_team,"Which person had the longest tenure as the t20i captain of the United States national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Saurabh Netravalkar,Saurabh Netravalkar.
+United_States_national_cricket_team,"Who had the shortest stint as the od captain of the United States national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Monank Patel,No one else replaced Saurabh Netravalkar as ODI captain.
+United_States_national_cricket_team,"Who had the longest stint as the od captain of the United States national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Saurabh Netravalkar,"Saurabh Netravalkar, 4 years."
+United_States_national_cricket_team,How many individuals took on the role of t20i captain of the United States national cricket team?,2,Only 2 individuals.
+United_States_national_cricket_team,How many people served as the od captain of the United States national cricket team?,2,2
+United_States_national_cricket_team,Who served as the od captain of the United States national cricket team prior to Monank Patel?,Saurabh Netravalkar,Saurabh Netravalkar.
+United_States_national_cricket_team,Who served as the t20i captain of the United States national cricket team prior to Monank Patel?,Saurabh Netravalkar,Saurabh Netravalkar.
+United_States_national_cricket_team,Who was the t20i captain of United States national cricket team after Saurabh Netravalkar?,Monank Patel,Monank Patel.
+United_States_national_cricket_team,Who was the od captain of United States national cricket team after Saurabh Netravalkar?,Monank Patel,Monank Patel.
+United_States_national_cricket_team,what was the best t20i rank of the United States national cricket team in 2023?,25,25th.
+United_States_national_cricket_team,What was the highest ranking achieved by the United States national cricket team in the odi format in 2023?,18,18th
+United_States_national_cricket_team,What is the win to loss ratio of United States national cricket team in t20i format in 2022?(Answer in decimal form.),0.67,"To find the win to loss ratio of United States national cricket team in t20i format in 2022, we need to examine the t20i records for 2022.
+
+From the timeline, we can see that the t20i records for 2022 are:
+
+* ""t20i_record"": ""8/6 (1 tie, 1 no result)""
+* ""t20i_record_this_year"": ""0/0 (0 tie, 0 no result)"" (for 2022-01-03T06:38:07Z)
+* ""t20i_record_this_year"": ""0/0 (0 tie, 0 no result)"" (for 2022-05-30T06:07:47Z)
+* ""t20i_record_this_year"": ""0/0 (0 tie, 0 no result)"" (for 2022-06-12T10:22:20Z)
+
+Since there are no wins or losses in 2022, the win to loss ratio is undefined (or 0, depending on the interpretation).
+
+However, if we consider the overall t20i record in 2022, which is ""8/6 (1 tie, 1 no result)"", we can calculate the win to loss ratio as:
+
+ Wins: 8
+ Losses: 6
+ Ties: 1
+ No Results: 1
+
+Let's exclude the tie and no result, and only consider wins and losses. The win to loss ratio would be:
+
+ Wins: 8
+ Losses: 6
+
+The win to loss ratio in decimal form is:
+8/6 = 1.33
+
+So, the answer is 1.33."
+United_States_national_cricket_team,What is the win to loss ratio of United States national cricket team in odi format in 2022?(Answer in decimal form.),1.12,"The win to loss ratio of United States national cricket team in ODI format in 2022 can be calculated as follows:
+
+In 2022, the team played 23 ODIs, with a record of 10/13 (0 ties, 0 no results) as per the timeline.
+
+Wins: 10
+Losses: 13
+
+Win to loss ratio = 10/13 = 0.77 (rounded to two decimal places)
+
+So, the answer is: 0.77."

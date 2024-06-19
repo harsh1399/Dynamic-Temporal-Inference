@@ -1,0 +1,84 @@
+entity,question,actual_answer,predicted_answer
+Australia_national_cricket_team,Name the person(s) who served as the test captain when Aaron Finch was the t20i captain of the Australia national cricket team.,"Pat Cummins, Tim Paine","Tim Paine, Pat Cummins"
+Australia_national_cricket_team,Name the person(s) who served as the coach when Pat Cummins was the test captain of the Australia national cricket team.,"Andrew McDonald (cricketer), Justin Langer","Justin Langer, Andrew McDonald"
+Australia_national_cricket_team,Who were the individual(s) serving as the test captain during the tenure of Justin Langer as the coach of the Australia national cricket team?,"Pat Cummins, Tim Paine","Tim Paine, Pat Cummins"
+Australia_national_cricket_team,Who were the individual(s) serving as the test captain during the tenure of Andrew McDonald (cricketer) as the coach of the Australia national cricket team?,Pat Cummins,Pat Cummins
+Australia_national_cricket_team,Does the Australia national cricket team have the best win percentage in the t20i format in 2020 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2021, 5th
+
+The Australia national cricket team had the 5th best win percentage in the t20i format in both 2020 and 2021."
+Australia_national_cricket_team,Does the Australia national cricket team have the best win percentage in the test format in 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2022
+
+The Australia national cricket team had the best win percentage in the test format in 2022. They played a total of 10 test matches, winning 7 and drawing 3 with no losses."
+Australia_national_cricket_team,Does the Australia national cricket team have the best win percentage in the t20i format in 2020 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2022
+
+Explanation:
+In 2020, the Australia national cricket team played 2 T20I matches, winning 0 and losing 2 out of which 1 was a tie and 0 was a no result, resulting in a win percentage of 0%. 
+In 2022, the team played a total of 19 T20I matches, winning 12 out of which 1 was a tie and 1 was a no result, resulting in a win percentage of 63.16%. 
+Hence, the team had the best win percentage in the T20I format in 2022."
+Australia_national_cricket_team,Does the Australia national cricket team have the best win percentage in the odi format in 2020 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2021, 5th rank (out of 10 teams)"
+Australia_national_cricket_team,"Name the person(s) who served as the test captain during the tenure of Aaron Finch and Justin Langer as the t20i captain and coach, respectively, of the Australia national cricket team.","Pat Cummins, Tim Paine","Tim Paine, Pat Cummins"
+Australia_national_cricket_team,Who was the t20i captain when test captain was Tim Paine and coach was Justin Langer of the Australia national cricket team?,Aaron Finch,Aaron Finch
+Australia_national_cricket_team,In which year did Andrew McDonald (cricketer) first assume the role of coach for the Australia national cricket team?,2022,"2022
+
+The information provided in the timeline indicates that Andrew McDonald (cricketer) first assumed the role of coach for the Australia national cricket team in the year 2022. Specifically, he became the coach on June 21, 2022, as per the provided data."
+Australia_national_cricket_team,In which year did Pat Cummins become the t20i_captain of the Australia national cricket team for the first time?,2023,Pat Cummins became the t20i_captain of the Australia national cricket team for the first time in the year 2022.
+Australia_national_cricket_team,In which year did Pat Cummins become the test_captain of the Australia national cricket team for the first time?,2022,Pat Cummins became the test captain of the Australia national cricket team for the first time in the year 2022.
+Australia_national_cricket_team,"How long did Aaron Finch serve as the t20i captain of Australia national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1512 days,1434 days (as of the last timestamp)
+Australia_national_cricket_team,"How long did Tim Paine serve as the test captain of Australia national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1070 days,1095 days
+Australia_national_cricket_team,"What was the duration of Aaron Finch's tenure as the od captain of Australia national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1435 days,1472 days (approximately)
+Australia_national_cricket_team,"How long did Pat Cummins serve as the test captain of Australia national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",438 days,581 days
+Australia_national_cricket_team,"Who had the shortest stint as the t20i captain of the Australia national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Pat Cummins,"Pat Cummins, 1 day."
+Australia_national_cricket_team,"Which person had the shortest tenure as the od captain of the Australia national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Pat Cummins,"Pat Cummins, 1 day."
+Australia_national_cricket_team,"Which person had the longest tenure as the od captain of the Australia national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Aaron Finch,"Aaron Finch, 4 years 1 day."
+Australia_national_cricket_team,"Which person had the longest tenure as the t20i captain of the Australia national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Aaron Finch,"Pat Finch, 2021-06-25 to present"
+Australia_national_cricket_team,How many people served as the od captain of the Australia national cricket team?,2,"Three people served as the ODI captain of the Australia national cricket team. They are Tim Paine, Aaron Finch, and Pat Cummins."
+Australia_national_cricket_team,How many individuals took on the role of t20i captain of the Australia national cricket team?,2,"Four individuals: Aaron Finch, Tim Paine, Pat Cummins, TBD"
+Australia_national_cricket_team,How many people served as the test captain of the Australia national cricket team?,2,"Three people: Tim Paine, Pat Cummins, and an unknown person denoted as ""TBD""."
+Australia_national_cricket_team,Who served as the od captain of the Australia national cricket team prior to Pat Cummins?,Aaron Finch,Aaron Finch
+Australia_national_cricket_team,Who served as the t20i captain of the Australia national cricket team prior to Pat Cummins?,Aaron Finch,Aaron Finch
+Australia_national_cricket_team,Who assumed the role of od captain for the Australia national cricket team following Aaron Finch?,Pat Cummins,Role not assumed by another. Aaron Finch continues as ODI captain.
+Australia_national_cricket_team,Who was the t20i captain of Australia national cricket team after Aaron Finch?,Pat Cummins,Pat Cummins became the t20i captain of the Australia national cricket team after Aaron Finch. This change occurred on 2023-03-18T17:12:11Z.
+Australia_national_cricket_team,"How many total(including ODIs,Tests,T20Is) matches did the Australia national cricket team play between 2020 and 2022? (including both the years)",106,275 matches
+Australia_national_cricket_team,How many test matches did the Australia national cricket team play between 2020 and 2021? (including both the years),7,14 test matches.
+Australia_national_cricket_team,How many test matches did the Australia national cricket team play between 2021 and 2022? (including both the years),16,21 test matches
+Australia_national_cricket_team,How many odi matches did the Australia national cricket team play between 2020 and 2021? (including both the years),16,"52 ODI matches.
+
+Explanation:
+By examining the provided timeline, we can determine the number of ODI matches played by the Australia national cricket team between 2020 and 2021 as follows:
+
+- The first entry in the timeline that falls within the year 2020 is from 2020-01-06T09:59:16Z.
+- From this point until the last entry within the year 2021 (2021-03-18T17:12:11Z), there are a total of 26 entries (including both dates).
+- Each entry corresponds to either the start or end of an ODI series, with the exception of the 2020-12-31T22:50:14Z entry, which does not add to the series count.
+- Since half of the entries indicate the beginning of a series and the other half the end of a series, the number of ODI matches played is half of the total number of entries during this period.
+- Therefore, the total number of ODI matches played by the Australia national cricket team from 2020 to 2021 is 26/2 = 13 ODI series.
+- Considering that each ODI series consists of at least three matches, and the last series of 2021 had two matches (2021-03-18T17:12:11Z), the total number of ODI matches played is at least 13 \* 3 = 39 matches.
+- However, examining the records in the dataset, we can see that there are a couple of ODI series with fewer than three matches (2020-01-06T09:59:16Z, 2021-01-18T12:41:17Z, and 2021-10-23T18:36:34Z).
+- Adjusting for this, we have 39 + (3 - 2) + (2 - 1) + (3 - 2) = 52 ODI matches."
+Australia_national_cricket_team,Name the people who serve as od_captain of Australia national cricket team between 2020 and 2022. (including both the years),"Pat Cummins, Aaron Finch",Aaron Finch
+Australia_national_cricket_team,Who were the individual(s) who held the position of the test_captain for the Australia national cricket team from 2020 and 2022? (including both the years),"Pat Cummins, Tim Paine","Tim Paine, Pat Cummins"
+Australia_national_cricket_team,Who were the individual(s) who acted as the coach of the Australia national cricket team in 2022?,"Andrew McDonald (cricketer), Justin Langer","Justin Langer (until 2022-06-21),
+Andrew McDonald (cricketer) (from 2022-06-21)"
+Australia_national_cricket_team,Name the person(s) who served as the coach of the Australia national cricket team in 2020.,Justin Langer,Justin Langer
+Australia_national_cricket_team,Who were the individual(s) who acted as the coach of the Australia national cricket team in 2021?,Justin Langer,"Justin Langer (until 2021-11-30), Andrew McDonald (from 2021-11-30)"
+Australia_national_cricket_team,what was the best t20i rank of the Australia national cricket team in 2020?,2,2nd (achieved on 2020-12-31)
+Australia_national_cricket_team,what was the best t20i rank of the Australia national cricket team in 2021?,2,2nd (achieved in June 2021)
+Australia_national_cricket_team,what was the best odi rank of the Australia national cricket team in 2021?,2,"2nd (achieved on Jan 4, 2022)"
+Australia_national_cricket_team,What is the ratio of wins to losses for the Australia national cricket team in the t20i format for 2021?(Answer in decimal form.),0.83,The ratio of wins to losses for the Australia national cricket team in the t20i format for 2021 is 10/12 = 0.83 (answer in decimal form).
+Australia_national_cricket_team,What is the ratio of wins to losses for the Australia national cricket team in the test format for 2019?(Answer in decimal form.),3.0,"The ratio of wins to losses for the Australia national cricket team in the test format for 2019 is 2/1 or 2.0. This is calculated by taking the number of wins (2) and dividing it by the number of losses (1) for the test format in 2019.
+
+Here is the breakdown of the test record for the Australia national cricket team in 2019:
+
+* Wins: 2
+* Losses: 1
+* Draws: 1
+
+To calculate the win-loss ratio, we divide the number of wins (2) by the number of losses (1), which gives us a ratio of 2.0.
+
+It's worth noting that a win-loss ratio can be greater than 1.0, indicating that the team has won more games than they have lost. A ratio of less than 1.0 would indicate that the team has lost more games than they have won. A ratio of exactly 1.0 would indicate that the team has won and lost the same number of games.
+
+I hope this helps! Let me know if you have any other questions."
+Australia_national_cricket_team,What is the win to loss ratio of Australia national cricket team in test format in 2021?(Answer in decimal form.),0.0,"The win to loss ratio of Australia national cricket team in test format in 2021 is 1.5.
+
+Explanation:
+The entity timeline provided includes information about the Australia national cricket team up to March 18, 2023. To find the win to loss ratio of the team in test format in 2021, we can look at the table entries for the year 2021. There are two wins (one on June 21, 2022 and one on December 31, 2022) and one loss (on October 23, 2021) for the team in test format in 2021. Therefore, the win to loss ratio is 2/1 = 1.5."
+Australia_national_cricket_team,What is the ratio of wins to losses for the Australia national cricket team in the odi format for 2019?(Answer in decimal form.),2.29,1.62 (rounded to two decimal places)

@@ -1,0 +1,115 @@
+entity,question,actual_answer,predicted_answer
+West_Indies_cricket_team,Who were the individual(s) serving as the coach during the tenure of Kraigg Brathwaite as the test captain of the West Indies cricket team?,"Phil Simmons, Andre Coley",Phil Simmons and Andre Coley.
+West_Indies_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Stuart Law as the coach of the West Indies cricket team?,"Jason Mohammed, Carlos Brathwaite","Carlos Brathwaite, Jason Holder, and Kieron Pollard."
+West_Indies_cricket_team,Name the person(s) who served as the coach when Kieron Pollard was the t20i captain of the West Indies cricket team.,Phil Simmons,Phil Simmons
+West_Indies_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Phil Simmons as the coach of the West Indies cricket team?,Kieron Pollard,Kieron Pollard
+West_Indies_cricket_team,Does the West Indies cricket team have the best win percentage in the t20i format in 2017 or 2020?(Answer in year)(Include no results/ties/draws in total number of matches.),2017,2017
+West_Indies_cricket_team,Was the West Indies cricket team's win percentage the highest in the t20i format in either 2017 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2017,2017
+West_Indies_cricket_team,"Name the person(s) who served as the test captain during the tenure of Kieron Pollard and Phil Simmons as the t20i captain and coach, respectively, of the West Indies cricket team.","Kraigg Brathwaite, Jason Holder",Jason Holder.
+West_Indies_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Jason Holder and Stuart Law as the od captain and coach, respectively, of the West Indies cricket team.","Jason Mohammed, Carlos Brathwaite",Carlos Brathwaite.
+West_Indies_cricket_team,Who was the coach when t20i captain was Carlos Brathwaite and od captain was Jason Holder of the West Indies cricket team?,"Nic Pothas, Stuart Law, Richard Pybus",Stuart Law
+West_Indies_cricket_team,Who was the coach when t20i captain was Rovman Powell and od captain was Shai Hope of the West Indies cricket team?,Andre Coley,Andre Coley.
+West_Indies_cricket_team,Who was the t20i captain when od captain was Jason Holder and coach was Nic Pothas of the West Indies cricket team?,Carlos Brathwaite,Carlos Brathwaite.
+West_Indies_cricket_team,In which year did Richard Pybus become the coach of the West Indies cricket team for the first time?,2019,2019
+West_Indies_cricket_team,"What was the duration of Kieron Pollard's tenure as the od captain of West Indies cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1102 days,"Kieron Pollard became the ODI captain in the timeline on 2019-12-31T23:09:38Z and was replaced by Shai Hope on 2023-03-18T19:08:34Z. 
+
+The duration is: (2023-03-18T19:08:34Z - 2019-12-31T23:09:38Z) = 1165 days."
+West_Indies_cricket_team,"What was the duration of Kieron Pollard's tenure as the t20i captain of West Indies cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1102 days,"Kieron Pollard became the t20i captain on 2019-12-31 and was still the captain until 2023-03-18, when Rovman Powell replaced him. The duration of his tenure is approximately 1164 days."
+West_Indies_cricket_team,"What was the duration of Carlos Brathwaite's tenure as the t20i captain of West Indies cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",407 days,"Carlos Brathwaite's tenure as the t20i captain of West Indies cricket team was from 2017-10-15 to 2018-04-03, and then again from 2018-08-14 to 2019-01-27, and finally from 2019-04-08 to 2019-06-06.
+
+The duration of his tenure is:
+1. 2017-10-15 to 2018-04-03: 170 days
+2. 2018-08-14 to 2019-01-27: 156 days
+3. 2019-04-08 to 2019-06-06: 59 days
+
+So, the total duration of Carlos Brathwaite's tenure as the t20i captain of West Indies cricket team is 385 days."
+West_Indies_cricket_team,"Which person had the longest tenure as the t20i captain of the West Indies cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Kieron Pollard,Carlos Brathwaite.
+West_Indies_cricket_team,"Who had the shortest stint as the t20i captain of the West Indies cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Rovman Powell,Jason Mohammed.
+West_Indies_cricket_team,How many people served as the test captain of the West Indies cricket team?,2,2
+West_Indies_cricket_team,How many people served as the t20i captain of the West Indies cricket team?,5,Four.
+West_Indies_cricket_team,How many people served as the coach of the West Indies cricket team?,6,5
+West_Indies_cricket_team,Who was the od captain of the West Indies cricket team before Kieron Pollard?,Jason Holder,Jason Holder.
+West_Indies_cricket_team,Who assumed the role of coach for the West Indies cricket team following Nic Pothas?,Richard Pybus,Richard Pybus.
+West_Indies_cricket_team,Who assumed the role of coach for the West Indies cricket team following Phil Simmons?,Andre Coley,Andre Coley
+West_Indies_cricket_team,How many test matches did the West Indies cricket team play between 2018 and 2019? (including both the years),15,35
+West_Indies_cricket_team,How many test matches did the West Indies cricket team play between 2018 and 2020? (including both the years),20,"Between 2018 and 2020, the West Indies cricket team played 31 test matches."
+West_Indies_cricket_team,"How many total(including ODIs,Tests,T20Is) matches did the West Indies cricket team play between 2018 and 2021? (including both the years)",153,"To find the total number of matches played by the West Indies cricket team between 2018 and 2021, we need to calculate the difference in the number of matches played at the start and end of this period.
+
+From the timeline, we can see that:
+
+* In 2018-01-12T00:31:01Z, the number of tests was 530, number of ODIs was 770, and number of T20Is was 94.
+* In 2021-06-27T09:51:54Z, the number of tests was 556, number of ODIs was 828, and number of T20Is was 131.
+
+Now, we can calculate the total number of matches played between 2018 and 2021:
+
+Tests: 556 - 530 = 26
+ODIs: 828 - 770 = 58
+T20Is: 131 - 94 = 37
+
+Total matches played = 26 + 58 + 37 = 121
+
+So, the West Indies cricket team played a total of 121 matches between 2018 and 2021."
+West_Indies_cricket_team,How many t20 matches did the West Indies cricket team play between 2018 and 2020? (including both the years),36,"From the timeline, we can see that:
+
+* On 2018-01-12T00:31:01Z, num_t20is = 94
+* On 2019-01-27T11:26:33Z, num_t20is = 107
+* On 2020-01-15T20:44:12Z, num_t20is = 120
+
+So, the West Indies cricket team played 120 - 94 = 26 t20 matches between 2018 and 2020."
+West_Indies_cricket_team,Who were the individual(s) who held the position of the t20i_captain for the West Indies cricket team from 2018 and 2020? (including both the years),"Kieron Pollard, Jason Mohammed, Jason Holder, Carlos Brathwaite","Based on the provided timeline, the individuals who held the position of t20i_captain for the West Indies cricket team from 2018 and 2020 are:
+
+1. Carlos Brathwaite (until 2019-04-08T00:46:23Z)
+2. Jason Holder (from 2019-04-08T00:46:23Z to 2019-06-06T17:37:54Z)
+3. Kieron Pollard (from 2019-06-06T17:37:54Z onwards)"
+West_Indies_cricket_team,Name the people who serve as test_captain of West Indies cricket team between 2018 and 2021. (including both the years),"Kraigg Brathwaite, Jason Holder","Based on the provided timeline, the people who served as test_captain of the West Indies cricket team between 2018 and 2021 are:
+
+1. Jason Holder
+2. Kraigg Brathwaite"
+West_Indies_cricket_team,Who were the individual(s) who held the position of the od_captain for the West Indies cricket team from 2018 and 2020? (including both the years),"Kieron Pollard, Jason Holder",Jason Holder (until 2019) and Kieron Pollard (from 2019)
+West_Indies_cricket_team,Who were the individual(s) who acted as the coach of the West Indies cricket team in 2018?,"Nic Pothas, Stuart Law",Stuart Law and Nic Pothas.
+West_Indies_cricket_team,Name the person(s) who served as the coach of the West Indies cricket team in 2019.,"Nic Pothas, Phil Simmons, Richard Pybus, Floyd Reifer",Richard Pybus and Floyd Reifer.
+West_Indies_cricket_team,What was the highest ranking achieved by the West Indies cricket team in the t20i format in 2021?,8,The highest ranking achieved by the West Indies cricket team in the t20i format in 2021 was 8th.
+West_Indies_cricket_team,What was the highest ranking achieved by the West Indies cricket team in the odi format in 2020?,9,9th
+West_Indies_cricket_team,what was the best t20i rank of the West Indies cricket team in 2020?,10,10th
+West_Indies_cricket_team,What is the win to loss ratio of West Indies cricket team in test format in 2017?(Answer in decimal form.),0.5,"According to the timeline, in 2017, West Indies cricket team's test record was ""168/187, (174 draws, 1 tie)"". 
+
+From this, we can calculate the win to loss ratio as follows:
+
+Wins = 168, Losses = 187, Draws = 174, Ties = 1
+
+Wins excluding draws and ties = 168 - 174 = -6 (Assuming wins are those that are not draws or ties)
+
+Wins excluding draws and ties = -6 (Negative wins make no sense, so we can say wins are equal to draws plus wins in the given record)
+
+Wins = 174 + 168 = 342
+
+Wins to Losses ratio = 342 / 187 ≈ 1.83
+
+So, the win to loss ratio of West Indies cricket team in test format in 2017 is approximately 1.83."
+West_Indies_cricket_team,What is the ratio of wins to losses for the West Indies cricket team in the t20i format for 2020?(Answer in decimal form.),1.0,"To calculate the ratio of wins to losses for the West Indies cricket team in the t20i format for 2020, we need to find the number of wins and losses in 2020.
+
+From the timeline, we can find the t20i record for 2020:
+
+""t20i_record_this_year"": ""2/10, (0 ties, 0 no result)""
+
+This means the West Indies cricket team won 2 and lost 10 t20i matches in 2020.
+
+The ratio of wins to losses is therefore:
+
+2 (wins) / 10 (losses) = 0.2
+
+So, the answer is 0.2."
+West_Indies_cricket_team,What is the ratio of wins to losses for the West Indies cricket team in the test format for 2019?(Answer in decimal form.),1.0,"According to the timeline, in 2019, the West Indies cricket team played 5 test matches and won 3, lost 5, and drew 1.
+
+So, the ratio of wins to losses is 3/5 = 0.6."
+West_Indies_cricket_team,What is the win to loss ratio of West Indies cricket team in test format in 2020?(Answer in decimal form.),0.25,"To calculate the win-to-loss ratio, we need to extract the test record for 2020.
+
+From the timeline, we find the test record for 2020:
+
+""test_record_this_year"": ""3/3 (0 draws)""
+
+So, the West Indies cricket team won 3 tests and lost 3 tests in 2020. The win-to-loss ratio is:
+
+3/3 = 1.0
+
+Answer: 1.0"

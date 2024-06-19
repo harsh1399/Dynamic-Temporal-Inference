@@ -1,0 +1,31 @@
+entity,question,actual_answer,predicted_answer
+Uganda_national_cricket_team,Name the person(s) who served as the t20i captain when Steve Tikolo was the coach of the Uganda national cricket team.,Roger Mukasa,Roger Mukasa
+Uganda_national_cricket_team,Does the Uganda national cricket team have the best win percentage in the t20i format in 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2022, with a win percentage of 65.85% (17 wins, 9 losses, 1 no result, and 15 ties/draws in 42 matches). In 2019, their win percentage was 50% (1 win, 1 loss, 0 no result, and 2 ties/draws in 4 matches).
+
+Please note that these numbers are based solely on the information provided in the timeline and might not reflect the actual statistics of the Uganda national cricket team in 2019 and 2022."
+Uganda_national_cricket_team,"What was the duration of Lawrence Mahatlane's tenure as the coach of Uganda national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",361 days,1066 days (approximately)
+Uganda_national_cricket_team,"What was the duration of Roger Mukasa's tenure as the t20i captain of Uganda national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",959 days,"1046 days
+
+Explanation: Roger Mukasa's tenure as the T20I captain of the Uganda national cricket team started on May 21, 2019 (2019-05-21T10:05:05Z) and ended on August 22, 2022 (2022-08-22T01:46:33Z), which is a duration of 1046 days."
+Uganda_national_cricket_team,"Who had the longest stint as the t20i captain of the Uganda national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Roger Mukasa,"Brian Masaba, 3 years.
+
+Explanation:
+According to the provided timeline, Brian Masaba became the T20I captain of the Uganda national cricket team on January 4, 2022, and he continues to hold this position as of December 31, 2022. Therefore, his tenure as captain is at least one year long. Roger Mukasa, the previous captain, was last mentioned in the timeline on December 31, 2019, and Brian Masaba was first mentioned as captain on January 4, 2022. Therefore, Brian Masaba had the longest stint as the T20I captain of the Uganda national cricket team, with a duration of at least three years."
+Uganda_national_cricket_team,"Who had the shortest stint as the t20i captain of the Uganda national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Brian Masaba,"Roger Mukasa, 1 year."
+Uganda_national_cricket_team,"Which person had the shortest tenure as the coach of the Uganda national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Lawrence Mahatlane,"Steve Tikolo, tenure: ~2.5 years."
+Uganda_national_cricket_team,How many people served as the coach of the Uganda national cricket team?,2,"Three coaches.
+
+Explanation:
+From the provided timeline, the coaches of the Uganda national cricket team are:
+
+1. Steve Tikolo: from 2019-05-21T10:05:05Z to 2022-01-04T10:14:08Z.
+2. Lawrence Mahatlane: from 2022-01-04T10:14:08Z to the present.
+3. Between 2022-01-04T10:14:08Z and 2022-04-08T14:14:21Z, there is a gap, but the coach remains Lawrence Mahatlane, so no change is needed.
+4. From 2022-08-22T01:46:33Z to the present, there is another gap, but again, the coach remains Lawrence Mahatlane.
+5. In total, there are three distinct coaches during the given timeline."
+Uganda_national_cricket_team,How many people served as the t20i captain of the Uganda national cricket team?,2,"Four people served as the T20I captain of the Uganda national cricket team during the given timeline. They are Steve Tikolo, Roger Mukasa, Brian Masaba, and an unnamed captain. The unnamed captain led the team in one T20I match in 2022, as indicated by the ""t20i\_record"" field: ""27/13"" (27 wins, 13 losses)."
+Uganda_national_cricket_team,Who was the coach of the Uganda national cricket team before Lawrence Mahatlane?,Steve Tikolo,Steve Tikolo
+Uganda_national_cricket_team,Who assumed the role of coach for the Uganda national cricket team following Steve Tikolo?,Lawrence Mahatlane,Lawrence Mahatlane
+Uganda_national_cricket_team,Who assumed the role of t20i captain for the Uganda national cricket team following Roger Mukasa?,Brian Masaba,Brian Masaba assumed the role of t20i captain for the Uganda national cricket team following Roger Mukasa.
+Uganda_national_cricket_team,What is the win to loss ratio of Uganda national cricket team in t20i format in 2019?(Answer in decimal form.),1.0,The win to loss ratio of Uganda national cricket team in t20i format in 2019 is 1/2 or 0.5. This is calculated as the number of wins (1) divided by the number of losses (2).
+Uganda_national_cricket_team,What is the win to loss ratio of Uganda national cricket team in t20i format in 2022?(Answer in decimal form.),2.0,The win to loss ratio of Uganda national cricket team in t20i format in 2022 is 2.0. This is calculated by taking the number of wins (27) and dividing it by the number of losses (13).

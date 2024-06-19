@@ -1,0 +1,29 @@
+entity,question,actual_answer,predicted_answer
+New_Zealand_national_cricket_team,Name the person(s) who served as the test captain when Gary Stead was the coach of the New Zealand national cricket team.,"Tim Southee, Kane Williamson",Kane Williamson and Tim Southee.
+New_Zealand_national_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Gary Stead as the coach of the New Zealand national cricket team?,Kane Williamson,Kane Williamson.
+New_Zealand_national_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Tim Southee as the test captain of the New Zealand national cricket team?,Kane Williamson,Kane Williamson.
+New_Zealand_national_cricket_team,Was the New Zealand national cricket team's win percentage the highest in the test format in either 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,2021.
+New_Zealand_national_cricket_team,Does the New Zealand national cricket team have the best win percentage in the t20i format in 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,2019.
+New_Zealand_national_cricket_team,Who was the t20i captain when test captain was Tim Southee and coach was Gary Stead of the New Zealand national cricket team?,Kane Williamson,Kane Williamson.
+New_Zealand_national_cricket_team,Who was the od captain when test captain was Tim Southee and coach was Gary Stead of the New Zealand national cricket team?,Kane Williamson,Kane Williamson.
+New_Zealand_national_cricket_team,"How long did Tim Southee serve as the test captain of New Zealand national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",68 days,89 days.
+New_Zealand_national_cricket_team,"What was the duration of Gary Stead's tenure as the coach of New Zealand national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1530 days,1444 days
+New_Zealand_national_cricket_team,"Which person had the longest tenure as the test captain of the New Zealand national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Kane Williamson,Kane Williamson.
+New_Zealand_national_cricket_team,"Who had the shortest stint as the t20i captain of the New Zealand national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Kane Williamson,"No one, as Kane Williamson was the T20I captain throughout the timeline."
+New_Zealand_national_cricket_team,"Who had the shortest stint as the od captain of the New Zealand national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Kane Williamson,"No one, Kane Williamson was the od captain throughout the timeline."
+New_Zealand_national_cricket_team,How many people served as the od captain of the New Zealand national cricket team?,1,1.
+New_Zealand_national_cricket_team,How many people served as the t20i captain of the New Zealand national cricket team?,1,1
+New_Zealand_national_cricket_team,Who served as the test captain of the New Zealand national cricket team prior to Tim Southee?,Kane Williamson,Kane Williamson.
+New_Zealand_national_cricket_team,Who assumed the role of test captain for the New Zealand national cricket team following Kane Williamson?,Tim Southee,Tim Southee.
+New_Zealand_national_cricket_team,What is the ratio of wins to losses for the New Zealand national cricket team in the odi format for 2019?(Answer in decimal form.),1.86,The answer is 7/4 = 1.75.
+New_Zealand_national_cricket_team,What is the ratio of wins to losses for the New Zealand national cricket team in the test format for 2019?(Answer in decimal form.),5.0,95/171 = 0.56
+New_Zealand_national_cricket_team,What is the win to loss ratio of New Zealand national cricket team in test format in 2021?(Answer in decimal form.),3.0,"Based on the provided timeline, the win to loss ratio of New Zealand national cricket team in the test format in 2021 can be calculated as follows:
+
+In 2021, the team played 3 tests and won 3, lost 0, and drew 1.
+
+Win to loss ratio = Number of wins / Number of losses = 3 / 0 = ∞ (since there are no losses)
+
+However, since you asked for a decimal answer, I'll provide an alternative calculation:
+
+Win to loss ratio = Number of wins / (Number of losses + 1) = 3 / 1 = 3.0"
+New_Zealand_national_cricket_team,What is the ratio of wins to losses for the New Zealand national cricket team in the t20i format for 2021?(Answer in decimal form.),1.3,The ratio of wins to losses for the New Zealand national cricket team in the t20i format for 2021 is 6/4 = 1.5.

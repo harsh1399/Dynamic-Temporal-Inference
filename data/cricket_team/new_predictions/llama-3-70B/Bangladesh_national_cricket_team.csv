@@ -1,0 +1,82 @@
+entity,question,actual_answer,predicted_answer
+Bangladesh_national_cricket_team,Name the person(s) who served as the t20i captain when Russell Domingo was the coach of the Bangladesh national cricket team.,"Shakib Al Hasan, Mahmudullah",Mahmudullah.
+Bangladesh_national_cricket_team,Who were the individual(s) serving as the test captain during the tenure of Russell Domingo as the coach of the Bangladesh national cricket team?,"Shakib Al Hasan, Mominul Haque",Mominul Haque and Shakib Al Hasan.
+Bangladesh_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Mashrafe Mortaza as the od captain of the Bangladesh national cricket team?,"Shakib Al Hasan, Mahmudullah",Shakib Al Hasan
+Bangladesh_national_cricket_team,Name the person(s) who served as the t20i captain when Chandika Hathurusingha was the coach of the Bangladesh national cricket team.,Shakib Al Hasan,Shakib Al Hasan.
+Bangladesh_national_cricket_team,Name the person(s) who served as the test coach when Shakib Al Hasan was the t20i captain of the Bangladesh national cricket team.,Jamie Siddons,"Based on the timeline, when Shakib Al Hasan was the T20I captain of the Bangladesh national cricket team, the test coach was either Russell Domingo or Jamie Siddons or Chandika Hathurusingha."
+Bangladesh_national_cricket_team,Was the Bangladesh national cricket team's win percentage the highest in the test format in either 2017 or 2020?(Answer in year)(Include no results/ties/draws in total number of matches.),2020,2017.
+Bangladesh_national_cricket_team,Does the Bangladesh national cricket team have the best win percentage in the test format in 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,2019
+Bangladesh_national_cricket_team,Does the Bangladesh national cricket team have the best win percentage in the odi format in 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,2019.
+Bangladesh_national_cricket_team,Does the Bangladesh national cricket team have the best win percentage in the t20i format in 2017 or 2018?(Answer in year)(Include no results/ties/draws in total number of matches.),2018,2017
+Bangladesh_national_cricket_team,Who was the t20i captain when od captain was Mashrafe Mortaza and coach was Russell Domingo of the Bangladesh national cricket team?,"Shakib Al Hasan, Mahmudullah",Shakib Al Hasan.
+Bangladesh_national_cricket_team,Who was the od captain when t20i captain was Mahmudullah and coach was Russell Domingo of the Bangladesh national cricket team?,"Tamim Iqbal, Mashrafe Mortaza",Tamim Iqbal.
+Bangladesh_national_cricket_team,Who was the coach when t20i captain was Shakib Al Hasan and od captain was Mashrafe Mortaza of the Bangladesh national cricket team?,"Chandika Hathurusingha, Richard Halsall, Steve Rhodes, Russell Domingo, Vacant",Richard Halsall.
+Bangladesh_national_cricket_team,"Name the person(s) who served as the coach during the tenure of Mahmudullah and Mashrafe Mortaza as the t20i captain and od captain, respectively, of the Bangladesh national cricket team.",Russell Domingo,Russell Domingo.
+Bangladesh_national_cricket_team,Who was the od captain when t20i captain was Shakib Al Hasan and coach was Vacant of the Bangladesh national cricket team?,Mashrafe Mortaza,Mashrafe Mortaza
+Bangladesh_national_cricket_team,In which year did Steve Rhodes first assume the role of coach for the Bangladesh national cricket team?,2018,2018
+Bangladesh_national_cricket_team,In which year did Mominul Haque become the test_captain of the Bangladesh national cricket team for the first time?,2019,2018.
+Bangladesh_national_cricket_team,"How long did Shakib Al Hasan serve as the test captain of Bangladesh national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",884 days,"Shakib Al Hasan served as the test captain of Bangladesh national cricket team for 2018-01-27 to 2019-09-13 and 2023-01-10 onward.  
+
+That's approximately 549 days + (days from 2023-01-10 onward which is not defined by the timeline hence cannot be calculated)."
+Bangladesh_national_cricket_team,"How long did Russell Domingo serve as the coach of Bangladesh national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1215 days,"Russell Domingo served as the coach of Bangladesh national cricket team from 2018-06-07T12:14:23Z to 2021-09-10T13:42:05Z, which is approximately 1226 days."
+Bangladesh_national_cricket_team,"What was the duration of Mashrafe Mortaza's tenure as the od captain of Bangladesh national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",945 days,"Mashrafe Mortaza's tenure as the ODI captain of Bangladesh national cricket team started on 2017-10-18 and ended on 2020-05-20. Therefore, the duration of his tenure is 951 days."
+Bangladesh_national_cricket_team,"What was the duration of Shakib Al Hasan's tenure as the t20i captain of Bangladesh national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",958 days,"Shakib Al Hasan was the t20i captain of Bangladesh national cricket team from 2017-10-18 to 2021-01-05, and then again from 2023-01-10 to the end of the timeline.
+
+Duration 1: 
+2021-01-05 - 2017-10-18 = 1173 days
+
+Duration 2: 
+( End of timeline, assuming it is 2023-06-13) - 2023-01-10 = 154 days
+
+Total duration = 1173 + 154 = 1327 days"
+Bangladesh_national_cricket_team,"Which person had the longest tenure as the od captain of the Bangladesh national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Tamim Iqbal,Mashrafe Mortaza had the longest tenure as the ODI captain of the Bangladesh national cricket team.
+Bangladesh_national_cricket_team,"Which person had the shortest tenure as the test captain of the Bangladesh national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Mushfiqur Rahim,Mashrafe Mortaza with a tenure of approximately 1 month.
+Bangladesh_national_cricket_team,How many individuals took on the role of coach of the Bangladesh national cricket team?,6,6
+Bangladesh_national_cricket_team,How many individuals took on the role of t20i captain of the Bangladesh national cricket team?,2,2
+Bangladesh_national_cricket_team,How many people served as the od captain of the Bangladesh national cricket team?,2,2
+Bangladesh_national_cricket_team,Who was the test captain of the Bangladesh national cricket team before Mominul Haque?,Shakib Al Hasan,Shakib Al Hasan.
+Bangladesh_national_cricket_team,Who served as the coach of the Bangladesh national cricket team prior to Richard Halsall?,Vacant,Chandika Hathurusingha.
+Bangladesh_national_cricket_team,Who was the coach of Bangladesh national cricket team after Richard Halsall?,Steve Rhodes,The coach of Bangladesh national cricket team after Richard Halsall was Steve Rhodes.
+Bangladesh_national_cricket_team,"How many total(including ODIs,Tests,T20Is) matches did the Bangladesh national cricket team play between 2018 and 2019? (including both the years)",76,"According to the timeline, between 2018 and 2019, Bangladesh played:
+
+* Tests: 8 (112-104 = 8)
+* ODIs: 24 (355-331 = 24)
+* T20Is: 13 (85-72 = 13)
+
+Total matches played: 8 + 24 + 13 = 45"
+Bangladesh_national_cricket_team,How many test matches did the Bangladesh national cricket team play between 2018 and 2020? (including both the years),15,12
+Bangladesh_national_cricket_team,"How many total(including ODIs,Tests,T20Is) matches did the Bangladesh national cricket team play between 2018 and 2021? (including both the years)",131,"37 tests, 55 ODIs, 64 T20Is."
+Bangladesh_national_cricket_team,How many test matches did the Bangladesh national cricket team play between 2019 and 2020? (including both the years),7,The answer is 13.
+Bangladesh_national_cricket_team,Who were the individual(s) who held the position of the t20i_captain for the Bangladesh national cricket team from 2019 and 2020? (including both the years),"Shakib Al Hasan, Mahmudullah",Shakib Al Hasan (2019) and Mahmudullah (2019-2020).
+Bangladesh_national_cricket_team,Who were the individual(s) who acted as the coach of the Bangladesh national cricket team in 2020?,Russell Domingo,Russell Domingo
+Bangladesh_national_cricket_team,Name the person(s) who served as the coach of the Bangladesh national cricket team in 2021.,Russell Domingo,Russell Domingo.
+Bangladesh_national_cricket_team,Who were the individual(s) who acted as the coach of the Bangladesh national cricket team in 2019?,"Steve Rhodes, Russell Domingo","In 2019, the coach of the Bangladesh national cricket team was Russell Domingo."
+Bangladesh_national_cricket_team,what was the best test rank of the Bangladesh national cricket team in 2018?,8,The best test rank of the Bangladesh national cricket team in 2018 was 8th.
+Bangladesh_national_cricket_team,what was the best odi rank of the Bangladesh national cricket team in 2019?,7,7th
+Bangladesh_national_cricket_team,what was the best test rank of the Bangladesh national cricket team in 2021?,9,The best test rank of the Bangladesh national cricket team in 2021 was 9th.
+Bangladesh_national_cricket_team,What was the highest ranking achieved by the Bangladesh national cricket team in the test format in 2020?,9,9th
+Bangladesh_national_cricket_team,What is the ratio of wins to losses for the Bangladesh national cricket team in the odi format for 2021?(Answer in decimal form.),2.0,"Based on the data, in 2021, Bangladesh national cricket team played 8 ODI matches and won 8 matches, lost 4 matches. The ratio of wins to losses is 8/4 = 2."
+Bangladesh_national_cricket_team,What is the ratio of wins to losses for the Bangladesh national cricket team in the t20i format for 2020?(Answer in decimal form.),1.0,"Based on the provided timeline, I can help answer your question.
+
+For 2020, the t20i record for the Bangladesh national cricket team is:
+
+""t20i_record_this_year"": ""4/3 (0 ties, 0 no results)""
+
+This means they won 4 matches and lost 3 matches in 2020.
+
+To calculate the ratio of wins to losses, divide the number of wins by the number of losses:
+
+Ratio = Wins / Losses = 4 / 3 = 1.33
+
+So, the ratio of wins to losses for the Bangladesh national cricket team in the t20i format for 2020 is 1.33."
+Bangladesh_national_cricket_team,What is the win to loss ratio of Bangladesh national cricket team in test format in 2020?(Answer in decimal form.),1.0,"Based on the provided timeline, we can extract the test record for 2020:
+
+""2020-01-02T20:28:00Z"": ... ""test_record"": ""13/88 (16 draws)"", ""test_record_this_year"": ""0/0 (0 draws)""
+
+""2020-05-20T08:16:48Z"": ... ""test_record"": ""14/89 (16 draws)"", ""test_record_this_year"": ""1/1 (0 draws)""
+
+Since the ""test_record_this_year"" is ""1/1 (0 draws)"" at ""2020-05-20T08:16:48Z"", we can infer that the win-loss ratio for 2020 is:
+
+1 (win) / 1 (loss) = 1.0
+
+So, the win to loss ratio of Bangladesh national cricket team in test format in 2020 is 1.0."

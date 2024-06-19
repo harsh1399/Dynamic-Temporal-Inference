@@ -1,0 +1,43 @@
+entity,question,actual_answer,predicted_answer
+Bahrain_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Shahzaib Hasan as the coach of the Bahrain national cricket team?,"Haider Butt, Sarfaraz Ali","Al Amin Shehzad, Haider Butt, Sarfaraz Ali"
+Bahrain_national_cricket_team,Name the person(s) who served as the coach when Al Amin Shehzad was the t20i captain of the Bahrain national cricket team.,Younis Khan,"Younis Khan, Shahzaib Hasan"
+Bahrain_national_cricket_team,Was the Bahrain national cricket team's win percentage the highest in the t20i format in either 2019 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"No, in 2019 or 2023.
+The highest win percentage for the Bahrain national cricket team in the t20i format was in 2022, with a win-loss record of 16-17 (2 ties, 1 no result), which equates to a win percentage of 48.48%. The team's performance in 2019 and 2023 does not surpass this win percentage."
+Bahrain_national_cricket_team,Does the Bahrain national cricket team have the best win percentage in the t20i format in 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2019 (48th rank, 2/2 record) because the win percentage is not mentioned in the timeline, we can only compare their rankings and number of matches played. In 2019, the team was ranked 48th with a 100% win rate (2 wins in 2 matches). In 2022, the team's ranking improved significantly, however, their win rate never reached 100%. The team played more matches in 2022, but their performance was not as perfect as it was in the last match of 2019."
+Bahrain_national_cricket_team,In which year did Sarfaraz Ali become the t20i_captain of the Bahrain national cricket team for the first time?,2023,Sarfaraz Ali became the t20i_captain of the Bahrain national cricket team for the first time in 2023.
+Bahrain_national_cricket_team,"How long did Al Amin Shehzad serve as the t20i captain of Bahrain national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1053 days,"624 days (approximately)
+
+Explanation:
+Al Amin Shehzad served as the T20I captain of the Bahrain national cricket team from December 31, 2019, to February 17, 2023, which is approximately 624 days."
+Bahrain_national_cricket_team,"What was the duration of Haider Butt's tenure as the t20i captain of Bahrain national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",91 days,"273 days
+
+Explanation:
+The timeline shows that Haider Butt became the T20I captain of the Bahrain national cricket team on November 18, 2022, and remained in that position until December 31, 2023. Therefore, Haider Butt's tenure as the T20I captain of Bahrain national cricket team lasted for 273 days (from November 18, 2022, to December 31, 2023)."
+Bahrain_national_cricket_team,"Who had the longest stint as the t20i captain of the Bahrain national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Al Amin Shehzad,"Al Amin Shehzad, 20 months."
+Bahrain_national_cricket_team,"Which person had the shortest tenure as the t20i captain of the Bahrain national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Haider Butt,"Sarfaraz Ali, 0 ties/0 no results.
+
+The person with the shortest tenure as the T20I captain of the Bahrain national cricket team is Sarfaraz Ali, who became captain in the entry dated ""2023-02-17T17:26:32Z"" and remained captain through the end of the timeline on ""2023-12-31T11:15:08Z"", with no ties or no results during his tenure."
+Bahrain_national_cricket_team,How many people served as the t20i captain of the Bahrain national cricket team?,3,Four people served as the T20I captain of the Bahrain national cricket team.
+Bahrain_national_cricket_team,Who was the t20i captain of the Bahrain national cricket team before Sarfaraz Ali?,Haider Butt,Al Amin Shehzad or Haider Butt
+Bahrain_national_cricket_team,Who was the t20i captain of the Bahrain national cricket team before Haider Butt?,Al Amin Shehzad,Al Amin Shehzad
+Bahrain_national_cricket_team,Who assumed the role of t20i captain for the Bahrain national cricket team following Haider Butt?,Sarfaraz Ali,Sarfaraz Ali assumed the role of t20i captain for the Bahrain national cricket team following Haider Butt.
+Bahrain_national_cricket_team,Name the person(s) who served as the coach of the Bahrain national cricket team in 2023.,Shahzaib Hasan,Shahzaib Hasan
+Bahrain_national_cricket_team,What was the highest ranking achieved by the Bahrain national cricket team in the t20i format in 2023?,28,28th in February 2023.
+Bahrain_national_cricket_team,What is the win to loss ratio of Bahrain national cricket team in t20i format in 2022?(Answer in decimal form.),0.75,"The win to loss ratio of the Bahrain national cricket team in T20I format in 2022 is approximately 0.625.
+
+Explanation:
+To calculate the win to loss ratio, we need to divide the number of wins by the number of losses. From the timeline, we can see that the Bahrain national cricket team played a total of 24 T20I matches in 2022 (excluding the last entry, which is incomplete). Out of these, they won 15 and lost 9.
+
+So, the win to loss ratio is 15/9 = 1.666. However, since the question asks for the ratio in decimal form, we need to convert it to a decimal by dividing the number of wins by the sum of the number of wins and losses.
+
+Win to loss ratio (decimal) = Wins / (Wins + Losses) = 15 / (15+9) = 15 / 24 = 0.625.
+
+Therefore, the win to loss ratio of the Bahrain national cricket team in T20I format in 2022 is approximately 0.625.
+
+Note: All the calculations are based on the information presented in the timeline."
+Bahrain_national_cricket_team,What is the ratio of wins to losses for the Bahrain national cricket team in the t20i format for 2023?(Answer in decimal form.),0.0,"The ratio of wins to losses for the Bahrain national cricket team in the t20i format for 2023 is 0/0 = 0.
+
+Explanation:
+
+According to the provided timeline, the Bahrain national cricket team played 0 T20I matches in 2023 before the date of December 31, 2023, 11:15:08Z. Therefore, the ratio of wins to losses for the Bahrain national cricket team in the t20i format for 2023 is 0/0 = 0."
+Bahrain_national_cricket_team,What is the win to loss ratio of Bahrain national cricket team in t20i format in 2019?(Answer in decimal form.),1.0,"The win to loss ratio of the Bahrain national cricket team in T20I format in 2019 is 1/1 or 1.0. This information can be determined by looking at the ""t20i\_record"" field in the timeline entry for December 31, 2019, which shows a record of 2/2 (wins/losses) for that year."

@@ -1,0 +1,38 @@
+entity,question,actual_answer,predicted_answer
+England_cricket_team,Name the person(s) who served as the coach when Eoin Morgan was the t20i captain of the England cricket team.,"Chris Silverwood, Trevor Bayliss","Trevor Bayliss, Chris Silverwood, Matthew Mott"
+England_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Ben Stokes as the test captain of the England cricket team?,"Eoin Morgan, Jos Buttler",Jos Buttler
+England_cricket_team,Who were the individual(s) serving as the od coach during the tenure of Ben Stokes as the test captain of the England cricket team?,"Matthew Mott, Vacant",Matthew Mott
+England_cricket_team,Name the person(s) who served as the test coach when Jos Buttler was the od captain of the England cricket team.,Brendon McCullum,Brendon McCullum
+England_cricket_team,Name the person(s) who served as the test coach when Eoin Morgan was the od captain of the England cricket team.,Brendon McCullum,Brendon McCullum (2022-05-12T13:36:04Z to present)
+England_cricket_team,Was the England cricket team's win percentage the highest in the test format in either 2021 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"No, in both 2021 and 2022."
+England_cricket_team,Was the England cricket team's win percentage the highest in the odi format in either 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"Yes, 2019. (8 ties, 27 no result)"
+England_cricket_team,"Name the person(s) who served as the od captain during the tenure of Ben Stokes and Matthew Mott as the test captain and od coach, respectively, of the England cricket team.","Eoin Morgan, Jos Buttler",Jos Buttler
+England_cricket_team,"Name the person(s) who served as the od captain during the tenure of Ben Stokes and Brendon McCullum as the test captain and test coach, respectively, of the England cricket team.","Eoin Morgan, Jos Buttler",Jos Buttler
+England_cricket_team,Who was the t20i captain when test coach was Brendon McCullum and od coach was Matthew Mott of the England cricket team?,"Eoin Morgan, Jos Buttler",Eoin Morgan / Jos Buttler
+England_cricket_team,"Name the person(s) who served as the test coach during the tenure of Eoin Morgan and Matthew Mott as the t20i captain and od coach, respectively, of the England cricket team.",Brendon McCullum,Brendon McCullum
+England_cricket_team,In which year did Ben Stokes become the test_captain of the England cricket team for the first time?,2022,"The year Ben Stokes became the test captain of the England cricket team for the first time was 2022. Specifically, according to the timeline provided, it was on May 12, 2022 (see the table with timestamp ""2022-05-12T13:36:04Z"")."
+England_cricket_team,"How long did Jos Buttler serve as the t20i captain of England cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",189 days,516 days
+England_cricket_team,"What was the duration of Jos Buttler's tenure as the od captain of England cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",189 days,544 days
+England_cricket_team,"How long did Eoin Morgan serve as the od captain of England cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1324 days,"1,479 days"
+England_cricket_team,"Which person had the shortest tenure as the t20i captain of the England cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Jos Buttler,"Eoin Morgan, 2023-01-10T11:25:16Z to 2023-03-20T07:03:41Z"
+England_cricket_team,"Who had the longest stint as the test captain of the England cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Joe Root,"Joe Root, 43 timeline entries"
+England_cricket_team,"Which person had the longest tenure as the od captain of the England cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Eoin Morgan,Eoin Morgan had the longest tenure as the ODI captain of the England cricket team.
+England_cricket_team,"Who had the shortest stint as the od captain of the England cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Jos Buttler,"Eoin Morgan, 2022-09-12T11:43:34Z to 2023-01-10T11:25:16Z."
+England_cricket_team,How many people served as the t20i captain of the England cricket team?,2,"Three people served as the T20I captain of the England cricket team: Eoin Morgan, Ben Stokes, and Jos Buttler."
+England_cricket_team,How many individuals took on the role of test captain of the England cricket team?,2,"Three individuals took on the role of test captain of the England cricket team. They are Joe Root, Ben Stokes, and an unnamed captain on 2022-06-27T13:38:21Z."
+England_cricket_team,Who was the t20i captain of the England cricket team before Jos Buttler?,Eoin Morgan,Eoin Morgan
+England_cricket_team,Who was the test captain of England cricket team after Joe Root?,Ben Stokes,Ben Stokes
+England_cricket_team,Who were the individual(s) who acted as the coach of the England cricket team in 2022?,Chris Silverwood,"Brendon McCullum, Matthew Mott"
+England_cricket_team,What was the highest ranking achieved by the England cricket team in the test format in 2022?,3,"3rd in tests, 2022."
+England_cricket_team,What was the highest ranking achieved by the England cricket team in the odi format in 2022?,1,1st in ODI rank in 2022.
+England_cricket_team,what was the best t20i rank of the England cricket team in 2022?,1,Best t20i rank of England cricket team in 2022 was 2nd.
+England_cricket_team,What is the win to loss ratio of England cricket team in test format in 2019?(Answer in decimal form.),0.8,The win to loss ratio of England cricket team in test format in 2019 is 4/5 = 0.8.
+England_cricket_team,What is the ratio of wins to losses for the England cricket team in the odi format for 2019?(Answer in decimal form.),2.8,"The ratio of wins to losses for the England cricket team in the ODI format for 2019 is approximately 2.86:1 or 2.86.
+
+Here's the calculation:
+
+In 2019, England played 52 ODIs (14 wins + 1 tie + 37 no result)
+- 14 wins
+- 5 losses (14 total matches - 14 wins - 1 tie - 37 no result)
+
+The ratio of wins to losses for the England cricket team in the ODI format for 2019 is 14:5, which can be simplified to 2.8:1 or 2.8 (when rounded to one decimal place)."

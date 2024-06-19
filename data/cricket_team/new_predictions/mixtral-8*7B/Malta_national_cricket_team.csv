@@ -1,0 +1,40 @@
+entity,question,actual_answer,predicted_answer
+Malta_national_cricket_team,Name the person(s) who served as the coach when Bikram Arora was the t20i captain of the Malta national cricket team.,"Rajkumar Sharma, Subhas Roy","Rajkumar Sharma, Subhas Roy"
+Malta_national_cricket_team,Name the person(s) who served as the t20i captain when Subhas Roy was the coach of the Malta national cricket team.,"Samuel Aquilina, Bikram Arora","Rajkumar Sharma, Nowell Khosla, Samuel Aquilina, Bikram Arora"
+Malta_national_cricket_team,Name the person(s) who served as the coach when Samuel Aquilina was the t20i captain of the Malta national cricket team.,Subhas Roy,Subhas Roy
+Malta_national_cricket_team,Name the person(s) who served as the coach when Nowell Khosla was the t20i captain of the Malta national cricket team.,Rajkumar Sharma,Rajkumar Sharma
+Malta_national_cricket_team,Does the Malta national cricket team have the best win percentage in the t20i format in 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2023; with a win percentage of 17/20 (85%). This calculation is based on the ""t20i\_record"" (Wins) and ""num\_t20is"" (Total matches) from the provided timeline, specifically from the entry on ""2023-12-31T17:30:09Z"". The win percentage is calculated as (Wins / Total matches). The second-best win percentage was found to be in 2021 with a win percentage of 17/38 (44.7%), but the highest win percentage was present in the entry for 2023-12-31."
+Malta_national_cricket_team,Was the Malta national cricket team's win percentage the highest in the t20i format in either 2021 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,In 2023.
+Malta_national_cricket_team,Does the Malta national cricket team have the best win percentage in the t20i format in 2019 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2023,"2023, based on the information provided, the Malta national cricket team has a higher win percentage in the T20I format in 2023 (17 wins out of 20 matches, including 1 tie and 1 no result) compared to 2019 (0 wins out of 2 matches, with no ties or no results). Therefore, the team has the best win percentage in the T20I format in 2023."
+Malta_national_cricket_team,"What was the duration of Samuel Aquilina's tenure as the t20i captain of Malta national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",260 days,513 days
+Malta_national_cricket_team,"What was the duration of Bikram Arora's tenure as the t20i captain of Malta national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1201 days,"730 days (approximately)
+
+Explanation:
+The first record indicating Bikram Arora as the t20i captain of Malta national cricket team is on the 2021-09-23T10:24:57Z entry, and the last record is on the 2023-12-31T17:30:09Z entry. The duration between these two dates is approximately 730 days."
+Malta_national_cricket_team,"What was the duration of Nowell Khosla's tenure as the t20i captain of Malta national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",242 days,163 days
+Malta_national_cricket_team,"Which person had the longest tenure as the coach of the Malta national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Subhas Roy,"Subhas Roy, ~3 years (as of 2023-12-31T17:30:09Z)."
+Malta_national_cricket_team,"Who had the shortest stint as the coach of the Malta national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Rajkumar Sharma,"Rajkumar Sharma, 1 day.
+
+Explanation:
+Rajkumar Sharma coached the Malta national cricket team on 2019-05-03 only, hence his stint was of 1 day."
+Malta_national_cricket_team,"Which person had the longest tenure as the t20i captain of the Malta national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Bikram Arora,"Bikram Arora, 20 months."
+Malta_national_cricket_team,"Who had the shortest stint as the t20i captain of the Malta national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Nowell Khosla,"Bikram Arora, one match.
+
+Explanation: Bikram Arora's tenure as captain is the shortest, with only one match played during his stint as captain, according to the provided timeline data."
+Malta_national_cricket_team,How many individuals took on the role of coach of the Malta national cricket team?,2,Two individuals took on the role of coach.
+Malta_national_cricket_team,How many individuals took on the role of t20i captain of the Malta national cricket team?,3,"Four individuals took on the role of t20i captain of the Malta national cricket team. These are Nowell Khosla, Bikram Arora, Samuel Aquilina, and Rajkumar Sharma."
+Malta_national_cricket_team,Who served as the coach of the Malta national cricket team prior to Subhas Roy?,Rajkumar Sharma,Rajkumar Sharma served as the coach prior to Subhas Roy.
+Malta_national_cricket_team,Who was the t20i captain of the Malta national cricket team before Samuel Aquilina?,Bikram Arora,Nowell Khosla (before May 2021)
+Malta_national_cricket_team,Who assumed the role of coach for the Malta national cricket team following Rajkumar Sharma?,Subhas Roy,Subhas Roy assumed the role of coach.
+Malta_national_cricket_team,Who was the t20i captain of Malta national cricket team after Nowell Khosla?,Bikram Arora,Samuel Aquilina became the T20i captain of the Malta national cricket team after Nowell Khosla.
+Malta_national_cricket_team,Name the person(s) who served as the coach of the Malta national cricket team in 2023.,Subhas Roy,Subhas Roy
+Malta_national_cricket_team,What was the highest ranking achieved by the Malta national cricket team in the t20i format in 2023?,54,Highest ranking: 54th (December 2023)
+Malta_national_cricket_team,What is the win to loss ratio of Malta national cricket team in t20i format in 2023?(Answer in decimal form.),0.0,"The win to loss ratio of Malta national cricket team in t20i format in 2023 is 17/3 = 5.67 (in decimal form). This is obtained by taking the number of wins (17) and dividing it by the number of losses (3), based on the data provided in the timeline for the year 2023."
+Malta_national_cricket_team,What is the ratio of wins to losses for the Malta national cricket team in the t20i format for 2021?(Answer in decimal form.),0.89,"The ratio of wins to losses for the Malta national cricket team in the t20i format for 2021 is 17/12 or approximately 1.42.
+
+Here's the calculation:
+
+* From Jan 1, 2021 to Dec 31, 2021, the Malta national cricket team played a total of 20 t20i matches.
+* They won 17 of those matches and lost 12 of them (there was 1 tie and 1 no result).
+* So, the ratio of wins to losses is 17/12 or approximately 1.42."
+Malta_national_cricket_team,What is the ratio of wins to losses for the Malta national cricket team in the t20i format for 2019?(Answer in decimal form.),0.0,"0/2 (0 wins, 2 losses) = 0/2 = 0 (in decimal form)"

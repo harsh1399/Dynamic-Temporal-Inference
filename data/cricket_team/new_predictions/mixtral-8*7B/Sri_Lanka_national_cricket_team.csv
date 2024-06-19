@@ -1,0 +1,70 @@
+entity,question,actual_answer,predicted_answer
+Sri_Lanka_national_cricket_team,Name the person(s) who served as the test captain when Lasith Malinga was the od captain of the Sri Lanka national cricket team.,"Dimuth Karunaratne, Dinesh Chandimal",Dimuth Karunaratne
+Sri_Lanka_national_cricket_team,Name the person(s) who served as the od captain when Mickey Arthur was the coach of the Sri Lanka national cricket team.,"Dimuth Karunaratne, Dasun Shanaka","Dimuth Karunaratne, Dasun Shanaka"
+Sri_Lanka_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Dasun Shanaka as the od captain of the Sri Lanka national cricket team?,"Mickey Arthur, Chris Silverwood",Chris Silverwood (2023)
+Sri_Lanka_national_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Chris Silverwood as the coach of the Sri Lanka national cricket team?,Dasun Shanaka,Dasun Shanaka
+Sri_Lanka_national_cricket_team,Was the Sri Lanka national cricket team's win percentage the highest in the test format in either 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2021, not in 2019."
+Sri_Lanka_national_cricket_team,Was the Sri Lanka national cricket team's win percentage the highest in the t20i format in either 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2021, not highest.
+
+The Sri Lanka national cricket team's t20i win percentage in 2019 was 60/67 (90%) and in 2021 was 79/94 (84%). Although their win percentage was higher in 2021 than in previous years, it was not the highest in either 2019 or 2021."
+Sri_Lanka_national_cricket_team,Does the Sri Lanka national cricket team have the best win percentage in the odi format in 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2021, not best win percentage.
+
+Explanation: In 2019, the Sri Lanka national cricket team played 14 ODIs, winning 7 and losing 7 with no ties or no results. This gives them a win percentage of 50%. In 2021, they played 15 ODIs, winning 4 and losing 11 with no ties or no results, giving them a win percentage of 26.67%. Therefore, the Sri Lanka national cricket team did not have the best win percentage in the ODI format in either 2019 or 2021."
+Sri_Lanka_national_cricket_team,Who was the coach when t20i captain was Lasith Malinga and od captain was Dimuth Karunaratne of the Sri Lanka national cricket team?,"Rumesh Ratnayake, Chandika Hathurusinghe, Mickey Arthur",Chandika Hathurusinghe
+Sri_Lanka_national_cricket_team,Who was the test captain when t20i captain was Lasith Malinga and coach was Chandika Hathurusinghe of the Sri Lanka national cricket team?,"Dimuth Karunaratne, Dinesh Chandimal",Dimuth Karunaratne
+Sri_Lanka_national_cricket_team,Who was the t20i captain when od captain was Dimuth Karunaratne and coach was Mickey Arthur of the Sri Lanka national cricket team?,"Lasith Malinga, Dasun Shanaka",Lasith Malinga
+Sri_Lanka_national_cricket_team,Who was the coach when t20i captain was Dasun Shanaka and od captain was Dimuth Karunaratne of the Sri Lanka national cricket team?,Mickey Arthur,Chris Silverwood
+Sri_Lanka_national_cricket_team,"How long did Rumesh Ratnayake serve as the coach of Sri Lanka national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",135 days,175 days
+Sri_Lanka_national_cricket_team,"How long did Lasith Malinga serve as the od captain of Sri Lanka national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",157 days,952 days
+Sri_Lanka_national_cricket_team,"What was the duration of Dasun Shanaka's tenure as the od captain of Sri Lanka national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",708 days,732 days (as of 2023-04-08)
+Sri_Lanka_national_cricket_team,"What was the duration of Dimuth Karunaratne's tenure as the od captain of Sri Lanka national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",683 days,1952 days
+Sri_Lanka_national_cricket_team,"Who had the longest stint as the coach of the Sri Lanka national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Mickey Arthur,"Mickey Arthur, 4 years."
+Sri_Lanka_national_cricket_team,"Who had the shortest stint as the od captain of the Sri Lanka national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Lasith Malinga,"Dasun Shanaka, 10 ODIs."
+Sri_Lanka_national_cricket_team,How many people served as the coach of the Sri Lanka national cricket team?,4,"Five people served as the coach: Chandika Hathurusinghe, Rumesh Ratnayake, Mickey Arthur, and Chris Silverwood. However, it's worth noting that Mickey Arthur is listed twice, implying that there may have been a change and reappointment during that time. It's best to verify this information from a reliable source."
+Sri_Lanka_national_cricket_team,How many people served as the t20i captain of the Sri Lanka national cricket team?,2,4 people
+Sri_Lanka_national_cricket_team,Who was the t20i captain of the Sri Lanka national cricket team before Dasun Shanaka?,Lasith Malinga,Lasith Malinga
+Sri_Lanka_national_cricket_team,Who was the od captain of the Sri Lanka national cricket team before Dasun Shanaka?,Dimuth Karunaratne,Lasith Malinga
+Sri_Lanka_national_cricket_team,Who was the coach of Sri Lanka national cricket team after Rumesh Ratnayake?,Mickey Arthur,Mickey Arthur
+Sri_Lanka_national_cricket_team,Who was the coach of Sri Lanka national cricket team after Chandika Hathurusinghe?,Rumesh Ratnayake,Mickey Arthur
+Sri_Lanka_national_cricket_team,What is the ratio of wins to losses for the Sri Lanka national cricket team in the odi format for 2019?(Answer in decimal form.),0.5,"The ratio of wins to losses for the Sri Lanka national cricket team in the ODI format for 2019 is approximately 0.273.
+
+Explanation:
+In 2019, the Sri Lanka national cricket team played a total of 30 ODI matches (as can be seen in the num\_odis field for the timestamps 2019-02-26T08:11:00Z, 2019-06-17T03:21:19Z, 2019-08-18T06:58:41Z, and 2019-12-31T11:27:32Z).
+
+The team won 7 of these matches (as indicated by the increasing value of the odi\_record field for the same timestamps, starting from 386 and increasing by 5 each time).
+
+The team lost 19 of these matches (as can be inferred from the increasing value of the odi\_record field, since the number of ties and no results remained constant).
+
+Therefore, the ratio of wins to losses for the Sri Lanka national cricket team in the ODI format for 2019 is:
+
+wins / losses = 7 / 19 = 0.368
+
+(rounded to three decimal places).
+
+However, the question asks for the ratio in decimal form, so we assume that the decimal form refers to a single number that represents the ratio of wins to losses, rather than the fraction itself. In other words, we need to divide the number of wins by the number of losses to get a single decimal number. Therefore, the answer is:
+
+wins / losses = 7 / 19 = 0.368 ≈ 0.37
+
+(rounded to one decimal place).
+
+So, the ratio of wins to losses for the Sri Lanka national cricket team in the ODI format for 2019 is approximately 0.37.
+
+Note that the actual value is slightly different from the answer because the ratio is rounded to one decimal place. However, the answer is still within the required range of 5 to 10 words."
+Sri_Lanka_national_cricket_team,What is the win to loss ratio of Sri Lanka national cricket team in t20i format in 2019?(Answer in decimal form.),0.5,"The win to loss ratio of the Sri Lanka national cricket team in T20I format in 2019 was 2.0.
+
+Explanation:
+
+In the provided timeline, there are five entries for the Sri Lanka national cricket team in the year 2019. To determine the win to loss ratio of the team in T20I format in 2019, we need to look at the ""t20i_record"" field, which represents the number of wins and losses in T20I matches.
+
+At the start of the year, the t20i\_record was ""55/56"", which means that the team had 55 wins and 56 losses in T20I matches prior to 2019.
+
+At the end of the year, the t20i\_record was ""79/92"", which means that the team had 79 wins and 92 losses in T20I matches up to that point.
+
+To calculate the win to loss ratio for the year 2019, we need to look at the change in the win and loss counts from the start of the year to the end of the year. During 2019, the team had 79 - 55 = 24 wins and 92 - 56 = 36 losses in T20I matches.
+
+Therefore, the win to loss ratio for the Sri Lanka national cricket team in T20I format in 2019 was:
+
+24 wins / 36 losses = 2.0
+
+Note that this represents the win to loss ratio for the year 2019 only, and not for the entire period covered by the timeline."
+Sri_Lanka_national_cricket_team,What is the ratio of wins to losses for the Sri Lanka national cricket team in the odi format for 2021?(Answer in decimal form.),0.4,"Based solely on the information presented in the timeline, the ratio of wins to losses for the Sri Lanka national cricket team in the ODI format for 2021 is 4/10 or 0.4."

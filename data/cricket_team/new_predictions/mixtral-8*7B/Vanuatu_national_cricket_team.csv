@@ -1,0 +1,28 @@
+entity,question,actual_answer,predicted_answer
+Vanuatu_national_cricket_team,Name the person(s) who served as the coach when Andrew Mansale was the t20i captain of the Vanuatu national cricket team.,"Clint McKay, Peter Buchanan (cricketer)","Peter Buchanan, Clint McKay"
+Vanuatu_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Jeremy Bray (cricketer) as the coach of the Vanuatu national cricket team?,Patrick Matautaava,Patrick Matautaava
+Vanuatu_national_cricket_team,Name the person(s) who served as the t20i captain when Clint McKay was the coach of the Vanuatu national cricket team.,Andrew Mansale,Andrew Mansale
+Vanuatu_national_cricket_team,Does the Vanuatu national cricket team have the best win percentage in the t20i format in 2019 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2023,"2023, 10/10 record
+
+The Vanuatu national cricket team had a t20i record of 10/10 in 2023, giving them the best win percentage in the t20i format for that year."
+Vanuatu_national_cricket_team,"How long did Peter Buchanan (cricketer) serve as the coach of Vanuatu national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",190 days,153 days (2019-03-23 to 2019-09-29)
+Vanuatu_national_cricket_team,"What was the duration of Jeremy Bray (cricketer)'s tenure as the coach of Vanuatu national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",363 days,"2152 days (rounded to the nearest day, from Jan 2, 2023, to Dec 31, 2023)"
+Vanuatu_national_cricket_team,"Who had the shortest stint as the t20i captain of the Vanuatu national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Patrick Matautaava,Jeremy Bray (cricketer)
+Vanuatu_national_cricket_team,"Which person had the longest tenure as the t20i captain of the Vanuatu national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Andrew Mansale,"Andrew Mansale, 4 years 8 months."
+Vanuatu_national_cricket_team,"Which person had the longest tenure as the coach of the Vanuatu national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Clint McKay,"Clint McKay, ~2 years and 2 months."
+Vanuatu_national_cricket_team,How many individuals took on the role of coach of the Vanuatu national cricket team?,3,Three coaches.
+Vanuatu_national_cricket_team,How many people served as the t20i captain of the Vanuatu national cricket team?,2,"Three people served as the T20I captain of the Vanuatu national cricket team: Peter Buchanan (cricketer), Clint McKay, and Patrick Matautaava."
+Vanuatu_national_cricket_team,Who was the t20i captain of the Vanuatu national cricket team before Patrick Matautaava?,Andrew Mansale,Andrew Mansale
+Vanuatu_national_cricket_team,Who served as the coach of the Vanuatu national cricket team prior to Jeremy Bray (cricketer)?,Clint McKay,Clint McKay
+Vanuatu_national_cricket_team,Who assumed the role of coach for the Vanuatu national cricket team following Clint McKay?,Jeremy Bray (cricketer),Jeremy Bray (cricketer)
+Vanuatu_national_cricket_team,Who assumed the role of t20i captain for the Vanuatu national cricket team following Andrew Mansale?,Patrick Matautaava,Patrick Matautaava assumed the role of t20i captain for the Vanuatu national cricket team following Andrew Mansale.
+Vanuatu_national_cricket_team,What is the ratio of wins to losses for the Vanuatu national cricket team in the t20i format for 2019?(Answer in decimal form.),0.56,"The ratio of wins to losses for the Vanuatu national cricket team in the t20i format for 2019 is 11/8 or 1.375.
+
+Explanation:
+- In 2019, the Vanuatu national cricket team played a total of 21 T20I matches (as per the last timestamp provided).
+- Out of these 21 matches, they won 11 matches and lost 10.
+- Therefore, the ratio of wins to losses is 11/10 = 1.1 (in decimal form).
+- However, the question asks for the ratio only for the year 2019, so we should only consider the matches played in 2019 and not the ones played in later years.
+- For the year 2019, the team played a total of 19 T20I matches (excluding the last 2 matches played in 2023 and 2023).
+- Out of these 19 matches, they won 11 matches and lost 8.
+- Therefore, the ratio of wins to losses for the Vanuatu national cricket team in the t20i format for 2019 is 11/8 or 1.375 (in decimal form)."

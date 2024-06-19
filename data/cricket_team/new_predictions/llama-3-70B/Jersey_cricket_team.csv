@@ -1,0 +1,13 @@
+entity,question,actual_answer,predicted_answer
+Jersey_cricket_team,Name the person(s) who served as the t20i captain when Neil MacRae was the coach of the Jersey cricket team.,Charles Perchard,Charles Perchard.
+Jersey_cricket_team,Does the Jersey cricket team have the best win percentage in the t20i format in 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,2019.
+Jersey_cricket_team,"How long did Neil MacRae serve as the coach of Jersey cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1292 days,1245 days.
+Jersey_cricket_team,"How long did Charles Perchard serve as the t20i captain of Jersey cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1292 days,1244 days
+Jersey_cricket_team,"Which person had the shortest tenure as the t20i captain of the Jersey cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Charles Perchard,No one replaced Charles Perchard as captain.
+Jersey_cricket_team,"Which person had the longest tenure as the t20i captain of the Jersey cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Charles Perchard,Charles Perchard.
+Jersey_cricket_team,"Who had the shortest stint as the coach of the Jersey cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Neil MacRae,"No one, Neil MacRae is the only coach."
+Jersey_cricket_team,"Who had the longest stint as the coach of the Jersey cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Neil MacRae,Neil MacRae.
+Jersey_cricket_team,How many people served as the t20i captain of the Jersey cricket team?,1,One person.
+Jersey_cricket_team,How many individuals took on the role of coach of the Jersey cricket team?,1,One.
+Jersey_cricket_team,What is the win to loss ratio of Jersey cricket team in t20i format in 2022?(Answer in decimal form.),1.67,3/3 = 1.
+Jersey_cricket_team,What is the ratio of wins to losses for the Jersey cricket team in the t20i format for 2019?(Answer in decimal form.),1.43,5/3 = 1.67
