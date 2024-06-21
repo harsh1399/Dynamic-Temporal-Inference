@@ -1,0 +1,56 @@
+entity,question,actual_answer,predicted_answer
+HM_Treasury,"Who served as the Minister for the Cabinet Office during the period when Philip Hammond was the Second Lord of the Treasury, Chancellor of the Exchequer?","The Rt Hon. Ben Gummer, The Rt Hon. Damian Green","Damian Green 
+"
+HM_Treasury,Who served as the Chief Secretary to the Treasury during the period when The Rt Hon. Jeremy Quin was the Minister for the Cabinet Office?,"John Glen, The Rt Hon. Edward Argar MP","John Glen 
+"
+HM_Treasury,Name the person(s) who served as the Chief Secretary to the Treasury when The Rt Hon. Theresa May MP was the First Lord of the Treasury.,"The Rt Hon. Lizz Truss MP, The Rt Hon. David Gauke MP",
+HM_Treasury,Who served as the First Lord of the Treasury during the period when John Glen was the Chief Secretary to the Treasury?,The Rt Hon. Rishi Sunak MP,"Rishi Sunak 
+"
+HM_Treasury,Name the person(s) who served as the First Lord of the Treasury when Andrew Griffith was the Financial Secretary to the Treasury.,The Rt Hon. Lizz Truss MP,
+HM_Treasury,"Who held the position of Second Lord of the Treasury, Chancellor of the Exchequer while The Rt Hon. Lizz Truss MP was the First Lord of the Treasury and Felicity Buchan was the Exchequer Secretary to the Treasury?","Kwasi Kwarteng, Jeremy Hunt",
+HM_Treasury,Who was the Financial Secretary to the Treasury when the First Lord of the Treasury was The Rt Hon. Lizz Truss MP and the Exchequer Secretary to the Treasury was Felicity Buchan?,"Andrew Griffith, Lucy Frazer","Lucy Frazer 
+"
+HM_Treasury,"Who held the position of Second Lord of the Treasury, Chancellor of the Exchequer while The Rt Hon. Lizz Truss MP was the First Lord of the Treasury and Richard Fuller was the Economic Secretary to the Treasury?","Kwasi Kwarteng, Jeremy Hunt",
+HM_Treasury,Who was the Economic Secretary to the Treasury when the First Lord of the Treasury was The Rt Hon. Theresa May MP and the Financial Secretary to the Treasury was The Rt Hon. Mel Stride?,The Rt Hon. Stephen Barclay MP,"The Rt Hon. Stephen Barclay MP 
+"
+HM_Treasury,Who served first as the Financial Secretary to the Treasury and later as the Economic Secretary to the Treasury?,Andrew Griffith,"Andrew Griffith 
+"
+HM_Treasury,Name the person(s) who first served as Economic Secretary to the Treasury and then later as Chief Secretary to the Treasury.,"John Glen, The Rt Hon. Stephen Barclay MP","John Glen 
+"
+HM_Treasury,Who served first as the Chief Secretary to the Treasury and later as the First Lord of the Treasury?,The Rt Hon. Lizz Truss MP,"The Rt Hon. Rishi Sunak MP 
+"
+HM_Treasury,What position did Richard Fuller occupy while Felicity Buchan was serving as the Exchequer Secretary to the Treasury?,Economic Secretary to the Treasury,"Economic Secretary to the Treasury 
+"
+HM_Treasury,Which position did John Glen hold when The Rt Hon. Michael Gove was Minister for the Cabinet Office?,Economic Secretary to the Treasury,"Economic Secretary to the Treasury 
+"
+HM_Treasury,What position did John Glen occupy while The Rt Hon. Jesse Norman MP was serving as the Financial Secretary to the Treasury?,Economic Secretary to the Treasury,"Economic Secretary to the Treasury 
+"
+HM_Treasury,"What was the duration of The Rt Hon. Edward Argar's tenure as Minister for the Cabinet Office at the HM Treasury?(Answer in the number of days.) (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",15 days,"14 
+"
+HM_Treasury,"How long did Kemi Badenoch MP served as Exchequer Secretary to the Treasury of HM Treasury?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",867 days,"1279 days 
+"
+HM_Treasury,Who served as the Exchequer Secretary to the Treasury in the HM Treasury in 2017?,"Andrew Jones, Office-Not-In-Use","Andrew Jones 
+"
+HM_Treasury,Who served as the Minister for the Cabinet Office# in the HM Treasury in 2020?,The Rt Hon. Michael Gove,"Michael Gove 
+"
+HM_Treasury,Name the person(s) who served as the First Lord of the Treasury of the HM Treasury in 2022?,The Rt Hon. Lizz Truss MP,"Lizz Truss, Rishi Sunak 
+"
+HM_Treasury,"Who was the Second Lord of the Treasury, Chancellor of the Exchequer before The Rt Hon. Rishi Sunak MP?",Philip Hammond,"Philip Hammond 
+"
+HM_Treasury,Who succeeded The Rt Hon. Jesse Norman MP as the Financial Secretary to the Treasury?,Lucy Frazer,"Andrew Griffith 
+"
+HM_Treasury,How many individuals held the position of Economic Secretary to the Treasury?,6,"Eight 
+"
+HM_Treasury,How many individuals held the position of Minister for the Cabinet Office#?,1,"One 
+"
+HM_Treasury,"How many people served as the Second Lord of the Treasury, Chancellor of the Exchequer?",5,"Seven 
+"
+HM_Treasury,How many individuals held the position of Permanent Secretary to the Treasury?,4,"Three 
+"
+HM_Treasury,Who were the individuals who held the position of Chief Secretary to the Treasury between 2022 and 2023?(including both the years),"John Glen, The Rt Hon. Edward Argar MP, The Rt Hon. Chris Philp MP","Chris Philp, Edward Argar, John Glen 
+"
+HM_Treasury,Name the people who served as Exchequer Secretary to the Treasury between 2020 and 2022?(including both the years),"Kemi Badenoch MP, Felicity Buchan",
+HM_Treasury,Name the people who served as Exchequer Secretary to the Treasury between 2021 and 2023?(including both the years),"Kemi Badenoch MP, Felicity Buchan, James Cartlidge",
+HM_Treasury,"Who held the position of Second Lord of the Treasury, Chancellor of the Exchequer for the shortest duration? (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Kwasi Kwarteng,
+HM_Treasury,"Who held the position of Financial Secretary to the Treasury for the shortest duration? (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Victoria Atkins,"Simon Kirby 
+"

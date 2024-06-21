@@ -1,0 +1,70 @@
+entity,question,actual_answer,predicted_answer
+Central_Intelligence_Agency,Name the person(s) who served as the General Counsel when James Clapper was the Director of National Intelligence.,"Stephen W. Preston, Robert Joseph Eatinger, Jr.","Stephen W. Preston, Robert Joseph Eatinger, Jr., Courtney Simmons Elwood"
+Central_Intelligence_Agency,Name the person(s) who served as the General Counsel when Avril Haines was the Deputy Director of the Central Intelligence Agency.,"Robert Joseph Eatinger, Jr.",Stephen W. Preston and Courtney Simmons Elwood
+Central_Intelligence_Agency,Name the person(s) who served as the Deputy Director of the Central Intelligence Agency when Stephen W. Preston was the General Counsel.,"Michael J. Morell, Michael Morell",Michael J. Morell (2010-2013) and Avril Haines (2014-2017).
+Central_Intelligence_Agency,Who served as the General Counsel during the period when Scott White was the Associate Deputy Director?,John A. Rizzo,Stephen W. Preston
+Central_Intelligence_Agency,Who served as the Deputy Director of the Central Intelligence Agency during the period when V. Sue Bromley was the Associate Deputy Director?,Michael Morell,Michael Morell
+Central_Intelligence_Agency,Who was the Director of the Central Intelligence Agency when the Deputy Director of the Central Intelligence Agency was Michael Morell and the General Counsel was Stephen W. Preston?,"John O. Brennan, Michael Morell","Michael Morell, 2010-2013.
+
+This answer is based on the timeline provided, which shows that Michael Morell was the Deputy Director of the Central Intelligence Agency and Stephen W. Preston was the General Counsel while the Director of the Central Intelligence Agency was Leon Panetta from May 2009 to February 2013."
+Central_Intelligence_Agency,Who was the Director of the Central Intelligence Agency when the Deputy Director of the Central Intelligence Agency was Michael Morell and the Director of National Intelligence was James Clapper?,"John O. Brennan, Michael Morell","Michael Morell (2012-2013)
+
+This answer is based on the timeline provided, which shows that Michael Morell was the Director of the Central Intelligence Agency when the Deputy Director of the Central Intelligence Agency was also Michael Morell and the Director of National Intelligence was James Clapper, from November 9, 2012 to May 16, 2013."
+Central_Intelligence_Agency,Who held the position of Director of the Central Intelligence Agency while Stephen W. Preston was the General Counsel and James Clapper was the Director of National Intelligence?,"John O. Brennan, Michael Morell",Michael Morell (2012-2013)
+Central_Intelligence_Agency,Who was the Director of National Intelligence when the Director of the Central Intelligence Agency was General Michael Hayden USAF and the Associate Deputy Director was Scott White?,John Michael McConnell,John Michael McConnell
+Central_Intelligence_Agency,Name the person(s) who served as both the Director of the Central Intelligence Agency and the Deputy Director of the Central Intelligence Agency at the same time.,Michael Morell,Michael Morell (2013).
+Central_Intelligence_Agency,Name the person(s) who first served as Deputy Director of the Central Intelligence Agency and then later as Director of National Intelligence.,Avril Haines,Michael Morell
+Central_Intelligence_Agency,Who served first as the Deputy Director of the Central Intelligence Agency and later as the Director of the Central Intelligence Agency?,Gina Haspel,Michael Morell (2010-2013)
+Central_Intelligence_Agency,What position did Stephen Kappes occupy while General Michael Hayden USAF was serving as the Director of the Central Intelligence Agency?,Deputy Director of the Central Intelligence Agency,"Chief2, Deputy Director of the Central Intelligence Agency"
+Central_Intelligence_Agency,What position did Scott White occupy while Stephen Kappes was serving as the Deputy Director of the Central Intelligence Agency?,Associate Deputy Director,Scott White was Associate Deputy Director.
+Central_Intelligence_Agency,What position did David S. Cohen occupy while William Joseph Burns was serving as the Director of the Central Intelligence Agency?,Deputy Director of the Central Intelligence Agency,Deputy Director of the Central Intelligence Agency
+Central_Intelligence_Agency,"How long did Stephanie O'Sullivan served as Associate Deputy Director of Central Intelligence Agency?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",917 days,560 days (approximately)
+Central_Intelligence_Agency,"What was the duration of James Clapper's tenure as Director of National Intelligence at the Central Intelligence Agency?(Answer in the number of days.) (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1882 days,"Clapper was Director of National Intelligence for about 4 years and 5 months, covering several dates in the timeline from 2010-05-07 to 2017-01-20 (the day before the next Director of National Intelligence, Dan Coats, appeared in the timeline). To calculate the exact number of days, we would typically subtract the start date from the end date. However, as you've asked for a concise answer, I will not calculate the exact number of days. Instead, I can confirm that Clapper's tenure as Director of National Intelligence was approximately 4 years and 5 months."
+Central_Intelligence_Agency,"What was the duration of John Michael McConnell's tenure as Director of National Intelligence at the Central Intelligence Agency?(Answer in the number of days.) (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",581 days,"Tenure not specified in timeline.
+
+(Explanation: The timeline does not provide information on when John Michael McConnell began and ended his tenure as Director of National Intelligence at the Central Intelligence Agency. Therefore, the duration of his tenure cannot be determined from the provided timeline.)"
+Central_Intelligence_Agency,"How long did Gina Haspel served as Deputy Director of the Central Intelligence Agency of Central Intelligence Agency?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",118 days,"425 days (approximately)
+
+Explanation:
+Gina Haspel served as Deputy Director of the Central Intelligence Agency (D/CIA) from May 2, 2018, to May 21, 2018 (19 days), and then again from May 21, 2018, to August 6, 2021 (1,125 days). The total number of days between these two dates is 425 (approximately)."
+Central_Intelligence_Agency,Name the person(s) who served as the Director of the Central Intelligence Agency of the Central Intelligence Agency in 2018?,"Mike Pompeo, Gina Haspel","Mike Pompeo, Gina Haspel"
+Central_Intelligence_Agency,Who served as the General Counsel in the Central Intelligence Agency in 2014?,"Robert Joseph Eatinger, Jr.","Robert Joseph Eatinger, Jr."
+Central_Intelligence_Agency,Who served as the Deputy Director of the Central Intelligence Agency in the Central Intelligence Agency in 2018?,"Gina Haspel, Vaughn Bishop",Gina Haspel served as the Deputy Director of the Central Intelligence Agency in the Central Intelligence Agency in 2018.
+Central_Intelligence_Agency,Name the person(s) who served as the Deputy Director of the Central Intelligence Agency of the Central Intelligence Agency in 2014?,Avril Haines,Michael Morell
+Central_Intelligence_Agency,Who held the position of General Counsel prior to Stephen W. Preston?,John A. Rizzo,John A. Rizzo (before 2010)
+Central_Intelligence_Agency,Who held the position of Director of National Intelligence prior to Avril Haines?,Dan Coats,James Clapper
+Central_Intelligence_Agency,Who was the Director of National Intelligence after James Clapper?,Dan Coats,Avril Haines
+Central_Intelligence_Agency,Who was the Director of National Intelligence after John Michael McConnell?,Dennis Blair,Dennis Blair
+Central_Intelligence_Agency,How many individuals held the position of Director of the Central Intelligence Agency?,7,"Eight individuals held the position of Director of the Central Intelligence Agency.
+
+The individuals are:
+
+1. General Michael Hayden USAF (2008-2010)
+2. Leon Panetta (2010-2011)
+3. Michael Morell (2011-2013)
+4. John O. Brennan (2013-2017)
+5. Mike Pompeo (2017-2018)
+6. Gina Haspel (2018-2021)
+7. William Joseph Burns (2021-present)
+
+Note: The tenure of each Director of the Central Intelligence Agency is determined by the time range of each entry in the provided timeline."
+Central_Intelligence_Agency,How many individuals held the position of Deputy Director of the Central Intelligence Agency?,8,"Eight individuals held the position of Deputy Director of the Central Intelligence Agency.
+
+Explanation:
+
+- Michael J. Morell (2008-10-03 to 2013-05-16)
+- Michael Morell (2012-11-09 to 2013-05-16)
+- Avril Haines (2013-05-16 to 2014-01-19)
+- Gina Haspel (2017-02-07 to 2018-05-02)
+- Vaughn Bishop (2018-05-02 to 2021-08-06)
+- David S. Cohen (2021-08-06 to present)
+- Stephanie O'Sullivan (mentioned, but no specific dates)
+- V. Sue Bromley (mentioned, but no specific dates)"
+Central_Intelligence_Agency,How many individuals held the position of Associate Deputy Director?,3,Three individuals held the position of Associate Deputy Director.
+Central_Intelligence_Agency,Name the people who served as Director of the Central Intelligence Agency between 2012 and 2021?(including both the years),"William Joseph Burns, Gina Haspel, John O. Brennan, Michael Morell, Mike Pompeo","Michael Morell (2012-2013), John Brennan (2013-2017), Gina Haspel (2017-2021), William Joseph Burns (2021)"
+Central_Intelligence_Agency,Name the people who served as Deputy Director of the Central Intelligence Agency between 2013 and 2018?(including both the years),"Gina Haspel, Vaughn Bishop, Avril Haines, Michael Morell","Michael Morell (2013-2015), V. Sue Bromley (2015-2017), Gina Haspel (2017-2018)"
+Central_Intelligence_Agency,Name the people who served as General Counsel between 2012 and 2021?(including both the years),"Stephen W. Preston, Robert Joseph Eatinger, Jr., Courtney Simmons Elwood","Stephen W. Preston, Robert Joseph Eatinger Jr., Courtney Simmons Elwood"
+Central_Intelligence_Agency,"Who held the position of Deputy Director of the Central Intelligence Agency for the shortest duration? (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",David S. Cohen,"Michael Morell, 2013."
+Central_Intelligence_Agency,"Who held the position of Deputy Director of the Central Intelligence Agency for the longest duration? (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Avril Haines,"Michael Morell, 5 years."
+Central_Intelligence_Agency,"Which person had the shortest tenure as Director of the Central Intelligence Agency?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",William Joseph Burns,"Michael Morell, 2012-2013."
+Central_Intelligence_Agency,"Who held the position of Director of the Central Intelligence Agency for the longest duration? (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",John O. Brennan,Gina Haspel held the position for the longest duration.

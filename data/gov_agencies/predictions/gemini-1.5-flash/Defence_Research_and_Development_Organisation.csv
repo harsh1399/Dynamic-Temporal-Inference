@@ -1,0 +1,51 @@
+entity,question,actual_answer,predicted_answer
+Defence_Research_and_Development_Organisation,"Who served as the Secretary, Department of Defence R&D during the period when G. Satheesh Reddy was the Scientific Adviser to Raksha Mantri?","S. Christopher, G. Satheesh Reddy","S. Christopher 
+"
+Defence_Research_and_Development_Organisation,"Name the person(s) who served as the Secretary, Department of Defence R&D when Manohar Parrikar was the Defence Minister of India.","Avinash Chander, S. Christopher","Avinash Chander, S. Christopher 
+"
+Defence_Research_and_Development_Organisation,"Name the person(s) who served as the Scientific Adviser to Raksha Mantri when G. Satheesh Reddy was the Secretary, Department of Defence R&D.",G. Satheesh Reddy,
+Defence_Research_and_Development_Organisation,"Who was the Secretary, Department of Defence R&D when the Scientific Adviser to Raksha Mantri was G. Satheesh Reddy and the Defence Minister of India was Nirmala Sitharaman?","S. Christopher, G. Satheesh Reddy","S. Christopher 
+"
+Defence_Research_and_Development_Organisation,"Who held the position of Defence Minister of India while S. Christopher was the Secretary, Department of Defence R&D and G. Satheesh Reddy was the Scientific Adviser to Raksha Mantri?",Nirmala Sitharaman,"Nirmala Sitharaman 
+"
+Defence_Research_and_Development_Organisation,"Who held the position of Scientific Adviser to Raksha Mantri while S. Christopher was the Secretary, Department of Defence R&D and Nirmala Sitharaman was the Defence Minister of India?",G. Satheesh Reddy,
+Defence_Research_and_Development_Organisation,"Name the person(s) who served as both the Secretary, Department of Defence R&D and the Scientific Adviser to Raksha Mantri at the same time.",G. Satheesh Reddy,
+Defence_Research_and_Development_Organisation,"Who served first as the Scientific Adviser to Raksha Mantri and later as the Secretary, Department of Defence R&D?",G. Satheesh Reddy,
+Defence_Research_and_Development_Organisation,What position did G. Satheesh Reddy occupy while Nirmala Sitharaman was serving as the Defence Minister of India?,"Scientific Adviser to Raksha Mantri, Secretary, Department of Defence R&D","Scientific Adviser to Raksha Mantri 
+"
+Defence_Research_and_Development_Organisation,Which position did S. Christopher hold when Nirmala Sitharaman was Defence Minister of India?,"Secretary, Department of Defence R&D","Secretary, Department of Defence R&D 
+"
+Defence_Research_and_Development_Organisation,"What was the duration of S. Christopher's tenure as Secretary, Department of Defence R&D at the Defence Research and Development Organisation?(Answer in the number of days.) (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",735 days,"819 days 
+"
+Defence_Research_and_Development_Organisation,"How long did G. Satheesh Reddy served as Scientific Adviser to Raksha Mantri of Defence Research and Development Organisation?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",131 days,"321 days 
+"
+Defence_Research_and_Development_Organisation,"How long did Nirmala Sitharaman served as Defence Minister of India of Defence Research and Development Organisation?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",356 days,"733 days 
+"
+Defence_Research_and_Development_Organisation,"What was the duration of Arun Jaitley's tenure as Defence Minister of India at the Defence Research and Development Organisation?(Answer in the number of days.) (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",117 days,"127 days 
+"
+Defence_Research_and_Development_Organisation,"Who served as the Secretary, Department of Defence R&D in the Defence Research and Development Organisation in 2018?","S. Christopher, G. Satheesh Reddy",
+Defence_Research_and_Development_Organisation,Who served as the Defence Minister of India in the Defence Research and Development Organisation in 2017?,"Arun Jaitley, Nirmala Sitharaman",
+Defence_Research_and_Development_Organisation,Name the person(s) who served as the Scientific Adviser to Raksha Mantri of the Defence Research and Development Organisation in 2018?,G. Satheesh Reddy,
+Defence_Research_and_Development_Organisation,Who served as the Defence Minister of India in the Defence Research and Development Organisation in 2016?,Manohar Parrikar,"Manohar Parrikar 
+"
+Defence_Research_and_Development_Organisation,"Who was the Secretary, Department of Defence R&D before G. Satheesh Reddy?",S. Christopher,"S. Christopher 
+"
+Defence_Research_and_Development_Organisation,Who was the Defence Minister of India before Arun Jaitley?,Manohar Parrikar,"Manohar Parrikar 
+"
+Defence_Research_and_Development_Organisation,Who was the Defence Minister of India after Manohar Parrikar?,Arun Jaitley,"Arun Jaitley 
+"
+Defence_Research_and_Development_Organisation,How many individuals held the position of Scientific Adviser to Raksha Mantri?,1,"One individual 
+"
+Defence_Research_and_Development_Organisation,How many people served as the Defence Minister of India?,3,"Three people. 
+"
+Defence_Research_and_Development_Organisation,"Who were the individuals who held the position of Secretary, Department of Defence R&D between 2017 and 2018?(including both the years)","S. Christopher, G. Satheesh Reddy","S. Christopher 
+"
+Defence_Research_and_Development_Organisation,Name the people who served as Defence Minister of India between 2015 and 2018?(including both the years),"Manohar Parrikar, Arun Jaitley, Nirmala Sitharaman","Manohar Parrikar, Arun Jaitley, Nirmala Sitharaman 
+"
+Defence_Research_and_Development_Organisation,"Which person had the longest tenure as Scientific Adviser to Raksha Mantri?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",G. Satheesh Reddy,
+Defence_Research_and_Development_Organisation,"Who held the position of Defence Minister of India for the longest duration? (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Manohar Parrikar,"Nirmala Sitharaman 
+"
+Defence_Research_and_Development_Organisation,"Which person had the shortest tenure as Defence Minister of India?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Arun Jaitley,"Arun Jaitley 
+"
+Defence_Research_and_Development_Organisation,"Who held the position of Secretary, Department of Defence R&D for the shortest duration? (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",G. Satheesh Reddy,"Avinash Chander 
+"

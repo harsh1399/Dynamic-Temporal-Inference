@@ -49,12 +49,12 @@ for entity in entities:
             actual_question = entities[entity][questions_category][question]["Q"]
             prompt = create_prompt(timeline,actual_question)
             try:
-                response = generate_response("gemini-1.5-flash-001",prompt)
+                response = generate_response("gemini-1.5-pro-001",prompt)
             except Exception as ex:
                 print(ex)
                 time.sleep(90)
                 try:
-                    response = generate_response("gemini-1.5-flash-001",prompt)
+                    response = generate_response("gemini-1.5-pro-001",prompt)
                 except:
                     print(entity,questions_category)
                     break
@@ -69,5 +69,5 @@ for entity in entities:
     total_questions += folder_question
     print(f"{entity} -- {folder_question}")
     dataframe = pd.DataFrame(df)
-    dataframe.to_csv(f"data/cricket_team/new_predictions/gemini-1.5-flash/{entity}.csv", index=False)
+    dataframe.to_csv(f"data/cricket_team/new_predictions/gemini-1.5-pro/{entity}.csv", index=False)
 print(f"total - {total_questions}")

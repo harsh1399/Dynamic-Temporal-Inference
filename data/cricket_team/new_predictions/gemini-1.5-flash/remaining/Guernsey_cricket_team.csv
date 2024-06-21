@@ -1,0 +1,29 @@
+entity,question,actual_answer,predicted_answer
+Guernsey_cricket_team,Name the person(s) who served as the coach when Jamie Nussbaumer was the t20i captain of the Guernsey cricket team.,"Andrew Cornford, Ashley Wright (cricketer)","Ashley Wright, Andrew Cornford 
+"
+Guernsey_cricket_team,Name the person(s) who served as the t20i captain when Ashley Wright (cricketer) was the coach of the Guernsey cricket team.,Jamie Nussbaumer,
+Guernsey_cricket_team,Does the Guernsey cricket team have the best win percentage in the t20i format in 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2022 
+"
+Guernsey_cricket_team,"How long did Jamie Nussbaumer serve as the t20i captain of Guernsey cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1292 days,"1071 days 
+"
+Guernsey_cricket_team,"What was the duration of Andrew Cornford's tenure as the coach of Guernsey cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",342 days,"679 days 
+"
+Guernsey_cricket_team,"How long did Ashley Wright (cricketer) serve as the coach of Guernsey cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",950 days,"1,010 days 
+"
+Guernsey_cricket_team,"Who had the shortest stint as the t20i captain of the Guernsey cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Jamie Nussbaumer,"Ashley Wright (cricketer) 
+"
+Guernsey_cricket_team,"Which person had the longest tenure as the t20i captain of the Guernsey cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Jamie Nussbaumer,
+Guernsey_cricket_team,"Who had the shortest stint as the coach of the Guernsey cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Andrew Cornford,"Ashley Wright (cricketer) 
+"
+Guernsey_cricket_team,How many people served as the coach of the Guernsey cricket team?,2,"Two people. 
+"
+Guernsey_cricket_team,How many people served as the t20i captain of the Guernsey cricket team?,1,"One 
+"
+Guernsey_cricket_team,Who was the coach of the Guernsey cricket team before Andrew Cornford?,Ashley Wright (cricketer),"Ashley Wright (cricketer) 
+"
+Guernsey_cricket_team,Who assumed the role of coach for the Guernsey cricket team following Ashley Wright (cricketer)?,Andrew Cornford,"Andrew Cornford 
+"
+Guernsey_cricket_team,What is the ratio of wins to losses for the Guernsey cricket team in the t20i format for 2019?(Answer in decimal form.),0.4,"0.4
+"
+Guernsey_cricket_team,What is the win to loss ratio of Guernsey cricket team in t20i format in 2022?(Answer in decimal form.),0.83,"0.83
+"

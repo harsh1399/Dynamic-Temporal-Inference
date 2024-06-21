@@ -5,7 +5,7 @@ from groq import Groq
 import time
 
 client = Groq(
-    api_key="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",
+    api_key="",
     )
 
 def create_prompt(timeline,question):
@@ -25,14 +25,14 @@ def generate_response(model,prompt):
     )
     return response
 
-with open('data/cricket_team/cricket_questions_mixtral.json','r') as f:
+with open('data/gov_agencies/gov_agencies_questions.json','r') as f:
     entities = json.load(f)
 total_questions = 0
 for entity in entities:
     folder_question = 0
     entity_name = entity.split(" ")
     entity_name = "_".join(entity_name)
-    with open(f'data/cricket_team/{entity_name}.json','r') as f:
+    with open(f'data/gov_agencies/{entity_name}.json','r') as f:
         timeline = json.load(f)
     if len(timeline)>20:
         continue
@@ -61,5 +61,5 @@ for entity in entities:
     total_questions += folder_question
     print(f"{entity} -- {folder_question}")
     dataframe = pd.DataFrame(df)
-    dataframe.to_csv(f"data/cricket_team/new_predictions/mixtral-8*7B/{entity}.csv", index=False)
+    dataframe.to_csv(f"data/gov_agencies/predictions/mixtral-8*7b/{entity}.csv", index=False)
 print(f"total - {total_questions}")

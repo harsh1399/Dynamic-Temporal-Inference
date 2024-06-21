@@ -1,0 +1,64 @@
+entity,question,actual_answer,predicted_answer
+Zimbabwe_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Craig Ervine as the od captain of the Zimbabwe national cricket team?,"Lalchand Rajput, David Houghton",
+Zimbabwe_national_cricket_team,Name the person(s) who served as the od captain when Sean Williams was the test captain of the Zimbabwe national cricket team.,"Craig Ervine, Chamu Chibhabha",
+Zimbabwe_national_cricket_team,Name the person(s) who served as the test captain when Chamu Chibhabha was the t20i captain of the Zimbabwe national cricket team.,Sean Williams,"Sean Williams 
+"
+Zimbabwe_national_cricket_team,Does the Zimbabwe national cricket team have the best win percentage in the t20i format in 2020 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2022 
+"
+Zimbabwe_national_cricket_team,Was the Zimbabwe national cricket team's win percentage the highest in the test format in either 2020 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2021 
+"
+Zimbabwe_national_cricket_team,Was the Zimbabwe national cricket team's win percentage the highest in the odi format in either 2020 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2020 
+"
+Zimbabwe_national_cricket_team,Was the Zimbabwe national cricket team's win percentage the highest in the odi format in either 2021 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2022 
+"
+Zimbabwe_national_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Sean Williams and Lalchand Rajput as the test captain and coach, respectively, of the Zimbabwe national cricket team.","Craig Ervine, Chamu Chibhabha",
+Zimbabwe_national_cricket_team,Who was the coach when t20i captain was Craig Ervine and test captain was Sean Williams of the Zimbabwe national cricket team?,"Lalchand Rajput, David Houghton",
+Zimbabwe_national_cricket_team,"Name the person(s) who served as the test captain during the tenure of Craig Ervine and David Houghton as the t20i captain and coach, respectively, of the Zimbabwe national cricket team.",Sean Williams,"Sean Williams 
+"
+Zimbabwe_national_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Sean Williams and David Houghton as the test captain and coach, respectively, of the Zimbabwe national cricket team.",Craig Ervine,
+Zimbabwe_national_cricket_team,In which year did Craig Ervine first assume the role of od_captain for the Zimbabwe national cricket team?,2021,"2021 
+"
+Zimbabwe_national_cricket_team,"How long did Graeme Cremer serve as the t20i captain of Zimbabwe national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",737 days,"1096 
+"
+Zimbabwe_national_cricket_team,"What was the duration of Sean Williams's tenure as the test captain of Zimbabwe national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1242 days,"1355 days 
+"
+Zimbabwe_national_cricket_team,"How long did Craig Ervine serve as the od captain of Zimbabwe national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",518 days,"1079 days 
+"
+Zimbabwe_national_cricket_team,"Which person had the longest tenure as the t20i captain of the Zimbabwe national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Graeme Cremer,
+Zimbabwe_national_cricket_team,"Who had the shortest stint as the test captain of the Zimbabwe national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Graeme Cremer,"Graeme Cremer 
+"
+Zimbabwe_national_cricket_team,"Which person had the shortest tenure as the od captain of the Zimbabwe national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Craig Ervine,
+Zimbabwe_national_cricket_team,"Which person had the longest tenure as the test captain of the Zimbabwe national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Sean Williams,"Sean Williams 
+"
+Zimbabwe_national_cricket_team,How many individuals took on the role of od captain of the Zimbabwe national cricket team?,3,"Two 
+"
+Zimbabwe_national_cricket_team,How many individuals took on the role of test captain of the Zimbabwe national cricket team?,2,"Two 
+"
+Zimbabwe_national_cricket_team,How many individuals took on the role of t20i captain of the Zimbabwe national cricket team?,3,"Two 
+"
+Zimbabwe_national_cricket_team,Who was the test captain of the Zimbabwe national cricket team before Sean Williams?,Graeme Cremer,"Graeme Cremer 
+"
+Zimbabwe_national_cricket_team,Who assumed the role of t20i captain for the Zimbabwe national cricket team following Chamu Chibhabha?,Craig Ervine,
+Zimbabwe_national_cricket_team,How many t20 matches did the Zimbabwe national cricket team play between 2021 and 2022? (including both the years),41,"44 
+"
+Zimbabwe_national_cricket_team,How many test matches did the Zimbabwe national cricket team play between 2021 and 2022? (including both the years),7,"3 
+"
+Zimbabwe_national_cricket_team,Name the people who serve as od_captain of Zimbabwe national cricket team between 2021 and 2022. (including both the years),"Craig Ervine, Chamu Chibhabha",
+Zimbabwe_national_cricket_team,Who were the individual(s) who held the position of the test_captain for the Zimbabwe national cricket team from 2021 and 2022? (including both the years),Sean Williams,"Sean Williams 
+"
+Zimbabwe_national_cricket_team,Who were the individual(s) who held the position of the t20i_captain for the Zimbabwe national cricket team from 2021 and 2022? (including both the years),"Craig Ervine, Chamu Chibhabha",
+Zimbabwe_national_cricket_team,Name the person(s) who served as the coach of the Zimbabwe national cricket team in 2023.,David Houghton,"David Houghton 
+"
+Zimbabwe_national_cricket_team,Who were the individual(s) who acted as the coach of the Zimbabwe national cricket team in 2021?,Lalchand Rajput,
+Zimbabwe_national_cricket_team,Name the person(s) who served as the coach of the Zimbabwe national cricket team in 2022.,"Lalchand Rajput, David Houghton",
+Zimbabwe_national_cricket_team,what was the best test rank of the Zimbabwe national cricket team in 2021?,10,"10th 
+"
+Zimbabwe_national_cricket_team,what was the best t20i rank of the Zimbabwe national cricket team in 2022?,11,"11th 
+"
+Zimbabwe_national_cricket_team,what was the best odi rank of the Zimbabwe national cricket team in 2021?,13,"13th 
+"
+Zimbabwe_national_cricket_team,What is the win to loss ratio of Zimbabwe national cricket team in t20i format in 2021?(Answer in decimal form.),0.55,0.31
+Zimbabwe_national_cricket_team,What is the ratio of wins to losses for the Zimbabwe national cricket team in the odi format for 2022?(Answer in decimal form.),0.36,"0.36 
+"
+Zimbabwe_national_cricket_team,What is the ratio of wins to losses for the Zimbabwe national cricket team in the odi format for 2017?(Answer in decimal form.),1.0,"0.39 (wins/losses = 129/316 = 0.39) 
+"

@@ -1,0 +1,37 @@
+entity,question,actual_answer,predicted_answer
+Bahrain_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Shahzaib Hasan as the coach of the Bahrain national cricket team?,"Haider Butt, Sarfaraz Ali","Haider Butt, Sarfaraz Ali 
+"
+Bahrain_national_cricket_team,Name the person(s) who served as the coach when Al Amin Shehzad was the t20i captain of the Bahrain national cricket team.,Younis Khan,"Younis Khan 
+"
+Bahrain_national_cricket_team,Was the Bahrain national cricket team's win percentage the highest in the t20i format in either 2019 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2019 
+"
+Bahrain_national_cricket_team,Does the Bahrain national cricket team have the best win percentage in the t20i format in 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2019 
+"
+Bahrain_national_cricket_team,In which year did Sarfaraz Ali become the t20i_captain of the Bahrain national cricket team for the first time?,2023,"2023 
+"
+Bahrain_national_cricket_team,"How long did Al Amin Shehzad serve as the t20i captain of Bahrain national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1053 days,"1388 days 
+"
+Bahrain_national_cricket_team,"What was the duration of Haider Butt's tenure as the t20i captain of Bahrain national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",91 days,"135 
+"
+Bahrain_national_cricket_team,"Who had the longest stint as the t20i captain of the Bahrain national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Al Amin Shehzad,"Al Amin Shehzad 
+"
+Bahrain_national_cricket_team,"Which person had the shortest tenure as the t20i captain of the Bahrain national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Haider Butt,"Younis Khan 
+"
+Bahrain_national_cricket_team,How many people served as the t20i captain of the Bahrain national cricket team?,3,"Three 
+"
+Bahrain_national_cricket_team,Who was the t20i captain of the Bahrain national cricket team before Sarfaraz Ali?,Haider Butt,"Haider Butt 
+"
+Bahrain_national_cricket_team,Who was the t20i captain of the Bahrain national cricket team before Haider Butt?,Al Amin Shehzad,"Al Amin Shehzad 
+"
+Bahrain_national_cricket_team,Who assumed the role of t20i captain for the Bahrain national cricket team following Haider Butt?,Sarfaraz Ali,"Sarfaraz Ali 
+"
+Bahrain_national_cricket_team,Name the person(s) who served as the coach of the Bahrain national cricket team in 2023.,Shahzaib Hasan,"Shahzaib Hasan 
+"
+Bahrain_national_cricket_team,What was the highest ranking achieved by the Bahrain national cricket team in the t20i format in 2023?,28,"28th 
+"
+Bahrain_national_cricket_team,What is the win to loss ratio of Bahrain national cricket team in t20i format in 2022?(Answer in decimal form.),0.75,"0.5625 
+"
+Bahrain_national_cricket_team,What is the ratio of wins to losses for the Bahrain national cricket team in the t20i format for 2023?(Answer in decimal form.),0.0,"0.833 
+"
+Bahrain_national_cricket_team,What is the win to loss ratio of Bahrain national cricket team in t20i format in 2019?(Answer in decimal form.),1.0,"1.0 
+"

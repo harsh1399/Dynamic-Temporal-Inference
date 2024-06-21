@@ -1,0 +1,29 @@
+entity,question,actual_answer,predicted_answer
+Cayman_Islands_national_cricket_team,Name the person(s) who served as the t20i captain when Steve Gordon (cricketer) was the coach of the Cayman Islands national cricket team.,Ramon Sealy,"Ramon Sealy 
+"
+Cayman_Islands_national_cricket_team,Was the Cayman Islands national cricket team's win percentage the highest in the t20i format in either 2019 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2023,"2023 
+"
+Cayman_Islands_national_cricket_team,Was the Cayman Islands national cricket team's win percentage the highest in the t20i format in either 2022 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2023 
+"
+Cayman_Islands_national_cricket_team,In which year did Steve Gordon (cricketer) become the coach of the Cayman Islands national cricket team for the first time?,2023,"2023 
+"
+Cayman_Islands_national_cricket_team,"What was the duration of Alessandro Morris's tenure as the t20i captain of Cayman Islands national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1224 days,"1,409 days 
+"
+Cayman_Islands_national_cricket_team,"How long did Ramon Sealy serve as the t20i captain of Cayman Islands national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",365 days,"425 days 
+"
+Cayman_Islands_national_cricket_team,"Who had the shortest stint as the t20i captain of the Cayman Islands national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Ramon Sealy,"Alessandro Morris 
+"
+Cayman_Islands_national_cricket_team,"Who had the longest stint as the t20i captain of the Cayman Islands national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Alessandro Morris,"Alessandro Morris 
+"
+Cayman_Islands_national_cricket_team,How many individuals took on the role of t20i captain of the Cayman Islands national cricket team?,2,"Two individuals. 
+"
+Cayman_Islands_national_cricket_team,Who was the t20i captain of the Cayman Islands national cricket team before Ramon Sealy?,Alessandro Morris,"Alessandro Morris 
+"
+Cayman_Islands_national_cricket_team,Who was the t20i captain of Cayman Islands national cricket team after Alessandro Morris?,Ramon Sealy,"Ramon Sealy 
+"
+Cayman_Islands_national_cricket_team,What was the highest ranking achieved by the Cayman Islands national cricket team in the t20i format in 2023?,39,"39th 
+"
+Cayman_Islands_national_cricket_team,What is the win to loss ratio of Cayman Islands national cricket team in t20i format in 2019?(Answer in decimal form.),0.0,"0.0
+"
+Cayman_Islands_national_cricket_team,What is the ratio of wins to losses for the Cayman Islands national cricket team in the t20i format for 2023?(Answer in decimal form.),1.0,"1.00 
+"

@@ -1,0 +1,5 @@
+entity,question,actual_answer,predicted_answer
+Denmark_national_cricket_team,Name the person(s) who served as the coach when Frederik Klokker was the t20i captain of the Denmark national cricket team.,"Ruan Louw, Keith Dabengwa",
+Denmark_national_cricket_team,"Which person had the shortest tenure as the coach of the Denmark national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Ruan Louw,
+Denmark_national_cricket_team,Who served as the t20i captain of the Denmark national cricket team prior to Frederik Klokker?,Hamid Shah,
+Denmark_national_cricket_team,Who was the coach of Denmark national cricket team after Ruan Louw?,Keith Dabengwa,

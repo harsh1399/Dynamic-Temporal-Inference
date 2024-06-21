@@ -1,0 +1,30 @@
+entity,question,actual_answer,predicted_answer
+Vanuatu_national_cricket_team,Name the person(s) who served as the coach when Andrew Mansale was the t20i captain of the Vanuatu national cricket team.,"Clint McKay, Peter Buchanan (cricketer)","Peter Buchanan (cricketer) and Clint McKay 
+"
+Vanuatu_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Jeremy Bray (cricketer) as the coach of the Vanuatu national cricket team?,Patrick Matautaava,
+Vanuatu_national_cricket_team,Name the person(s) who served as the t20i captain when Clint McKay was the coach of the Vanuatu national cricket team.,Andrew Mansale,"Andrew Mansale 
+"
+Vanuatu_national_cricket_team,Does the Vanuatu national cricket team have the best win percentage in the t20i format in 2019 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2023,"2023 
+"
+Vanuatu_national_cricket_team,"How long did Peter Buchanan (cricketer) serve as the coach of Vanuatu national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",190 days,"655 days 
+"
+Vanuatu_national_cricket_team,"What was the duration of Jeremy Bray (cricketer)'s tenure as the coach of Vanuatu national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",363 days,"1,463 days 
+"
+Vanuatu_national_cricket_team,"Who had the shortest stint as the t20i captain of the Vanuatu national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Patrick Matautaava,
+Vanuatu_national_cricket_team,"Which person had the longest tenure as the t20i captain of the Vanuatu national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Andrew Mansale,"Andrew Mansale 
+"
+Vanuatu_national_cricket_team,"Which person had the longest tenure as the coach of the Vanuatu national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Clint McKay,"Jeremy Bray (cricketer) 
+"
+Vanuatu_national_cricket_team,How many individuals took on the role of coach of the Vanuatu national cricket team?,3,"Two individuals 
+"
+Vanuatu_national_cricket_team,How many people served as the t20i captain of the Vanuatu national cricket team?,2,"Two 
+"
+Vanuatu_national_cricket_team,Who was the t20i captain of the Vanuatu national cricket team before Patrick Matautaava?,Andrew Mansale,"Andrew Mansale 
+"
+Vanuatu_national_cricket_team,Who served as the coach of the Vanuatu national cricket team prior to Jeremy Bray (cricketer)?,Clint McKay,"Clint McKay 
+"
+Vanuatu_national_cricket_team,Who assumed the role of coach for the Vanuatu national cricket team following Clint McKay?,Jeremy Bray (cricketer),"Jeremy Bray (cricketer) 
+"
+Vanuatu_national_cricket_team,Who assumed the role of t20i captain for the Vanuatu national cricket team following Andrew Mansale?,Patrick Matautaava,
+Vanuatu_national_cricket_team,What is the ratio of wins to losses for the Vanuatu national cricket team in the t20i format for 2019?(Answer in decimal form.),0.56,"0.625 
+"

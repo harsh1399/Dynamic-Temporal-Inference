@@ -1,0 +1,58 @@
+entity,question,actual_answer,predicted_answer
+Ministry_of_Defence_(India),Who served as the Secretary (Defence Research and Development Organisation) during the period when Sanjeevanee Kutty (Indian Administrative Service) was the Secretary (Department of Ex-servicemen Welfare)?,"Dr. Sanjay Mitra (civil servant), Dr. G. Satheesh Reddy",
+Ministry_of_Defence_(India),Name the person(s) who served as the Secretary (Defence Production) when Ajay Kumar (civil servant) was the Defence Secretary (India).,"Subhash Chandra (Indian Administrative Service), Subhash Garg (Indian Administrative Service)","Subhash Garg, Subhash Chandra 
+"
+Ministry_of_Defence_(India),Who served as the Secretary (Defence Production) during the period when Shripad Yesso Naik was the Minister of State for Defence?,"Subhash Chandra (Indian Administrative Service), Subhash Garg (Indian Administrative Service)","Subhash Garg 
+"
+Ministry_of_Defence_(India),Name the person(s) who served as the Defence Secretary (India) when Subhash Chandra (Indian Administrative Service) was the Secretary (Defence Production).,Ajay Kumar (civil servant),"Ajay Kumar (civil servant) 
+"
+Ministry_of_Defence_(India),Who held the position of Secretary (Defence Production) while Sanjeevanee Kutty (Indian Administrative Service) was the Secretary (Department of Ex-servicemen Welfare) and Shripad Yesso Naik was the Minister of State for Defence?,"Subhash Chandra (Indian Administrative Service), Subhash Garg (Indian Administrative Service)","Subhash Garg (Indian Administrative Service) 
+"
+Ministry_of_Defence_(India),Who held the position of Secretary (Defence Production) while Dr. G. Satheesh Reddy was the Secretary (Defence Research and Development Organisation) and Rajnath Singh was the Minister of Defence (India)?,"Subhash Chandra (Indian Administrative Service), Subhash Garg (Indian Administrative Service)","Subhash Garg, Subhash Chandra 
+"
+Ministry_of_Defence_(India),Who held the position of Minister of State for Defence while Dr. G. Satheesh Reddy was the Scientific Adviser to Defence Minister and Nirmala Sitharaman was the Minister of Defence (India)?,Dr. Subhash Ramrao Bhamre,"Dr. Subhash Ramrao Bhamre 
+"
+Ministry_of_Defence_(India),Who held the position of Minister of Defence (India) while Ajay Kumar (civil servant) was the Defence Secretary (India) and Sanjiv Mittal was the Financial Advisor?,Rajnath Singh,"Rajnath Singh 
+"
+Ministry_of_Defence_(India),Who held the positions of Secretary (Defence Research and Development Organisation) and Scientific Adviser to Defence Minister simultaneously?,Dr. G. Satheesh Reddy,
+Ministry_of_Defence_(India),Name the person(s) who first served as Scientific Adviser to Defence Minister and then later as Secretary (Defence Research and Development Organisation).,Dr. G. Satheesh Reddy,
+Ministry_of_Defence_(India),Who served first as the Secretary (Defence Production) and later as the Defence Secretary (India)?,Ajay Kumar (civil servant),"Ajay Kumar (civil servant) 
+"
+Ministry_of_Defence_(India),Which position did Sanjeevanee Kutty (Indian Administrative Service) hold when Sanjay Mitra (civil servant) was Defence Secretary (India)?,Secretary (Department of Ex-servicemen Welfare),"Secretary (Department of Ex-servicemen Welfare) 
+"
+Ministry_of_Defence_(India),What position did Sanjeevanee Kutty (Indian Administrative Service) occupy while Dr. Subhash Ramrao Bhamre was serving as the Minister of State for Defence?,Secretary (Department of Ex-servicemen Welfare),"Secretary (Department of Ex-servicemen Welfare) 
+"
+Ministry_of_Defence_(India),"How long did Ajay Kumar (civil servant) served as Defence Secretary (India) of Ministry of Defence (India)?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",846 days,"1295 days 
+"
+Ministry_of_Defence_(India),"How long did Dr. G. Satheesh Reddy served as Secretary (Defence Research and Development Organisation) of Ministry of Defence (India)?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",846 days,"1786 
+"
+Ministry_of_Defence_(India),"How long did Sanjiv Mittal served as Financial Advisor of Ministry of Defence (India)?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",161 days,"586 days 
+"
+Ministry_of_Defence_(India),"What was the duration of Sanjeevanee Kutty (Indian Administrative Service)'s tenure as Secretary (Department of Ex-servicemen Welfare) at the Ministry of Defence (India)?(Answer in the number of days.) (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1144 days,"1406 
+"
+Ministry_of_Defence_(India),Who served as the Minister of State for Defence in the Ministry of Defence (India) in 2021?,"Ajay Bhatt, Shripad Yesso Naik",
+Ministry_of_Defence_(India),Name the person(s) who served as the Minister of Defence (India) of the Ministry of Defence (India) in 2018?,Nirmala Sitharaman,"Nirmala Sitharaman 
+"
+Ministry_of_Defence_(India),Who held the position of Defence Secretary (India) prior to G. Mohan Kumar (civil servant)?,Pradeep Kumar (civil servant),"Pradeep Kumar (civil servant) 
+"
+Ministry_of_Defence_(India),Who was the Defence Secretary (India) before Ajay Kumar (civil servant)?,Sanjay Mitra (civil servant),"G. Mohan Kumar (civil servant) 
+"
+Ministry_of_Defence_(India),Who succeeded Pallam Raju as the Ministers of State for Defence?,Dr. Subhash Ramrao Bhamre,"Dr. Subhash Ramrao Bhamre 
+"
+Ministry_of_Defence_(India),Who was the Minister of State for Defence after Dr. Subhash Ramrao Bhamre?,Shripad Yesso Naik,"Shripad Yesso Naik 
+"
+Ministry_of_Defence_(India),How many people served as the Minister of Defence (India)?,3,"Five 
+"
+Ministry_of_Defence_(India),How many people served as the Ministers of State for Defence?,1,"Six 
+"
+Ministry_of_Defence_(India),Name the people who served as Ministers of State for Defence between 2016 and 2019?(including both the years),Dr. Subhash Ramrao Bhamre,"Dr. Subhash Ramrao Bhamre 
+"
+Ministry_of_Defence_(India),Name the people who served as Defence Secretary (India) between 2011 and 2021?(including both the years),"Pradeep Kumar (civil servant), Ajay Kumar (civil servant), Sanjay Mitra (civil servant), G. Mohan Kumar (civil servant)","Pradeep Kumar, G. Mohan Kumar, Sanjay Mitra, Ajay Kumar 
+"
+Ministry_of_Defence_(India),Who were the individuals who held the position of Minister of Defence (India) between 2016 and 2019?(including both the years),"Manohar Parrikar, Rajnath Singh, Nirmala Sitharaman","Manohar Parrikar, Nirmala Sitharaman 
+"
+Ministry_of_Defence_(India),Who were the individuals who held the position of Secretary (Department of Ex-servicemen Welfare) between 2019 and 2021?(including both the years),Sanjeevanee Kutty (Indian Administrative Service),
+Ministry_of_Defence_(India),"Which person had the shortest tenure as Financial Advisor?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Sanjiv Mittal,"Sanjiv Mittal 
+"
+Ministry_of_Defence_(India),"Who held the position of Secretary (Department of Military Affairs) for the longest duration? (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",General Bipin Rawat (Chief of Defence Staff (India)),"General Bipin Rawat 
+"

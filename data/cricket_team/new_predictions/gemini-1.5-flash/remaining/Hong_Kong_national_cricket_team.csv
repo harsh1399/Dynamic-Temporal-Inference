@@ -1,0 +1,33 @@
+entity,question,actual_answer,predicted_answer
+Hong_Kong_national_cricket_team,Name the person(s) who served as the coach when Nizakat Khan was the t20i captain of the Hong Kong national cricket team.,"Trent Johnston, Simon Willis","Trent Johnston, Simon Willis 
+"
+Hong_Kong_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Nizakat Khan as the od captain of the Hong Kong national cricket team?,"Trent Johnston, Simon Willis","Trent Johnston, Simon Willis 
+"
+Hong_Kong_national_cricket_team,Name the person(s) who served as the t20i captain when Trent Johnston was the coach of the Hong Kong national cricket team.,Nizakat Khan,
+Hong_Kong_national_cricket_team,"How long did Nizakat Khan serve as the od captain of Hong Kong national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",364 days,"762 days 
+"
+Hong_Kong_national_cricket_team,"How long did Anshuman Rath serve as the t20i captain of Hong Kong national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1462 days,"329 days 
+"
+Hong_Kong_national_cricket_team,"What was the duration of Anshuman Rath's tenure as the od captain of Hong Kong national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1462 days,"359 days 
+"
+Hong_Kong_national_cricket_team,"How long did Babar Hayat serve as the od captain of Hong Kong national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",290 days,"633 days 
+"
+Hong_Kong_national_cricket_team,"Who had the longest stint as the t20i captain of the Hong Kong national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Anshuman Rath,
+Hong_Kong_national_cricket_team,"Which person had the shortest tenure as the t20i captain of the Hong Kong national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Babar Hayat,"Anshuman Rath 
+"
+Hong_Kong_national_cricket_team,"Who had the longest stint as the od captain of the Hong Kong national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Anshuman Rath,
+Hong_Kong_national_cricket_team,How many individuals took on the role of od captain of the Hong Kong national cricket team?,3,"Three individuals. 
+"
+Hong_Kong_national_cricket_team,How many people served as the t20i captain of the Hong Kong national cricket team?,3,"Three 
+"
+Hong_Kong_national_cricket_team,Who served as the od captain of the Hong Kong national cricket team prior to Nizakat Khan?,Anshuman Rath,"Anshuman Rath 
+"
+Hong_Kong_national_cricket_team,Who was the od captain of the Hong Kong national cricket team before Anshuman Rath?,Babar Hayat,"Babar Hayat 
+"
+Hong_Kong_national_cricket_team,Who assumed the role of od captain for the Hong Kong national cricket team following Anshuman Rath?,Nizakat Khan,
+Hong_Kong_national_cricket_team,Name the person(s) who served as the coach of the Hong Kong national cricket team in 2023.,"Trent Johnston, Simon Willis","Simon Willis 
+"
+Hong_Kong_national_cricket_team,what was the best t20i rank of the Hong Kong national cricket team in 2023?,20,"20th 
+"
+Hong_Kong_national_cricket_team,What is the ratio of wins to losses for the Hong Kong national cricket team in the odi format for 2018?(Answer in decimal form.),0.33,"0.75 
+"

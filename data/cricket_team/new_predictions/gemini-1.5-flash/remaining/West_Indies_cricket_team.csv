@@ -1,0 +1,79 @@
+entity,question,actual_answer,predicted_answer
+West_Indies_cricket_team,Who were the individual(s) serving as the coach during the tenure of Kraigg Brathwaite as the test captain of the West Indies cricket team?,"Phil Simmons, Andre Coley","Phil Simmons, Andre Coley 
+"
+West_Indies_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Stuart Law as the coach of the West Indies cricket team?,"Jason Mohammed, Carlos Brathwaite","Carlos Brathwaite, Jason Mohammed 
+"
+West_Indies_cricket_team,Name the person(s) who served as the coach when Kieron Pollard was the t20i captain of the West Indies cricket team.,Phil Simmons,"Phil Simmons 
+"
+West_Indies_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Phil Simmons as the coach of the West Indies cricket team?,Kieron Pollard,"Kieron Pollard 
+"
+West_Indies_cricket_team,Does the West Indies cricket team have the best win percentage in the t20i format in 2017 or 2020?(Answer in year)(Include no results/ties/draws in total number of matches.),2017,"2020 
+"
+West_Indies_cricket_team,Was the West Indies cricket team's win percentage the highest in the t20i format in either 2017 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2017,"2017
+"
+West_Indies_cricket_team,"Name the person(s) who served as the test captain during the tenure of Kieron Pollard and Phil Simmons as the t20i captain and coach, respectively, of the West Indies cricket team.","Kraigg Brathwaite, Jason Holder","Jason Holder 
+"
+West_Indies_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Jason Holder and Stuart Law as the od captain and coach, respectively, of the West Indies cricket team.","Jason Mohammed, Carlos Brathwaite","Carlos Brathwaite, Jason Mohammed 
+"
+West_Indies_cricket_team,Who was the coach when t20i captain was Carlos Brathwaite and od captain was Jason Holder of the West Indies cricket team?,"Nic Pothas, Stuart Law, Richard Pybus","Stuart Law 
+"
+West_Indies_cricket_team,Who was the coach when t20i captain was Rovman Powell and od captain was Shai Hope of the West Indies cricket team?,Andre Coley,"Andre Coley 
+"
+West_Indies_cricket_team,Who was the t20i captain when od captain was Jason Holder and coach was Nic Pothas of the West Indies cricket team?,Carlos Brathwaite,"Carlos Brathwaite 
+"
+West_Indies_cricket_team,In which year did Richard Pybus become the coach of the West Indies cricket team for the first time?,2019,"2019 
+"
+West_Indies_cricket_team,"What was the duration of Kieron Pollard's tenure as the od captain of West Indies cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1102 days,"1,136 days 
+"
+West_Indies_cricket_team,"What was the duration of Kieron Pollard's tenure as the t20i captain of West Indies cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1102 days,"1170 days 
+"
+West_Indies_cricket_team,"What was the duration of Carlos Brathwaite's tenure as the t20i captain of West Indies cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",407 days,"1,114 days 
+"
+West_Indies_cricket_team,"Which person had the longest tenure as the t20i captain of the West Indies cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Kieron Pollard,"Kieron Pollard 
+"
+West_Indies_cricket_team,"Who had the shortest stint as the t20i captain of the West Indies cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Rovman Powell,"Jason Mohammed 
+"
+West_Indies_cricket_team,How many people served as the test captain of the West Indies cricket team?,2,"Two people. 
+"
+West_Indies_cricket_team,How many people served as the t20i captain of the West Indies cricket team?,5,"3 people 
+"
+West_Indies_cricket_team,How many people served as the coach of the West Indies cricket team?,6,"Five people 
+"
+West_Indies_cricket_team,Who was the od captain of the West Indies cricket team before Kieron Pollard?,Jason Holder,"Jason Holder 
+"
+West_Indies_cricket_team,Who assumed the role of coach for the West Indies cricket team following Nic Pothas?,Richard Pybus,"Richard Pybus 
+"
+West_Indies_cricket_team,Who assumed the role of coach for the West Indies cricket team following Phil Simmons?,Andre Coley,"Andre Coley 
+"
+West_Indies_cricket_team,How many test matches did the West Indies cricket team play between 2018 and 2019? (including both the years),15,"6 matches 
+"
+West_Indies_cricket_team,How many test matches did the West Indies cricket team play between 2018 and 2020? (including both the years),20,"18 test matches 
+"
+West_Indies_cricket_team,"How many total(including ODIs,Tests,T20Is) matches did the West Indies cricket team play between 2018 and 2021? (including both the years)",153,"292 matches 
+"
+West_Indies_cricket_team,How many t20 matches did the West Indies cricket team play between 2018 and 2020? (including both the years),36,"37 matches 
+"
+West_Indies_cricket_team,Who were the individual(s) who held the position of the t20i_captain for the West Indies cricket team from 2018 and 2020? (including both the years),"Kieron Pollard, Jason Mohammed, Jason Holder, Carlos Brathwaite","Carlos Brathwaite, Jason Mohammed, Kieron Pollard 
+"
+West_Indies_cricket_team,Name the people who serve as test_captain of West Indies cricket team between 2018 and 2021. (including both the years),"Kraigg Brathwaite, Jason Holder","Jason Holder, Kraigg Brathwaite 
+"
+West_Indies_cricket_team,Who were the individual(s) who held the position of the od_captain for the West Indies cricket team from 2018 and 2020? (including both the years),"Kieron Pollard, Jason Holder","Jason Holder, Kieron Pollard 
+"
+West_Indies_cricket_team,Who were the individual(s) who acted as the coach of the West Indies cricket team in 2018?,"Nic Pothas, Stuart Law","Stuart Law 
+"
+West_Indies_cricket_team,Name the person(s) who served as the coach of the West Indies cricket team in 2019.,"Nic Pothas, Phil Simmons, Richard Pybus, Floyd Reifer","Richard Pybus, Floyd Reifer 
+"
+West_Indies_cricket_team,What was the highest ranking achieved by the West Indies cricket team in the t20i format in 2021?,8,"8th 
+"
+West_Indies_cricket_team,What was the highest ranking achieved by the West Indies cricket team in the odi format in 2020?,9,"9th 
+"
+West_Indies_cricket_team,what was the best t20i rank of the West Indies cricket team in 2020?,10,"10th 
+"
+West_Indies_cricket_team,What is the win to loss ratio of West Indies cricket team in test format in 2017?(Answer in decimal form.),0.5,"1.58 
+"
+West_Indies_cricket_team,What is the ratio of wins to losses for the West Indies cricket team in the t20i format for 2020?(Answer in decimal form.),1.0,"0.33 
+"
+West_Indies_cricket_team,What is the ratio of wins to losses for the West Indies cricket team in the test format for 2019?(Answer in decimal form.),1.0,"2.00 
+"
+West_Indies_cricket_team,What is the win to loss ratio of West Indies cricket team in test format in 2020?(Answer in decimal form.),0.25,"1.25 
+"

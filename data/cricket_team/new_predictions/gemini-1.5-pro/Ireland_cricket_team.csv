@@ -1,0 +1,75 @@
+entity,question,actual_answer,predicted_answer
+Ireland_cricket_team,Name the person(s) who served as the coach when Andrew Balbirnie was the od captain of the Ireland cricket team.,"Heinrich Malan, Graham Ford","Graham Ford, Heinrich Malan 
+"
+Ireland_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Graham Ford as the coach of the Ireland cricket team?,"Andrew Balbirnie, William Porterfield, Gary Wilson","William Porterfield, Andrew Balbirnie 
+"
+Ireland_cricket_team,Name the person(s) who served as the test captain when Gary Wilson was the t20i captain of the Ireland cricket team.,William Porterfield,"William Porterfield 
+"
+Ireland_cricket_team,Was the Ireland cricket team's win percentage the highest in the odi format in either 2018 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2018,"2018 
+"
+Ireland_cricket_team,Was the Ireland cricket team's win percentage the highest in the t20i format in either 2020 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2020 
+"
+Ireland_cricket_team,Was the Ireland cricket team's win percentage the highest in the t20i format in either 2017 or 2020?(Answer in year)(Include no results/ties/draws in total number of matches.),2017,"2017 
+"
+Ireland_cricket_team,Does the Ireland cricket team have the best win percentage in the odi format in 2020 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2020 
+"
+Ireland_cricket_team,"Name the person(s) who served as the od captain during the tenure of Gary Wilson and Graham Ford as the t20i captain and coach, respectively, of the Ireland cricket team.",William Porterfield,"William Porterfield 
+"
+Ireland_cricket_team,Who was the coach when t20i captain was Gary Wilson and od captain was William Porterfield of the Ireland cricket team?,Graham Ford,"Graham Ford 
+"
+Ireland_cricket_team,In which year did Gary Wilson become the t20i_captain of the Ireland cricket team for the first time?,2018,"2018 
+"
+Ireland_cricket_team,"How long did Gary Wilson serve as the t20i captain of Ireland cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",380 days,"374 
+"
+Ireland_cricket_team,"How long did William Porterfield serve as the t20i captain of Ireland cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",442 days,"1769 
+"
+Ireland_cricket_team,"Which person had the shortest tenure as the coach of the Ireland cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",John Bracewell,"John Bracewell 
+"
+Ireland_cricket_team,"Who had the shortest stint as the t20i captain of the Ireland cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Gary Wilson,"Gary Wilson 
+"
+Ireland_cricket_team,"Who had the longest stint as the coach of the Ireland cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Graham Ford,"Graham Ford 
+"
+Ireland_cricket_team,"Which person had the longest tenure as the od captain of the Ireland cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Andrew Balbirnie,"William Porterfield 
+"
+Ireland_cricket_team,How many individuals took on the role of t20i captain of the Ireland cricket team?,3,"Three individuals 
+"
+Ireland_cricket_team,How many people served as the od captain of the Ireland cricket team?,2,"Two 
+"
+Ireland_cricket_team,Who served as the coach of the Ireland cricket team prior to Heinrich Malan?,Graham Ford,"Graham Ford 
+"
+Ireland_cricket_team,Who was the t20i captain of Ireland cricket team after Gary Wilson?,Andrew Balbirnie,"Andrew Balbirnie 
+"
+Ireland_cricket_team,Who was the t20i captain of Ireland cricket team after William Porterfield?,Gary Wilson,"Gary Wilson 
+"
+Ireland_cricket_team,How many odi matches did the Ireland cricket team play between 2018 and 2021? (including both the years),47,"67 
+"
+Ireland_cricket_team,How many t20 matches did the Ireland cricket team play between 2018 and 2020? (including both the years),37,"32 
+"
+Ireland_cricket_team,"How many total(including ODIs,Tests,T20Is) matches did the Ireland cricket team play between 2018 and 2021? (including both the years)",102,"278 
+"
+Ireland_cricket_team,"How many total(including ODIs,Tests,T20Is) matches did the Ireland cricket team play between 2018 and 2020? (including both the years)",73,"298 matches 
+"
+Ireland_cricket_team,Who were the individual(s) who held the position of the od_captain for the Ireland cricket team from 2018 and 2020? (including both the years),"Andrew Balbirnie, William Porterfield","William Porterfield 
+"
+Ireland_cricket_team,Who were the individual(s) who held the position of the coach for the Ireland cricket team from 2018 and 2020? (including both the years),Graham Ford,"Graham Ford 
+"
+Ireland_cricket_team,Who were the individual(s) who held the position of the t20i_captain for the Ireland cricket team from 2018 and 2021? (including both the years),"Andrew Balbirnie, William Porterfield, Gary Wilson","William Porterfield, Gary Wilson 
+"
+Ireland_cricket_team,Name the person(s) who served as the coach of the Ireland cricket team in 2018.,Graham Ford,"Graham Ford 
+"
+Ireland_cricket_team,Who were the individual(s) who acted as the coach of the Ireland cricket team in 2021?,Graham Ford,"Graham Ford 
+"
+Ireland_cricket_team,Name the person(s) who served as the manager of the Ireland cricket team in 2018.,Chris Siddell,"Chris Siddell 
+"
+Ireland_cricket_team,What was the highest ranking achieved by the Ireland cricket team in the t20i format in 2021?,11,"11th 
+"
+Ireland_cricket_team,What was the highest ranking achieved by the Ireland cricket team in the test format in 2021?,12,"12th 
+"
+Ireland_cricket_team,What was the highest ranking achieved by the Ireland cricket team in the odi format in 2018?,12,"12th 
+"
+Ireland_cricket_team,What is the win to loss ratio of Ireland cricket team in test format in 2018?(Answer in decimal form.),0.0,"0.0 
+"
+Ireland_cricket_team,What is the ratio of wins to losses for the Ireland cricket team in the odi format for 2021?(Answer in decimal form.),0.5,"0.25 
+"
+Ireland_cricket_team,What is the win to loss ratio of Ireland cricket team in t20i format in 2021?(Answer in decimal form.),0.5,"0.6 
+"

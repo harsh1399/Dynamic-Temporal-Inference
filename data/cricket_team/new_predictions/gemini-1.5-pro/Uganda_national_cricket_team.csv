@@ -1,0 +1,25 @@
+entity,question,actual_answer,predicted_answer
+Uganda_national_cricket_team,Name the person(s) who served as the t20i captain when Steve Tikolo was the coach of the Uganda national cricket team.,Roger Mukasa,"Roger Mukasa 
+"
+Uganda_national_cricket_team,Does the Uganda national cricket team have the best win percentage in the t20i format in 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2022 
+"
+Uganda_national_cricket_team,"What was the duration of Lawrence Mahatlane's tenure as the coach of Uganda national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",361 days,"1197 
+"
+Uganda_national_cricket_team,"What was the duration of Roger Mukasa's tenure as the t20i captain of Uganda national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",959 days,"1100 
+"
+Uganda_national_cricket_team,"Who had the longest stint as the t20i captain of the Uganda national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Roger Mukasa,"Roger Mukasa 
+"
+Uganda_national_cricket_team,"Who had the shortest stint as the t20i captain of the Uganda national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Brian Masaba,"Roger Mukasa 
+"
+Uganda_national_cricket_team,"Which person had the shortest tenure as the coach of the Uganda national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Lawrence Mahatlane,
+Uganda_national_cricket_team,How many people served as the coach of the Uganda national cricket team?,2,"Two 
+"
+Uganda_national_cricket_team,How many people served as the t20i captain of the Uganda national cricket team?,2,"Two 
+"
+Uganda_national_cricket_team,Who was the coach of the Uganda national cricket team before Lawrence Mahatlane?,Steve Tikolo,
+Uganda_national_cricket_team,Who assumed the role of coach for the Uganda national cricket team following Steve Tikolo?,Lawrence Mahatlane,
+Uganda_national_cricket_team,Who assumed the role of t20i captain for the Uganda national cricket team following Roger Mukasa?,Brian Masaba,
+Uganda_national_cricket_team,What is the win to loss ratio of Uganda national cricket team in t20i format in 2019?(Answer in decimal form.),1.0,"1.0 
+"
+Uganda_national_cricket_team,What is the win to loss ratio of Uganda national cricket team in t20i format in 2022?(Answer in decimal form.),2.0,"2.076923076923077 
+"

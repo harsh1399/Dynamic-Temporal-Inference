@@ -1,0 +1,1179 @@
+{
+    "Ministry_of_Defence_(India)": {
+        "q1-multi": {
+            "question9": {
+                "Q": "Who served as the Secretary (Defence Research and Development Organisation) during the period when Sanjeevanee Kutty (Indian Administrative Service) was the Secretary (Department of Ex-servicemen Welfare)?",
+                "A": "Dr. Sanjay Mitra (civil servant), Dr. G. Satheesh Reddy"
+            },
+            "question3": {
+                "Q": "Name the person(s) who served as the Secretary (Defence Production) when Ajay Kumar (civil servant) was the Defence Secretary (India).",
+                "A": "Subhash Chandra (Indian Administrative Service), Subhash Garg (Indian Administrative Service)"
+            },
+            "question8": {
+                "Q": "Who served as the Secretary (Defence Production) during the period when Shripad Yesso Naik was the Minister of State for Defence?",
+                "A": "Subhash Chandra (Indian Administrative Service), Subhash Garg (Indian Administrative Service)"
+            }
+        },
+        "q1-single": {
+            "question8": {
+                "Q": "Name the person(s) who served as the Defence Secretary (India) when Subhash Chandra (Indian Administrative Service) was the Secretary (Defence Production).",
+                "A": "Ajay Kumar (civil servant)"
+            }
+        },
+        "q2-multi": {
+            "question10": {
+                "Q": "Who held the position of Secretary (Defence Production) while Sanjeevanee Kutty (Indian Administrative Service) was the Secretary (Department of Ex-servicemen Welfare) and Shripad Yesso Naik was the Minister of State for Defence?",
+                "A": "Subhash Chandra (Indian Administrative Service), Subhash Garg (Indian Administrative Service)"
+            },
+            "question12": {
+                "Q": "Who held the position of Secretary (Defence Production) while Dr. G. Satheesh Reddy was the Secretary (Defence Research and Development Organisation) and Rajnath Singh was the Minister of Defence (India)?",
+                "A": "Subhash Chandra (Indian Administrative Service), Subhash Garg (Indian Administrative Service)"
+            }
+        },
+        "q2-single": {
+            "question442": {
+                "Q": "Who held the position of Minister of State for Defence while Dr. G. Satheesh Reddy was the Scientific Adviser to Defence Minister and Nirmala Sitharaman was the Minister of Defence (India)?",
+                "A": "Dr. Subhash Ramrao Bhamre"
+            },
+            "question366": {
+                "Q": "Who held the position of Minister of Defence (India) while Ajay Kumar (civil servant) was the Defence Secretary (India) and Sanjiv Mittal was the Financial Advisor?",
+                "A": "Rajnath Singh"
+            }
+        },
+        "q3": {
+            "question1": {
+                "Q": "Who held the positions of Secretary (Defence Research and Development Organisation) and Scientific Adviser to Defence Minister simultaneously?",
+                "A": "Dr. G. Satheesh Reddy"
+            }
+        },
+        "q4": {
+            "question2": {
+                "Q": "Name the person(s) who first served as Scientific Adviser to Defence Minister and then later as Secretary (Defence Research and Development Organisation).",
+                "A": "Dr. G. Satheesh Reddy"
+            },
+            "question1": {
+                "Q": "Who served first as the Secretary (Defence Production) and later as the Defence Secretary (India)?",
+                "A": "Ajay Kumar (civil servant)"
+            }
+        },
+        "q5": {
+            "question35": {
+                "Q": "Which position did Sanjeevanee Kutty (Indian Administrative Service) hold when Sanjay Mitra (civil servant) was Defence Secretary (India)?",
+                "A": "Secretary (Department of Ex-servicemen Welfare)"
+            },
+            "question47": {
+                "Q": "What position did Sanjeevanee Kutty (Indian Administrative Service) occupy while Dr. Subhash Ramrao Bhamre was serving as the Minister of State for Defence?",
+                "A": "Secretary (Department of Ex-servicemen Welfare)"
+            }
+        },
+        "q6": {
+            "question9": {
+                "Q": "How long did Ajay Kumar (civil servant) served as Defence Secretary (India) of Ministry of Defence (India)?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "846 days"
+            },
+            "question18": {
+                "Q": "How long did Dr. G. Satheesh Reddy served as Secretary (Defence Research and Development Organisation) of Ministry of Defence (India)?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "846 days"
+            },
+            "question22": {
+                "Q": "How long did Sanjiv Mittal served as Financial Advisor of Ministry of Defence (India)?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "161 days"
+            },
+            "question11": {
+                "Q": "What was the duration of Sanjeevanee Kutty (Indian Administrative Service)'s tenure as Secretary (Department of Ex-servicemen Welfare) at the Ministry of Defence (India)?(Answer in the number of days.) (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "1144 days"
+            }
+        },
+        "q7-multi": {
+            "question1": {
+                "Q": "Who served as the Minister of State for Defence in the Ministry of Defence (India) in 2021?",
+                "A": "Ajay Bhatt, Shripad Yesso Naik"
+            }
+        },
+        "q7-single": {
+            "question22": {
+                "Q": "Name the person(s) who served as the Minister of Defence (India) of the Ministry of Defence (India) in 2018?",
+                "A": "Nirmala Sitharaman"
+            }
+        },
+        "q8": {
+            "question1": {
+                "Q": "Who held the position of Defence Secretary (India) prior to G. Mohan Kumar (civil servant)?",
+                "A": "Pradeep Kumar (civil servant)"
+            },
+            "question3": {
+                "Q": "Who was the Defence Secretary (India) before Ajay Kumar (civil servant)?",
+                "A": "Sanjay Mitra (civil servant)"
+            }
+        },
+        "q9": {
+            "question4": {
+                "Q": "Who succeeded Pallam Raju as the Ministers of State for Defence?",
+                "A": "Dr. Subhash Ramrao Bhamre"
+            },
+            "question10": {
+                "Q": "Who was the Minister of State for Defence after Dr. Subhash Ramrao Bhamre?",
+                "A": "Shripad Yesso Naik"
+            }
+        },
+        "q10": {
+            "question9": {
+                "Q": "How many people served as the Minister of Defence (India)?",
+                "A": "3"
+            },
+            "question3": {
+                "Q": "How many people served as the Ministers of State for Defence?",
+                "A": "1"
+            }
+        },
+        "q11": {
+            "question34": {
+                "Q": "Name the people who served as Ministers of State for Defence between 2016 and 2019?(including both the years)",
+                "A": "Dr. Subhash Ramrao Bhamre"
+            },
+            "question4": {
+                "Q": "Name the people who served as Defence Secretary (India) between 2011 and 2021?(including both the years)",
+                "A": "Pradeep Kumar (civil servant), Ajay Kumar (civil servant), Sanjay Mitra (civil servant), G. Mohan Kumar (civil servant)"
+            },
+            "question28": {
+                "Q": "Who were the individuals who held the position of Minister of Defence (India) between 2016 and 2019?(including both the years)",
+                "A": "Manohar Parrikar, Rajnath Singh, Nirmala Sitharaman"
+            },
+            "question20": {
+                "Q": "Who were the individuals who held the position of Secretary (Department of Ex-servicemen Welfare) between 2019 and 2021?(including both the years)",
+                "A": "Sanjeevanee Kutty (Indian Administrative Service)"
+            }
+        },
+        "q12": {
+            "question17": {
+                "Q": "Which person had the shortest tenure as Financial Advisor?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "Sanjiv Mittal"
+            },
+            "question2": {
+                "Q": "Who held the position of Secretary (Department of Military Affairs) for the longest duration? (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "General Bipin Rawat (Chief of Defence Staff (India))"
+            }
+        }
+    },
+    "Federal_Election_Commission": {
+        "q1-multi": {},
+        "q1-single": {
+            "question7": {
+                "Q": "Name the person(s) who served as the Vice Chairman when Caroline C. Hunter was the Chairman.",
+                "A": "Ellen L. Weintraub"
+            },
+            "question10": {
+                "Q": "Who served as the Vice Chairman during the period when Allen Dickerson was the Chairman?",
+                "A": "Dara Lindenbaum"
+            }
+        },
+        "q2-multi": {},
+        "q2-single": {},
+        "q3": {},
+        "q4": {
+            "question1": {
+                "Q": "Name the person(s) who first served as Chairman and then later as Vice Chairman.",
+                "A": "Steven T. Walther"
+            },
+            "question2": {
+                "Q": "Who served first as the Vice Chairman and later as the Chairman?",
+                "A": "Caroline C. Hunter, Allen Dickerson"
+            }
+        },
+        "q5": {
+            "question9": {
+                "Q": "What position did Allen Dickerson occupy while Shana M. Broussard was serving as the Chairman?",
+                "A": "Vice Chairman"
+            },
+            "question8": {
+                "Q": "What position did Steven T. Walther occupy while James E. Trainor III was serving as the Chairman?",
+                "A": "Vice Chairman"
+            }
+        },
+        "q6": {
+            "question8": {
+                "Q": "What was the duration of Allen Dickerson's tenure as Vice Chairman at the Federal Election Commission?(Answer in the number of days.) (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "427 days"
+            },
+            "question3": {
+                "Q": "How long did James E. Trainor III served as Chairman of Federal Election Commission?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "152 days"
+            },
+            "question1": {
+                "Q": "How long did Steven T. Walther served as Chairman of Federal Election Commission?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "301 days"
+            },
+            "question6": {
+                "Q": "How long did Ellen L. Weintraub served as Vice Chairman of Federal Election Commission?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "782 days"
+            }
+        },
+        "q7-multi": {
+            "question6": {
+                "Q": "Name the person(s) who served as the Vice Chairman of the Federal Election Commission in 2022?",
+                "A": "Dara Lindenbaum, Allen Dickerson"
+            },
+            "question2": {
+                "Q": "Who served as the Chairman in the Federal Election Commission in 2021?",
+                "A": "James E. Trainor III, Shana M. Broussard"
+            },
+            "question3": {
+                "Q": "Name the person(s) who served as the Chairman of the Federal Election Commission in 2022?",
+                "A": "Shana M. Broussard, Allen Dickerson"
+            }
+        },
+        "q7-single": {},
+        "q8": {
+            "question8": {
+                "Q": "Who was the Vice Chairman before Dara Lindenbaum?",
+                "A": "Allen Dickerson"
+            }
+        },
+        "q9": {
+            "question3": {
+                "Q": "Who was the Chairman after James E. Trainor III?",
+                "A": "Shana M. Broussard"
+            }
+        },
+        "q10": {
+            "question2": {
+                "Q": "How many individuals held the position of Vice Chairman?",
+                "A": "5"
+            },
+            "question1": {
+                "Q": "How many individuals held the position of Chairman?",
+                "A": "5"
+            }
+        },
+        "q11": {
+            "question4": {
+                "Q": "Who were the individuals who held the position of Vice Chairman between 2018 and 2021?(including both the years)",
+                "A": "Steven T. Walther, Caroline C. Hunter, Allen Dickerson, Ellen L. Weintraub"
+            },
+            "question3": {
+                "Q": "Who were the individuals who held the position of Chairman between 2021 and 2022?(including both the years)",
+                "A": "James E. Trainor III, Shana M. Broussard, Allen Dickerson"
+            }
+        },
+        "q12": {
+            "question4": {
+                "Q": "Who held the position of Vice Chairman for the shortest duration? (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "Dara Lindenbaum"
+            },
+            "question1": {
+                "Q": "Which person had the longest tenure as Chairman?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "Caroline C. Hunter"
+            }
+        }
+    },
+    "United_States_Department_of_Justice": {
+        "q1-multi": {
+            "question8": {
+                "Q": "Who served as the United States Associate Attorney General during the period when Don Verrilli was the Solicitor General of the United States?",
+                "A": "Tony West, Stuart F. Delery"
+            },
+            "question7": {
+                "Q": "Who served as the United States Associate Attorney General during the period when Sally Quillian Yates was the United States Deputy Attorney General?",
+                "A": "William Baer, Stuart F. Delery"
+            },
+            "question1": {
+                "Q": "Who served as the United States Attorney General during the period when Sally Quillian Yates was the United States Deputy Attorney General?",
+                "A": "Loretta Lynch, Eric Holder"
+            }
+        },
+        "q1-single": {
+            "question41": {
+                "Q": "Who served as the Solicitor General of the United States during the period when Mark Filip was the United States Deputy Attorney General?",
+                "A": "Gregory Garre"
+            }
+        },
+        "q2-multi": {
+            "question1": {
+                "Q": "Who was the United States Deputy Attorney General when the United States Attorney General was Eric Holder and the Solicitor General of the United States was Don Verrilli?",
+                "A": "Sally Quillian Yates, James M. Cole"
+            },
+            "question2": {
+                "Q": "Who was the United States Associate Attorney General when the United States Attorney General was Eric Holder and the Solicitor General of the United States was Don Verrilli?",
+                "A": "Tony West, Stuart F. Delery"
+            }
+        },
+        "q2-single": {
+            "question43": {
+                "Q": "Who was the United States Associate Attorney General when the United States Attorney General was Matthew Whitaker (attorney) and the Solicitor General of the United States was Noel Francisco?",
+                "A": "Jesse Panuccio"
+            }
+        },
+        "q3": {},
+        "q4": {},
+        "q5": {
+            "question34": {
+                "Q": "What position did Jesse Panuccio occupy while Matthew Whitaker (attorney) was serving as the United States Attorney General?",
+                "A": "United States Associate Attorney General"
+            }
+        },
+        "q6": {
+            "question15": {
+                "Q": "How long did Don Verrilli served as Solicitor General of the United States of United States Department of Justice?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "1277 days"
+            },
+            "question5": {
+                "Q": "What was the duration of Mark Filip's tenure as United States Deputy Attorney General at the United States Department of Justice?(Answer in the number of days.) (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "1703 days"
+            },
+            "question6": {
+                "Q": "What was the duration of James M. Cole's tenure as United States Deputy Attorney General at the United States Department of Justice?(Answer in the number of days.) (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "642 days"
+            }
+        },
+        "q7-multi": {
+            "question3": {
+                "Q": "Name the person(s) who served as the United States Associate Attorney General of the United States Department of Justice in 2019?",
+                "A": "Jesse Panuccio, Claire McCusker Murray"
+            },
+            "question1": {
+                "Q": "Who served as the United States Attorney General in the United States Department of Justice in 2019?",
+                "A": "William Barr, Matthew Whitaker (attorney)"
+            },
+            "question2": {
+                "Q": "Who served as the United States Deputy Attorney General in the United States Department of Justice in 2019?",
+                "A": "Jeffrey A. Rosen, Rod J. Rosenstein"
+            }
+        },
+        "q7-single": {
+            "question10": {
+                "Q": "Name the person(s) who served as the United States Associate Attorney General of the United States Department of Justice in 2013?",
+                "A": "Tony West"
+            },
+            "question9": {
+                "Q": "Name the person(s) who served as the United States Associate Attorney General of the United States Department of Justice in 2008?",
+                "A": "Kevin J. O'Connor"
+            }
+        },
+        "q8": {
+            "question3": {
+                "Q": "Who held the position of United States Attorney General prior to Matthew Whitaker (attorney)?",
+                "A": "Loretta Lynch"
+            }
+        },
+        "q9": {
+            "question15": {
+                "Q": "Who succeeded Don Verrilli as the Solicitor General of the United States?",
+                "A": "Ian Gershengorn"
+            }
+        },
+        "q10": {
+            "question3": {
+                "Q": "How many people served as the United States Associate Attorney General?",
+                "A": "6"
+            },
+            "question2": {
+                "Q": "How many people served as the United States Deputy Attorney General?",
+                "A": "5"
+            }
+        },
+        "q11": {
+            "question37": {
+                "Q": "Name the people who served as Solicitor General of the United States between 2013 and 2019?(including both the years)",
+                "A": "Don Verrilli, Noel Francisco, Ian Gershengorn"
+            },
+            "question12": {
+                "Q": "Who were the individuals who held the position of United States Deputy Attorney General between 2008 and 2015?(including both the years)",
+                "A": "Mark Filip, Sally Quillian Yates, James M. Cole"
+            }
+        },
+        "q12": {
+            "question5": {
+                "Q": "Which person had the shortest tenure as United States Attorney General?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "William Barr"
+            },
+            "question6": {
+                "Q": "Who held the position of United States Deputy Attorney General for the shortest duration? (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "Jeffrey A. Rosen"
+            },
+            "question2": {
+                "Q": "Who held the position of United States Deputy Attorney General for the longest duration? (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "Mark Filip"
+            }
+        }
+    },
+    "Defence_Research_and_Development_Organisation": {
+        "q1-multi": {
+            "question1": {
+                "Q": "Who served as the Secretary, Department of Defence R&D during the period when G. Satheesh Reddy was the Scientific Adviser to Raksha Mantri?",
+                "A": "S. Christopher, G. Satheesh Reddy"
+            },
+            "question2": {
+                "Q": "Name the person(s) who served as the Secretary, Department of Defence R&D when Manohar Parrikar was the Defence Minister of India.",
+                "A": "Avinash Chander, S. Christopher"
+            }
+        },
+        "q1-single": {
+            "question3": {
+                "Q": "Name the person(s) who served as the Scientific Adviser to Raksha Mantri when G. Satheesh Reddy was the Secretary, Department of Defence R&D.",
+                "A": "G. Satheesh Reddy"
+            }
+        },
+        "q2-multi": {
+            "question1": {
+                "Q": "Who was the Secretary, Department of Defence R&D when the Scientific Adviser to Raksha Mantri was G. Satheesh Reddy and the Defence Minister of India was Nirmala Sitharaman?",
+                "A": "S. Christopher, G. Satheesh Reddy"
+            }
+        },
+        "q2-single": {
+            "question3": {
+                "Q": "Who held the position of Defence Minister of India while S. Christopher was the Secretary, Department of Defence R&D and G. Satheesh Reddy was the Scientific Adviser to Raksha Mantri?",
+                "A": "Nirmala Sitharaman"
+            },
+            "question1": {
+                "Q": "Who held the position of Scientific Adviser to Raksha Mantri while S. Christopher was the Secretary, Department of Defence R&D and Nirmala Sitharaman was the Defence Minister of India?",
+                "A": "G. Satheesh Reddy"
+            }
+        },
+        "q3": {
+            "question1": {
+                "Q": "Name the person(s) who served as both the Secretary, Department of Defence R&D and the Scientific Adviser to Raksha Mantri at the same time.",
+                "A": "G. Satheesh Reddy"
+            }
+        },
+        "q4": {
+            "question1": {
+                "Q": "Who served first as the Scientific Adviser to Raksha Mantri and later as the Secretary, Department of Defence R&D?",
+                "A": "G. Satheesh Reddy"
+            }
+        },
+        "q5": {
+            "question6": {
+                "Q": "What position did G. Satheesh Reddy occupy while Nirmala Sitharaman was serving as the Defence Minister of India?",
+                "A": "Scientific Adviser to Raksha Mantri, Secretary, Department of Defence R&D"
+            },
+            "question4": {
+                "Q": "Which position did S. Christopher hold when Nirmala Sitharaman was Defence Minister of India?",
+                "A": "Secretary, Department of Defence R&D"
+            }
+        },
+        "q6": {
+            "question2": {
+                "Q": "What was the duration of S. Christopher's tenure as Secretary, Department of Defence R&D at the Defence Research and Development Organisation?(Answer in the number of days.) (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "735 days"
+            },
+            "question3": {
+                "Q": "How long did G. Satheesh Reddy served as Scientific Adviser to Raksha Mantri of Defence Research and Development Organisation?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "131 days"
+            },
+            "question6": {
+                "Q": "How long did Nirmala Sitharaman served as Defence Minister of India of Defence Research and Development Organisation?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "356 days"
+            },
+            "question5": {
+                "Q": "What was the duration of Arun Jaitley's tenure as Defence Minister of India at the Defence Research and Development Organisation?(Answer in the number of days.) (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "117 days"
+            }
+        },
+        "q7-multi": {
+            "question1": {
+                "Q": "Who served as the Secretary, Department of Defence R&D in the Defence Research and Development Organisation in 2018?",
+                "A": "S. Christopher, G. Satheesh Reddy"
+            },
+            "question2": {
+                "Q": "Who served as the Defence Minister of India in the Defence Research and Development Organisation in 2017?",
+                "A": "Arun Jaitley, Nirmala Sitharaman"
+            }
+        },
+        "q7-single": {
+            "question4": {
+                "Q": "Name the person(s) who served as the Scientific Adviser to Raksha Mantri of the Defence Research and Development Organisation in 2018?",
+                "A": "G. Satheesh Reddy"
+            },
+            "question6": {
+                "Q": "Who served as the Defence Minister of India in the Defence Research and Development Organisation in 2016?",
+                "A": "Manohar Parrikar"
+            }
+        },
+        "q8": {
+            "question2": {
+                "Q": "Who was the Secretary, Department of Defence R&D before G. Satheesh Reddy?",
+                "A": "S. Christopher"
+            },
+            "question3": {
+                "Q": "Who was the Defence Minister of India before Arun Jaitley?",
+                "A": "Manohar Parrikar"
+            }
+        },
+        "q9": {
+            "question3": {
+                "Q": "Who was the Defence Minister of India after Manohar Parrikar?",
+                "A": "Arun Jaitley"
+            }
+        },
+        "q10": {
+            "question2": {
+                "Q": "How many individuals held the position of Scientific Adviser to Raksha Mantri?",
+                "A": "1"
+            },
+            "question3": {
+                "Q": "How many people served as the Defence Minister of India?",
+                "A": "3"
+            }
+        },
+        "q11": {
+            "question6": {
+                "Q": "Who were the individuals who held the position of Secretary, Department of Defence R&D between 2017 and 2018?(including both the years)",
+                "A": "S. Christopher, G. Satheesh Reddy"
+            },
+            "question9": {
+                "Q": "Name the people who served as Defence Minister of India between 2015 and 2018?(including both the years)",
+                "A": "Manohar Parrikar, Arun Jaitley, Nirmala Sitharaman"
+            }
+        },
+        "q12": {
+            "question2": {
+                "Q": "Which person had the longest tenure as Scientific Adviser to Raksha Mantri?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "G. Satheesh Reddy"
+            },
+            "question3": {
+                "Q": "Who held the position of Defence Minister of India for the longest duration? (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "Manohar Parrikar"
+            },
+            "question6": {
+                "Q": "Which person had the shortest tenure as Defence Minister of India?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "Arun Jaitley"
+            },
+            "question4": {
+                "Q": "Who held the position of Secretary, Department of Defence R&D for the shortest duration? (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "G. Satheesh Reddy"
+            }
+        }
+    },
+    "Department_of_the_Prime_Minister_and_Cabinet_(Australia)": {
+        "q1-multi": {
+            "question33": {
+                "Q": "Who served as the Minister for Women (Australia) during the period when Scott Ryan was the Minister Assisting the Cabinet Secretary?",
+                "A": "Michaelia Cash, Marise Payne, Kelly O'Dwyer"
+            },
+            "question12": {
+                "Q": "Name the person(s) who served as the Prime Minister of Australia when Arthur Sinodinos was the Cabinet Secretary.",
+                "A": "Malcolm Turnbull, Scott Morrison"
+            }
+        },
+        "q1-single": {
+            "question87": {
+                "Q": "Name the person(s) who served as the Minister Assisting the Cabinet Secretary when Malcolm Turnbull was the Prime Minister of Australia.",
+                "A": "Scott Ryan"
+            },
+            "question7": {
+                "Q": "Who served as the Secretary during the period when Jason Clare was the Cabinet Secretary?",
+                "A": "Dr Ian Watt"
+            }
+        },
+        "q2-multi": {
+            "question10": {
+                "Q": "Who was the Prime Minister of Australia when the Secretary was Martin Parkinson and the Minister for Indigenous Affairs (Australia) was Nigel Scullion?",
+                "A": "Malcolm Turnbull, Scott Morrison"
+            },
+            "question22": {
+                "Q": "Who held the position of Cabinet Secretary while Kevin Rudd was the Prime Minister of Australia and Jenny Macklin was the Minister for Indigenous Affairs (Australia)?",
+                "A": "Joe Ludwig, John Faulkner"
+            },
+            "question16": {
+                "Q": "Who was the Prime Minister of Australia when the Minister for Indigenous Affairs (Australia) was Nigel Scullion and the Minister Assisting the Cabinet Secretary was Scott Ryan?",
+                "A": "Malcolm Turnbull, Scott Morrison"
+            }
+        },
+        "q2-single": {
+            "question292": {
+                "Q": "Who held the position of Minister Assisting the Cabinet Secretary while Martin Parkinson was the Secretary and Arthur Sinodinos was the Cabinet Secretary?",
+                "A": "Scott Ryan"
+            }
+        },
+        "q3": {},
+        "q4": {},
+        "q5": {
+            "question64": {
+                "Q": "What position did Jenny Macklin occupy while Terry Moran was serving as the Secretary?",
+                "A": "Minister for Indigenous Affairs (Australia)"
+            },
+            "question41": {
+                "Q": "What position did Scott Morrison occupy while Angus Taylor was serving as the Minister Assisting the Prime Minister for the Counter-Terrorism?",
+                "A": "Prime Minister of Australia"
+            },
+            "question73": {
+                "Q": "Which position did Arthur Sinodinos hold when Scott Morrison was Prime Minister of Australia?",
+                "A": "Cabinet Secretary"
+            }
+        },
+        "q6": {
+            "question6": {
+                "Q": "How long did Julia Gillard served as Prime Minister of Australia of Department of the Prime Minister and Cabinet (Australia)?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "877 days"
+            },
+            "question2": {
+                "Q": "What was the duration of Dr Ian Watt's tenure as Secretary at the Department of the Prime Minister and Cabinet (Australia)?(Answer in the number of days.) (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "877 days"
+            }
+        },
+        "q7-multi": {},
+        "q7-single": {
+            "question9": {
+                "Q": "Name the person(s) who served as the Prime Minister of Australia of the Department of the Prime Minister and Cabinet (Australia) in 2010?",
+                "A": "Kevin Rudd"
+            },
+            "question11": {
+                "Q": "Name the person(s) who served as the Prime Minister of Australia of the Department of the Prime Minister and Cabinet (Australia) in 2015?",
+                "A": "Tony Abbott"
+            }
+        },
+        "q8": {
+            "question8": {
+                "Q": "Who held the position of Prime Minister of Australia prior to Scott Morrison?",
+                "A": "Malcolm Turnbull"
+            }
+        },
+        "q9": {
+            "question14": {
+                "Q": "Who was the Minister for Indigenous Affairs (Australia) after Jenny Macklin?",
+                "A": "Nigel Scullion"
+            },
+            "question2": {
+                "Q": "Who succeeded Dr Ian Watt as the Secretary?",
+                "A": "Michael Thawley"
+            }
+        },
+        "q10": {
+            "question1": {
+                "Q": "How many individuals held the position of Secretary?",
+                "A": "5"
+            },
+            "question2": {
+                "Q": "How many people served as the Prime Minister of Australia?",
+                "A": "5"
+            },
+            "question6": {
+                "Q": "How many people served as the Minister Assisting the Prime Minister for the Counter-Terrorism?",
+                "A": "3"
+            }
+        },
+        "q11": {
+            "question13": {
+                "Q": "Who were the individuals who held the position of Secretary between 2013 and 2017?(including both the years)",
+                "A": "Dr Ian Watt, Martin Parkinson, Michael Thawley"
+            },
+            "question25": {
+                "Q": "Name the people who served as Prime Minister of Australia between 2008 and 2017?(including both the years)",
+                "A": "Julia Gillard, Malcolm Turnbull, Tony Abbott, Kevin Rudd"
+            }
+        },
+        "q12": {
+            "question3": {
+                "Q": "Who held the position of Cabinet Secretary for the longest duration? (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "Arthur Sinodinos"
+            },
+            "question13": {
+                "Q": "Who held the position of Minister Assisting the Prime Minister for the Counter-Terrorism for the shortest duration? (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "Angus Taylor"
+            },
+            "question9": {
+                "Q": "Which person had the shortest tenure as Prime Minister of Australia?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "Scott Morrison"
+            },
+            "question6": {
+                "Q": "Which person had the longest tenure as Minister Assisting the Prime Minister for the Counter-Terrorism?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "Michael Keenan"
+            }
+        }
+    },
+    "Central_Intelligence_Agency": {
+        "q1-multi": {
+            "question14": {
+                "Q": "Name the person(s) who served as the General Counsel when James Clapper was the Director of National Intelligence.",
+                "A": "Stephen W. Preston, Robert Joseph Eatinger, Jr."
+            },
+            "question13": {
+                "Q": "Name the person(s) who served as the General Counsel when Avril Haines was the Deputy Director of the Central Intelligence Agency.",
+                "A": "Robert Joseph Eatinger, Jr."
+            },
+            "question7": {
+                "Q": "Name the person(s) who served as the Deputy Director of the Central Intelligence Agency when Stephen W. Preston was the General Counsel.",
+                "A": "Michael J. Morell, Michael Morell"
+            }
+        },
+        "q1-single": {
+            "question54": {
+                "Q": "Who served as the General Counsel during the period when Scott White was the Associate Deputy Director?",
+                "A": "John A. Rizzo"
+            },
+            "question38": {
+                "Q": "Who served as the Deputy Director of the Central Intelligence Agency during the period when V. Sue Bromley was the Associate Deputy Director?",
+                "A": "Michael Morell"
+            }
+        },
+        "q2-multi": {
+            "question1": {
+                "Q": "Who was the Director of the Central Intelligence Agency when the Deputy Director of the Central Intelligence Agency was Michael Morell and the General Counsel was Stephen W. Preston?",
+                "A": "John O. Brennan, Michael Morell"
+            },
+            "question2": {
+                "Q": "Who was the Director of the Central Intelligence Agency when the Deputy Director of the Central Intelligence Agency was Michael Morell and the Director of National Intelligence was James Clapper?",
+                "A": "John O. Brennan, Michael Morell"
+            },
+            "question3": {
+                "Q": "Who held the position of Director of the Central Intelligence Agency while Stephen W. Preston was the General Counsel and James Clapper was the Director of National Intelligence?",
+                "A": "John O. Brennan, Michael Morell"
+            }
+        },
+        "q2-single": {
+            "question108": {
+                "Q": "Who was the Director of National Intelligence when the Director of the Central Intelligence Agency was General Michael Hayden USAF and the Associate Deputy Director was Scott White?",
+                "A": "John Michael McConnell"
+            }
+        },
+        "q3": {
+            "question1": {
+                "Q": "Name the person(s) who served as both the Director of the Central Intelligence Agency and the Deputy Director of the Central Intelligence Agency at the same time.",
+                "A": "Michael Morell"
+            }
+        },
+        "q4": {
+            "question2": {
+                "Q": "Name the person(s) who first served as Deputy Director of the Central Intelligence Agency and then later as Director of National Intelligence.",
+                "A": "Avril Haines"
+            },
+            "question1": {
+                "Q": "Who served first as the Deputy Director of the Central Intelligence Agency and later as the Director of the Central Intelligence Agency?",
+                "A": "Gina Haspel"
+            }
+        },
+        "q5": {
+            "question20": {
+                "Q": "What position did Stephen Kappes occupy while General Michael Hayden USAF was serving as the Director of the Central Intelligence Agency?",
+                "A": "Deputy Director of the Central Intelligence Agency"
+            },
+            "question45": {
+                "Q": "What position did Scott White occupy while Stephen Kappes was serving as the Deputy Director of the Central Intelligence Agency?",
+                "A": "Associate Deputy Director"
+            },
+            "question26": {
+                "Q": "What position did David S. Cohen occupy while William Joseph Burns was serving as the Director of the Central Intelligence Agency?",
+                "A": "Deputy Director of the Central Intelligence Agency"
+            }
+        },
+        "q6": {
+            "question15": {
+                "Q": "How long did Stephanie O'Sullivan served as Associate Deputy Director of Central Intelligence Agency?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "917 days"
+            },
+            "question24": {
+                "Q": "What was the duration of James Clapper's tenure as Director of National Intelligence at the Central Intelligence Agency?(Answer in the number of days.) (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "1882 days"
+            },
+            "question22": {
+                "Q": "What was the duration of John Michael McConnell's tenure as Director of National Intelligence at the Central Intelligence Agency?(Answer in the number of days.) (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "581 days"
+            },
+            "question12": {
+                "Q": "How long did Gina Haspel served as Deputy Director of the Central Intelligence Agency of Central Intelligence Agency?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "118 days"
+            }
+        },
+        "q7-multi": {
+            "question1": {
+                "Q": "Name the person(s) who served as the Director of the Central Intelligence Agency of the Central Intelligence Agency in 2018?",
+                "A": "Mike Pompeo, Gina Haspel"
+            },
+            "question3": {
+                "Q": "Who served as the General Counsel in the Central Intelligence Agency in 2014?",
+                "A": "Robert Joseph Eatinger, Jr."
+            },
+            "question2": {
+                "Q": "Who served as the Deputy Director of the Central Intelligence Agency in the Central Intelligence Agency in 2018?",
+                "A": "Gina Haspel, Vaughn Bishop"
+            }
+        },
+        "q7-single": {
+            "question11": {
+                "Q": "Name the person(s) who served as the Deputy Director of the Central Intelligence Agency of the Central Intelligence Agency in 2014?",
+                "A": "Avril Haines"
+            }
+        },
+        "q8": {
+            "question15": {
+                "Q": "Who held the position of General Counsel prior to Stephen W. Preston?",
+                "A": "John A. Rizzo"
+            },
+            "question21": {
+                "Q": "Who held the position of Director of National Intelligence prior to Avril Haines?",
+                "A": "Dan Coats"
+            }
+        },
+        "q9": {
+            "question20": {
+                "Q": "Who was the Director of National Intelligence after James Clapper?",
+                "A": "Dan Coats"
+            },
+            "question18": {
+                "Q": "Who was the Director of National Intelligence after John Michael McConnell?",
+                "A": "Dennis Blair"
+            }
+        },
+        "q10": {
+            "question1": {
+                "Q": "How many individuals held the position of Director of the Central Intelligence Agency?",
+                "A": "7"
+            },
+            "question2": {
+                "Q": "How many individuals held the position of Deputy Director of the Central Intelligence Agency?",
+                "A": "8"
+            },
+            "question3": {
+                "Q": "How many individuals held the position of Associate Deputy Director?",
+                "A": "3"
+            }
+        },
+        "q11": {
+            "question15": {
+                "Q": "Name the people who served as Director of the Central Intelligence Agency between 2012 and 2021?(including both the years)",
+                "A": "William Joseph Burns, Gina Haspel, John O. Brennan, Michael Morell, Mike Pompeo"
+            },
+            "question38": {
+                "Q": "Name the people who served as Deputy Director of the Central Intelligence Agency between 2013 and 2018?(including both the years)",
+                "A": "Gina Haspel, Vaughn Bishop, Avril Haines, Michael Morell"
+            },
+            "question78": {
+                "Q": "Name the people who served as General Counsel between 2012 and 2021?(including both the years)",
+                "A": "Stephen W. Preston, Robert Joseph Eatinger, Jr., Courtney Simmons Elwood"
+            }
+        },
+        "q12": {
+            "question7": {
+                "Q": "Who held the position of Deputy Director of the Central Intelligence Agency for the shortest duration? (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "David S. Cohen"
+            },
+            "question2": {
+                "Q": "Who held the position of Deputy Director of the Central Intelligence Agency for the longest duration? (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "Avril Haines"
+            },
+            "question6": {
+                "Q": "Which person had the shortest tenure as Director of the Central Intelligence Agency?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "William Joseph Burns"
+            },
+            "question1": {
+                "Q": "Who held the position of Director of the Central Intelligence Agency for the longest duration? (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "John O. Brennan"
+            }
+        }
+    },
+    "Cabinet_Office": {
+        "q1-multi": {
+            "question56": {
+                "Q": "Name the person(s) who served as the Minister for the Cabinet Office when Vacant was the Deputy Prime Minister of the United Kingdom.",
+                "A": "Rt Hon. Oliver Dowden MP, Rt Hon. David Lidington"
+            },
+            "question52": {
+                "Q": "Who served as the Chancellor of the Duchy of Lancaster during the period when Rt Hon. Jeremy Quin MP was the Secretary of State in the Cabinet Office?",
+                "A": "Rt Hon. Oliver Dowden MP, Rt Hon. Nadhim Zahawi MP, Rt Hon. David Lidington"
+            }
+        },
+        "q1-single": {
+            "question86": {
+                "Q": "Name the person(s) who served as the Minister for the Cabinet Office when Rt Hon. Jonathan Hill (The Lord Hill of Oareford) was the Chancellor of the Duchy of Lancaster.",
+                "A": "Rt Hon. Francis Maude"
+            }
+        },
+        "q2-multi": {
+            "question13": {
+                "Q": "Who was the Cabinet Office Permanent Secretary when the Minister for the Cabinet Office was Rt Hon. Francis Maude and the Prime Minister of the United Kingdom was Rt Hon. David Cameron MP?",
+                "A": "Ian Watmore, Richard Heaton, CB"
+            },
+            "question88": {
+                "Q": "Who held the position of Paymaster General while Alex Chisholm was the Cabinet Office Permanent Secretary and Rt Hon. Nigel Adams was the Minister of State without Portfolio?",
+                "A": "Rt Hon. Edward Argar QC MP, Rt Hon. Michael Ellis"
+            },
+            "question48": {
+                "Q": "Who was the Minister for the Cabinet Office when the Cabinet Office Permanent Secretary was Alex Chisholm and the Prime Minister of the United Kingdom was Rt Hon. Boris Johnson MP?",
+                "A": "Rt Hon. Michael Ellis, Rt Hon. Stephen Barclay MP"
+            }
+        },
+        "q2-single": {
+            "question467": {
+                "Q": "Who held the position of Prime Minister of the United Kingdom while Vacant was the Deputy Prime Minister of the United Kingdom and Rt Hon. Oliver Dowden MP was the Paymaster General?",
+                "A": "Rt Hon. Boris Johnson MP"
+            }
+        },
+        "q3": {
+            "question1": {
+                "Q": "Who held the positions of Minister for the Cabinet Office and Chancellor of the Duchy of Lancaster simultaneously?",
+                "A": "Rt Hon. Stephen Barclay MP, Rt Hon. David Lidington"
+            },
+            "question2": {
+                "Q": "Who held the positions of Minister for the Cabinet Office and Paymaster General simultaneously?",
+                "A": "Rt Hon. Jeremy Quin MP, Rt Hon. Edward Argar QC MP, Rt Hon. Michael Ellis, Rt Hon. Oliver Dowden MP, Rt Hon. Francis Maude"
+            },
+            "question3": {
+                "Q": "Name the person(s) who served as both the Minister for the Cabinet Office and the Secretary of State in the Cabinet Office at the same time.",
+                "A": "Rt Hon. Jeremy Quin MP"
+            }
+        },
+        "q4": {
+            "question3": {
+                "Q": "Name the person(s) who first served as Paymaster General and then later as Chancellor of the Duchy of Lancaster.",
+                "A": "Rt Hon. Oliver Dowden MP"
+            },
+            "question5": {
+                "Q": "Who served first as the Secretary of State in the Cabinet Office and later as the Paymaster General?",
+                "A": "Rt Hon. Jeremy Quin MP"
+            }
+        },
+        "q5": {
+            "question256": {
+                "Q": "What position did Rt Hon. Francis Maude occupy while Rt Hon. Jonathan Hill (The Lord Hill of Oareford) was serving as the Chancellor of the Duchy of Lancaster?",
+                "A": "Minister for the Cabinet Office, Paymaster General"
+            },
+            "question233": {
+                "Q": "What position did Rt Hon. Francis Maude occupy while Ian Watmore was serving as the Cabinet Office Permanent Secretary?",
+                "A": "Minister for the Cabinet Office, Paymaster General"
+            }
+        },
+        "q6": {
+            "question36": {
+                "Q": "What was the duration of Rt Hon. Michael Ellis's tenure as Paymaster General at the Cabinet Office?(Answer in the number of days.) (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "346 days"
+            },
+            "question35": {
+                "Q": "What was the duration of Vacant's tenure as Deputy Prime Minister of the United Kingdom at the Cabinet Office?(Answer in the number of days.) (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "1281 days"
+            },
+            "question5": {
+                "Q": "How long did Ian Watmore served as Cabinet Office Permanent Secretary of Cabinet Office?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "1208 days"
+            },
+            "question41": {
+                "Q": "How long did Rt Hon. Michael Ellis served as Paymaster General of Cabinet Office?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "346 days"
+            }
+        },
+        "q7-multi": {
+            "question1": {
+                "Q": "Who served as the Cabinet Office Permanent Secretary in the Cabinet Office in 2014?",
+                "A": "Richard Heaton, CB"
+            }
+        },
+        "q7-single": {
+            "question32": {
+                "Q": "Name the person(s) who served as the Minister of State for Brexit Opportunities and Government Efficiency of the Cabinet Office in 2022?",
+                "A": "Rt Hon. Jacob Rees-Mogg MP"
+            }
+        },
+        "q8": {
+            "question3": {
+                "Q": "Who held the position of Cabinet Secretary (United Kingdom) prior to Simon Case?",
+                "A": "Sir Mark Sedwill KCMG"
+            }
+        },
+        "q9": {
+            "question18": {
+                "Q": "Who succeeded Rt Hon. Nick Clegg MP as the Deputy Prime Minister of the United Kingdom?",
+                "A": "Rt Hon. Dominic Raab MP, Rt Hon. Nick Clegg MP"
+            },
+            "question6": {
+                "Q": "Who was the Cabinet Office Permanent Secretary after Sir John Manzoni KCB?",
+                "A": "Alex Chisholm"
+            }
+        },
+        "q10": {
+            "question7": {
+                "Q": "How many individuals held the position of Chancellor of the Duchy of Lancaster?",
+                "A": "6"
+            },
+            "question10": {
+                "Q": "How many individuals held the position of Paymaster General?",
+                "A": "5"
+            },
+            "question2": {
+                "Q": "How many people served as the Cabinet Office Permanent Secretary?",
+                "A": "4"
+            },
+            "question8": {
+                "Q": "How many people served as the Minister without Portfolio?",
+                "A": "1"
+            }
+        },
+        "q11": {
+            "question32": {
+                "Q": "Who were the individuals who held the position of Continuing United Kingdom relationship with the European Union between 2020 and 2022?(including both the years)",
+                "A": "David Frost (British diplomat)"
+            },
+            "question85": {
+                "Q": "Who were the individuals who held the position of Chancellor of the Duchy of Lancaster between 2014 and 2021?(including both the years)",
+                "A": "Rt Hon. Stephen Barclay MP, Rt Hon. Michael Gove MP, Rt Hon. Jonathan Hill (The Lord Hill of Oareford), Rt Hon. David Lidington"
+            },
+            "question11": {
+                "Q": "Who were the individuals who held the position of Cabinet Secretary (United Kingdom) between 2018 and 2021?(including both the years)",
+                "A": "Simon Case, Sir Mark Sedwill KCMG, Jeremy Heywood"
+            }
+        },
+        "q12": {
+            "question12": {
+                "Q": "Which person had the longest tenure as Minister of State without Portfolio?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "Rt Hon. Nigel Adams"
+            },
+            "question15": {
+                "Q": "Which person had the shortest tenure as Continuing United Kingdom relationship with the European Union?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "David Frost (British diplomat)"
+            }
+        }
+    },
+    "HM_Treasury": {
+        "q1-multi": {
+            "question41": {
+                "Q": "Who served as the Minister for the Cabinet Office during the period when Philip Hammond was the Second Lord of the Treasury, Chancellor of the Exchequer?",
+                "A": "The Rt Hon. Ben Gummer, The Rt Hon. Damian Green"
+            },
+            "question15": {
+                "Q": "Who served as the Chief Secretary to the Treasury during the period when The Rt Hon. Jeremy Quin was the Minister for the Cabinet Office?",
+                "A": "John Glen, The Rt Hon. Edward Argar MP"
+            },
+            "question13": {
+                "Q": "Name the person(s) who served as the Chief Secretary to the Treasury when The Rt Hon. Theresa May MP was the First Lord of the Treasury.",
+                "A": "The Rt Hon. Lizz Truss MP, The Rt Hon. David Gauke MP"
+            }
+        },
+        "q1-single": {
+            "question52": {
+                "Q": "Who served as the First Lord of the Treasury during the period when John Glen was the Chief Secretary to the Treasury?",
+                "A": "The Rt Hon. Rishi Sunak MP"
+            },
+            "question58": {
+                "Q": "Name the person(s) who served as the First Lord of the Treasury when Andrew Griffith was the Financial Secretary to the Treasury.",
+                "A": "The Rt Hon. Lizz Truss MP"
+            }
+        },
+        "q2-multi": {
+            "question5": {
+                "Q": "Who held the position of Second Lord of the Treasury, Chancellor of the Exchequer while The Rt Hon. Lizz Truss MP was the First Lord of the Treasury and Felicity Buchan was the Exchequer Secretary to the Treasury?",
+                "A": "Kwasi Kwarteng, Jeremy Hunt"
+            },
+            "question22": {
+                "Q": "Who was the Financial Secretary to the Treasury when the First Lord of the Treasury was The Rt Hon. Lizz Truss MP and the Exchequer Secretary to the Treasury was Felicity Buchan?",
+                "A": "Andrew Griffith, Lucy Frazer"
+            },
+            "question4": {
+                "Q": "Who held the position of Second Lord of the Treasury, Chancellor of the Exchequer while The Rt Hon. Lizz Truss MP was the First Lord of the Treasury and Richard Fuller was the Economic Secretary to the Treasury?",
+                "A": "Kwasi Kwarteng, Jeremy Hunt"
+            }
+        },
+        "q2-single": {
+            "question778": {
+                "Q": "Who was the Economic Secretary to the Treasury when the First Lord of the Treasury was The Rt Hon. Theresa May MP and the Financial Secretary to the Treasury was The Rt Hon. Mel Stride?",
+                "A": "The Rt Hon. Stephen Barclay MP"
+            }
+        },
+        "q3": {},
+        "q4": {
+            "question4": {
+                "Q": "Who served first as the Financial Secretary to the Treasury and later as the Economic Secretary to the Treasury?",
+                "A": "Andrew Griffith"
+            },
+            "question5": {
+                "Q": "Name the person(s) who first served as Economic Secretary to the Treasury and then later as Chief Secretary to the Treasury.",
+                "A": "John Glen, The Rt Hon. Stephen Barclay MP"
+            },
+            "question2": {
+                "Q": "Who served first as the Chief Secretary to the Treasury and later as the First Lord of the Treasury?",
+                "A": "The Rt Hon. Lizz Truss MP"
+            }
+        },
+        "q5": {
+            "question287": {
+                "Q": "What position did Richard Fuller occupy while Felicity Buchan was serving as the Exchequer Secretary to the Treasury?",
+                "A": "Economic Secretary to the Treasury"
+            },
+            "question280": {
+                "Q": "Which position did John Glen hold when The Rt Hon. Michael Gove was Minister for the Cabinet Office?",
+                "A": "Economic Secretary to the Treasury"
+            },
+            "question272": {
+                "Q": "What position did John Glen occupy while The Rt Hon. Jesse Norman MP was serving as the Financial Secretary to the Treasury?",
+                "A": "Economic Secretary to the Treasury"
+            }
+        },
+        "q6": {
+            "question31": {
+                "Q": "What was the duration of The Rt Hon. Edward Argar's tenure as Minister for the Cabinet Office at the HM Treasury?(Answer in the number of days.) (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "15 days"
+            },
+            "question41": {
+                "Q": "How long did Kemi Badenoch MP served as Exchequer Secretary to the Treasury of HM Treasury?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "867 days"
+            }
+        },
+        "q7-multi": {
+            "question11": {
+                "Q": "Who served as the Exchequer Secretary to the Treasury in the HM Treasury in 2017?",
+                "A": "Andrew Jones, Office-Not-In-Use"
+            }
+        },
+        "q7-single": {
+            "question24": {
+                "Q": "Who served as the Minister for the Cabinet Office# in the HM Treasury in 2020?",
+                "A": "The Rt Hon. Michael Gove"
+            },
+            "question11": {
+                "Q": "Name the person(s) who served as the First Lord of the Treasury of the HM Treasury in 2022?",
+                "A": "The Rt Hon. Lizz Truss MP"
+            }
+        },
+        "q8": {
+            "question8": {
+                "Q": "Who was the Second Lord of the Treasury, Chancellor of the Exchequer before The Rt Hon. Rishi Sunak MP?",
+                "A": "Philip Hammond"
+            }
+        },
+        "q9": {
+            "question20": {
+                "Q": "Who succeeded The Rt Hon. Jesse Norman MP as the Financial Secretary to the Treasury?",
+                "A": "Lucy Frazer"
+            }
+        },
+        "q10": {
+            "question6": {
+                "Q": "How many individuals held the position of Economic Secretary to the Treasury?",
+                "A": "6"
+            },
+            "question7": {
+                "Q": "How many individuals held the position of Minister for the Cabinet Office#?",
+                "A": "1"
+            },
+            "question2": {
+                "Q": "How many people served as the Second Lord of the Treasury, Chancellor of the Exchequer?",
+                "A": "5"
+            },
+            "question1": {
+                "Q": "How many individuals held the position of Permanent Secretary to the Treasury?",
+                "A": "4"
+            }
+        },
+        "q11": {
+            "question60": {
+                "Q": "Who were the individuals who held the position of Chief Secretary to the Treasury between 2022 and 2023?(including both the years)",
+                "A": "John Glen, The Rt Hon. Edward Argar MP, The Rt Hon. Chris Philp MP"
+            },
+            "question116": {
+                "Q": "Name the people who served as Exchequer Secretary to the Treasury between 2020 and 2022?(including both the years)",
+                "A": "Kemi Badenoch MP, Felicity Buchan"
+            },
+            "question119": {
+                "Q": "Name the people who served as Exchequer Secretary to the Treasury between 2021 and 2023?(including both the years)",
+                "A": "Kemi Badenoch MP, Felicity Buchan, James Cartlidge"
+            }
+        },
+        "q12": {
+            "question10": {
+                "Q": "Who held the position of Second Lord of the Treasury, Chancellor of the Exchequer for the shortest duration? (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "Kwasi Kwarteng"
+            },
+            "question13": {
+                "Q": "Who held the position of Financial Secretary to the Treasury for the shortest duration? (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "Victoria Atkins"
+            }
+        }
+    }
+}

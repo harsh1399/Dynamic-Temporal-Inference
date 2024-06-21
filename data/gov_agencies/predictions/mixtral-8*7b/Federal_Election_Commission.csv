@@ -1,0 +1,34 @@
+entity,question,actual_answer,predicted_answer
+Federal_Election_Commission,Name the person(s) who served as the Vice Chairman when Caroline C. Hunter was the Chairman.,Ellen L. Weintraub,Ellen L. Weintraub
+Federal_Election_Commission,Who served as the Vice Chairman during the period when Allen Dickerson was the Chairman?,Dara Lindenbaum,"Ellen L. Weintraub (2021-01-02 to 2021-06-03)
+ Dara Lindenbaum (2022-08-04 to present)"
+Federal_Election_Commission,Name the person(s) who first served as Chairman and then later as Vice Chairman.,Steven T. Walther,"Caroline C. Hunter, Steven T. Walther"
+Federal_Election_Commission,Who served first as the Vice Chairman and later as the Chairman?,"Caroline C. Hunter, Allen Dickerson","Caroline C. Hunter, Steven T. Walther"
+Federal_Election_Commission,What position did Allen Dickerson occupy while Shana M. Broussard was serving as the Chairman?,Vice Chairman,Allen Dickerson was Vice Chairman.
+Federal_Election_Commission,What position did Steven T. Walther occupy while James E. Trainor III was serving as the Chairman?,Vice Chairman,Vice Chairman.
+Federal_Election_Commission,"What was the duration of Allen Dickerson's tenure as Vice Chairman at the Federal Election Commission?(Answer in the number of days.) (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",427 days,"153 days (from Jun 3, 2021 to Aug 4, 2022)"
+Federal_Election_Commission,"How long did James E. Trainor III served as Chairman of Federal Election Commission?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",152 days,503 days
+Federal_Election_Commission,"How long did Steven T. Walther served as Chairman of Federal Election Commission?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",301 days,"4 years, 205 days.
+
+Steven T. Walther's first appearance as Chairman is on January 15, 2018 (2018-01-15T01:32:53Z). The latest timeline entry is on August 4, 2022 (2022-08-04T02:45:54Z). There are 1,465 days between these two dates. However, we need to consider that his role changed to Vice Chairman on June 3, 2021 (2021-06-03T15:27:41Z). So, the total number of days Steven T. Walther served as Chairman is from January 15, 2018 to June 3, 2021 = 4 years, 205 days (1,465 days - 760 days)."
+Federal_Election_Commission,"How long did Ellen L. Weintraub served as Vice Chairman of Federal Election Commission?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",782 days,902 days
+Federal_Election_Commission,Name the person(s) who served as the Vice Chairman of the Federal Election Commission in 2022?,"Dara Lindenbaum, Allen Dickerson",Dara Lindenbaum
+Federal_Election_Commission,Who served as the Chairman in the Federal Election Commission in 2021?,"James E. Trainor III, Shana M. Broussard","James E. Trainor III (Jan 2, 2021 - Jun 3, 2021)
+Shana M. Broussard (Jun 3, 2021 - Dec 31, 2021)"
+Federal_Election_Commission,Name the person(s) who served as the Chairman of the Federal Election Commission in 2022?,"Shana M. Broussard, Allen Dickerson",Allen Dickerson
+Federal_Election_Commission,Who was the Vice Chairman before Dara Lindenbaum?,Allen Dickerson,Ellen L. Weintraub
+Federal_Election_Commission,Who was the Chairman after James E. Trainor III?,Shana M. Broussard,Allen Dickerson
+Federal_Election_Commission,How many individuals held the position of Vice Chairman?,5,"Four individuals held the position of Vice Chairman.
+
+Explanation:
+- Caroline C. Hunter (2018-01-15 to 2018-11-12)
+- Ellen L. Weintraub (2018-11-12 to 2021-01-02)
+- Steven T. Walther (2021-01-02 to 2021-06-03)
+- Allen Dickerson (2021-06-03 to present)
+
+This information is based on the provided timeline."
+Federal_Election_Commission,How many individuals held the position of Chairman?,5,Four individuals held the position of Chairman.
+Federal_Election_Commission,Who were the individuals who held the position of Vice Chairman between 2018 and 2021?(including both the years),"Steven T. Walther, Caroline C. Hunter, Allen Dickerson, Ellen L. Weintraub","Caroline C. Hunter, Ellen L. Weintraub, Allen Dickerson"
+Federal_Election_Commission,Who were the individuals who held the position of Chairman between 2021 and 2022?(including both the years),"James E. Trainor III, Shana M. Broussard, Allen Dickerson","James E. Trainor III, Shana M. Broussard, Allen Dickerson"
+Federal_Election_Commission,"Who held the position of Vice Chairman for the shortest duration? (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Dara Lindenbaum,Caroline C. Hunter
+Federal_Election_Commission,"Which person had the longest tenure as Chairman?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Caroline C. Hunter,"Allen Dickerson, 1 year 6 months."

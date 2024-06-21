@@ -1,0 +1,60 @@
+entity,question,actual_answer,predicted_answer
+Netherlands_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Ryan Campbell as the coach of the Netherlands national cricket team?,"Scott Edwards, Pieter Seelaar",
+Netherlands_national_cricket_team,Name the person(s) who served as the od captain when Ryan Campbell was the coach of the Netherlands national cricket team.,"Scott Edwards, Pieter Seelaar",
+Netherlands_national_cricket_team,Name the person(s) who served as the coach when Pieter Seelaar was the od captain of the Netherlands national cricket team.,Ryan Campbell,"Ryan Campbell 
+"
+Netherlands_national_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Ryan Cook as the coach of the Netherlands national cricket team?,Scott Edwards,"Scott Edwards 
+"
+Netherlands_national_cricket_team,Does the Netherlands national cricket team have the best win percentage in the odi format in 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2022 
+"
+Netherlands_national_cricket_team,Does the Netherlands national cricket team have the best win percentage in the odi format in 2021 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2022 
+"
+Netherlands_national_cricket_team,Was the Netherlands national cricket team's win percentage the highest in the odi format in either 2019 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2023 
+"
+Netherlands_national_cricket_team,In which year did Ryan Cook become the coach of the Netherlands national cricket team for the first time?,2023,"2023 
+"
+Netherlands_national_cricket_team,"What was the duration of Ryan Campbell's tenure as the coach of Netherlands national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1632 days,"1364 days 
+"
+Netherlands_national_cricket_team,"What was the duration of Ryan Cook's tenure as the coach of Netherlands national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",193 days,"420 days 
+"
+Netherlands_national_cricket_team,"What was the duration of Pieter Seelaar's tenure as the t20i captain of Netherlands national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1265 days,"1,102 days 
+"
+Netherlands_national_cricket_team,"Which person had the longest tenure as the od captain of the Netherlands national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Pieter Seelaar,
+Netherlands_national_cricket_team,"Which person had the longest tenure as the t20i captain of the Netherlands national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Pieter Seelaar,
+Netherlands_national_cricket_team,"Which person had the longest tenure as the coach of the Netherlands national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Ryan Campbell,"Ryan Campbell 
+"
+Netherlands_national_cricket_team,How many individuals took on the role of od captain of the Netherlands national cricket team?,2,"One. 
+"
+Netherlands_national_cricket_team,How many individuals took on the role of coach of the Netherlands national cricket team?,2,"Two individuals. 
+"
+Netherlands_national_cricket_team,Who was the od captain of the Netherlands national cricket team before Scott Edwards?,Pieter Seelaar,
+Netherlands_national_cricket_team,Who was the od captain of Netherlands national cricket team after Pieter Seelaar?,Scott Edwards,"Scott Edwards 
+"
+Netherlands_national_cricket_team,Who assumed the role of t20i captain for the Netherlands national cricket team following Pieter Seelaar?,Scott Edwards,"Scott Edwards 
+"
+Netherlands_national_cricket_team,How many odi matches did the Netherlands national cricket team play between 2022 and 2023? (including both the years),24,"16 matches 
+"
+Netherlands_national_cricket_team,How many t20 matches did the Netherlands national cricket team play between 2022 and 2023? (including both the years),15,"10 
+"
+Netherlands_national_cricket_team,Name the people who serve as coach of Netherlands national cricket team between 2022 and 2023. (including both the years),"Ryan Campbell, Ryan Cook","Ryan Campbell, Ryan Cook 
+"
+Netherlands_national_cricket_team,Name the people who serve as t20i_captain of Netherlands national cricket team between 2019 and 2021. (including both the years),Pieter Seelaar,
+Netherlands_national_cricket_team,Name the people who serve as od_captain of Netherlands national cricket team between 2019 and 2021. (including both the years),Pieter Seelaar,
+Netherlands_national_cricket_team,Name the person(s) who served as the coach of the Netherlands national cricket team in 2022.,Ryan Campbell,"Ryan Campbell 
+"
+Netherlands_national_cricket_team,Who were the individual(s) who acted as the coach of the Netherlands national cricket team in 2023?,"Ryan Campbell, Ryan Cook","Ryan Campbell and Ryan Cook 
+"
+Netherlands_national_cricket_team,Who were the individual(s) who acted as the coach of the Netherlands national cricket team in 2019?,Ryan Campbell,"Ryan Campbell 
+"
+Netherlands_national_cricket_team,what was the best t20i rank of the Netherlands national cricket team in 2022?,17,"17th 
+"
+Netherlands_national_cricket_team,What was the highest ranking achieved by the Netherlands national cricket team in the t20i format in 2023?,17,"17th 
+"
+Netherlands_national_cricket_team,What is the ratio of wins to losses for the Netherlands national cricket team in the odi format for 2021?(Answer in decimal form.),1.5,"0.667 
+"
+Netherlands_national_cricket_team,What is the ratio of wins to losses for the Netherlands national cricket team in the t20i format for 2021?(Answer in decimal form.),0.4,"1.33 
+"
+Netherlands_national_cricket_team,What is the ratio of wins to losses for the Netherlands national cricket team in the t20i format for 2022?(Answer in decimal form.),1.14,"1.64 
+"
+Netherlands_national_cricket_team,What is the ratio of wins to losses for the Netherlands national cricket team in the odi format for 2023?(Answer in decimal form.),0.6,"0.6 
+"

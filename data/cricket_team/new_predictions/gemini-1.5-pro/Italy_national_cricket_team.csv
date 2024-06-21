@@ -1,0 +1,33 @@
+entity,question,actual_answer,predicted_answer
+Italy_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Gayashan Munasinghe as the t20i captain of the Italy national cricket team?,Gareth Berg,"Gareth Berg 
+"
+Italy_national_cricket_team,Does the Italy national cricket team have the best win percentage in the t20i format in 2021 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2022 
+"
+Italy_national_cricket_team,Does the Italy national cricket team have the best win percentage in the t20i format in 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2019 
+"
+Italy_national_cricket_team,Does the Italy national cricket team have the best win percentage in the t20i format in 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2019 
+"
+Italy_national_cricket_team,In which year did Gareth Berg first assume the role of t20i_captain for the Italy national cricket team?,2022,"2022 
+"
+Italy_national_cricket_team,"What was the duration of Gayashan Munasinghe's tenure as the t20i captain of Italy national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1311 days,"1796 days 
+"
+Italy_national_cricket_team,"Which person had the shortest tenure as the t20i captain of the Italy national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Gareth Berg,"Gareth Berg 
+"
+Italy_national_cricket_team,"Which person had the longest tenure as the t20i captain of the Italy national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Gayashan Munasinghe,"Gayashan Munasinghe 
+"
+Italy_national_cricket_team,How many people served as the t20i captain of the Italy national cricket team?,2,"Two 
+"
+Italy_national_cricket_team,Who served as the t20i captain of the Italy national cricket team prior to Gareth Berg?,Gayashan Munasinghe,"Gayashan Munasinghe 
+"
+Italy_national_cricket_team,Who assumed the role of t20i captain for the Italy national cricket team following Gayashan Munasinghe?,Gareth Berg,"Gareth Berg 
+"
+Italy_national_cricket_team,Name the person(s) who served as the coach of the Italy national cricket team in 2022.,Gareth Berg,"Gareth Berg 
+"
+Italy_national_cricket_team,what was the best t20i rank of the Italy national cricket team in 2022?,27,"28th 
+"
+Italy_national_cricket_team,What is the ratio of wins to losses for the Italy national cricket team in the t20i format for 2022?(Answer in decimal form.),5.0,"2.17 
+"
+Italy_national_cricket_team,What is the win to loss ratio of Italy national cricket team in t20i format in 2019?(Answer in decimal form.),2.5,"2.5 
+"
+Italy_national_cricket_team,What is the win to loss ratio of Italy national cricket team in t20i format in 2021?(Answer in decimal form.),1.0,"0.5 
+"

@@ -1,0 +1,63 @@
+entity,question,actual_answer,predicted_answer
+Cabinet_Office,Name the person(s) who served as the Minister for the Cabinet Office when Vacant was the Deputy Prime Minister of the United Kingdom.,"Rt Hon. Oliver Dowden MP, Rt Hon. David Lidington",
+Cabinet_Office,Who served as the Chancellor of the Duchy of Lancaster during the period when Rt Hon. Jeremy Quin MP was the Secretary of State in the Cabinet Office?,"Rt Hon. Oliver Dowden MP, Rt Hon. Nadhim Zahawi MP, Rt Hon. David Lidington","Rt Hon. Nadhim Zahawi MP 
+"
+Cabinet_Office,Name the person(s) who served as the Minister for the Cabinet Office when Rt Hon. Jonathan Hill (The Lord Hill of Oareford) was the Chancellor of the Duchy of Lancaster.,Rt Hon. Francis Maude,"Rt Hon. Francis Maude 
+"
+Cabinet_Office,Who was the Cabinet Office Permanent Secretary when the Minister for the Cabinet Office was Rt Hon. Francis Maude and the Prime Minister of the United Kingdom was Rt Hon. David Cameron MP?,"Ian Watmore, Richard Heaton, CB","Ian Watmore 
+"
+Cabinet_Office,Who held the position of Paymaster General while Alex Chisholm was the Cabinet Office Permanent Secretary and Rt Hon. Nigel Adams was the Minister of State without Portfolio?,"Rt Hon. Edward Argar QC MP, Rt Hon. Michael Ellis","Rt Hon. Michael Ellis 
+"
+Cabinet_Office,Who was the Minister for the Cabinet Office when the Cabinet Office Permanent Secretary was Alex Chisholm and the Prime Minister of the United Kingdom was Rt Hon. Boris Johnson MP?,"Rt Hon. Michael Ellis, Rt Hon. Stephen Barclay MP","Rt Hon. Stephen Barclay MP 
+"
+Cabinet_Office,Who held the position of Prime Minister of the United Kingdom while Vacant was the Deputy Prime Minister of the United Kingdom and Rt Hon. Oliver Dowden MP was the Paymaster General?,Rt Hon. Boris Johnson MP,"Rt Hon. Boris Johnson MP 
+"
+Cabinet_Office,Who held the positions of Minister for the Cabinet Office and Chancellor of the Duchy of Lancaster simultaneously?,"Rt Hon. Stephen Barclay MP, Rt Hon. David Lidington",
+Cabinet_Office,Who held the positions of Minister for the Cabinet Office and Paymaster General simultaneously?,"Rt Hon. Jeremy Quin MP, Rt Hon. Edward Argar QC MP, Rt Hon. Michael Ellis, Rt Hon. Oliver Dowden MP, Rt Hon. Francis Maude","Rt Hon. Francis Maude 
+"
+Cabinet_Office,Name the person(s) who served as both the Minister for the Cabinet Office and the Secretary of State in the Cabinet Office at the same time.,Rt Hon. Jeremy Quin MP,"Rt Hon. Jeremy Quin MP 
+"
+Cabinet_Office,Name the person(s) who first served as Paymaster General and then later as Chancellor of the Duchy of Lancaster.,Rt Hon. Oliver Dowden MP,"Rt Hon. Oliver Dowden MP 
+"
+Cabinet_Office,Who served first as the Secretary of State in the Cabinet Office and later as the Paymaster General?,Rt Hon. Jeremy Quin MP,"Rt Hon. Jeremy Quin MP 
+"
+Cabinet_Office,What position did Rt Hon. Francis Maude occupy while Rt Hon. Jonathan Hill (The Lord Hill of Oareford) was serving as the Chancellor of the Duchy of Lancaster?,"Minister for the Cabinet Office, Paymaster General","Minister for the Cabinet Office 
+"
+Cabinet_Office,What position did Rt Hon. Francis Maude occupy while Ian Watmore was serving as the Cabinet Office Permanent Secretary?,"Minister for the Cabinet Office, Paymaster General","Minister for the Cabinet Office 
+"
+Cabinet_Office,"What was the duration of Rt Hon. Michael Ellis's tenure as Paymaster General at the Cabinet Office?(Answer in the number of days.) (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",346 days,"189 days 
+"
+Cabinet_Office,"What was the duration of Vacant's tenure as Deputy Prime Minister of the United Kingdom at the Cabinet Office?(Answer in the number of days.) (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1281 days,"107 days 
+"
+Cabinet_Office,"How long did Ian Watmore served as Cabinet Office Permanent Secretary of Cabinet Office?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1208 days,"2207 
+"
+Cabinet_Office,"How long did Rt Hon. Michael Ellis served as Paymaster General of Cabinet Office?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",346 days,"157 
+"
+Cabinet_Office,Who served as the Cabinet Office Permanent Secretary in the Cabinet Office in 2014?,"Richard Heaton, CB","Richard Heaton, CB 
+"
+Cabinet_Office,Name the person(s) who served as the Minister of State for Brexit Opportunities and Government Efficiency of the Cabinet Office in 2022?,Rt Hon. Jacob Rees-Mogg MP,"Rt Hon. Jacob Rees-Mogg MP 
+"
+Cabinet_Office,Who held the position of Cabinet Secretary (United Kingdom) prior to Simon Case?,Sir Mark Sedwill KCMG,"Jeremy Heywood 
+"
+Cabinet_Office,Who succeeded Rt Hon. Nick Clegg MP as the Deputy Prime Minister of the United Kingdom?,"Rt Hon. Dominic Raab MP, Rt Hon. Nick Clegg MP","Rt Hon. Dominic Raab MP 
+"
+Cabinet_Office,Who was the Cabinet Office Permanent Secretary after Sir John Manzoni KCB?,Alex Chisholm,"Alex Chisholm 
+"
+Cabinet_Office,How many individuals held the position of Chancellor of the Duchy of Lancaster?,6,"Six 
+"
+Cabinet_Office,How many individuals held the position of Paymaster General?,5,"Six individuals. 
+"
+Cabinet_Office,How many people served as the Cabinet Office Permanent Secretary?,4,"Four 
+"
+Cabinet_Office,How many people served as the Minister without Portfolio?,1,"Three people. 
+"
+Cabinet_Office,Who were the individuals who held the position of Continuing United Kingdom relationship with the European Union between 2020 and 2022?(including both the years),David Frost (British diplomat),"David Frost 
+"
+Cabinet_Office,Who were the individuals who held the position of Chancellor of the Duchy of Lancaster between 2014 and 2021?(including both the years),"Rt Hon. Stephen Barclay MP, Rt Hon. Michael Gove MP, Rt Hon. Jonathan Hill (The Lord Hill of Oareford), Rt Hon. David Lidington","Rt Hon. Jonathan Hill, Rt Hon. David Lidington, Rt Hon. Michael Gove, Rt Hon. Stephen Barclay 
+"
+Cabinet_Office,Who were the individuals who held the position of Cabinet Secretary (United Kingdom) between 2018 and 2021?(including both the years),"Simon Case, Sir Mark Sedwill KCMG, Jeremy Heywood","Jeremy Heywood, Sir Mark Sedwill 
+"
+Cabinet_Office,"Which person had the longest tenure as Minister of State without Portfolio?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Rt Hon. Nigel Adams,"Rt Hon. Nigel Adams 
+"
+Cabinet_Office,"Which person had the shortest tenure as Continuing United Kingdom relationship with the European Union?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",David Frost (British diplomat),"David Frost 
+"

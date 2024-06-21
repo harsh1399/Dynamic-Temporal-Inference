@@ -1,0 +1,54 @@
+entity,question,actual_answer,predicted_answer
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),Who served as the Minister for Women (Australia) during the period when Scott Ryan was the Minister Assisting the Cabinet Secretary?,"Michaelia Cash, Marise Payne, Kelly O'Dwyer","Michaelia Cash, Kelly O'Dwyer, Marise Payne 
+"
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),Name the person(s) who served as the Prime Minister of Australia when Arthur Sinodinos was the Cabinet Secretary.,"Malcolm Turnbull, Scott Morrison","Malcolm Turnbull, Scott Morrison 
+"
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),Name the person(s) who served as the Minister Assisting the Cabinet Secretary when Malcolm Turnbull was the Prime Minister of Australia.,Scott Ryan,"Scott Ryan 
+"
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),Who served as the Secretary during the period when Jason Clare was the Cabinet Secretary?,Dr Ian Watt,"Dr Ian Watt 
+"
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),Who was the Prime Minister of Australia when the Secretary was Martin Parkinson and the Minister for Indigenous Affairs (Australia) was Nigel Scullion?,"Malcolm Turnbull, Scott Morrison","Malcolm Turnbull 
+"
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),Who held the position of Cabinet Secretary while Kevin Rudd was the Prime Minister of Australia and Jenny Macklin was the Minister for Indigenous Affairs (Australia)?,"Joe Ludwig, John Faulkner","John Faulkner and Joe Ludwig 
+"
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),Who was the Prime Minister of Australia when the Minister for Indigenous Affairs (Australia) was Nigel Scullion and the Minister Assisting the Cabinet Secretary was Scott Ryan?,"Malcolm Turnbull, Scott Morrison","Malcolm Turnbull 
+"
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),Who held the position of Minister Assisting the Cabinet Secretary while Martin Parkinson was the Secretary and Arthur Sinodinos was the Cabinet Secretary?,Scott Ryan,"Scott Ryan 
+"
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),What position did Jenny Macklin occupy while Terry Moran was serving as the Secretary?,Minister for Indigenous Affairs (Australia),"Minister for Indigenous Affairs (Australia) 
+"
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),What position did Scott Morrison occupy while Angus Taylor was serving as the Minister Assisting the Prime Minister for the Counter-Terrorism?,Prime Minister of Australia,"Prime Minister of Australia 
+"
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),Which position did Arthur Sinodinos hold when Scott Morrison was Prime Minister of Australia?,Cabinet Secretary,"Cabinet Secretary 
+"
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),"How long did Julia Gillard served as Prime Minister of Australia of Department of the Prime Minister and Cabinet (Australia)?(Answer in number of days.)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",877 days,"1,006 days 
+"
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),"What was the duration of Dr Ian Watt's tenure as Secretary at the Department of the Prime Minister and Cabinet (Australia)?(Answer in the number of days.) (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",877 days,"931 days 
+"
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),Name the person(s) who served as the Prime Minister of Australia of the Department of the Prime Minister and Cabinet (Australia) in 2010?,Kevin Rudd,"Kevin Rudd 
+"
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),Name the person(s) who served as the Prime Minister of Australia of the Department of the Prime Minister and Cabinet (Australia) in 2015?,Tony Abbott,"Tony Abbott 
+"
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),Who held the position of Prime Minister of Australia prior to Scott Morrison?,Malcolm Turnbull,"Malcolm Turnbull 
+"
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),Who was the Minister for Indigenous Affairs (Australia) after Jenny Macklin?,Nigel Scullion,"Nigel Scullion 
+"
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),Who succeeded Dr Ian Watt as the Secretary?,Michael Thawley,"Michael Thawley 
+"
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),How many individuals held the position of Secretary?,5,"Four individuals 
+"
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),How many people served as the Prime Minister of Australia?,5,"5 
+"
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),How many people served as the Minister Assisting the Prime Minister for the Counter-Terrorism?,3,"Two people. 
+"
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),Who were the individuals who held the position of Secretary between 2013 and 2017?(including both the years),"Dr Ian Watt, Martin Parkinson, Michael Thawley",
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),Name the people who served as Prime Minister of Australia between 2008 and 2017?(including both the years),"Julia Gillard, Malcolm Turnbull, Tony Abbott, Kevin Rudd","Kevin Rudd (2008-2010), Julia Gillard (2013-2015), Tony Abbott (2015-2017), Malcolm Turnbull (2017) 
+"
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),"Who held the position of Cabinet Secretary for the longest duration? (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Arthur Sinodinos,"Arthur Sinodinos 
+"
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),"Who held the position of Minister Assisting the Prime Minister for the Counter-Terrorism for the shortest duration? (Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Angus Taylor,"Michael Keenan 
+"
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),"Which person had the shortest tenure as Prime Minister of Australia?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Scott Morrison,"Julia Gillard 
+"
+Department_of_the_Prime_Minister_and_Cabinet_(Australia),"Which person had the longest tenure as Minister Assisting the Prime Minister for the Counter-Terrorism?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Michael Keenan,"Michael Keenan 
+"

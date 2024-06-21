@@ -1,0 +1,31 @@
+entity,question,actual_answer,predicted_answer
+Rwanda_national_cricket_team,Name the person(s) who served as the t20i captain when Martin Suji was the coach of the Rwanda national cricket team.,"Clinton Rubagumya, Eric Dusabemungu Hirwa",
+Rwanda_national_cricket_team,Name the person(s) who served as the coach when Eric Dusabemungu Hirwa was the t20i captain of the Rwanda national cricket team.,Martin Suji,"Martin Suji 
+"
+Rwanda_national_cricket_team,Was the Rwanda national cricket team's win percentage the highest in the t20i format in either 2021 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2021 
+"
+Rwanda_national_cricket_team,In which year did Clinton Rubagumya become the t20i_captain of the Rwanda national cricket team for the first time?,2022,"2022 
+"
+Rwanda_national_cricket_team,"What was the duration of Eric Dusabemungu Hirwa's tenure as the t20i captain of Rwanda national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",432 days,"375 days 
+"
+Rwanda_national_cricket_team,"How long did Clinton Rubagumya serve as the t20i captain of Rwanda national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",65 days,"155 days 
+"
+Rwanda_national_cricket_team,"Which person had the longest tenure as the t20i captain of the Rwanda national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Eric Dusabemungu Hirwa,
+Rwanda_national_cricket_team,"Who had the longest stint as the coach of the Rwanda national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Martin Suji,"Martin Suji 
+"
+Rwanda_national_cricket_team,"Which person had the shortest tenure as the coach of the Rwanda national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Martin Suji,"Martin Suji 
+"
+Rwanda_national_cricket_team,How many people served as the coach of the Rwanda national cricket team?,1,"One 
+"
+Rwanda_national_cricket_team,How many individuals took on the role of t20i captain of the Rwanda national cricket team?,2,"Two 
+"
+Rwanda_national_cricket_team,Who served as the t20i captain of the Rwanda national cricket team prior to Clinton Rubagumya?,Eric Dusabemungu Hirwa,
+Rwanda_national_cricket_team,Who was the t20i captain of Rwanda national cricket team after Eric Dusabemungu Hirwa?,Clinton Rubagumya,
+Rwanda_national_cricket_team,Who were the individual(s) who acted as the coach of the Rwanda national cricket team in 2022?,Martin Suji,"Martin Suji 
+"
+Rwanda_national_cricket_team,What was the highest ranking achieved by the Rwanda national cricket team in the t20i format in 2022?,65,"65th 
+"
+Rwanda_national_cricket_team,What is the ratio of wins to losses for the Rwanda national cricket team in the t20i format for 2022?(Answer in decimal form.),0.4,"0.55 
+"
+Rwanda_national_cricket_team,What is the win to loss ratio of Rwanda national cricket team in t20i format in 2021?(Answer in decimal form.),0.83,"0.833 
+"

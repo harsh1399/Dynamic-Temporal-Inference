@@ -1,0 +1,49 @@
+entity,question,actual_answer,predicted_answer
+Sri_Lanka_national_cricket_team,Name the person(s) who served as the test captain when Lasith Malinga was the od captain of the Sri Lanka national cricket team.,"Dimuth Karunaratne, Dinesh Chandimal","Dinesh Chandimal, Dimuth Karunaratne 
+"
+Sri_Lanka_national_cricket_team,Name the person(s) who served as the od captain when Mickey Arthur was the coach of the Sri Lanka national cricket team.,"Dimuth Karunaratne, Dasun Shanaka",
+Sri_Lanka_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Dasun Shanaka as the od captain of the Sri Lanka national cricket team?,"Mickey Arthur, Chris Silverwood","Mickey Arthur, Chris Silverwood 
+"
+Sri_Lanka_national_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Chris Silverwood as the coach of the Sri Lanka national cricket team?,Dasun Shanaka,
+Sri_Lanka_national_cricket_team,Was the Sri Lanka national cricket team's win percentage the highest in the test format in either 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2019 
+"
+Sri_Lanka_national_cricket_team,Was the Sri Lanka national cricket team's win percentage the highest in the t20i format in either 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2019 
+"
+Sri_Lanka_national_cricket_team,Does the Sri Lanka national cricket team have the best win percentage in the odi format in 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2019 
+"
+Sri_Lanka_national_cricket_team,Who was the coach when t20i captain was Lasith Malinga and od captain was Dimuth Karunaratne of the Sri Lanka national cricket team?,"Rumesh Ratnayake, Chandika Hathurusinghe, Mickey Arthur","Chandika Hathurusinghe 
+"
+Sri_Lanka_national_cricket_team,Who was the test captain when t20i captain was Lasith Malinga and coach was Chandika Hathurusinghe of the Sri Lanka national cricket team?,"Dimuth Karunaratne, Dinesh Chandimal","Dimuth Karunaratne 
+"
+Sri_Lanka_national_cricket_team,Who was the t20i captain when od captain was Dimuth Karunaratne and coach was Mickey Arthur of the Sri Lanka national cricket team?,"Lasith Malinga, Dasun Shanaka",
+Sri_Lanka_national_cricket_team,Who was the coach when t20i captain was Dasun Shanaka and od captain was Dimuth Karunaratne of the Sri Lanka national cricket team?,Mickey Arthur,"Mickey Arthur 
+"
+Sri_Lanka_national_cricket_team,"How long did Rumesh Ratnayake serve as the coach of Sri Lanka national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",135 days,"46 days 
+"
+Sri_Lanka_national_cricket_team,"How long did Lasith Malinga serve as the od captain of Sri Lanka national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",157 days,"348 days 
+"
+Sri_Lanka_national_cricket_team,"What was the duration of Dasun Shanaka's tenure as the od captain of Sri Lanka national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",708 days,"1106 days 
+"
+Sri_Lanka_national_cricket_team,"What was the duration of Dimuth Karunaratne's tenure as the od captain of Sri Lanka national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",683 days,"712 days 
+"
+Sri_Lanka_national_cricket_team,"Who had the longest stint as the coach of the Sri Lanka national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Mickey Arthur,"Mickey Arthur 
+"
+Sri_Lanka_national_cricket_team,"Who had the shortest stint as the od captain of the Sri Lanka national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Lasith Malinga,"Dimuth Karunaratne 
+"
+Sri_Lanka_national_cricket_team,How many people served as the coach of the Sri Lanka national cricket team?,4,"Four 
+"
+Sri_Lanka_national_cricket_team,How many people served as the t20i captain of the Sri Lanka national cricket team?,2,"Two 
+"
+Sri_Lanka_national_cricket_team,Who was the t20i captain of the Sri Lanka national cricket team before Dasun Shanaka?,Lasith Malinga,
+Sri_Lanka_national_cricket_team,Who was the od captain of the Sri Lanka national cricket team before Dasun Shanaka?,Dimuth Karunaratne,"Dimuth Karunaratne 
+"
+Sri_Lanka_national_cricket_team,Who was the coach of Sri Lanka national cricket team after Rumesh Ratnayake?,Mickey Arthur,"Mickey Arthur 
+"
+Sri_Lanka_national_cricket_team,Who was the coach of Sri Lanka national cricket team after Chandika Hathurusinghe?,Rumesh Ratnayake,"Rumesh Ratnayake 
+"
+Sri_Lanka_national_cricket_team,What is the ratio of wins to losses for the Sri Lanka national cricket team in the odi format for 2019?(Answer in decimal form.),0.5,"0.318 
+"
+Sri_Lanka_national_cricket_team,What is the win to loss ratio of Sri Lanka national cricket team in t20i format in 2019?(Answer in decimal form.),0.5,"0.5 
+"
+Sri_Lanka_national_cricket_team,What is the ratio of wins to losses for the Sri Lanka national cricket team in the odi format for 2021?(Answer in decimal form.),0.4,"0.4 
+"

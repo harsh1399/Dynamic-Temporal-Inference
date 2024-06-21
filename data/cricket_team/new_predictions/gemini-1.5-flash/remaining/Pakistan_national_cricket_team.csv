@@ -1,0 +1,53 @@
+entity,question,actual_answer,predicted_answer
+Pakistan_national_cricket_team,Name the person(s) who served as the coach when Sarfraz Ahmed was the test captain of the Pakistan national cricket team.,"Mickey Arthur, Misbah-ul-Haq","Mickey Arthur 
+"
+Pakistan_national_cricket_team,Name the person(s) who served as the coach when Sarfraz Ahmed was the t20i captain of the Pakistan national cricket team.,"Mickey Arthur, Misbah-ul-Haq","Mickey Arthur, Misbah-ul-Haq 
+"
+Pakistan_national_cricket_team,Name the person(s) who served as the t20i captain when Saqlain Mushtaq was the coach of the Pakistan national cricket team.,Babar Azam,"Babar Azam 
+"
+Pakistan_national_cricket_team,Was the Pakistan national cricket team's win percentage the highest in the odi format in either 2017 or 2019?(Answer in year)(Include no results/ties/draws in total number of matches.),2017,"2019 
+"
+Pakistan_national_cricket_team,Does the Pakistan national cricket team have the best win percentage in the t20i format in 2018 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2018,"2021 
+"
+Pakistan_national_cricket_team,"Name the person(s) who served as the od captain during the tenure of Azhar Ali and Misbah-ul-Haq as the test captain and coach, respectively, of the Pakistan national cricket team.",Vacant,"Vacant 
+"
+Pakistan_national_cricket_team,In which year did Misbah-ul-Haq become the coach of the Pakistan national cricket team for the first time?,2019,"2019 
+"
+Pakistan_national_cricket_team,"What was the duration of Misbah-ul-Haq's tenure as the coach of Pakistan national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",823 days,"1013 days 
+"
+Pakistan_national_cricket_team,"What was the duration of Mickey Arthur's tenure as the coach of Pakistan national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",704 days,"994 days 
+"
+Pakistan_national_cricket_team,"Who had the longest stint as the coach of the Pakistan national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Misbah-ul-Haq,"Misbah-ul-Haq 
+"
+Pakistan_national_cricket_team,"Who had the shortest stint as the coach of the Pakistan national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Saqlain Mushtaq,"Saqlain Mushtaq 
+"
+Pakistan_national_cricket_team,How many people served as the coach of the Pakistan national cricket team?,3,"Two people. 
+"
+Pakistan_national_cricket_team,Who served as the coach of the Pakistan national cricket team prior to Misbah-ul-Haq?,Mickey Arthur,"Mickey Arthur 
+"
+Pakistan_national_cricket_team,Who was the coach of the Pakistan national cricket team before Saqlain Mushtaq?,Misbah-ul-Haq,"Misbah-ul-Haq 
+"
+Pakistan_national_cricket_team,Who assumed the role of coach for the Pakistan national cricket team following Misbah-ul-Haq?,Saqlain Mushtaq,"Saqlain Mushtaq 
+"
+Pakistan_national_cricket_team,How many t20 matches did the Pakistan national cricket team play between 2019 and 2021? (including both the years),39,"35 matches 
+"
+Pakistan_national_cricket_team,How many test matches did the Pakistan national cricket team play between 2018 and 2019? (including both the years),15,"6 test matches. 
+"
+Pakistan_national_cricket_team,How many test matches did the Pakistan national cricket team play between 2018 and 2021? (including both the years),27,"24 matches 
+"
+Pakistan_national_cricket_team,Name the people who serve as coach of Pakistan national cricket team between 2018 and 2021. (including both the years),"Mickey Arthur, Saqlain Mushtaq, Misbah-ul-Haq","Mickey Arthur, Misbah-ul-Haq 
+"
+Pakistan_national_cricket_team,Name the people who serve as coach of Pakistan national cricket team between 2019 and 2021. (including both the years),"Mickey Arthur, Saqlain Mushtaq, Misbah-ul-Haq","Misbah-ul-Haq, Saqlain Mushtaq 
+"
+Pakistan_national_cricket_team,Who were the individual(s) who held the position of the coach for the Pakistan national cricket team from 2018 and 2019? (including both the years),"Mickey Arthur, Misbah-ul-Haq","Mickey Arthur 
+"
+Pakistan_national_cricket_team,Name the person(s) who served as the coach of the Pakistan national cricket team in 2018.,Mickey Arthur,"Mickey Arthur 
+"
+Pakistan_national_cricket_team,what was the best test rank of the Pakistan national cricket team in 2018?,6,"7th 
+"
+Pakistan_national_cricket_team,What was the highest ranking achieved by the Pakistan national cricket team in the odi format in 2018?,5,"6th 
+"
+Pakistan_national_cricket_team,What is the win to loss ratio of Pakistan national cricket team in odi format in 2017?(Answer in decimal form.),2.0,"1.28 
+"
+Pakistan_national_cricket_team,What is the ratio of wins to losses for the Pakistan national cricket team in the odi format for 2018?(Answer in decimal form.),0.89,"1.45 
+"
