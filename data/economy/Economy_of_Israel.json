@@ -14,7 +14,8 @@
         "debt": "78% of GDP",
         "revenue": "$45 billion",
         "expenses": "$58.6 billion",
-        "reserves": "US$77.203 billion"
+        "reserves": "US$77.203 billion",
+        "country": "Israel"
     },
     "2013-12-31T07:31:15Z": {
         "gdp": "$274.504 billion",
@@ -32,7 +33,8 @@
         "debt": "69.6% of GDP",
         "revenue": "$68.29 billion",
         "expenses": "$75.65 billion",
-        "reserves": "$78.93 billion"
+        "reserves": "$78.93 billion",
+        "country": "Israel"
     },
     "2015-12-31T20:17:53Z": {
         "gdp": "$286.840 ",
@@ -50,7 +52,8 @@
         "debt": "69.6% of GDP",
         "revenue": "$68.29 billion",
         "expenses": "$75.65 billion",
-        "reserves": "$78.93 billion"
+        "reserves": "$78.93 billion",
+        "country": "Israel"
     },
     "2017-12-31T21:38:00Z": {
         "gdp": "$387.3672 ",
@@ -68,7 +71,8 @@
         "debt": "62.1% of GDP",
         "revenue": "$68.29 billion",
         "expenses": "$75.65 billion",
-        "reserves": "$103,290 billion"
+        "reserves": "$103,290 billion",
+        "country": "Israel"
     },
     "2018-12-31T00:47:24Z": {
         "gdp": "$373.75 billion",
@@ -86,7 +90,8 @@
         "debt": "59.8% of GDP",
         "revenue": "$68.29 billion",
         "expenses": "$75.65 billion",
-        "reserves": "$115,782 million"
+        "reserves": "$115,782 million",
+        "country": "Israel"
     },
     "2019-12-31T22:02:56Z": {
         "gdp": "$387.717 billion",
@@ -105,6 +110,7 @@
         "debt": "59.8% of GDP",
         "revenue": "$68.29 billion",
         "expenses": "$75.65 billion",
-        "reserves": "$115,782 million"
+        "reserves": "$115,782 million",
+        "country": "Israel"
     }
 }

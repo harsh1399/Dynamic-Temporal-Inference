@@ -3,7 +3,8 @@
         "gdp": "70.6 billion",
         "growth": "3.0% ",
         "per capita": "19,002 ",
-        "poverty": "23% "
+        "poverty": "23% ",
+        "country": "Wales"
     },
     "2019-12-31T18:39:36Z": {
         "gdp": "70.6 billion",
@@ -11,7 +12,8 @@
         "per capita": "19,002 ",
         "poverty": "23% ",
         "unemployment": "4.4%",
-        "exports": "16.4 billion"
+        "exports": "16.4 billion",
+        "country": "Wales"
     },
     "2020-12-31T11:55:47Z": {
         "gdp": "73 ",
@@ -25,7 +27,8 @@
         "expenses": "500",
         "aid": "500000",
         "credit": "0",
-        "reserves": "0"
+        "reserves": "0",
+        "country": "Wales"
     },
     "2020-12-31T12:25:52Z": {
         "gdp": "73.1 billion",
@@ -33,7 +36,8 @@
         "per capita": "19,002 ",
         "poverty": "23% ",
         "unemployment": "4.4%",
-        "exports": "17.7 billion"
+        "exports": "17.7 billion",
+        "country": "Wales"
     },
     "2021-12-31T13:00:10Z": {
         "gdp": "77.5billion",
@@ -41,6 +45,7 @@
         "per capita": "24,586 ",
         "poverty": "23% ",
         "unemployment": "3.9% ",
-        "exports": "13.4 billion"
+        "exports": "13.4 billion",
+        "country": "Wales"
     }
 }

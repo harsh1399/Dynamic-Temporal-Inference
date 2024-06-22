@@ -15,7 +15,8 @@
         "debt": "20% of GDP",
         "revenue": "$50.78 billion",
         "expenses": "$61.51 billion",
-        "reserves": "$33.7 billion"
+        "reserves": "$33.7 billion",
+        "country": "Romania"
     },
     "2019-12-31T22:26:47Z": {
         "population": " 19,401,658 ",
@@ -38,7 +39,8 @@
         "balance": "2.8% ",
         "aid": "$100 billion",
         "reserves": "$44.43 billion",
-        "growth": "4.8% "
+        "growth": "4.8% ",
+        "country": "Romania"
     },
     "2020-12-31T04:36:51Z": {
         "population": " 19,401,658 ",
@@ -61,7 +63,8 @@
         "expenses": "36.0% of GDP",
         "balance": " 45.5 billion",
         "aid": "$100 billion",
-        "reserves": "$44.43 billion"
+        "reserves": "$44.43 billion",
+        "country": "Romania"
     },
     "2022-12-31T23:09:28Z": {
         "population": " 19.326 million",
@@ -84,6 +87,7 @@
         "expenses": "38.88% of GDP",
         "balance": "7.21% of GDP",
         "reserves": "47.823 ",
-        "cpi": " 45 "
+        "cpi": " 45 ",
+        "country": "Romania"
     }
 }

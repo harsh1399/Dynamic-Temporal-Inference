@@ -15,7 +15,8 @@
         "revenue": "$2.2 billion",
         "expenses": "$2.5 billion",
         "aid": "$302 million",
-        "reserves": "US$1.823 billion"
+        "reserves": "US$1.823 billion",
+        "country": "Armenia"
     },
     "2015-12-31T08:43:41Z": {
         "gdp": "$10.088 billion",
@@ -33,7 +34,8 @@
         "revenue": "$2.825 billion",
         "expenses": "$3.01 billion",
         "aid": "$302 million",
-        "reserves": "US$1.489 billion"
+        "reserves": "US$1.489 billion",
+        "country": "Armenia"
     },
     "2017-12-31T04:28:43Z": {
         "gdp": "$10.529 billion",
@@ -51,7 +53,8 @@
         "revenue": "$2.445 billion",
         "expenses": "$2.969 billion",
         "aid": "$302 million",
-        "reserves": "$1.512 billion"
+        "reserves": "$1.512 billion",
+        "country": "Armenia"
     },
     "2018-12-31T09:59:08Z": {
         "gdp": "5580 billion",
@@ -69,7 +72,8 @@
         "revenue": "$2.445 billion",
         "expenses": "$2.969 billion",
         "aid": "$302 million",
-        "reserves": "$1.512 billion"
+        "reserves": "$1.512 billion",
+        "country": "Armenia"
     },
     "2019-12-31T15:56:56Z": {
         "population": " 2,965,269 ",
@@ -91,7 +95,8 @@
         "revenue": "2.644 billion",
         "expenses": "3.192 billion",
         "balance": "4.8% ",
-        "reserves": "$2.314 billion"
+        "reserves": "$2.314 billion",
+        "country": "Armenia"
     },
     "2020-12-31T07:58:04Z": {
         "population": " 2,965,269 ",
@@ -114,7 +119,8 @@
         "expenses": "3.192 billion",
         "balance": "4.8% ",
         "credit": "3, ",
-        "reserves": "$2.4 billion"
+        "reserves": "$2.4 billion",
+        "country": "Armenia"
     },
     "2023-12-31T14:40:38Z": {
         "population": " 3,000,756 ",
@@ -137,6 +143,7 @@
         "expenses": "3.192 billion",
         "balance": "4.8% ",
         "credit": "3, ",
-        "reserves": "$2.4 billion"
+        "reserves": "$2.4 billion",
+        "country": "Armenia"
     }
 }

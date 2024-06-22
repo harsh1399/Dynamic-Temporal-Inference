@@ -14,7 +14,8 @@
         "revenue": "$1.149 trillion",
         "expenses": "$1.27 trillion",
         "aid": "$1.12 ",
-        "reserves": "$3.20 trillion"
+        "reserves": "$3.20 trillion",
+        "country": "China"
     },
     "2013-12-31T12:46:35Z": {
         "gdp": "$8.358 trillion",
@@ -33,7 +34,8 @@
         "revenue": "$1.838 trillion",
         "expenses": "$2.031 trillion",
         "aid": "$1.12 ",
-        "reserves": "$3.44 trillion"
+        "reserves": "$3.44 trillion",
+        "country": "China"
     },
     "2016-12-31T09:26:40Z": {
         "gdp": "$11.4 trillion",
@@ -51,7 +53,8 @@
         "debt": "16.7% of GDP",
         "revenue": "$2.1 trillion",
         "expenses": "$2.3 trillion",
-        "reserves": "$3.3 trillion"
+        "reserves": "$3.3 trillion",
+        "country": "China"
     },
     "2017-12-31T17:55:24Z": {
         "gdp": "$11.3 trillion",
@@ -69,6 +72,7 @@
         "debt": "16.7% of GDP",
         "revenue": "$2.1 trillion",
         "expenses": "$2.3 trillion",
-        "reserves": "$3.009 trillion"
+        "reserves": "$3.009 trillion",
+        "country": "China"
     }
 }

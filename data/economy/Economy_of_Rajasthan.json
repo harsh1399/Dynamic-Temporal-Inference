@@ -5,7 +5,8 @@
         "occupations": "44% ",
         "debt": "33.2% ",
         "revenue": "1.23",
-        "expenses": "1.71"
+        "expenses": "1.71",
+        "country": "Rajasthan"
     },
     "2019-12-31T03:42:30Z": {
         "gdp": "9.29 ",
@@ -15,7 +16,8 @@
         "debt": "33.1% ",
         "balance": "32768 ",
         "revenue": "1.88",
-        "expenses": "2.33"
+        "expenses": "2.33",
+        "country": "Rajasthan"
     },
     "2020-12-31T08:42:04Z": {
         "gdp": "10.20 ",
@@ -29,7 +31,8 @@
         "balance": "33923 ",
         "revenue": "1.80",
         "expenses": "2.26",
-        "population": " 80,651,410 "
+        "population": " 80,651,410 ",
+        "country": "Rajasthan"
     },
     "2021-12-31T21:18:56Z": {
         "gdp": "9.58 ",
@@ -43,7 +46,8 @@
         "balance": "33923 ",
         "revenue": "1.80",
         "expenses": "2.26",
-        "population": " 7,72,64,000 "
+        "population": " 7,72,64,000 ",
+        "country": "Rajasthan"
     },
     "2022-12-31T10:23:43Z": {
         "gdp": "13.34 ",
@@ -55,7 +59,8 @@
         "debt": "39.80% ",
         "balance": "4.4% ",
         "revenue": "2.15",
-        "expenses": "2.73"
+        "expenses": "2.73",
+        "country": "Rajasthan"
     },
     "2023-12-31T18:46:50Z": {
         "gdp": "14.13 ",
@@ -68,6 +73,7 @@
         "balance": "4.4% ",
         "revenue": "2.15",
         "expenses": "2.73",
-        "population": " 7,72,64,000 "
+        "population": " 7,72,64,000 ",
+        "country": "Rajasthan"
     }
 }

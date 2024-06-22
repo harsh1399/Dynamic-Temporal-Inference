@@ -6,7 +6,8 @@
         "debt": "30% ",
         "balance": "46911 ",
         "revenue": "3.97 ",
-        "expenses": "4.80 "
+        "expenses": "4.80 ",
+        "country": "Uttar"
     },
     "2021-12-31T12:14:24Z": {
         "gdp": "17.05",
@@ -17,7 +18,8 @@
         "debt": "28.8% ",
         "balance": "53195 ",
         "revenue": "4.25",
-        "expenses": "5.50"
+        "expenses": "5.50",
+        "country": "Uttar"
     },
     "2022-12-31T23:03:42Z": {
         "gdp": " 20.48 ",
@@ -28,7 +30,8 @@
         "debt": "32.5% ",
         "balance": "81178 ",
         "revenue": " 5.01",
-        "expenses": " 6.15"
+        "expenses": " 6.15",
+        "country": "Uttar"
     },
     "2023-12-31T18:37:33Z": {
         "gdp": " 25.57 ",
@@ -38,6 +41,7 @@
         "debt": "32.5% ",
         "balance": "84883 ",
         "revenue": " 5.83 ",
-        "expenses": " 6.90"
+        "expenses": " 6.90",
+        "country": "Uttar"
     }
 }

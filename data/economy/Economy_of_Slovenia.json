@@ -12,7 +12,8 @@
         "debt": "82.2% of GDP",
         "revenue": "$20.5 billion",
         "expenses": "$22.59 billion",
-        "reserves": "$1.154 billion"
+        "reserves": "$1.154 billion",
+        "country": "Slovenia"
     },
     "2017-12-31T12:43:02Z": {
         "gdp": "$48.078 billion",
@@ -25,7 +26,8 @@
         "debt": "78.5% of GDP",
         "revenue": " 8,52 billion",
         "expenses": " 9,80 billion",
-        "reserves": "$1.154 billion"
+        "reserves": "$1.154 billion",
+        "country": "Slovenia"
     },
     "2018-12-31T23:48:38Z": {
         "gdp": "$56.933 billion",
@@ -40,7 +42,8 @@
         "debt": "73.6% of GDP",
         "revenue": " 8,52 billion",
         "expenses": " 9,80 billion",
-        "reserves": "$1.154 billion"
+        "reserves": "$1.154 billion",
+        "country": "Slovenia"
     },
     "2019-12-31T13:02:29Z": {
         "population": " 2,080,908 ",
@@ -62,7 +65,8 @@
         "revenue": "20.02 billion",
         "expenses": "19.92 billion",
         "balance": "0.8% ",
-        "reserves": "$889.9 million"
+        "reserves": "$889.9 million",
+        "country": "Slovenia"
     },
     "2020-12-31T13:11:36Z": {
         "population": " 2,080,908 ",
@@ -84,6 +88,7 @@
         "revenue": "20.02 billion",
         "expenses": "19.92 billion",
         "balance": "0.8% ",
-        "reserves": "$889.9 million"
+        "reserves": "$889.9 million",
+        "country": "Slovenia"
     }
 }

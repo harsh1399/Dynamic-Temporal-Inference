@@ -15,7 +15,8 @@
         "revenue": " 29.43 billion",
         "expenses": " 31.87 billion",
         "reserves": "$20.27 billion",
-        "aid": "$475 million"
+        "aid": "$475 million",
+        "country": "Bulgaria"
     },
     "2016-12-31T16:45:32Z": {
         "gdp": "$128.1 billion",
@@ -34,7 +35,8 @@
         "revenue": " 29.43 billion",
         "expenses": " 31.87 billion",
         "reserves": "$22.75 billion",
-        "aid": "$475 million"
+        "aid": "$475 million",
+        "country": "Bulgaria"
     },
     "2017-12-31T10:20:00Z": {
         "gdp": "$152 billion",
@@ -53,7 +55,8 @@
         "revenue": " 29.43 billion",
         "expenses": " 31.87 billion",
         "reserves": "$22.75 billion",
-        "aid": "$475 million"
+        "aid": "$475 million",
+        "country": "Bulgaria"
     },
     "2018-12-31T18:49:44Z": {
         "gdp": "$159 billion",
@@ -72,7 +75,8 @@
         "revenue": " 29.43 billion",
         "expenses": " 31.87 billion",
         "reserves": "$22.75 billion",
-        "aid": "$475 million"
+        "aid": "$475 million",
+        "country": "Bulgaria"
     },
     "2019-12-31T13:37:43Z": {
         "gdp": "$64.963 billion",
@@ -93,7 +97,8 @@
         "expenses": "19.35 billion",
         "balance": "1.8% ",
         "reserves": "$28.38 billion",
-        "aid": "$475 million"
+        "aid": "$475 million",
+        "country": "Bulgaria"
     },
     "2020-12-31T21:00:11Z": {
         "population": " 7,000,039 ",
@@ -116,7 +121,8 @@
         "expenses": "36.3% of GDP",
         "balance": " 2.5 billion",
         "reserves": "$28.38 billion",
-        "aid": "$475 million"
+        "aid": "$475 million",
+        "country": "Bulgaria"
     },
     "2021-12-31T16:11:16Z": {
         "population": " 6,951,482 ",
@@ -139,7 +145,8 @@
         "expenses": "36.3% of GDP",
         "balance": " 2.5 billion",
         "reserves": "$28.38 billion",
-        "aid": "$475 million"
+        "aid": "$475 million",
+        "country": "Bulgaria"
     },
     "2022-12-31T12:08:45Z": {
         "population": " 6 ",
@@ -162,6 +169,7 @@
         "expenses": " 52.48 billion",
         "balance": " 4.887 billion",
         "reserves": "$28.38 billion",
-        "aid": "$475 million"
+        "aid": "$475 million",
+        "country": "Bulgaria"
     }
 }

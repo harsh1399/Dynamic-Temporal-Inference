@@ -15,7 +15,8 @@
         "debt": "14% of GDP",
         "revenue": "$18.98 billion",
         "expenses": "$22.44 billion",
-        "reserves": "$23.21 billion"
+        "reserves": "$23.21 billion",
+        "country": "Kazakhstan"
     },
     "2017-12-31T23:40:04Z": {
         "gdp": "$429.1 billion",
@@ -31,7 +32,8 @@
         "debt": "12% of GDP",
         "revenue": "$43.08 billion",
         "expenses": "$48.04 billion",
-        "reserves": "$28.29 billion"
+        "reserves": "$28.29 billion",
+        "country": "Kazakhstan"
     },
     "2018-12-31T16:56:47Z": {
         "gdp": "$474.3 billion",
@@ -47,7 +49,8 @@
         "debt": "12% of GDP",
         "revenue": "$43 billion",
         "expenses": "$48 billion",
-        "reserves": "$28 billion"
+        "reserves": "$28 billion",
+        "country": "Kazakhstan"
     },
     "2019-12-31T18:21:53Z": {
         "population": " 18,276,499 ",
@@ -69,7 +72,8 @@
         "revenue": "35.48 billion",
         "expenses": "38.3 billion",
         "balance": "1.8% ",
-        "reserves": "$30.75 billion"
+        "reserves": "$30.75 billion",
+        "country": "Kazakhstan"
     },
     "2020-12-31T10:49:59Z": {
         "population": " 18,276,499 ",
@@ -91,7 +95,8 @@
         "revenue": "35.48 billion",
         "expenses": "38.3 billion",
         "balance": "1.8% ",
-        "reserves": "$30.75 billion"
+        "reserves": "$30.75 billion",
+        "country": "Kazakhstan"
     },
     "2022-12-31T10:31:53Z": {
         "population": " 19,125,620 ",
@@ -113,6 +118,7 @@
         "revenue": "35.48 billion",
         "expenses": "38.3 billion",
         "balance": "1.8% ",
-        "reserves": "$30.75 billion"
+        "reserves": "$30.75 billion",
+        "country": "Kazakhstan"
     }
 }

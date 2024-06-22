@@ -6,7 +6,8 @@
         "growth": "8.78% ",
         "gini": "0.31 ",
         "revenue": "83181.16 ",
-        "expenses": "84487.77 "
+        "expenses": "84487.77 ",
+        "country": "Odisha"
     },
     "2019-12-31T15:12:44Z": {
         "population": "41,974,218 ",
@@ -17,7 +18,8 @@
         "unemployment": "3.8% ",
         "debt": "20.7% ",
         "revenue": "1",
-        "expenses": "1.20"
+        "expenses": "1.20",
+        "country": "Odisha"
     },
     "2020-12-31T07:46:40Z": {
         "population": "41,974,218 ",
@@ -29,7 +31,8 @@
         "balance": "17878 ",
         "debt": "19% ",
         "revenue": "1.24",
-        "expenses": "1.5"
+        "expenses": "1.5",
+        "country": "Odisha"
     },
     "2022-12-31T07:49:51Z": {
         "population": "41,974,218 ",
@@ -41,7 +44,8 @@
         "balance": "17878 ",
         "debt": "19% ",
         "revenue": "1.24",
-        "expenses": "1.5"
+        "expenses": "1.5",
+        "country": "Odisha"
     },
     "2023-12-31T04:08:45Z": {
         "population": "41,974,218 ",
@@ -52,6 +56,7 @@
         "balance": "17878 ",
         "debt": "12.7% ",
         "revenue": "1.635",
-        "expenses": "2"
+        "expenses": "2",
+        "country": "Odisha"
     }
 }

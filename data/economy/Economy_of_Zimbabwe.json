@@ -15,7 +15,8 @@
         "debt": "$1 Billion",
         "revenue": "$216 billion",
         "expenses": "$451 billion",
-        "aid": "$178 million"
+        "aid": "$178 million",
+        "country": "Zimbabwe"
     },
     "2014-12-31T03:09:12Z": {
         "gdp": "$7.366 billion",
@@ -33,7 +34,8 @@
         "debt": "$1 Billion",
         "revenue": "$216 billion",
         "expenses": "$451 billion",
-        "aid": "$178 million"
+        "aid": "$178 million",
+        "country": "Zimbabwe"
     },
     "2016-12-31T09:22:35Z": {
         "gdp": "$7.366 billion",
@@ -51,7 +53,8 @@
         "debt": "$1 Billion",
         "revenue": "$216 billion",
         "expenses": "$451 billion",
-        "aid": "$178 million"
+        "aid": "$178 million",
+        "country": "Zimbabwe"
     },
     "2017-12-31T01:28:35Z": {
         "gdp": "$14 billion",
@@ -69,7 +72,8 @@
         "debt": "$1 billion",
         "revenue": "$2.876 billion",
         "expenses": "$3.840 billion",
-        "aid": "$178 million"
+        "aid": "$178 million",
+        "country": "Zimbabwe"
     },
     "2018-12-31T17:46:48Z": {
         "gdp": "$16.29 billion",
@@ -87,7 +91,8 @@
         "debt": "$1 billion",
         "revenue": "$2.876 billion",
         "expenses": "$3.840 billion",
-        "aid": "$178 million"
+        "aid": "$178 million",
+        "country": "Zimbabwe"
     },
     "2019-12-31T18:01:42Z": {
         "gdp": "$26.127 billion",
@@ -109,6 +114,7 @@
         "expenses": "5.5 billion",
         "balance": "9.6% ",
         "aid": "$178 million",
-        "reserves": "$431.8 million"
+        "reserves": "$431.8 million",
+        "country": "Zimbabwe"
     }
 }

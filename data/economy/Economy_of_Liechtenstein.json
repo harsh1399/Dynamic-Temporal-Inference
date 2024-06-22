@@ -10,7 +10,8 @@
         "exports": "$2.9 billion",
         "imports": "$917.3 million",
         "revenue": "$943 million",
-        "expenses": "$820 million"
+        "expenses": "$820 million",
+        "country": "Liechtenstein"
     },
     "2014-12-31T00:05:11Z": {
         "gdp": "$3.2 billion",
@@ -21,7 +22,8 @@
         "occupations": "0.8%",
         "unemployment": "2.5% ",
         "revenue": "$1.29 billion",
-        "expenses": "$1.372 billion"
+        "expenses": "$1.372 billion",
+        "country": "Liechtenstein"
     },
     "2015-12-31T20:59:10Z": {
         "gdp": "$3.2 billion",
@@ -32,7 +34,8 @@
         "occupations": "0.8%",
         "unemployment": "2.5% ",
         "revenue": "$1.29 billion",
-        "expenses": "$1.372 billion"
+        "expenses": "$1.372 billion",
+        "country": "Liechtenstein"
     },
     "2019-12-31T19:25:15Z": {
         "gdp": "$4.978 billion",
@@ -43,7 +46,8 @@
         "occupations": "0.8%",
         "unemployment": "1.8% ",
         "revenue": "$1.29 billion",
-        "expenses": "$1.372 billion"
+        "expenses": "$1.372 billion",
+        "country": "Liechtenstein"
     },
     "2020-12-31T16:32:10Z": {
         "population": " 38,378 ",
@@ -56,6 +60,7 @@
         "occupations": "0.8%",
         "unemployment": "1.8% ",
         "revenue": "$1.29 billion",
-        "expenses": "$1.372 billion"
+        "expenses": "$1.372 billion",
+        "country": "Liechtenstein"
     }
 }

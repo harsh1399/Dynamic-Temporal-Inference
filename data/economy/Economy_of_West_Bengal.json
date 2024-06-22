@@ -6,7 +6,8 @@
         "current account": "2.2% ",
         "debt": "3.66",
         "revenue": "1.49",
-        "expenses": "1.96"
+        "expenses": "1.96",
+        "country": "West"
     },
     "2019-12-31T18:13:40Z": {
         "gdp": "US$190 billion",
@@ -16,7 +17,8 @@
         "debt": "3.60",
         "balance": "27254 ",
         "revenue": "1.65",
-        "expenses": "2.38"
+        "expenses": "2.38",
+        "country": "West"
     },
     "2020-12-31T15:19:10Z": {
         "gdp": "12.54 ",
@@ -28,7 +30,8 @@
         "debt": "32.9% ",
         "balance": "31483 ",
         "revenue": "1.79",
-        "expenses": "2.56"
+        "expenses": "2.56",
+        "country": "West"
     },
     "2021-12-31T04:03:50Z": {
         "gdp": " 1354518 ",
@@ -40,7 +43,8 @@
         "debt": "35.4% ",
         "balance": "4.00%",
         "revenue": "302494 ",
-        "expenses": "308727 "
+        "expenses": "308727 ",
+        "country": "West"
     },
     "2022-12-31T15:38:42Z": {
         "population": " 91,347,736 ",
@@ -54,7 +58,8 @@
         "debt": "34.23% ",
         "balance": "62397 ",
         "revenue": "2.26 ",
-        "expenses": "2.61 "
+        "expenses": "2.61 ",
+        "country": "West"
     },
     "2023-12-31T06:04:54Z": {
         "population": " 91,347,736 ",
@@ -68,6 +73,7 @@
         "debt": "34.23% ",
         "balance": "65839 ",
         "revenue": "2.13 ",
-        "expenses": "2.79 "
+        "expenses": "2.79 ",
+        "country": "West"
     }
 }

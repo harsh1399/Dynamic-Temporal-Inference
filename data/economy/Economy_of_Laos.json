@@ -12,7 +12,8 @@
         "debt": "$3.179 billion",
         "revenue": "$941.5 million",
         "expenses": "$1.129 billion",
-        "aid": "$345 million"
+        "aid": "$345 million",
+        "country": "Laos"
     },
     "2013-12-31T07:57:13Z": {
         "gdp": "$17.66 billion",
@@ -29,7 +30,8 @@
         "revenue": "$1.76 billion",
         "expenses": "$1.957 billion",
         "aid": "$345 million",
-        "reserves": "$773.5 "
+        "reserves": "$773.5 ",
+        "country": "Laos"
     },
     "2017-12-31T12:41:18Z": {
         "gdp": "$41 billion",
@@ -46,7 +48,8 @@
         "revenue": "$2 billion",
         "expenses": "$2 billion",
         "aid": "$0.4 billion",
-        "reserves": "$1 billion"
+        "reserves": "$1 billion",
+        "country": "Laos"
     },
     "2019-12-31T09:07:01Z": {
         "gdp": "$16.984 billion",
@@ -64,7 +67,8 @@
         "revenue": "$3.144 billion",
         "expenses": "$4.098 billion",
         "aid": "$0.4 billion",
-        "reserves": "$989.8 million"
+        "reserves": "$989.8 million",
+        "country": "Laos"
     },
     "2020-12-31T15:40:16Z": {
         "population": " 7,061,507 ",
@@ -87,6 +91,7 @@
         "expenses": "4.038 billion",
         "balance": "5.5% ",
         "aid": "$0.4 billion",
-        "reserves": "$1.27 billion"
+        "reserves": "$1.27 billion",
+        "country": "Laos"
     }
 }

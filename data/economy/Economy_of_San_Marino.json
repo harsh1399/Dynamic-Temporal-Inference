@@ -10,7 +10,8 @@
         "exports": "$4.628 billion",
         "imports": "$3.744 billion",
         "revenue": "$690.6 million",
-        "expenses": "$652.9 million"
+        "expenses": "$652.9 million",
+        "country": "San"
     },
     "2017-12-31T14:52:01Z": {
         "gdp": "$1.665 billion",
@@ -22,7 +23,8 @@
         "unemployment": "2% ",
         "edbr": "79",
         "revenue": "$667.7 million",
-        "expenses": "$694.7 million"
+        "expenses": "$694.7 million",
+        "country": "San"
     },
     "2020-12-31T14:46:27Z": {
         "population": " 34,735 ",
@@ -35,6 +37,7 @@
         "unemployment": "5.6% ",
         "edbr": " 92",
         "current account": "73.710 million",
-        "debt": " 1.276 billion"
+        "debt": " 1.276 billion",
+        "country": "San"
     }
 }

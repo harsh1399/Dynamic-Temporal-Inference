@@ -11,7 +11,8 @@
         "imports": "$15.64 billion",
         "debt": "$10.57 billion",
         "revenue": "$7.226 billion",
-        "expenses": "$5.806 billion"
+        "expenses": "$5.806 billion",
+        "country": "Bahrain"
     },
     "2014-12-31T00:08:41Z": {
         "gdp": "$33.63 billion",
@@ -25,7 +26,8 @@
         "imports": "$15.17 billion",
         "debt": "$27.12 billion",
         "revenue": "$8.378 billion",
-        "expenses": "$8.675 billion"
+        "expenses": "$8.675 billion",
+        "country": "Bahrain"
     },
     "2016-12-31T12:40:10Z": {
         "gdp": "$33.86 billion",
@@ -39,7 +41,8 @@
         "imports": "$13.32 billion",
         "debt": "$18.75 billion",
         "revenue": "$8.217 billion",
-        "expenses": "$9.427 billion"
+        "expenses": "$9.427 billion",
+        "country": "Bahrain"
     },
     "2018-12-31T09:20:54Z": {
         "gdp": "$34.31 billion",
@@ -53,7 +56,8 @@
         "imports": "$13.96 billion",
         "debt": "82.7% of GDP",
         "revenue": "$5.463 billion",
-        "expenses": "$9.281 billion"
+        "expenses": "$9.281 billion",
+        "country": "Bahrain"
     },
     "2020-12-31T16:12:57Z": {
         "population": " 1,569,439 ",
@@ -70,6 +74,7 @@
         "imports": "$13.96 billion",
         "debt": "82.7% of GDP",
         "revenue": "$5.463 billion",
-        "expenses": "$9.281 billion"
+        "expenses": "$9.281 billion",
+        "country": "Bahrain"
     }
 }

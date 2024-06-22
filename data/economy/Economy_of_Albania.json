@@ -15,7 +15,8 @@
         "debt": "59.7% of GDP",
         "revenue": "$1.96 billion",
         "expenses": "$2.377 billion",
-        "aid": "$366 million"
+        "aid": "$366 million",
+        "country": "Albania"
     },
     "2012-12-31T20:45:59Z": {
         "gdp": "$13.4 billion",
@@ -33,7 +34,8 @@
         "debt": "$5.7 billion",
         "revenue": "$3.40 billion",
         "expenses": "$3.87 billion",
-        "aid": "$366 million"
+        "aid": "$366 million",
+        "country": "Albania"
     },
     "2017-12-31T03:41:06Z": {
         "gdp": "$50 ",
@@ -50,7 +52,8 @@
         "revenue": "$33.3 billion",
         "expenses": "$27.50 billion",
         "aid": "$366 million",
-        "reserves": "$3,139 billion"
+        "reserves": "$3,139 billion",
+        "country": "Albania"
     },
     "2018-12-31T16:34:32Z": {
         "gdp": "$38.154 billion",
@@ -66,7 +69,8 @@
         "unemployment": "12.4% ",
         "expenses": "$2.75 billion",
         "aid": "$366 million",
-        "reserves": "$3.589 billion"
+        "reserves": "$3.589 billion",
+        "country": "Albania"
     },
     "2019-12-31T10:40:34Z": {
         "population": " 2,862,427 ",
@@ -89,7 +93,8 @@
         "expenses": "3.874 billion",
         "balance": "2% ",
         "aid": "$366 million",
-        "reserves": "$3.589 billion"
+        "reserves": "$3.589 billion",
+        "country": "Albania"
     },
     "2020-12-31T10:45:33Z": {
         "population": " 2,845,955 ",
@@ -112,7 +117,8 @@
         "expenses": "3.874 billion",
         "balance": "2% ",
         "aid": "$366 million",
-        "reserves": "$3.589 billion"
+        "reserves": "$3.589 billion",
+        "country": "Albania"
     },
     "2022-12-31T19:49:16Z": {
         "population": " 4,793,592",
@@ -135,7 +141,8 @@
         "expenses": "3.874 billion",
         "balance": "2% ",
         "aid": "$366 million",
-        "reserves": "$30.589 billion"
+        "reserves": "$30.589 billion",
+        "country": "Albania"
     },
     "2023-12-31T14:24:46Z": {
         "population": "1.3% ",
@@ -157,6 +164,7 @@
         "expenses": "6.371 billion",
         "balance": "3% ",
         "aid": "$366 million",
-        "reserves": "$5.634.561 billion"
+        "reserves": "$5.634.561 billion",
+        "country": "Albania"
     }
 }

@@ -11,7 +11,8 @@
         "imports": "$24.96 billion",
         "debt": "6% of GDP",
         "revenue": "$40.36 billion",
-        "expenses": "$28.08 billion"
+        "expenses": "$28.08 billion",
+        "country": "Qatar"
     },
     "2017-12-31T16:34:45Z": {
         "gdp": "$171 billion",
@@ -24,7 +25,8 @@
         "unemployment": "0.4% ",
         "debt": "55.6% of GDP",
         "revenue": "$41.71 billion",
-        "expenses": "$53.95 billion"
+        "expenses": "$53.95 billion",
+        "country": "Qatar"
     },
     "2018-12-31T18:36:12Z": {
         "gdp": "$183.807billion",
@@ -37,7 +39,8 @@
         "unemployment": "0.6% ",
         "debt": "56.8% of GDP",
         "revenue": "$72.35 billion",
-        "expenses": "$55.81 billion"
+        "expenses": "$55.81 billion",
+        "country": "Qatar"
     },
     "2019-12-31T10:23:54Z": {
         "gdp": "$366.622 billion",
@@ -50,7 +53,8 @@
         "unemployment": "0.6% ",
         "debt": "56.8% of GDP",
         "revenue": "$95.35 billion",
-        "expenses": "$55.81 billion"
+        "expenses": "$55.81 billion",
+        "country": "Qatar"
     },
     "2020-12-31T01:52:33Z": {
         "population": " 2,781,677 ",
@@ -65,6 +69,7 @@
         "unemployment": "0.6% ",
         "debt": "56.8% of GDP",
         "revenue": "$95.35 billion",
-        "expenses": "$55.81 billion"
+        "expenses": "$55.81 billion",
+        "country": "Qatar"
     }
 }

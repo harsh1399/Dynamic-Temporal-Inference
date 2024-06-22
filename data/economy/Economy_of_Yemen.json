@@ -14,7 +14,8 @@
         "debt": "31.8% of GDP",
         "revenue": "$9.097 billion",
         "expenses": "$10.55 billion",
-        "aid": "$2.3 billion"
+        "aid": "$2.3 billion",
+        "country": "Yemen"
     },
     "2013-12-31T20:26:52Z": {
         "gdp": "$54.85 billion",
@@ -31,7 +32,8 @@
         "debt": "42.5% of GDP",
         "revenue": "$7.83 billion",
         "expenses": "$10.55 billion",
-        "aid": "$2.3 billion"
+        "aid": "$2.3 billion",
+        "country": "Yemen"
     },
     "2017-12-31T00:41:48Z": {
         "gdp": "$54.85 billion",
@@ -48,7 +50,8 @@
         "debt": "42.5% of GDP",
         "revenue": "$7.83 billion",
         "expenses": "$10.55 billion",
-        "aid": "$2.3 billion"
+        "aid": "$2.3 billion",
+        "country": "Yemen"
     },
     "2019-12-31T03:28:04Z": {
         "population": " 28,498,687 ",
@@ -70,6 +73,7 @@
         "expenses": "4.458 billion",
         "balance": "5.2% ",
         "aid": "$2.3 billion",
-        "reserves": "$245.4 million"
+        "reserves": "$245.4 million",
+        "country": "Yemen"
     }
 }

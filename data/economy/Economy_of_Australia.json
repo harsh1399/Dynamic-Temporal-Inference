@@ -12,7 +12,8 @@
         "debt": "46.1% of GDP",
         "revenue": "$420.5 billion",
         "expenses": "$446.4 billion",
-        "reserves": "$51.838 billion"
+        "reserves": "$51.838 billion",
+        "country": "Australia"
     },
     "2018-12-31T20:15:01Z": {
         "gdp": "$1.390 trillion",
@@ -28,7 +29,8 @@
         "debt": "47.1% of GDP",
         "revenue": "$461 billion",
         "expenses": "$484 billion",
-        "reserves": "$51.838 billion"
+        "reserves": "$51.838 billion",
+        "country": "Australia"
     },
     "2019-12-31T09:19:29Z": {
         "population": " 24,992,369 ",
@@ -49,7 +51,8 @@
         "revenue": "$485.2 billion",
         "expenses": "$482.7 billion",
         "balance": "0.2% ",
-        "reserves": "$66.58 billion"
+        "reserves": "$66.58 billion",
+        "country": "Australia"
     },
     "2020-12-31T04:18:53Z": {
         "population": " 25,466,459 ",
@@ -71,7 +74,8 @@
         "revenue": "$485.2 billion",
         "expenses": "$482.7 billion",
         "balance": "0.2% ",
-        "reserves": "$66.58 billion"
+        "reserves": "$66.58 billion",
+        "country": "Australia"
     },
     "2021-12-31T18:52:16Z": {
         "population": " 25,499,884 ",
@@ -93,7 +97,8 @@
         "revenue": "$485.2 billion",
         "expenses": "$482.7 billion",
         "balance": "0.2% ",
-        "reserves": "$66.58 billion"
+        "reserves": "$66.58 billion",
+        "country": "Australia"
     },
     "2023-12-31T15:35:19Z": {
         "population": " 25,925,667 ",
@@ -115,6 +120,7 @@
         "revenue": "$485.2 billion",
         "expenses": "$482.7 billion",
         "balance": "0.2% ",
-        "reserves": "$66.58 billion"
+        "reserves": "$66.58 billion",
+        "country": "Australia"
     }
 }

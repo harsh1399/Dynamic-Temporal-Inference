@@ -15,7 +15,8 @@
         "debt": "$13.2 trillion",
         "revenue": "$2.106 trillion",
         "expenses": "$3.515 trillion",
-        "aid": "0.2% of GDP"
+        "aid": "0.2% of GDP",
+        "country": "the"
     },
     "2011-12-31T02:13:55Z": {
         "gdp": "$14.526 trillion",
@@ -34,6 +35,7 @@
         "revenue": "$2.302 trillion",
         "expenses": "$3.601 trillion",
         "reserves": "US$140.607 billion",
-        "aid": "0.2% of GDP"
+        "aid": "0.2% of GDP",
+        "country": "the"
     }
 }

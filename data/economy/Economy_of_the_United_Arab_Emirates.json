@@ -11,7 +11,8 @@
         "imports": "$141 billion",
         "debt": "47.2% of GDP",
         "revenue": "$54.05 billion",
-        "expenses": "$54.68 billion"
+        "expenses": "$54.68 billion",
+        "country": "the"
     },
     "2012-12-31T23:07:48Z": {
         "gdp": "$360 billion",
@@ -26,7 +27,8 @@
         "imports": "$161.4 billion",
         "debt": "51.2% of GDP",
         "revenue": "$85.77 billion",
-        "expenses": "$92.15 billion"
+        "expenses": "$92.15 billion",
+        "country": "the"
     },
     "2014-12-31T03:39:40Z": {
         "gdp": "$390 billion",
@@ -41,7 +43,8 @@
         "imports": "$273.5 billion",
         "debt": "40.4% of GDP",
         "revenue": "$130.3 billion",
-        "expenses": "$99 billion"
+        "expenses": "$99 billion",
+        "country": "the"
     },
     "2015-12-31T21:39:29Z": {
         "gdp": "$570 billion",
@@ -56,7 +59,8 @@
         "imports": "$273.5 billion",
         "debt": "40.4% of GDP",
         "revenue": "$130.3 billion",
-        "expenses": "$99 billion"
+        "expenses": "$99 billion",
+        "country": "the"
     },
     "2017-12-31T21:11:43Z": {
         "gdp": "$407.2 billion",
@@ -71,7 +75,8 @@
         "imports": "$246.9 billion",
         "debt": "60.3% of GDP",
         "revenue": "$98.15 billion",
-        "expenses": "$112.6 billion"
+        "expenses": "$112.6 billion",
+        "country": "the"
     },
     "2019-12-31T16:46:42Z": {
         "gdp": "$407.52 billion",
@@ -86,7 +91,8 @@
         "imports": "$246.9 billion",
         "debt": "19.5% of GDP",
         "revenue": "$98.15 billion",
-        "expenses": "$112.6 billion"
+        "expenses": "$112.6 billion",
+        "country": "the"
     },
     "2020-12-31T19:05:04Z": {
         "population": " 9,630,959 ",
@@ -106,7 +112,8 @@
         "revenue": "110.2 billion",
         "expenses": "111.1 billion",
         "balance": "0.2% ",
-        "reserves": "$95.37 billion"
+        "reserves": "$95.37 billion",
+        "country": "the"
     },
     "2021-12-31T12:52:14Z": {
         "population": " 9,770,529 ",
@@ -127,6 +134,7 @@
         "revenue": "15.79 billion",
         "expenses": "16.6billion",
         "balance": "0.2% ",
-        "reserves": "$95.37 billion"
+        "reserves": "$95.37 billion",
+        "country": "the"
     }
 }

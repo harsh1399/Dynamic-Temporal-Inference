@@ -12,7 +12,8 @@
         "imports": "$39.16 billion",
         "revenue": "$25.23 billion",
         "expenses": "$25.05 billion",
-        "reserves": "US$5.772 billion"
+        "reserves": "US$5.772 billion",
+        "country": "Belarus"
     },
     "2015-12-31T22:18:34Z": {
         "gdp": "$63.267 billion",
@@ -29,7 +30,8 @@
         "debt": "43.4% of GDP",
         "revenue": "$22.38 billion",
         "expenses": "$21.96 billion",
-        "reserves": "$8,1 billion"
+        "reserves": "$8,1 billion",
+        "country": "Belarus"
     },
     "2016-12-31T13:52:42Z": {
         "gdp": "$81,627 million",
@@ -46,7 +48,8 @@
         "debt": "43.4% of GDP",
         "revenue": "$22 billion",
         "expenses": "$22 billion",
-        "reserves": "$8,1 billion"
+        "reserves": "$8,1 billion",
+        "country": "Belarus"
     },
     "2017-12-31T20:38:17Z": {
         "gdp": "$82 billion",
@@ -63,7 +66,8 @@
         "debt": "35.6% of GDP",
         "revenue": "$22 billion",
         "expenses": "$22 billion",
-        "reserves": "$8 billion"
+        "reserves": "$8 billion",
+        "country": "Belarus"
     },
     "2019-12-31T18:08:22Z": {
         "gdp": "$62.572 billion",
@@ -82,7 +86,8 @@
         "debt": "46.2% of GDP",
         "revenue": "$22.8 billion",
         "expenses": "$22.54 billion",
-        "reserves": "$7.315 billion"
+        "reserves": "$7.315 billion",
+        "country": "Belarus"
     },
     "2020-12-31T08:06:11Z": {
         "gdp": "$62.572 billion",
@@ -101,6 +106,7 @@
         "debt": "46.2% of GDP",
         "revenue": "22.8 billion",
         "expenses": "22.54 billion",
-        "reserves": "$7.315 billion"
+        "reserves": "$7.315 billion",
+        "country": "Belarus"
     }
 }

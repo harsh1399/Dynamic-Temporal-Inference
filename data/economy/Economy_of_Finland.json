@@ -14,7 +14,8 @@
         "debt": "45.4% of GDP",
         "revenue": "$66.58 billion",
         "expenses": "$65.33 billion",
-        "reserves": "US$11.492 billion"
+        "reserves": "US$11.492 billion",
+        "country": "Finland"
     },
     "2016-12-31T13:50:47Z": {
         "gdp": "$222 billion",
@@ -30,7 +31,8 @@
         "debt": "57% of GDP",
         "revenue": "$129 billion",
         "expenses": "$134 billion",
-        "reserves": "$12 billion"
+        "reserves": "$12 billion",
+        "country": "Finland"
     },
     "2017-12-31T19:40:37Z": {
         "gdp": "$240 billion",
@@ -46,7 +48,8 @@
         "debt": "52% of GDP",
         "revenue": "$129 billion",
         "expenses": "$134 billion",
-        "reserves": "$12 billion"
+        "reserves": "$12 billion",
+        "country": "Finland"
     },
     "2018-12-31T19:31:08Z": {
         "gdp": "$257 billion",
@@ -62,7 +65,8 @@
         "debt": "52% of GDP",
         "revenue": "$129 billion",
         "expenses": "$134 billion",
-        "reserves": "$12 billion"
+        "reserves": "$12 billion",
+        "country": "Finland"
     },
     "2019-12-31T14:28:37Z": {
         "population": " 5,517,919 ",
@@ -84,7 +88,8 @@
         "revenue": "134.2 billion",
         "expenses": "135.6 billion",
         "balance": "0.6% ",
-        "reserves": "$10.51 billion"
+        "reserves": "$10.51 billion",
+        "country": "Finland"
     },
     "2020-12-31T20:08:04Z": {
         "population": " 5,525,292 ",
@@ -106,6 +111,7 @@
         "revenue": "52.2% of GDP",
         "expenses": "53.3% of GDP",
         "balance": "2.7 billion",
-        "reserves": "$10.51 billion"
+        "reserves": "$10.51 billion",
+        "country": "Finland"
     }
 }

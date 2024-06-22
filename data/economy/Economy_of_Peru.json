@@ -14,7 +14,8 @@
         "revenue": "$37.0 billion",
         "expenses": "$39.5 billion",
         "aid": "$525 million",
-        "reserves": "US$48.5 billion"
+        "reserves": "US$48.5 billion",
+        "country": "Peru"
     },
     "2012-12-31T08:10:23Z": {
         "gdp": "$200.962 billion",
@@ -31,7 +32,8 @@
         "revenue": "$37.0 billion",
         "expenses": "$39.5 billion",
         "aid": "$525 million",
-        "reserves": "US$63.2 billion"
+        "reserves": "US$63.2 billion",
+        "country": "Peru"
     },
     "2014-12-31T13:20:26Z": {
         "gdp": "$368 billion",
@@ -44,7 +46,8 @@
         "revenue": "$70.95 billion",
         "expenses": "$66.42 billion",
         "aid": "$5.250 billion",
-        "reserves": "US$71.22 billion"
+        "reserves": "US$71.22 billion",
+        "country": "Peru"
     },
     "2018-12-31T22:01:11Z": {
         "gdp": "$469.7 billion",
@@ -57,7 +60,8 @@
         "revenue": "$70.95 billion",
         "expenses": "$66.42 billion",
         "aid": "$5.250 billion",
-        "reserves": "US$71.22 billion"
+        "reserves": "US$71.22 billion",
+        "country": "Peru"
     },
     "2019-12-31T19:23:37Z": {
         "gdp": "$225.203 billion",
@@ -78,6 +82,7 @@
         "expenses": "64.81 billion",
         "balance": "3.1% ",
         "aid": "$5.250 billion",
-        "reserves": "$63.83 billion"
+        "reserves": "$63.83 billion",
+        "country": "Peru"
     }
 }

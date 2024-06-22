@@ -1,7 +1,8 @@
 {
     "2011-12-31T21:26:47Z": {
         "gdp": "$528 billion",
-        "per capita": "$32,965 "
+        "per capita": "$32,965 ",
+        "country": "Illinois"
     },
     "2016-12-31T18:15:49Z": {
         "gdp": "$745,875 million",
@@ -11,7 +12,8 @@
         "labor": "6,488,200 ",
         "unemployment": "6.0% ",
         "revenue": "$29,761.862 million",
-        "expenses": "$19,831 million"
+        "expenses": "$19,831 million",
+        "country": "Illinois"
     },
     "2018-12-31T15:26:31Z": {
         "gdp": "$791,608 million",
@@ -21,7 +23,8 @@
         "labor": "6,488,200 ",
         "unemployment": "6.6% ",
         "revenue": "$29,761.862 million",
-        "expenses": "$19,831 million"
+        "expenses": "$19,831 million",
+        "country": "Illinois"
     },
     "2019-12-31T15:30:49Z": {
         "gdp": "$865.310 billion",
@@ -31,7 +34,8 @@
         "labor": "6,577,567 ",
         "unemployment": "3.8% ",
         "revenue": "$29.762 billion",
-        "expenses": "$19.831 billion"
+        "expenses": "$19.831 billion",
+        "country": "Illinois"
     },
     "2022-12-31T16:31:59Z": {
         "gdp": "$945.674 billion",
@@ -41,6 +45,7 @@
         "labor": "6,577,567 ",
         "unemployment": "4.5% ",
         "revenue": "$29.762 billion",
-        "expenses": "$19.831 billion"
+        "expenses": "$19.831 billion",
+        "country": "Illinois"
     }
 }

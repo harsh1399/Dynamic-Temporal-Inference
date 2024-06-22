@@ -15,7 +15,8 @@
         "debt": "15.350 billion",
         "revenue": "40.0% of GDP",
         "expenses": "46.4% of GDP",
-        "reserves": "$1.258 billion"
+        "reserves": "$1.258 billion",
+        "country": "Cyprus"
     },
     "2014-12-31T11:54:33Z": {
         "gdp": "$21.827 billion",
@@ -33,7 +34,8 @@
         "debt": "18.519 billion",
         "revenue": "36.5% of GDP",
         "expenses": "41.4% of GDP",
-        "reserves": "$1.258 billion"
+        "reserves": "$1.258 billion",
+        "country": "Cyprus"
     },
     "2017-12-31T18:10:08Z": {
         "gdp": "$19.810 billion",
@@ -50,7 +52,8 @@
         "balance": "82 million",
         "expenses": "38.3% of GDP",
         "revenue": "38.8% of GDP",
-        "reserves": "$1.258 billion"
+        "reserves": "$1.258 billion",
+        "country": "Cyprus"
     },
     "2018-12-31T09:59:54Z": {
         "gdp": "$21.695 billion",
@@ -68,7 +71,8 @@
         "balance": "344 million",
         "expenses": "38.2% of GDP",
         "revenue": "40.0% of GDP",
-        "reserves": "$879.1 million"
+        "reserves": "$879.1 million",
+        "country": "Cyprus"
     },
     "2020-12-31T23:43:01Z": {
         "population": " 888,005 ",
@@ -90,7 +94,8 @@
         "balance": "327 million",
         "expenses": "40.1% of GDP",
         "revenue": "41.5% of GDP",
-        "reserves": "$888.2 million"
+        "reserves": "$888.2 million",
+        "country": "Cyprus"
     },
     "2021-12-31T12:30:11Z": {
         "population": " 0.9 million",
@@ -112,7 +117,8 @@
         "balance": "1.233 billion",
         "expenses": "45.1% of GDP",
         "revenue": "39.4% of GDP",
-        "reserves": "$888.2 million"
+        "reserves": "$888.2 million",
+        "country": "Cyprus"
     },
     "2022-12-31T13:22:39Z": {
         "population": " 0.9 million",
@@ -134,7 +140,8 @@
         "balance": "408 billion",
         "expenses": "43.1% of GDP",
         "revenue": "41.4% of GDP",
-        "reserves": "$888.2 million"
+        "reserves": "$888.2 million",
+        "country": "Cyprus"
     },
     "2023-12-31T15:00:06Z": {
         "population": " 0.913 million",
@@ -156,6 +163,7 @@
         "balance": "609.5 million",
         "expenses": "10.7667 billion",
         "revenue": "11.3762 billion",
-        "reserves": "$888.2 million"
+        "reserves": "$888.2 million",
+        "country": "Cyprus"
     }
 }

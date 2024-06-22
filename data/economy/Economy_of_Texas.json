@@ -7,7 +7,8 @@
         "labor": "13,126,900 ",
         "unemployment": "4.4% ",
         "revenue": "$71.5447 billion",
-        "expenses": "$71.4094 billion"
+        "expenses": "$71.4094 billion",
+        "country": "Texas"
     },
     "2022-12-31T17:57:00Z": {
         "gdp": "$2.1 trillion",
@@ -17,7 +18,8 @@
         "labor": "15,500,000 ",
         "unemployment": "4.1% ",
         "revenue": "$150 billion",
-        "expenses": "$100 billion"
+        "expenses": "$100 billion",
+        "country": "Texas"
     },
     "2023-12-31T09:06:31Z": {
         "gdp": "$2.4 trillion",
@@ -27,6 +29,7 @@
         "labor": "15,500,000 ",
         "unemployment": "4.0% ",
         "revenue": "$183.3 billion",
-        "expenses": "$100 billion"
+        "expenses": "$100 billion",
+        "country": "Texas"
     }
 }

@@ -11,7 +11,8 @@
         "debt": "$25 million",
         "revenue": "$1.36 billion",
         "expenses": "$1.27 billion",
-        "aid": "$512 million"
+        "aid": "$512 million",
+        "country": "Greenland"
     },
     "2012-12-31T14:15:52Z": {
         "gdp": "$2.16 billion",
@@ -26,7 +27,8 @@
         "debt": "$58 million",
         "revenue": "$1.47 billion",
         "expenses": "$1.51 billion",
-        "aid": "$512 million"
+        "aid": "$512 million",
+        "country": "Greenland"
     },
     "2015-12-31T16:10:38Z": {
         "gdp": "$2.16 billion",
@@ -41,7 +43,8 @@
         "debt": "$36.4 million",
         "revenue": "$1.099 billion",
         "expenses": "$1.099 billion",
-        "aid": "$650 million"
+        "aid": "$650 million",
+        "country": "Greenland"
     },
     "2019-12-31T01:23:33Z": {
         "gdp": "$2.413 billion",
@@ -56,6 +59,7 @@
         "debt": "$36.4 million",
         "revenue": "$1.099 billion",
         "expenses": "$1.099 billion",
-        "aid": "$650 million"
+        "aid": "$650 million",
+        "country": "Greenland"
     }
 }

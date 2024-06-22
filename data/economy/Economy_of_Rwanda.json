@@ -14,7 +14,8 @@
         "debt": "$0.7 billion",
         "revenue": "$560.9 million",
         "expenses": "$654 million",
-        "aid": "$425 million"
+        "aid": "$425 million",
+        "country": "Rwanda"
     },
     "2015-12-31T12:08:01Z": {
         "gdp": "$6.3 billion",
@@ -31,7 +32,8 @@
         "debt": "$0.7 billion",
         "revenue": "$560.9 million",
         "expenses": "$654 million",
-        "aid": "$425 million"
+        "aid": "$425 million",
+        "country": "Rwanda"
     },
     "2018-12-31T13:32:51Z": {
         "gdp": "$8.376 billion",
@@ -49,7 +51,8 @@
         "debt": "$3.61 billion",
         "revenue": "$1.522 billion",
         "expenses": "271 ",
-        "aid": "$285 Million"
+        "aid": "$285 Million",
+        "country": "Rwanda"
     },
     "2019-12-31T20:52:29Z": {
         "gdp": "$9.511 billion",
@@ -71,7 +74,8 @@
         "expenses": "2.337 billion",
         "balance": "4.3% ",
         "aid": "$285 Million",
-        "reserves": "$997.6 million"
+        "reserves": "$997.6 million",
+        "country": "Rwanda"
     },
     "2020-12-31T20:13:07Z": {
         "population": " 12,374,397 ",
@@ -94,6 +98,7 @@
         "expenses": "2.337 billion",
         "balance": "4.3% ",
         "aid": "$285 Million",
-        "reserves": "$997.6 million"
+        "reserves": "$997.6 million",
+        "country": "Rwanda"
     }
 }

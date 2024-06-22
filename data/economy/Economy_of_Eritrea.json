@@ -12,7 +12,8 @@
         "debt": "118.5% of GDP",
         "revenue": "$715.4 million",
         "expenses": "$1.021 billion",
-        "reserves": "$114.8 million"
+        "reserves": "$114.8 million",
+        "country": "Eritrea"
     },
     "2017-12-31T01:00:48Z": {
         "gdp": "$3.881 billion",
@@ -27,7 +28,8 @@
         "debt": "118% of GDP",
         "revenue": "$838.8 million",
         "expenses": "$1.19 billion",
-        "reserves": "$171.2 million"
+        "reserves": "$171.2 million",
+        "country": "Eritrea"
     },
     "2019-12-31T00:38:11Z": {
         "gdp": "$2.007 billion",
@@ -42,6 +44,7 @@
         "debt": "118% of GDP",
         "revenue": "$838.8 million",
         "expenses": "$1.19 billion",
-        "reserves": "$171.2 million"
+        "reserves": "$171.2 million",
+        "country": "Eritrea"
     }
 }

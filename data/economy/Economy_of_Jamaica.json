@@ -7,7 +7,8 @@
         "poverty": "19.7%",
         "unemployment": "15%",
         "exports": "$1.4 billion",
-        "imports": "$2.7 billion"
+        "imports": "$2.7 billion",
+        "country": "Jamaica"
     },
     "2011-12-31T13:35:05Z": {
         "gdp": "$23.25 billion",
@@ -25,7 +26,8 @@
         "debt": "131.7% of GDP",
         "revenue": "$2.898 billion",
         "expenses": "$4.332 billion",
-        "aid": "$102.7 million"
+        "aid": "$102.7 million",
+        "country": "Jamaica"
     },
     "2015-12-31T20:47:41Z": {
         "gdp": "$14.36 billion",
@@ -42,7 +44,8 @@
         "debt": "126.5% of GDP",
         "revenue": "$3.982 billion",
         "expenses": "$4.744 billion",
-        "aid": "$102.7 million"
+        "aid": "$102.7 million",
+        "country": "Jamaica"
     },
     "2018-12-31T18:21:23Z": {
         "gdp": "$26.06 billion",
@@ -60,6 +63,7 @@
         "revenue": "$4.207 billion",
         "expenses": "$4.150 billion",
         "reserves": "$3.208 billion",
-        "aid": "$102.7 million"
+        "aid": "$102.7 million",
+        "country": "Jamaica"
     }
 }

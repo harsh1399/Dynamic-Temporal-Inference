@@ -10,7 +10,8 @@
         "revenue": "1.7 billion",
         "expenses": "2.3 billion",
         "inflation": "2.9% ",
-        "poverty": "42% "
+        "poverty": "42% ",
+        "country": "Nepal"
     },
     "2011-12-31T05:12:42Z": {
         "gdp": "$35.81 billion",
@@ -22,7 +23,8 @@
         "revenue": "$3 billion",
         "expenses": "$4.6 billion",
         "inflation": "8.6% ",
-        "poverty": "24.7% "
+        "poverty": "24.7% ",
+        "country": "Nepal"
     },
     "2013-12-31T07:14:07Z": {
         "gdp": "$40.81 billion",
@@ -34,7 +36,8 @@
         "revenue": "$4 billion",
         "expenses": "$5.6 billion",
         "inflation": "8.6% ",
-        "poverty": "24.7% "
+        "poverty": "24.7% ",
+        "country": "Nepal"
     },
     "2017-12-31T00:50:14Z": {
         "gdp": "$67 billion",
@@ -46,7 +49,8 @@
         "revenue": "$ 6 billion",
         "expenses": "$ 7 billion",
         "inflation": "10.01% ",
-        "poverty": "25.2% "
+        "poverty": "25.2% ",
+        "country": "Nepal"
     },
     "2019-12-31T10:31:29Z": {
         "population": " 28,087,871 ",
@@ -62,7 +66,8 @@
         "exports": "$1.2 billion",
         "imports": "$ 13 Billion",
         "revenue": "$ 14 billion",
-        "expenses": "$ 13.5 billion"
+        "expenses": "$ 13.5 billion",
+        "country": "Nepal"
     },
     "2020-12-31T08:16:00Z": {
         "population": " 28,608,710 ",
@@ -83,7 +88,8 @@
         "revenue": "5.925 billion",
         "expenses": "5.945 billion",
         "balance": "0.1% ",
-        "reserves": "$9.091 billion"
+        "reserves": "$9.091 billion",
+        "country": "Nepal"
     },
     "2021-12-31T15:21:13Z": {
         "population": " 29,458,427",
@@ -104,7 +110,8 @@
         "revenue": "5.925 billion",
         "expenses": "5.945 billion",
         "balance": "0.1% ",
-        "reserves": "$10.45 billion"
+        "reserves": "$10.45 billion",
+        "country": "Nepal"
     },
     "2022-12-31T17:32:38Z": {
         "population": " 29,192,480 ",
@@ -125,6 +132,7 @@
         "revenue": "10.925 billion",
         "expenses": "15.945 billion",
         "balance": "0.1% ",
-        "reserves": "$9.62 billion"
+        "reserves": "$9.62 billion",
+        "country": "Nepal"
     }
 }

@@ -15,7 +15,8 @@
         "revenue": "$7.915 billion",
         "expenses": "$8.439 billion",
         "aid": "$135 million",
-        "reserves": "$250.93 million"
+        "reserves": "$250.93 million",
+        "country": "Estonia"
     },
     "2017-12-31T15:34:46Z": {
         "gdp": "$36.947 billion",
@@ -33,7 +34,8 @@
         "revenue": "$7.915 billion",
         "expenses": "$8.439 billion",
         "aid": "$135 million",
-        "reserves": "$250.93 million"
+        "reserves": "$250.93 million",
+        "country": "Estonia"
     },
     "2018-12-31T22:08:24Z": {
         "gdp": "23 billion",
@@ -50,7 +52,8 @@
         "imports": "14.7 billion",
         "debt": "1.987 billion",
         "revenue": "40.3% of GDP",
-        "expenses": "40.6% of GDP"
+        "expenses": "40.6% of GDP",
+        "country": "Estonia"
     },
     "2019-12-31T00:58:37Z": {
         "population": " 1,324,820 ",
@@ -71,6 +74,7 @@
         "revenue": "10.37 billion",
         "expenses": "10.44 billion",
         "balance": "0.3% ",
-        "reserves": "$345 million"
+        "reserves": "$345 million",
+        "country": "Estonia"
     }
 }

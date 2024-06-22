@@ -6,7 +6,8 @@
         "poverty": "14.3% ",
         "labor": "18,600,000 ",
         "unemployment": "4.9% ",
-        "expenses": "$220 billion"
+        "expenses": "$220 billion",
+        "country": "California"
     },
     "2018-12-31T02:54:34Z": {
         "gdp": "$2.798 trillion",
@@ -15,7 +16,8 @@
         "poverty": "13.3% ",
         "labor": "19,286,476 ",
         "unemployment": "4.1% ",
-        "expenses": "$220 billion"
+        "expenses": "$220 billion",
+        "country": "California"
     },
     "2019-12-31T03:23:53Z": {
         "gdp": "$2.998 trillion",
@@ -24,7 +26,8 @@
         "poverty": "13.3% ",
         "labor": "19,286,476 ",
         "unemployment": "3.9% ",
-        "expenses": "$220 billion"
+        "expenses": "$220 billion",
+        "country": "California"
     },
     "2021-12-31T17:53:57Z": {
         "gdp": "3.007trillion",
@@ -33,7 +36,8 @@
         "poverty": "13.3% ",
         "labor": "19,286,476 ",
         "unemployment": "7.5% ",
-        "expenses": "$220 billion"
+        "expenses": "$220 billion",
+        "country": "California"
     },
     "2022-12-31T20:31:21Z": {
         "gdp": "$3.356 trillion",
@@ -42,7 +46,8 @@
         "poverty": "13.3% ",
         "labor": "18,946,000 ",
         "unemployment": "4.9% ",
-        "expenses": "$286 billion"
+        "expenses": "$286 billion",
+        "country": "California"
     },
     "2023-12-31T17:53:57Z": {
         "gdp": "$3.6 trillion",
@@ -51,6 +56,7 @@
         "poverty": "13.3% ",
         "labor": "19,254,000 ",
         "unemployment": "4.3% ",
-        "expenses": "$286 billion"
+        "expenses": "$286 billion",
+        "country": "California"
     }
 }

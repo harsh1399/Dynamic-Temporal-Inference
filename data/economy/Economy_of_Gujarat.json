@@ -1,7 +1,8 @@
 {
     "2016-12-31T13:25:42Z": {
         "gdp": "8.76 ",
-        "unemployment": "1.2% "
+        "unemployment": "1.2% ",
+        "country": "Gujarat"
     },
     "2019-12-31T01:05:14Z": {
         "gdp": "17.01495 ",
@@ -10,7 +11,8 @@
         "unemployment": "4.8% ",
         "debt": "6% ",
         "revenue": "1.41 ",
-        "expenses": "1.82 "
+        "expenses": "1.82 ",
+        "country": "Gujarat"
     },
     "2020-12-31T05:21:14Z": {
         "gdp": "15.05 ",
@@ -22,7 +24,8 @@
         "debt": "15.7% ",
         "balance": "1.78% ",
         "revenue": "1.63 ",
-        "expenses": "2.14 "
+        "expenses": "2.14 ",
+        "country": "Gujarat"
     },
     "2021-12-31T05:12:44Z": {
         "gdp": "17.7 Trillion",
@@ -34,7 +37,8 @@
         "debt": "15.7% ",
         "balance": "1.78% ",
         "revenue": "1.63 ",
-        "expenses": "2.14 "
+        "expenses": "2.14 ",
+        "country": "Gujarat"
     },
     "2022-12-31T08:19:50Z": {
         "gdp": "19.44 ",
@@ -48,7 +52,8 @@
         "debt": "15.88% ",
         "balance": "1.64% ",
         "revenue": "1.82 ",
-        "expenses": "2.18 "
+        "expenses": "2.18 ",
+        "country": "Gujarat"
     },
     "2023-12-31T16:44:12Z": {
         "gdp": "19.3 ",
@@ -62,6 +67,7 @@
         "debt": "15.27% ",
         "balance": "1.75% ",
         "revenue": "2.07 ",
-        "expenses": "3.01 "
+        "expenses": "3.01 ",
+        "country": "Gujarat"
     }
 }

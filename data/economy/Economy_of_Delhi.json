@@ -5,7 +5,8 @@
         "per capita": "227755 ",
         "unemployment": "4.63% ",
         "revenue": "42616",
-        "expenses": "48000"
+        "expenses": "48000",
+        "country": "Delhi"
     },
     "2021-12-31T05:20:41Z": {
         "gdp": "210 billion",
@@ -14,7 +15,8 @@
         "unemployment": "4.6% ",
         "balance": "5902 ",
         "revenue": "50767",
-        "expenses": "60000"
+        "expenses": "60000",
+        "country": "Delhi"
     },
     "2022-12-31T10:09:06Z": {
         "population": "1.9 ",
@@ -23,6 +25,7 @@
         "unemployment": "6.6% ",
         "balance": "9194 ",
         "revenue": "61891",
-        "expenses": "71085"
+        "expenses": "71085",
+        "country": "Delhi"
     }
 }

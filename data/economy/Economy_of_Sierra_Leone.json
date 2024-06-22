@@ -11,7 +11,8 @@
         "imports": "$1.509 billion",
         "debt": "34.6% of GDP",
         "revenue": "$510.2 million",
-        "expenses": "$728.5 million"
+        "expenses": "$728.5 million",
+        "country": "Sierra"
     },
     "2020-12-31T14:58:29Z": {
         "gdp": "$4.082 billion",
@@ -27,6 +28,7 @@
         "imports": "$1.509 billion",
         "debt": "34.6% of GDP",
         "revenue": "$510.2 million",
-        "expenses": "$728.5 million"
+        "expenses": "$728.5 million",
+        "country": "Sierra"
     }
 }

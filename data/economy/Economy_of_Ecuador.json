@@ -13,7 +13,8 @@
         "revenue": "$20.83 billion",
         "expenses": "$21.76 billion",
         "aid": "$209.5 million",
-        "reserves": "$3.792 billion"
+        "reserves": "$3.792 billion",
+        "country": "Ecuador"
     },
     "2017-12-31T02:34:20Z": {
         "gdp": "$170 billion",
@@ -30,7 +31,8 @@
         "revenue": "$15.59 billion",
         "expenses": "$20.10 billion",
         "aid": "$209.5 million",
-        "reserves": "$2.482 billion"
+        "reserves": "$2.482 billion",
+        "country": "Ecuador"
     },
     "2019-12-31T06:35:25Z": {
         "gdp": "$104.29 billion",
@@ -47,7 +49,8 @@
         "revenue": "$15.59 billion",
         "expenses": "$20.10 billion",
         "aid": "$209.5 million",
-        "reserves": "$2.482 billion"
+        "reserves": "$2.482 billion",
+        "country": "Ecuador"
     },
     "2020-12-31T13:03:25Z": {
         "population": " 17,084,357 ",
@@ -68,6 +71,7 @@
         "revenue": "33.43 billion",
         "expenses": "38.08 billion",
         "aid": "$209.5 million",
-        "reserves": "$2.169 billion"
+        "reserves": "$2.169 billion",
+        "country": "Ecuador"
     }
 }

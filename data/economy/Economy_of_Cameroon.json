@@ -13,7 +13,8 @@
         "debt": "69.1% of GDP",
         "revenue": "2.493",
         "expenses": "$2.248",
-        "aid": "$1.3 billion"
+        "aid": "$1.3 billion",
+        "country": "Cameroon"
     },
     "2014-12-31T18:11:41Z": {
         "gdp": "$56 Billion",
@@ -29,7 +30,8 @@
         "debt": "16.2% of GDP",
         "revenue": "2.493",
         "expenses": "$2.248",
-        "aid": "$1.3 billion"
+        "aid": "$1.3 billion",
+        "country": "Cameroon"
     },
     "2017-12-31T22:07:12Z": {
         "gdp": "$72.12 Billion",
@@ -46,7 +48,8 @@
         "debt": "16.2% of GDP",
         "revenue": "4.035",
         "expenses": "$5.404",
-        "aid": "$1.3 billion"
+        "aid": "$1.3 billion",
+        "country": "Cameroon"
     },
     "2019-12-31T12:12:25Z": {
         "gdp": "$38.521 billion",
@@ -67,6 +70,7 @@
         "balance": "3.4% ",
         "expenses": "6.556 billion",
         "aid": "$1.3 billion",
-        "reserves": "$3.235 billion"
+        "reserves": "$3.235 billion",
+        "country": "Cameroon"
     }
 }

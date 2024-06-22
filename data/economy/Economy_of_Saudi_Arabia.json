@@ -13,7 +13,8 @@
         "debt": "9.4% of GDP",
         "revenue": "$293.1 billion",
         "expenses": "$210.6 billion",
-        "aid": "$100 million"
+        "aid": "$100 million",
+        "country": "Saudi"
     },
     "2016-12-31T12:27:09Z": {
         "gdp": "$1.679 trillion",
@@ -29,7 +30,8 @@
         "debt": "9.4% of GDP",
         "revenue": "$162 billion",
         "expenses": "$260 billion",
-        "aid": "$100 million"
+        "aid": "$100 million",
+        "country": "Saudi"
     },
     "2017-12-31T16:39:32Z": {
         "gdp": "$1.06trillion",
@@ -45,7 +47,8 @@
         "debt": "15% of GDP",
         "revenue": "$149.7 billion",
         "expenses": "$236.7 billion",
-        "reserves": "$487 billion"
+        "reserves": "$487 billion",
+        "country": "Saudi"
     },
     "2019-12-31T15:34:42Z": {
         "gdp": "$740.123 billion",
@@ -63,7 +66,8 @@
         "debt": "30% of GDP",
         "revenue": "$171.6 billion",
         "expenses": "$227.8 billion",
-        "reserves": "$487 billion"
+        "reserves": "$487 billion",
+        "country": "Saudi"
     },
     "2020-12-31T09:05:50Z": {
         "population": " 34,173,498 ",
@@ -84,7 +88,8 @@
         "revenue": "181 billion",
         "expenses": "241.8 billion",
         "balance": "8.9% ",
-        "reserves": "$472.171 billion"
+        "reserves": "$472.171 billion",
+        "country": "Saudi"
     },
     "2023-12-31T01:24:14Z": {
         "population": " 36,093,000 ",
@@ -105,6 +110,7 @@
         "revenue": "181 billion",
         "expenses": "241.8 billion",
         "balance": "8.9% ",
-        "reserves": "$451.587 billion"
+        "reserves": "$451.587 billion",
+        "country": "Saudi"
     }
 }

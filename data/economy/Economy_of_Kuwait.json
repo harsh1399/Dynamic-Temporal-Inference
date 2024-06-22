@@ -11,7 +11,8 @@
         "imports": "$26.54 billion",
         "debt": "$14.21 billion",
         "revenue": "$113.3 billion",
-        "expenses": "$63.55 billion"
+        "expenses": "$63.55 billion",
+        "country": "Kuwait"
     },
     "2011-12-31T13:27:31Z": {
         "gdp": "$135.062 billion",
@@ -25,7 +26,8 @@
         "imports": "$26.54 billion",
         "debt": "$14.21 billion",
         "revenue": "$113.3 billion",
-        "expenses": "$63.55 billion"
+        "expenses": "$63.55 billion",
+        "country": "Kuwait"
     },
     "2017-12-31T20:52:05Z": {
         "gdp": "$282.06 billion",
@@ -37,7 +39,8 @@
         "imports": "$36.54 billion",
         "debt": "$14.22 billion",
         "revenue": "$113.3 billion",
-        "expenses": "$63.55 billion"
+        "expenses": "$63.55 billion",
+        "country": "Kuwait"
     },
     "2018-12-31T13:32:44Z": {
         "gdp": "$411 billion",
@@ -50,7 +53,8 @@
         "imports": "$29.36 billion",
         "debt": "$15.9 billion",
         "revenue": "$52.87 billion",
-        "expenses": "$61.39 billion"
+        "expenses": "$61.39 billion",
+        "country": "Kuwait"
     },
     "2019-12-31T11:06:11Z": {
         "gdp": "$120 billion",
@@ -63,7 +67,8 @@
         "imports": "$29.36 billion",
         "debt": "$15.9 billion",
         "revenue": "$52.87 billion",
-        "expenses": "$61.39 billion"
+        "expenses": "$61.39 billion",
+        "country": "Kuwait"
     },
     "2020-12-31T07:42:11Z": {
         "gdp": "$108.656 billion",
@@ -76,6 +81,7 @@
         "imports": "$29.36 billion",
         "debt": "$18.40 billion",
         "revenue": "$41.7 billion",
-        "expenses": "$69.33 billion"
+        "expenses": "$69.33 billion",
+        "country": "Kuwait"
     }
 }

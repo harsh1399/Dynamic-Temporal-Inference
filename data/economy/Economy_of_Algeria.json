@@ -15,7 +15,8 @@
         "debt": "20% of GDP",
         "revenue": "$63.07 billion",
         "expenses": "$75.88 billion",
-        "reserves": "$149.3 billion"
+        "reserves": "$149.3 billion",
+        "country": "Algeria"
     },
     "2017-12-31T15:58:04Z": {
         "gdp": "2012%",
@@ -34,7 +35,8 @@
         "expenses": "$84.29 billion",
         "aid": "52 ",
         "credit": "52 ",
-        "reserves": "$190.5 billion"
+        "reserves": "$190.5 billion",
+        "country": "Algeria"
     },
     "2019-12-31T21:56:27Z": {
         "population": " 42,228,429 ",
@@ -56,7 +58,8 @@
         "revenue": "54.15 billion",
         "expenses": "70.2 billion",
         "balance": "9.6% ",
-        "reserves": "$97.89 billion"
+        "reserves": "$97.89 billion",
+        "country": "Algeria"
     },
     "2021-12-31T14:52:57Z": {
         "population": " 42,972,878 ",
@@ -78,7 +81,8 @@
         "revenue": "54.15 billion",
         "expenses": "70.2 billion",
         "balance": "9.6% ",
-        "reserves": "$42 billion"
+        "reserves": "$42 billion",
+        "country": "Algeria"
     },
     "2022-12-31T19:53:15Z": {
         "population": " 46,682,000 ",
@@ -100,7 +104,8 @@
         "revenue": "54.15 billion",
         "expenses": "70.2 billion",
         "balance": "9.6% ",
-        "reserves": "$42 billion"
+        "reserves": "$42 billion",
+        "country": "Algeria"
     },
     "2023-12-31T03:52:11Z": {
         "population": " 45,970,000 ",
@@ -121,6 +126,7 @@
         "revenue": "57.7 billion",
         "expenses": "100 billion",
         "balance": "21% ",
-        "reserves": "$66.14 billion"
+        "reserves": "$66.14 billion",
+        "country": "Algeria"
     }
 }

@@ -9,7 +9,8 @@
         "unemployment": "85% ",
         "exports": "$1.197 billion",
         "imports": "$7.143 billion",
-        "debt": "$3.2 billion"
+        "debt": "$3.2 billion",
+        "country": "Liberia"
     },
     "2011-12-31T02:40:38Z": {
         "gdp": "$977 million",
@@ -23,7 +24,8 @@
         "imports": "$7.143 billion",
         "debt": "45% of GDP",
         "revenue": "$234.9 million",
-        "expenses": "$312.1 million"
+        "expenses": "$312.1 million",
+        "country": "Liberia"
     },
     "2014-12-31T14:44:09Z": {
         "gdp": "$2.719 billion",
@@ -36,7 +38,8 @@
         "occupations": "70% ",
         "unemployment": "3.7% ",
         "revenue": "$481.5 million",
-        "expenses": "$522.3 million"
+        "expenses": "$522.3 million",
+        "country": "Liberia"
     },
     "2018-12-31T10:18:17Z": {
         "gdp": "$2.719 billion",
@@ -49,7 +52,8 @@
         "occupations": "70% ",
         "unemployment": "3.7% ",
         "revenue": "$481.5 million",
-        "expenses": "$522.3 million"
+        "expenses": "$522.3 million",
+        "country": "Liberia"
     },
     "2020-12-31T12:59:50Z": {
         "gdp": "$3.248 billion",
@@ -63,6 +67,7 @@
         "occupations": "70% ",
         "unemployment": "2.8% ",
         "revenue": "$481.5 million",
-        "expenses": "$522.3 million"
+        "expenses": "$522.3 million",
+        "country": "Liberia"
     }
 }

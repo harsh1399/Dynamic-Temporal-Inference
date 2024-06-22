@@ -14,7 +14,8 @@
         "debt": "$8.057 billion",
         "revenue": "US$3.795 billion",
         "expenses": "US$4.908 billion",
-        "reserves": "US$4.811 billion"
+        "reserves": "US$4.811 billion",
+        "country": "Costa"
     },
     "2017-12-31T19:58:42Z": {
         "gdp": "US$52.6",
@@ -29,7 +30,8 @@
         "debt": "$22.648 ",
         "revenue": "US$7.197 billion",
         "expenses": "US$9.621 billion",
-        "reserves": "US$7.5 billion"
+        "reserves": "US$7.5 billion",
+        "country": "Costa"
     },
     "2019-12-31T21:57:21Z": {
         "gdp": "$60.464 billion",
@@ -47,7 +49,8 @@
         "debt": "$22.648 ",
         "revenue": "US$7.197 billion",
         "expenses": "US$9.621 billion",
-        "reserves": "US$7.5 billion"
+        "reserves": "US$7.5 billion",
+        "country": "Costa"
     },
     "2020-12-31T08:21:35Z": {
         "population": " 4,999,441 ",
@@ -68,6 +71,7 @@
         "revenue": "8.357 billion",
         "expenses": "11.92 billion",
         "balance": "6.1% ",
-        "reserves": "$7.15 billion"
+        "reserves": "$7.15 billion",
+        "country": "Costa"
     }
 }

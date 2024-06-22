@@ -7,7 +7,8 @@
         "unemployment": "1.1% ",
         "debt": "21.4% ",
         "revenue": "1.41",
-        "expenses": "1.74"
+        "expenses": "1.74",
+        "country": "Telangana"
     },
     "2020-12-31T09:22:40Z": {
         "gdp": "11.05 ",
@@ -18,7 +19,8 @@
         "debt": "20.7% ",
         "balance": "33191",
         "revenue": "1.43",
-        "expenses": "1.83"
+        "expenses": "1.83",
+        "country": "Telangana"
     },
     "2021-12-31T11:31:45Z": {
         "gdp": "11.05 ",
@@ -29,7 +31,8 @@
         "debt": "20.7% ",
         "balance": "33191",
         "revenue": "1.43",
-        "expenses": "1.83"
+        "expenses": "1.83",
+        "country": "Telangana"
     },
     "2022-12-31T09:49:25Z": {
         "population": "40.1 million",
@@ -41,6 +44,7 @@
         "debt": "25.29% ",
         "balance": "52167",
         "revenue": "1.93",
-        "expenses": "2.45"
+        "expenses": "2.45",
+        "country": "Telangana"
     }
 }

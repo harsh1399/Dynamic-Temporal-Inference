@@ -12,7 +12,8 @@
         "debt": "$1.438 billion",
         "revenue": "$582 million",
         "expenses": "$602 million",
-        "aid": "$215 million"
+        "aid": "$215 million",
+        "country": "Mongolia"
     },
     "2011-12-31T13:04:48Z": {
         "gdp": "$9.459 billion",
@@ -29,7 +30,8 @@
         "debt": "$1.86 billion",
         "revenue": "$1.38 billion",
         "expenses": "$1.6 billion",
-        "aid": "$185.94 million"
+        "aid": "$185.94 million",
+        "country": "Mongolia"
     },
     "2016-12-31T16:52:10Z": {
         "gdp": "$13.43 billion",
@@ -46,7 +48,8 @@
         "debt": "$1.9 billion",
         "revenue": "$3.44 billion",
         "expenses": "$3.496 billion",
-        "aid": "$185.94 million"
+        "aid": "$185.94 million",
+        "country": "Mongolia"
     },
     "2017-12-31T03:02:57Z": {
         "gdp": "$36.07 billion",
@@ -63,7 +66,8 @@
         "debt": "$1.9 billion",
         "revenue": "$2.994 billion",
         "expenses": "$3.354 billion",
-        "aid": "$185.94 million"
+        "aid": "$185.94 million",
+        "country": "Mongolia"
     },
     "2019-12-31T17:45:34Z": {
         "gdp": "$13.038 billion",
@@ -84,6 +88,7 @@
         "expenses": "3.681 billion",
         "balance": "6.4% ",
         "aid": "$185.94 million",
-        "reserves": "$3.016 billion"
+        "reserves": "$3.016 billion",
+        "country": "Mongolia"
     }
 }

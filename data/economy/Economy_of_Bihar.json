@@ -4,7 +4,8 @@
         "occupations": "55% ",
         "debt": "27.9% ",
         "revenue": "1.11",
-        "expenses": "1.36"
+        "expenses": "1.36",
+        "country": "Bihar"
     },
     "2017-12-31T20:13:54Z": {
         "gdp": "6.32 ",
@@ -12,7 +13,8 @@
         "occupations": "56% ",
         "debt": "18.89% ",
         "revenue": "1.37",
-        "expenses": "1.60"
+        "expenses": "1.60",
+        "country": "Bihar"
     },
     "2018-12-31T07:17:19Z": {
         "gdp": "4.38 ",
@@ -25,7 +27,8 @@
         "debt": " 33.4 %",
         "revenue": "1.372",
         "expenses": "1.601",
-        "aid": "7.9% "
+        "aid": "7.9% ",
+        "country": "Bihar"
     },
     "2019-12-31T00:34:15Z": {
         "gdp": " 5.8 ",
@@ -39,7 +42,8 @@
         "debt": " 33.07 %",
         "revenue": "2.0",
         "expenses": "1.79",
-        "aid": "7.9% "
+        "aid": "7.9% ",
+        "country": "Bihar"
     },
     "2020-12-31T22:09:38Z": {
         "gdp": " 6.86 ",
@@ -54,7 +58,8 @@
         "balance": "2.97% ",
         "revenue": "1.84",
         "expenses": "2.11",
-        "aid": "7.9% "
+        "aid": "7.9% ",
+        "country": "Bihar"
     },
     "2021-12-31T17:41:22Z": {
         "gdp": "7.57 ",
@@ -68,7 +73,8 @@
         "balance": "2.97% ",
         "revenue": "1.84",
         "expenses": "2.11",
-        "aid": "7.9% "
+        "aid": "7.9% ",
+        "country": "Bihar"
     },
     "2022-12-31T14:58:16Z": {
         "gdp": "7.45 ",
@@ -83,7 +89,8 @@
         "balance": "2.97% ",
         "revenue": "1.97",
         "expenses": "2.23",
-        "aid": "7.9% "
+        "aid": "7.9% ",
+        "country": "Bihar"
     },
     "2023-12-31T08:40:02Z": {
         "gdp": "7.45 ",
@@ -98,6 +105,7 @@
         "balance": "2.97% ",
         "revenue": "1.97",
         "expenses": "2.23",
-        "aid": "7.9% "
+        "aid": "7.9% ",
+        "country": "Bihar"
     }
 }

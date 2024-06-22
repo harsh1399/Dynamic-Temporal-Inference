@@ -16,7 +16,8 @@
         "revenue": "$72.55 billion",
         "expenses": "$74.6 billion",
         "aid": "$32 billion",
-        "reserves": "US$30.563 billion"
+        "reserves": "US$30.563 billion",
+        "country": "Colombia"
     },
     "2015-12-31T23:14:07Z": {
         "population": "48.2 million",
@@ -36,7 +37,8 @@
         "revenue": "$114.1 billion",
         "expenses": "$120.2 billion",
         "aid": "$32 billion",
-        "reserves": "US$54 billion"
+        "reserves": "US$54 billion",
+        "country": "Colombia"
     },
     "2017-12-31T00:32:53Z": {
         "population": "49.2 million",
@@ -56,7 +58,8 @@
         "revenue": "$114.1 billion",
         "expenses": "$120.2 billion",
         "aid": "$32 billion",
-        "reserves": "US$54 billion"
+        "reserves": "US$54 billion",
+        "country": "Colombia"
     },
     "2018-12-31T05:34:09Z": {
         "gdp": "$336 billion",
@@ -75,7 +78,8 @@
         "revenue": "$83.35 billion",
         "expenses": "$91.73 billion",
         "aid": "$32 billion",
-        "reserves": "US$54 billion"
+        "reserves": "US$54 billion",
+        "country": "Colombia"
     },
     "2019-12-31T20:55:58Z": {
         "population": " 49,648,685 ",
@@ -98,7 +102,8 @@
         "expenses": "91.73 billion",
         "balance": "2.7% ",
         "aid": "$32 billion",
-        "reserves": "$47.13 billion"
+        "reserves": "$47.13 billion",
+        "country": "Colombia"
     },
     "2020-12-31T09:40:58Z": {
         "population": " 49,648,685 ",
@@ -121,6 +126,7 @@
         "expenses": "91.73 billion",
         "balance": "2.7% ",
         "aid": "$32 billion",
-        "reserves": "$47.13 billion"
+        "reserves": "$47.13 billion",
+        "country": "Colombia"
     }
 }

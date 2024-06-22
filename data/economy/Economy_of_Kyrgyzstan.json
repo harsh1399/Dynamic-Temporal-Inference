@@ -12,7 +12,8 @@
         "revenue": "$1.741 billion",
         "expenses": "$2.223 billion",
         "aid": "$50 million",
-        "reserves": "$2.164 billion"
+        "reserves": "$2.164 billion",
+        "country": "Kyrgyzstan"
     },
     "2018-12-31T13:34:02Z": {
         "gdp": "$7.4 billion",
@@ -27,7 +28,8 @@
         "revenue": "$1.741 billion",
         "expenses": "$2.223 billion",
         "aid": "$50 million",
-        "reserves": "$2.164 billion"
+        "reserves": "$2.164 billion",
+        "country": "Kyrgyzstan"
     },
     "2019-12-31T18:33:39Z": {
         "gdp": "$8.093 billion",
@@ -49,7 +51,8 @@
         "expenses": "2.409 billion",
         "balance": "3.2% ",
         "aid": "$50 million",
-        "reserves": "$2.177 billion"
+        "reserves": "$2.177 billion",
+        "country": "Kyrgyzstan"
     },
     "2020-12-31T10:59:47Z": {
         "population": " 6,315,800 ",
@@ -72,6 +75,7 @@
         "expenses": "2.409 billion",
         "balance": "3.2% ",
         "aid": "$50 million",
-        "reserves": "$2.177 billion"
+        "reserves": "$2.177 billion",
+        "country": "Kyrgyzstan"
     }
 }

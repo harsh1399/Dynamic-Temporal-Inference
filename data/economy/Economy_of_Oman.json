@@ -12,7 +12,8 @@
         "debt": "2.4% of GDP",
         "revenue": "$18.41 billion",
         "expenses": "$14.74 billion",
-        "aid": "$1 million"
+        "aid": "$1 million",
+        "country": "Oman"
     },
     "2017-12-31T21:03:38Z": {
         "growth": "2.9% ",
@@ -26,7 +27,8 @@
         "debt": "2.4% of GDP",
         "revenue": "$18.41 billion",
         "expenses": "$14.74 billion",
-        "aid": "$1 million"
+        "aid": "$1 million",
+        "country": "Oman"
     },
     "2018-12-31T18:05:44Z": {
         "growth": "2.9% ",
@@ -41,7 +43,8 @@
         "debt": "2.4% of GDP",
         "revenue": "$18.41 billion",
         "expenses": "$14.74 billion",
-        "aid": "$1 million"
+        "aid": "$1 million",
+        "country": "Oman"
     },
     "2019-12-31T02:12:24Z": {
         "gdp": "$79.277 billion",
@@ -56,7 +59,8 @@
         "debt": "41.3% of GDP",
         "revenue": "$22.68 billion",
         "expenses": "$32.07 billion",
-        "aid": "$1 million"
+        "aid": "$1 million",
+        "country": "Oman"
     },
     "2020-12-31T07:14:08Z": {
         "gdp": "$79.277 billion",
@@ -73,7 +77,8 @@
         "debt": "$7.27 ",
         "revenue": "$27.02 billion",
         "expenses": "$35.41 billion",
-        "aid": "$1 million"
+        "aid": "$1 million",
+        "country": "Oman"
     },
     "2021-12-31T11:09:40Z": {
         "gdp": "$79.277 billion",
@@ -89,6 +94,7 @@
         "current account": "$10.76 billion",
         "debt": "$7.27 billion",
         "revenue": "$120.02 billion",
-        "expenses": "$139.41 billion"
+        "expenses": "$139.41 billion",
+        "country": "Oman"
     }
 }

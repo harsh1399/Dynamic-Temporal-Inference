@@ -13,7 +13,8 @@
         "debt": "$8 billion",
         "revenue": "$200 million",
         "expenses": "$550 million",
-        "aid": " 60 "
+        "aid": " 60 ",
+        "country": "Afghanistan"
     },
     "2007-12-31T01:37:41Z": {
         "gdp": "$31.9 billion",
@@ -29,7 +30,8 @@
         "debt": "$500 million",
         "revenue": "$269 million",
         "expenses": "$561 million",
-        "aid": " 2002 "
+        "aid": " 2002 ",
+        "country": "Afghanistan"
     },
     "2009-12-31T15:42:04Z": {
         "gdp": "$12.850 billion",
@@ -45,7 +47,8 @@
         "debt": "$1.23 billion",
         "revenue": "$789 million",
         "expenses": "$2.449 billion",
-        "aid": " 2002 "
+        "aid": " 2002 ",
+        "country": "Afghanistan"
     },
     "2010-12-31T04:04:01Z": {
         "gdp": "$14.04 billion",
@@ -61,7 +64,8 @@
         "imports": "$8.550 billion",
         "debt": "$2.7 billion",
         "revenue": "$2.587 billion",
-        "expenses": "$2.86 billion"
+        "expenses": "$2.86 billion",
+        "country": "Afghanistan"
     },
     "2011-12-31T17:12:47Z": {
         "gdp": "$27.36 billion",
@@ -77,7 +81,8 @@
         "imports": "$5.3 billion",
         "debt": "$2.3 billion",
         "revenue": "$2.587 billion",
-        "expenses": "$2.86 billion"
+        "expenses": "$2.86 billion",
+        "country": "Afghanistan"
     },
     "2012-12-31T03:18:55Z": {
         "gdp": "$29.74 billion",
@@ -93,7 +98,8 @@
         "imports": "$9.152 billion",
         "debt": "$1.28 billion",
         "revenue": "$1.58 billion",
-        "expenses": "$3.3 billion"
+        "expenses": "$3.3 billion",
+        "country": "Afghanistan"
     },
     "2014-12-31T12:05:09Z": {
         "gdp": "$33.55 billion",
@@ -109,7 +115,8 @@
         "imports": "$6.39 billion",
         "debt": "$1.28 billion",
         "revenue": "$1.58 billion",
-        "expenses": "$50.000 billion"
+        "expenses": "$50.000 billion",
+        "country": "Afghanistan"
     },
     "2015-12-31T19:53:17Z": {
         "gdp": "$33.55 billion",
@@ -125,7 +132,8 @@
         "imports": "$6.39 billion",
         "debt": "$1.28 billion",
         "revenue": "$1.58 billion",
-        "expenses": "$50.000 billion"
+        "expenses": "$50.000 billion",
+        "country": "Afghanistan"
     },
     "2016-12-31T12:05:57Z": {
         "gdp": "$33.55 billion",
@@ -141,7 +149,8 @@
         "imports": "$6.39 billion",
         "debt": "$1.28 billion",
         "revenue": "$1.58 billion",
-        "expenses": "$50.000 billion"
+        "expenses": "$50.000 billion",
+        "country": "Afghanistan"
     },
     "2017-12-31T02:21:09Z": {
         "gdp": "$19.47 billion",
@@ -157,7 +166,8 @@
         "imports": "$6.232 billion",
         "debt": "$1.28 billion",
         "revenue": "$1.58 billion",
-        "expenses": "$50.000 billion"
+        "expenses": "$50.000 billion",
+        "country": "Afghanistan"
     },
     "2018-12-31T06:43:53Z": {
         "gdp": "$21.06 billion",
@@ -173,7 +183,8 @@
         "imports": "$6.16 billion",
         "debt": "$1.28 billion",
         "revenue": "$1.58 billion",
-        "expenses": "$50.000 billion"
+        "expenses": "$50.000 billion",
+        "country": "Afghanistan"
     },
     "2019-12-31T14:11:42Z": {
         "gdp": "$20.367 billion",
@@ -192,7 +203,8 @@
         "revenue": "2.276 billion",
         "expenses": "5.328 billion",
         "balance": "15.1% ",
-        "reserves": "$7.187 billion"
+        "reserves": "$7.187 billion",
+        "country": "Afghanistan"
     },
     "2020-12-31T07:33:36Z": {
         "population": " 37,172,386 ",
@@ -213,6 +225,7 @@
         "revenue": "2.276 billion",
         "expenses": "5.328 billion",
         "balance": "15.1% ",
-        "reserves": "$7.8 billion"
+        "reserves": "$7.8 billion",
+        "country": "Afghanistan"
     }
 }

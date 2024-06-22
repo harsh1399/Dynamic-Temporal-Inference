@@ -9,7 +9,8 @@
         "debt": "$4.267 billion",
         "revenue": "$25.34 billion",
         "expenses": "$15.47 billion",
-        "aid": "$4.4 million"
+        "aid": "$4.4 million",
+        "country": "Libya"
     },
     "2011-12-31T21:17:13Z": {
         "growth": "10.6% ",
@@ -21,7 +22,8 @@
         "debt": "$4.267 billion",
         "revenue": "$25.34 billion",
         "expenses": "$15.47 billion",
-        "aid": "$4.4 million"
+        "aid": "$4.4 million",
+        "country": "Libya"
     },
     "2012-12-31T04:19:04Z": {
         "gdp": "$80.442 billion",
@@ -35,7 +37,8 @@
         "debt": "$4.267 billion",
         "revenue": "$25.34 billion",
         "expenses": "$15.47 billion",
-        "aid": "$4.4 million"
+        "aid": "$4.4 million",
+        "country": "Libya"
     },
     "2017-12-31T23:49:05Z": {
         "gdp": "$41.50 billion",
@@ -51,7 +54,8 @@
         "debt": "$4.267 billion",
         "revenue": "$41.54 billion",
         "expenses": "$41.87 ",
-        "aid": "$9 million"
+        "aid": "$9 million",
+        "country": "Libya"
     },
     "2018-12-31T15:59:35Z": {
         "gdp": "$70.50 billion",
@@ -67,7 +71,8 @@
         "debt": "$4.267 billion",
         "revenue": "$41.54 billion",
         "expenses": "$41.87 ",
-        "aid": "$9 million"
+        "aid": "$9 million",
+        "country": "Libya"
     },
     "2019-12-31T16:14:31Z": {
         "gdp": "$43.587 billion",
@@ -87,6 +92,7 @@
         "expenses": "23.46 billion",
         "balance": "25.1% ",
         "aid": "$9 million",
-        "reserves": "$74.71 billion"
+        "reserves": "$74.71 billion",
+        "country": "Libya"
     }
 }

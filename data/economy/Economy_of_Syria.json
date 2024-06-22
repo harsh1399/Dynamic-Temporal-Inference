@@ -12,7 +12,8 @@
         "debt": "$8.3 billion",
         "revenue": "$8.7 billion",
         "expenses": "$9.9 billion",
-        "aid": "$180 million"
+        "aid": "$180 million",
+        "country": "Syria"
     },
     "2014-12-31T16:05:26Z": {
         "gdp": "$64.7 billion",
@@ -27,7 +28,8 @@
         "revenue": "$2.38 billion",
         "expenses": "$7.56 billion",
         "aid": "$180 million",
-        "reserves": "$1.89 billion"
+        "reserves": "$1.89 billion",
+        "country": "Syria"
     },
     "2015-12-31T13:59:22Z": {
         "gdp": "$64.7 billion",
@@ -42,7 +44,8 @@
         "revenue": "$2.38 billion",
         "expenses": "$7.56 billion",
         "aid": "$180 million",
-        "reserves": "$1.89 billion"
+        "reserves": "$1.89 billion",
+        "country": "Syria"
     },
     "2017-12-31T00:09:44Z": {
         "gdp": "$64.7 billion",
@@ -57,7 +60,8 @@
         "revenue": "$839.6 million",
         "expenses": "$5.472 billion",
         "aid": "$180 million",
-        "reserves": "$1.428 billion"
+        "reserves": "$1.428 billion",
+        "country": "Syria"
     },
     "2018-12-31T20:03:22Z": {
         "gdp": "$45 billion",
@@ -74,7 +78,8 @@
         "revenue": "$1.033 billion",
         "expenses": "$10 billion",
         "aid": "$180 million",
-        "reserves": "$1.5 billion"
+        "reserves": "$1.5 billion",
+        "country": "Syria"
     },
     "2019-12-31T18:04:36Z": {
         "population": " 16,906,283 ",
@@ -94,7 +99,8 @@
         "revenue": "$1.033 billion",
         "expenses": "$10 billion",
         "aid": "$200 million",
-        "reserves": "$2.0 billion"
+        "reserves": "$2.0 billion",
+        "country": "Syria"
     },
     "2021-12-31T09:38:15Z": {
         "population": " 17,500,658 ",
@@ -113,7 +119,8 @@
         "revenue": "$2.7 billion",
         "expenses": "$2.1 billion",
         "aid": "$7.7 billion",
-        "reserves": "$2.1 billion"
+        "reserves": "$2.1 billion",
+        "country": "Syria"
     },
     "2022-12-31T13:28:34Z": {
         "population": " 18,604,031 ",
@@ -132,6 +139,7 @@
         "revenue": "$2.7 billion",
         "expenses": "$2.1 billion",
         "aid": "$7.7 billion",
-        "reserves": "$2.1 billion"
+        "reserves": "$2.1 billion",
+        "country": "Syria"
     }
 }

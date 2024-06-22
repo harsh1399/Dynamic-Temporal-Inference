@@ -15,7 +15,8 @@
         "revenue": "$237.1 billion",
         "expenses": "$218.6 billion",
         "aid": "$4.1 billion",
-        "reserves": "US$63.019 billion"
+        "reserves": "US$63.019 billion",
+        "country": "Canada"
     },
     "2015-12-31T20:47:11Z": {
         "growth": "0.1% ",
@@ -34,7 +35,8 @@
         "revenue": "$682.5 billion",
         "expenses": "$749.5 billion",
         "aid": "$4.1 billion",
-        "reserves": "$65.82 billion"
+        "reserves": "$65.82 billion",
+        "country": "Canada"
     },
     "2016-12-31T17:16:58Z": {
         "growth": "0.1% ",
@@ -53,7 +55,8 @@
         "revenue": "$682.5 billion",
         "expenses": "$749.5 billion",
         "aid": "$4.1 billion",
-        "reserves": "$65.82 billion"
+        "reserves": "$65.82 billion",
+        "country": "Canada"
     },
     "2017-12-31T08:41:54Z": {
         "gdp": "$1.640 trillion",
@@ -72,7 +75,8 @@
         "debt": "98.8% of GDP",
         "revenue": "$594.7 billion",
         "expenses": "$632.4 billion",
-        "reserves": "$83.1 billion"
+        "reserves": "$83.1 billion",
+        "country": "Canada"
     },
     "2019-12-31T01:59:12Z": {
         "population": " 37,058,856 ",
@@ -93,7 +97,8 @@
         "balance": "1% ",
         "revenue": "649.6 billion",
         "expenses": "665.7 billion",
-        "reserves": "$86.3 billion"
+        "reserves": "$86.3 billion",
+        "country": "Canada"
     },
     "2020-12-31T07:22:35Z": {
         "population": " 37,797,496 ",
@@ -114,7 +119,8 @@
         "balance": "1% ",
         "revenue": "649.6 billion",
         "expenses": "665.7 billion",
-        "reserves": "$86.3 billion"
+        "reserves": "$86.3 billion",
+        "country": "Canada"
     },
     "2021-12-31T03:38:09Z": {
         "population": " 38,246,108 ",
@@ -135,7 +141,8 @@
         "balance": "1% ",
         "revenue": "649.6 billion",
         "expenses": "665.7 billion",
-        "reserves": "$86.3 billion"
+        "reserves": "$86.3 billion",
+        "country": "Canada"
     },
     "2022-12-31T03:26:18Z": {
         "population": " 38,246,108 ",
@@ -156,6 +163,7 @@
         "balance": "1% ",
         "revenue": "649.6 billion",
         "expenses": "665.7 billion",
-        "reserves": "$86.3 billion"
+        "reserves": "$86.3 billion",
+        "country": "Canada"
     }
 }

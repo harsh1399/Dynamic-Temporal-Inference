@@ -14,7 +14,8 @@
         "debt": "20",
         "revenue": "20",
         "expenses": "20",
-        "aid": "$115.4 million"
+        "aid": "$115.4 million",
+        "country": "Guinea-Bissau"
     },
     "2013-12-31T02:17:33Z": {
         "gdp": "$1.963 billion",
@@ -27,7 +28,8 @@
         "revenue": "$129.1 million",
         "expenses": "$153.4 million",
         "credit": "$170.2 million",
-        "reserves": "$168.6 million"
+        "reserves": "$168.6 million",
+        "country": "Guinea-Bissau"
     },
     "2015-12-31T05:53:01Z": {
         "gdp": "$1.963 billion",
@@ -39,6 +41,7 @@
         "revenue": "$129.1 million",
         "expenses": "$153.4 million",
         "aid": "$170.2 million",
-        "reserves": "$168.6 million"
+        "reserves": "$168.6 million",
+        "country": "Guinea-Bissau"
     }
 }

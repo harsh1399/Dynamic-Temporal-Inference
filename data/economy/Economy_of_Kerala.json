@@ -9,7 +9,8 @@
         "balance": "29295 ",
         "debt": "30.1% ",
         "revenue": "1.15",
-        "expenses": "1.44"
+        "expenses": "1.44",
+        "country": "Kerala"
     },
     "2021-12-31T08:17:44Z": {
         "gdp": "9.78 ",
@@ -21,7 +22,8 @@
         "balance": "29295 ",
         "debt": "30.1% ",
         "revenue": "1.15",
-        "expenses": "1.44"
+        "expenses": "1.44",
+        "country": "Kerala"
     },
     "2022-12-31T12:18:55Z": {
         "gdp": "9.99 ",
@@ -33,6 +35,7 @@
         "debt": "37.18% ",
         "balance": "39117 ",
         "revenue": "1.34",
-        "expenses": "1.74"
+        "expenses": "1.74",
+        "country": "Kerala"
     }
 }

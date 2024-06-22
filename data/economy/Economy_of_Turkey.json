@@ -13,7 +13,8 @@
         "debt": "7% of GDP",
         "revenue": "$93.58 billion",
         "expenses": "$115.3 billion",
-        "aid": "$635.8 million"
+        "aid": "$635.8 million",
+        "country": "Turkey"
     },
     "2013-12-31T18:20:15Z": {
         "gdp": "$1.358 trillion",
@@ -32,7 +33,8 @@
         "revenue": "$209 billion",
         "expenses": "$228.3 billion",
         "reserves": "$134.269 billion",
-        "aid": "0.13% of GDP"
+        "aid": "0.13% of GDP",
+        "country": "Turkey"
     },
     "2016-12-31T22:54:26Z": {
         "gdp": "$1.665 trillion",
@@ -51,7 +53,8 @@
         "revenue": "$225 billion",
         "expenses": "$234 billion",
         "reserves": "$135.638 billion",
-        "aid": "0.21% of GDP"
+        "aid": "0.21% of GDP",
+        "country": "Turkey"
     },
     "2017-12-31T14:36:27Z": {
         "gdp": "$2.249 trillion",
@@ -70,7 +73,8 @@
         "revenue": "$225 billion",
         "expenses": "$234 billion",
         "reserves": "$135.638 billion",
-        "aid": "0.79% "
+        "aid": "0.79% ",
+        "country": "Turkey"
     },
     "2018-12-31T12:00:05Z": {
         "gdp": "$909.9 billion",
@@ -89,7 +93,8 @@
         "revenue": "$225 billion",
         "expenses": "$234 billion",
         "reserves": "$135.638 billion",
-        "aid": "0.79% "
+        "aid": "0.79% ",
+        "country": "Turkey"
     },
     "2019-12-31T15:01:36Z": {
         "gdp": "$766.428 billion",
@@ -110,6 +115,7 @@
         "expenses": "185.8 billion",
         "balance": "1.5% ",
         "reserves": "$107.7 billion",
-        "aid": "0.79% "
+        "aid": "0.79% ",
+        "country": "Turkey"
     }
 }

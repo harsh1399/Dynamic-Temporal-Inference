@@ -6,7 +6,8 @@
         "unemployment": "8.6% ",
         "balance": "24240",
         "revenue": "89447",
-        "expenses": "1.32"
+        "expenses": "1.32",
+        "country": "Haryana"
     },
     "2020-12-31T08:57:26Z": {
         "gdp": "8.31 ",
@@ -18,7 +19,8 @@
         "debt": "21.1% ",
         "balance": "15374",
         "revenue": "94070",
-        "expenses": "1.42"
+        "expenses": "1.42",
+        "country": "Haryana"
     },
     "2022-12-31T10:04:15Z": {
         "population": "2.9 ",
@@ -31,7 +33,8 @@
         "debt": "24.2% ",
         "balance": "35012",
         "revenue": "1.07",
-        "expenses": "1.42"
+        "expenses": "1.42",
+        "country": "Haryana"
     },
     "2023-12-31T15:24:47Z": {
         "gdp": "9.1 ",
@@ -43,6 +46,7 @@
         "debt": "24.2% ",
         "balance": "35012",
         "revenue": "1.07",
-        "expenses": "1.42"
+        "expenses": "1.42",
+        "country": "Haryana"
     }
 }

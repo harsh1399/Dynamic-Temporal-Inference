@@ -12,7 +12,8 @@
         "imports": "$387.9 billion",
         "debt": "14.5% of GDP",
         "revenue": "$36.62 billion",
-        "expenses": "$38.89 billion"
+        "expenses": "$38.89 billion",
+        "country": "Hong"
     },
     "2011-12-31T04:20:45Z": {
         "gdp": "$325.755 billion",
@@ -28,7 +29,8 @@
         "debt": "0.001% of GDP",
         "revenue": "$36.62 billion",
         "expenses": "$38.89 billion",
-        "reserves": "US$272.617 billion"
+        "reserves": "US$272.617 billion",
+        "country": "Hong"
     },
     "2013-12-31T16:49:21Z": {
         "gdp": "$325.755 billion",
@@ -44,7 +46,8 @@
         "debt": "0.001% of GDP",
         "revenue": "$36.62 billion",
         "expenses": "$38.89 billion",
-        "reserves": "US$272.617 billion"
+        "reserves": "US$272.617 billion",
+        "country": "Hong"
     },
     "2016-12-31T17:38:05Z": {
         "gdp": "$400.4 billion",
@@ -59,7 +62,8 @@
         "debt": "$1.5 billion",
         "revenue": "$59.33 billion",
         "expenses": "$54.23 billion",
-        "reserves": "US$311.2 billion"
+        "reserves": "US$311.2 billion",
+        "country": "Hong"
     },
     "2017-12-31T05:22:57Z": {
         "gdp": "$444.6 billion",
@@ -74,7 +78,8 @@
         "debt": "$1.5 billion",
         "revenue": "$65 billion",
         "expenses": "$62.9 billion",
-        "reserves": "US$422 billion"
+        "reserves": "US$422 billion",
+        "country": "Hong"
     },
     "2019-12-31T12:01:46Z": {
         "population": " 7,451,000 ",
@@ -95,7 +100,8 @@
         "revenue": "79.34 billion",
         "expenses": "61.64 billion",
         "balance": "5.2% ",
-        "reserves": "US$431 billion"
+        "reserves": "US$431 billion",
+        "country": "Hong"
     },
     "2020-12-31T10:06:34Z": {
         "population": " 7,451,000 ",
@@ -116,6 +122,7 @@
         "revenue": "79.34 billion",
         "expenses": "61.64 billion",
         "balance": "5.2% ",
-        "reserves": "US$431 billion"
+        "reserves": "US$431 billion",
+        "country": "Hong"
     }
 }

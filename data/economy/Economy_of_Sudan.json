@@ -14,7 +14,8 @@
         "debt": "104.5% of GDP",
         "revenue": "$9.046 billion",
         "expenses": "$10.83 billion",
-        "reserves": "$769 million"
+        "reserves": "$769 million",
+        "country": "Sudan"
     },
     "2013-12-31T14:16:24Z": {
         "gdp": "$100 billion",
@@ -31,7 +32,8 @@
         "debt": "104.5% of GDP",
         "revenue": "$9.046 billion",
         "expenses": "$10.83 billion",
-        "reserves": "US$14.300 billion"
+        "reserves": "US$14.300 billion",
+        "country": "Sudan"
     },
     "2016-12-31T01:04:38Z": {
         "gdp": "20",
@@ -48,7 +50,8 @@
         "debt": "104.5% of GDP",
         "revenue": "$9.046 billion",
         "expenses": "$10.83 billion",
-        "reserves": "US$14.300 billion"
+        "reserves": "US$14.300 billion",
+        "country": "Sudan"
     },
     "2018-12-31T21:56:16Z": {
         "gdp": "20",
@@ -65,6 +68,7 @@
         "debt": "104.5% of GDP",
         "revenue": "$8.48 billion",
         "expenses": "$13.36 billion",
-        "reserves": "US$14.300 billion"
+        "reserves": "US$14.300 billion",
+        "country": "Sudan"
     }
 }

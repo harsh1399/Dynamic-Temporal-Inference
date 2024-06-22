@@ -14,7 +14,8 @@
         "debt": "3% of GDP",
         "revenue": "$202.7 billion",
         "expenses": "$301.4 billion",
-        "reserves": "$501 billion"
+        "reserves": "$501 billion",
+        "country": "Russia"
     },
     "2015-12-31T08:43:08Z": {
         "gdp": "$1.235 trillion",
@@ -32,7 +33,8 @@
         "debt": "13.4% of GDP",
         "revenue": "$416.5 billion",
         "expenses": "$408.3 billion",
-        "reserves": "$371.2 billion"
+        "reserves": "$371.2 billion",
+        "country": "Russia"
     },
     "2016-12-31T09:16:57Z": {
         "gdp": "$1.2 trillion",
@@ -50,7 +52,8 @@
         "debt": "14% of GDP",
         "revenue": "$182 billion",
         "expenses": "$213 billion",
-        "reserves": "$0.4 trillion"
+        "reserves": "$0.4 trillion",
+        "country": "Russia"
     },
     "2017-12-31T01:40:21Z": {
         "gdp": "$1.560 trillion",
@@ -68,7 +71,8 @@
         "debt": "10.6% of GDP",
         "revenue": "$182 billion",
         "reserves": "$421 billion",
-        "expenses": "$230.7 billion"
+        "expenses": "$230.7 billion",
+        "country": "Russia"
     },
     "2018-12-31T05:34:28Z": {
         "gdp": "$1.579 trillion",
@@ -86,7 +90,8 @@
         "debt": "10.6% of GDP",
         "revenue": "$221.886 billion",
         "reserves": "$453 billion",
-        "expenses": "$258.420 billion"
+        "expenses": "$258.420 billion",
+        "country": "Russia"
     },
     "2019-12-31T19:14:59Z": {
         "population": " 144,478,050 ",
@@ -108,6 +113,7 @@
         "revenue": "258.6 billion",
         "reserves": "$502.7 billion",
         "expenses": "281.4 billion",
-        "balance": "1.4% "
+        "balance": "1.4% ",
+        "country": "Russia"
     }
 }

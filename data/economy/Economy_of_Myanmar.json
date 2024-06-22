@@ -13,7 +13,8 @@
         "debt": "$11 billion",
         "revenue": "$2.016 billion",
         "expenses": "$4.272 billion",
-        "aid": "$127 million"
+        "aid": "$127 million",
+        "country": "Myanmar"
     },
     "2013-12-31T14:48:00Z": {
         "gdp": "$82.72 billion",
@@ -30,7 +31,8 @@
         "revenue": "$2.016 billion",
         "expenses": "$4.272 billion",
         "aid": "$127 million",
-        "reserves": "$8 billion"
+        "reserves": "$8 billion",
+        "country": "Myanmar"
     },
     "2017-12-31T02:13:57Z": {
         "gdp": "$244.4 billion",
@@ -47,7 +49,8 @@
         "revenue": "$2.016 billion",
         "expenses": "$4.272 billion",
         "aid": "$127 million",
-        "reserves": "$8 billion"
+        "reserves": "$8 billion",
+        "country": "Myanmar"
     },
     "2018-12-31T12:14:38Z": {
         "gdp": "$74 billion",
@@ -64,7 +67,8 @@
         "revenue": "$2.016 billion",
         "expenses": "$4.272 billion",
         "aid": "$127 million",
-        "reserves": "$8 billion"
+        "reserves": "$8 billion",
+        "country": "Myanmar"
     },
     "2020-12-31T07:48:27Z": {
         "population": " 56,590,071 ",
@@ -82,7 +86,8 @@
         "revenue": "16.0 % of GDP",
         "expenses": "20.0 % of GDP",
         "aid": "$127 million",
-        "reserves": "$6.8 billion"
+        "reserves": "$6.8 billion",
+        "country": "Myanmar"
     },
     "2021-12-31T17:02:44Z": {
         "population": " 56,590,071 ",
@@ -101,7 +106,8 @@
         "revenue": "$2.016 billion",
         "expenses": "$4.272 billion",
         "aid": "$127 million",
-        "reserves": "$8 billion"
+        "reserves": "$8 billion",
+        "country": "Myanmar"
     },
     "2022-12-31T10:43:22Z": {
         "population": " 56,590,071 ",
@@ -116,6 +122,7 @@
         "revenue": "$2.016 billion",
         "expenses": "$4.272 billion",
         "aid": "$127 million",
-        "reserves": "$8 billion"
+        "reserves": "$8 billion",
+        "country": "Myanmar"
     }
 }

@@ -15,7 +15,8 @@
         "debt": "67.5% of GDP",
         "revenue": "$4.547 billion",
         "expenses": "$6.124 billion",
-        "reserves": "$3.8 billion"
+        "reserves": "$3.8 billion",
+        "country": "Ghana"
     },
     "2012-12-31T14:39:43Z": {
         "gdp": "$82.571 billion",
@@ -32,7 +33,8 @@
         "imports": "$14.03 billion",
         "debt": "67.5% of GDP",
         "revenue": "$4.547 billion",
-        "expenses": "$6.124 billion"
+        "expenses": "$6.124 billion",
+        "country": "Ghana"
     },
     "2013-12-31T00:33:02Z": {
         "gdp": "$89.509 billion",
@@ -49,7 +51,8 @@
         "imports": "$14.03 billion",
         "debt": "67.5% of GDP",
         "revenue": "$4.547 billion",
-        "expenses": "$6.124 billion"
+        "expenses": "$6.124 billion",
+        "country": "Ghana"
     },
     "2014-12-31T11:51:11Z": {
         "gdp": "$42 billion",
@@ -66,7 +69,8 @@
         "imports": "$14.03 billion",
         "debt": "67.5% of GDP",
         "revenue": "$4.547 billion",
-        "expenses": "$6.124 billion"
+        "expenses": "$6.124 billion",
+        "country": "Ghana"
     },
     "2015-12-31T18:23:14Z": {
         "gdp": "$117 billion",
@@ -81,7 +85,8 @@
         "edbr": " 67",
         "debt": "61% of GDP",
         "revenue": " 9.282 billion",
-        "expenses": " 14.13 billion"
+        "expenses": " 14.13 billion",
+        "country": "Ghana"
     },
     "2016-12-31T19:10:38Z": {
         "gdp": "$116 billion",
@@ -96,7 +101,8 @@
         "edbr": " 67",
         "debt": "61% of GDP",
         "revenue": " 9.282 billion",
-        "expenses": " 14.13 billion"
+        "expenses": " 14.13 billion",
+        "country": "Ghana"
     },
     "2018-12-31T13:39:09Z": {
         "gdp": "$116 billion",
@@ -111,7 +117,8 @@
         "edbr": " 108",
         "debt": "61% of GDP",
         "revenue": " 9.282 billion",
-        "expenses": " 14.13 billion"
+        "expenses": " 14.13 billion",
+        "country": "Ghana"
     },
     "2019-12-31T18:32:09Z": {
         "gdp": "$41.815 billion",
@@ -132,7 +139,8 @@
         "revenue": "9.544 billion",
         "expenses": "12.36 billion",
         "balance": "6% ",
-        "reserves": "$7.555 billion"
+        "reserves": "$7.555 billion",
+        "country": "Ghana"
     },
     "2023-12-31T12:29:58Z": {
         "population": " 33,346,450 ",
@@ -154,6 +162,7 @@
         "revenue": "9.544 billion",
         "expenses": "24.5 % of GDP",
         "balance": "2.0% ",
-        "reserves": "$7.555 billion"
+        "reserves": "$7.555 billion",
+        "country": "Ghana"
     }
 }

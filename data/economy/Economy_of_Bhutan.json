@@ -12,7 +12,8 @@
         "debt": "81.4% of GDP",
         "revenue": "$272 million",
         "expenses": "$350 million",
-        "aid": "$78 million"
+        "aid": "$78 million",
+        "country": "Bhutan"
     },
     "2013-12-31T01:35:10Z": {
         "gdp": "$3.789 billion",
@@ -28,7 +29,8 @@
         "debt": "$713.3 million",
         "revenue": "$272 million",
         "expenses": "$350 million",
-        "aid": "$90.02 million"
+        "aid": "$90.02 million",
+        "country": "Bhutan"
     },
     "2015-12-31T16:36:10Z": {
         "gdp": "$5.867 billion",
@@ -46,7 +48,8 @@
         "debt": "$713.3 million",
         "revenue": "$407.1 million",
         "expenses": "$614 million",
-        "aid": "$90.02 million"
+        "aid": "$90.02 million",
+        "country": "Bhutan"
     },
     "2016-12-31T08:48:57Z": {
         "gdp": "$5.871 billion",
@@ -64,7 +67,8 @@
         "debt": "$713.3 million",
         "revenue": "$407.1 million",
         "expenses": "$614 million",
-        "aid": "$90.02 million"
+        "aid": "$90.02 million",
+        "country": "Bhutan"
     },
     "2017-12-31T00:19:53Z": {
         "gdp": "$2.085 billion",
@@ -81,7 +85,8 @@
         "debt": "$713.3 million",
         "revenue": "$407.1 million",
         "expenses": "$614 million",
-        "aid": "$90.02 million"
+        "aid": "$90.02 million",
+        "country": "Bhutan"
     },
     "2019-12-31T21:25:20Z": {
         "gdp": "$2.627 billion",
@@ -102,7 +107,8 @@
         "expenses": "737.4 million",
         "balance": "3.4% ",
         "aid": "$90.02 million",
-        "reserves": "$1.206 billion"
+        "reserves": "$1.206 billion",
+        "country": "Bhutan"
     },
     "2020-12-31T07:50:29Z": {
         "population": " 754,394 ",
@@ -124,6 +130,7 @@
         "expenses": "737.4 million",
         "balance": "3.4% ",
         "aid": "$90.02 million",
-        "reserves": "$1.206 billion"
+        "reserves": "$1.206 billion",
+        "country": "Bhutan"
     }
 }

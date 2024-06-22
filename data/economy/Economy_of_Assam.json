@@ -5,7 +5,8 @@
         "unemployment": "4% ",
         "debt": "19.31% of GDP",
         "revenue": "73467",
-        "expenses": "85923"
+        "expenses": "85923",
+        "country": "Assam"
     },
     "2018-12-31T21:38:16Z": {
         "gdp": "3.33 ",
@@ -14,7 +15,8 @@
         "unemployment": "4% ",
         "debt": "17.6% ",
         "revenue": "76665",
-        "expenses": "90270"
+        "expenses": "90270",
+        "country": "Assam"
     },
     "2019-12-31T03:43:57Z": {
         "gdp": "3.74 ",
@@ -24,7 +26,8 @@
         "debt": "17.6% ",
         "balance": "11113 ",
         "revenue": "84196",
-        "expenses": "99419"
+        "expenses": "99419",
+        "country": "Assam"
     },
     "2020-12-31T04:38:37Z": {
         "gdp": "3.16 ",
@@ -36,7 +39,8 @@
         "debt": "19.5% ",
         "balance": "9383 ",
         "revenue": "92231",
-        "expenses": "1.03"
+        "expenses": "1.03",
+        "country": "Assam"
     },
     "2021-12-31T10:57:35Z": {
         "gdp": "4.09 ",
@@ -48,6 +52,7 @@
         "debt": "19.5% ",
         "balance": "9383 ",
         "revenue": "92231",
-        "expenses": "1.03"
+        "expenses": "1.03",
+        "country": "Assam"
     }
 }

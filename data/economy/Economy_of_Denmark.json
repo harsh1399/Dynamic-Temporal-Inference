@@ -14,7 +14,8 @@
         "debt": "11% of GDP",
         "revenue": "$175.4 billion",
         "expenses": "$175.6 billion",
-        "reserves": "US$86.560 billion"
+        "reserves": "US$86.560 billion",
+        "country": "Denmark"
     },
     "2014-12-31T20:48:36Z": {
         "gdp": "$313.825 billion",
@@ -31,7 +32,8 @@
         "debt": "45.3% of GDP",
         "revenue": "$175.4 billion",
         "expenses": "$175.6 billion",
-        "reserves": "US$86.560 billion"
+        "reserves": "US$86.560 billion",
+        "country": "Denmark"
     },
     "2016-12-31T01:34:20Z": {
         "gdp": "$0.3 trillion",
@@ -48,7 +50,8 @@
         "debt": "44.5% of GDP",
         "revenue": "$0.2 trillion",
         "expenses": "$0.2 trillion",
-        "reserves": "$0.1 trillion"
+        "reserves": "$0.1 trillion",
+        "country": "Denmark"
     },
     "2017-12-31T04:44:01Z": {
         "gdp": "$0.32 trillion",
@@ -65,7 +68,8 @@
         "debt": "44.5% of GDP",
         "revenue": "$0.2 trillion",
         "expenses": "$0.2 trillion",
-        "reserves": "$0.1 trillion"
+        "reserves": "$0.1 trillion",
+        "country": "Denmark"
     },
     "2018-12-31T12:35:12Z": {
         "gdp": "$0.32 trillion",
@@ -87,7 +91,8 @@
         "expenses": "$168.9 billion",
         "balance": "1.1% of GDP",
         "reserves": "$65 billion",
-        "aid": "0.72% "
+        "aid": "0.72% ",
+        "country": "Denmark"
     },
     "2019-12-31T15:18:37Z": {
         "gdp": "$350.874 billion",
@@ -110,7 +115,8 @@
         "expenses": "168.9 billion",
         "balance": "1.1% ",
         "reserves": "$75.25 billion",
-        "aid": "0.72% "
+        "aid": "0.72% ",
+        "country": "Denmark"
     },
     "2020-12-31T22:15:05Z": {
         "population": " 5,822,763 ",
@@ -134,6 +140,7 @@
         "expenses": "49.6% of GDP",
         "balance": " 84.9 billion",
         "reserves": "$75.25 billion",
-        "aid": "0.72% "
+        "aid": "0.72% ",
+        "country": "Denmark"
     }
 }

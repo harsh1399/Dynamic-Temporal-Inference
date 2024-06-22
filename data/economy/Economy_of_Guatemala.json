@@ -15,7 +15,8 @@
         "expenses": "US$0.00",
         "aid": "$250 million",
         "credit": "US$0.00",
-        "reserves": "US$0.00"
+        "reserves": "US$0.00",
+        "country": "Guatemala"
     },
     "2011-12-31T16:47:42Z": {
         "gdp": "$24.7 billion",
@@ -32,7 +33,8 @@
         "revenue": "US$0.00",
         "expenses": "US$0.00",
         "aid": "$250232 million",
-        "reserves": "US$6.187 billion"
+        "reserves": "US$6.187 billion",
+        "country": "Guatemala"
     },
     "2014-12-31T00:24:46Z": {
         "gdp": "$78.42 billion",
@@ -49,7 +51,8 @@
         "revenue": "US$5.799 billion",
         "expenses": "US$7.091 billion",
         "aid": "$250 million",
-        "reserves": "US$6.187 billion"
+        "reserves": "US$6.187 billion",
+        "country": "Guatemala"
     },
     "2017-12-31T22:54:29Z": {
         "gdp": "$125.9 billion",
@@ -66,7 +69,8 @@
         "revenue": "US$5.799 billion",
         "expenses": "US$7.091 billion",
         "aid": "$250 million",
-        "reserves": "US$6.187 billion"
+        "reserves": "US$6.187 billion",
+        "country": "Guatemala"
     },
     "2020-12-31T10:48:07Z": {
         "gdp": "$78.461 billion",
@@ -84,6 +88,7 @@
         "revenue": "5.799 billion",
         "expenses": "7.091 billion",
         "aid": "$250 million",
-        "reserves": "US$6.187 billion"
+        "reserves": "US$6.187 billion",
+        "country": "Guatemala"
     }
 }

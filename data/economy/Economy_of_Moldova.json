@@ -15,7 +15,8 @@
         "debt": "31.3% of GDP",
         "revenue": "$1.751 billion",
         "expenses": "$2.112 billion",
-        "reserves": "US$1.793 billion"
+        "reserves": "US$1.793 billion",
+        "country": "Moldova"
     },
     "2015-12-31T14:21:36Z": {
         "gdp": "$7.962 billion",
@@ -33,7 +34,8 @@
         "debt": "18.1% of GDP",
         "revenue": "$2.836 billion",
         "expenses": "$2.931 billion",
-        "reserves": "$2.515 billion"
+        "reserves": "$2.515 billion",
+        "country": "Moldova"
     },
     "2019-12-31T08:03:27Z": {
         "gdp": "$11.404 billion",
@@ -54,7 +56,8 @@
         "revenue": "2.886 billion",
         "expenses": "2.947 billion",
         "balance": "0.6% ",
-        "reserves": "$2.908 billion"
+        "reserves": "$2.908 billion",
+        "country": "Moldova"
     },
     "2022-12-31T04:02:52Z": {
         "population": " 2.541 million",
@@ -76,6 +79,7 @@
         "revenue": "2.886 billion",
         "expenses": "2.947 billion",
         "balance": "0.6% ",
-        "reserves": "$2.908 billion"
+        "reserves": "$2.908 billion",
+        "country": "Moldova"
     }
 }

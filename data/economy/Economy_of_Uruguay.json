@@ -15,7 +15,8 @@
         "debt": "58.7% of GDP",
         "revenue": "$8.841 billion",
         "expenses": "$9.666 billion",
-        "reserves": "$7.907 billion"
+        "reserves": "$7.907 billion",
+        "country": "Uruguay"
     },
     "2011-12-31T00:21:52Z": {
         "gdp": "$47.8 billion",
@@ -33,7 +34,8 @@
         "debt": "52.7% of GDP",
         "revenue": "$8.841 billion",
         "expenses": "$9.666 billion",
-        "reserves": "US$7.830 billion"
+        "reserves": "US$7.830 billion",
+        "country": "Uruguay"
     },
     "2017-12-31T02:14:27Z": {
         "population": "3,416,000 ",
@@ -50,7 +52,8 @@
         "debt": "57.2% of GDP",
         "revenue": "$15.937 billion",
         "expenses": "$17.438 billion",
-        "reserves": "$18.320 billion"
+        "reserves": "$18.320 billion",
+        "country": "Uruguay"
     },
     "2018-12-31T20:30:16Z": {
         "population": "3,416,000 ",
@@ -67,7 +70,8 @@
         "debt": "57.2% of GDP",
         "revenue": "$15.937 billion",
         "expenses": "$17.438 billion",
-        "reserves": "$18.320 billion"
+        "reserves": "$18.320 billion",
+        "country": "Uruguay"
     },
     "2019-12-31T00:32:03Z": {
         "population": "3,506,000 ",
@@ -89,7 +93,8 @@
         "revenue": "17.66 billion",
         "expenses": "19.72 billion",
         "balance": "3.5% ",
-        "reserves": "$15.96 billion"
+        "reserves": "$15.96 billion",
+        "country": "Uruguay"
     },
     "2020-12-31T13:00:10Z": {
         "population": " 3,449,299 ",
@@ -111,6 +116,7 @@
         "revenue": "17.66 billion",
         "expenses": "19.72 billion",
         "balance": "3.5% ",
-        "reserves": "$15.96 billion"
+        "reserves": "$15.96 billion",
+        "country": "Uruguay"
     }
 }

@@ -15,7 +15,8 @@
         "debt": "35.4% of GDP",
         "revenue": "$11.41 billion",
         "expenses": "$15.87 billion",
-        "aid": "$0.957 billion"
+        "aid": "$0.957 billion",
+        "country": "Bangladesh"
     },
     "2016-12-31T13:38:30Z": {
         "gdp": "$226.76 billion",
@@ -32,7 +33,8 @@
         "debt": "31.9% of GDP",
         "revenue": "$20.96 billion",
         "expenses": "$30.75 billion",
-        "reserves": "$27.49 billion"
+        "reserves": "$27.49 billion",
+        "country": "Bangladesh"
     },
     "2017-12-31T14:50:16Z": {
         "gdp": "$240 billion",
@@ -49,7 +51,8 @@
         "debt": "31.9% of GDP",
         "revenue": "$33.33 billion",
         "expenses": "$30.75 billion",
-        "reserves": "$33.02 billion"
+        "reserves": "$33.02 billion",
+        "country": "Bangladesh"
     },
     "2018-12-31T18:41:57Z": {
         "gdp": "$286.27 billion",
@@ -66,7 +69,8 @@
         "debt": "31.9% of GDP",
         "revenue": "$24.36 billion",
         "expenses": "$55.31 billion",
-        "reserves": "$33.00 billion"
+        "reserves": "$33.00 billion",
+        "country": "Bangladesh"
     },
     "2019-12-31T18:08:02Z": {
         "population": " 161,356,039 ",
@@ -87,6 +91,7 @@
         "revenue": "$44.69 billion",
         "expenses": "$62.28 billion",
         "balance": "3.2% ",
-        "reserves": "$33 billion"
+        "reserves": "$33 billion",
+        "country": "Bangladesh"
     }
 }

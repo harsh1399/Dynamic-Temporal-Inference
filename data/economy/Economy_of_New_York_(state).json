@@ -7,7 +7,8 @@
         "labor": "9,629,500",
         "unemployment": "5.2% ",
         "revenue": "$63,529.354 million",
-        "expenses": "$54,607 million"
+        "expenses": "$54,607 million",
+        "country": "New"
     },
     "2018-12-31T19:56:15Z": {
         "gdp": "$1.547 trillion",
@@ -17,7 +18,8 @@
         "labor": "9,633,503 ",
         "unemployment": "4.6% ",
         "revenue": "$63,529.354 million",
-        "expenses": "$54,607 million"
+        "expenses": "$54,607 million",
+        "country": "New"
     },
     "2021-12-31T01:13:16Z": {
         "gdp": "$1.751 trillion",
@@ -27,7 +29,8 @@
         "labor": "9,633,503 ",
         "unemployment": "3.7% ",
         "revenue": "$63.5 billion",
-        "expenses": "$54.6 billion"
+        "expenses": "$54.6 billion",
+        "country": "New"
     },
     "2022-12-31T15:09:46Z": {
         "gdp": "$2.0 trillion",
@@ -37,6 +40,7 @@
         "labor": "9,633,503 ",
         "unemployment": "4.7% ",
         "revenue": "$63.5 billion",
-        "expenses": "$54.6 billion"
+        "expenses": "$54.6 billion",
+        "country": "New"
     }
 }

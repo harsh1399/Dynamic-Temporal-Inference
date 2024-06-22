@@ -14,7 +14,8 @@
         "debt": "$4.7 billion",
         "revenue": "US$1.206 billion",
         "expenses": "US$1.483 billion",
-        "reserves": "US$1.761 billion"
+        "reserves": "US$1.761 billion",
+        "country": "Nicaragua"
     },
     "2012-12-31T15:02:04Z": {
         "gdp": "$17.03 billion",
@@ -31,7 +32,8 @@
         "debt": "$4.7 billion",
         "revenue": "US$1.206 billion",
         "expenses": "US$1.483 billion",
-        "reserves": "US$1.761 billion"
+        "reserves": "US$1.761 billion",
+        "country": "Nicaragua"
     },
     "2014-12-31T13:50:19Z": {
         "gdp": "$19.89 billion",
@@ -48,7 +50,8 @@
         "debt": "$5.228 billion",
         "revenue": "$2.619 billion",
         "expenses": "$2.56 billion",
-        "reserves": "$1.9 billion"
+        "reserves": "$1.9 billion",
+        "country": "Nicaragua"
     },
     "2017-12-31T17:30:02Z": {
         "gdp": "$19.89 billion",
@@ -65,7 +68,8 @@
         "debt": " 70.5 ",
         "revenue": "$2.619 billion",
         "expenses": "$2.56 billion",
-        "reserves": "15% "
+        "reserves": "15% ",
+        "country": "Nicaragua"
     },
     "2018-12-31T22:34:02Z": {
         "gdp": "$19.89 billion",
@@ -82,7 +86,8 @@
         "debt": " 70.5 ",
         "revenue": "$2.619 billion",
         "expenses": "$2.56 billion",
-        "reserves": "$1.9 billion"
+        "reserves": "$1.9 billion",
+        "country": "Nicaragua"
     },
     "2019-12-31T19:20:36Z": {
         "gdp": "$13.258 billion",
@@ -103,6 +108,7 @@
         "revenue": "3.871 billion",
         "expenses": "4.15 billion",
         "balance": "2% ",
-        "reserves": "$2.758 billion"
+        "reserves": "$2.758 billion",
+        "country": "Nicaragua"
     }
 }

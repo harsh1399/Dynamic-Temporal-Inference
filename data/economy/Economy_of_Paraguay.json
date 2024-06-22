@@ -15,7 +15,8 @@
         "debt": "24% of GDP",
         "revenue": "$2.323 billion",
         "expenses": "$2.444 billion",
-        "reserves": "$3.8 billion"
+        "reserves": "$3.8 billion",
+        "country": "Paraguay"
     },
     "2011-12-31T00:03:45Z": {
         "gdp": "$28.27 billion",
@@ -33,7 +34,8 @@
         "debt": "24% of GDP",
         "revenue": "$2.323 billion",
         "expenses": "$2.444 billion",
-        "reserves": "$3.8 billion"
+        "reserves": "$3.8 billion",
+        "country": "Paraguay"
     },
     "2017-12-31T02:15:29Z": {
         "gdp": "$58.3 billion",
@@ -49,7 +51,8 @@
         "debt": "18.4% of GDP",
         "revenue": "$5.222 billion",
         "expenses": "$5.651 billion",
-        "reserves": "$7.241 billion"
+        "reserves": "$7.241 billion",
+        "country": "Paraguay"
     },
     "2018-12-31T13:28:40Z": {
         "gdp": "$98.9 billion",
@@ -65,7 +68,8 @@
         "debt": "17.4% of GDP",
         "revenue": "$5.222 billion",
         "expenses": "$5.651 billion",
-        "reserves": "$8.100 billion"
+        "reserves": "$8.100 billion",
+        "country": "Paraguay"
     },
     "2019-12-31T03:01:57Z": {
         "gdp": "$41.604 billion",
@@ -86,6 +90,7 @@
         "revenue": "5.524 billion",
         "expenses": "5.968 billion",
         "balance": "1.1% ",
-        "reserves": "$7.877 billion"
+        "reserves": "$7.877 billion",
+        "country": "Paraguay"
     }
 }

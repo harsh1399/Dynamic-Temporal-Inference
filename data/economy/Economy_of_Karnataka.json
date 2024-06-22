@@ -7,7 +7,8 @@
         "debt": "19.1% ",
         "balance": "42051 ",
         "revenue": "2.30",
-        "expenses": "2.34"
+        "expenses": "2.34",
+        "country": "Karnataka"
     },
     "2020-12-31T04:53:11Z": {
         "gdp": "16.99",
@@ -19,7 +20,8 @@
         "debt": "19.5% ",
         "balance": "46072 ",
         "revenue": "1.80",
-        "expenses": "2.38"
+        "expenses": "2.38",
+        "country": "Karnataka"
     },
     "2021-12-31T13:27:08Z": {
         "gdp": "16.65",
@@ -31,7 +33,8 @@
         "debt": "19.5% ",
         "balance": "46072 ",
         "revenue": "1.80",
-        "expenses": "2.38"
+        "expenses": "2.38",
+        "country": "Karnataka"
     },
     "2022-12-31T08:42:31Z": {
         "gdp": "18.86 ",
@@ -43,6 +46,7 @@
         "debt": "27.49% ",
         "balance": "3.26% ",
         "revenue": "1.90",
-        "expenses": "2.52"
+        "expenses": "2.52",
+        "country": "Karnataka"
     }
 }

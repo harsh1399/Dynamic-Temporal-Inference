@@ -13,7 +13,8 @@
         "revenue": "$555.7 million",
         "expenses": "$793.1 million",
         "aid": "$84 million",
-        "reserves": "$1.002 billion"
+        "reserves": "$1.002 billion",
+        "country": "Guyana"
     },
     "2019-12-31T19:50:47Z": {
         "gdp": "$3.636 billion",
@@ -34,7 +35,8 @@
         "expenses": "$1.164 billion",
         "balance": "4.5% ",
         "aid": "$84 million",
-        "reserves": "$565.4 million"
+        "reserves": "$565.4 million",
+        "country": "Guyana"
     },
     "2020-12-31T10:52:11Z": {
         "gdp": "$3.899 billion",
@@ -54,7 +56,8 @@
         "expenses": "1.164 billion",
         "balance": "4.5% ",
         "aid": "$84 million",
-        "reserves": "$565.4 million"
+        "reserves": "$565.4 million",
+        "country": "Guyana"
     },
     "2022-12-31T01:44:24Z": {
         "growth": "4.1% ",
@@ -76,6 +79,7 @@
         "aid": "$84 million",
         "reserves": "$565.4 million",
         "population": " 746,995 ",
-        "gdp": "$13.543 billion"
+        "gdp": "$13.543 billion",
+        "country": "Guyana"
     }
 }

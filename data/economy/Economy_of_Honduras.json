@@ -16,7 +16,8 @@
         "debt": "35.8% of GDP",
         "revenue": "$3.1 billion",
         "expenses": "$4.2 billion",
-        "reserves": "$2.5 billion"
+        "reserves": "$2.5 billion",
+        "country": "Honduras"
     },
     "2018-12-31T17:58:49Z": {
         "population": "9,038,741 ",
@@ -35,7 +36,8 @@
         "debt": "51.9% of GDP",
         "revenue": "$63.376 billion",
         "expenses": "$78.086 billion",
-        "reserves": "$4362451.4 billion"
+        "reserves": "$4362451.4 billion",
+        "country": "Honduras"
     },
     "2019-12-31T15:26:16Z": {
         "population": "9,038,741 ",
@@ -54,6 +56,7 @@
         "debt": "51.9% of GDP",
         "revenue": "$4.376 billion",
         "expenses": "$5.086 billion",
-        "reserves": "$4.46 billion"
+        "reserves": "$4.46 billion",
+        "country": "Honduras"
     }
 }

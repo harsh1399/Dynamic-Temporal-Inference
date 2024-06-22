@@ -13,7 +13,8 @@
         "debt": "$19.44 billion",
         "revenue": "$35.01 billion",
         "expenses": "$36.73 billion",
-        "aid": "$87.8 million"
+        "aid": "$87.8 million",
+        "country": "Cuba"
     },
     "2016-12-31T15:40:36Z": {
         "gdp": "$72.3 billion",
@@ -29,7 +30,8 @@
         "debt": "$25.21 billion",
         "revenue": "$2.721 billion",
         "expenses": "$2.919 billion",
-        "aid": "$87.8 million"
+        "aid": "$87.8 million",
+        "country": "Cuba"
     },
     "2017-12-31T19:20:32Z": {
         "gdp": "US$87.206 billion",
@@ -45,7 +47,8 @@
         "debt": "$25.21 billion",
         "revenue": "$3 billion",
         "expenses": "$3 billion",
-        "aid": "$88 million"
+        "aid": "$88 million",
+        "country": "Cuba"
     },
     "2018-12-31T01:41:40Z": {
         "unemployment": "4% ",
@@ -54,7 +57,8 @@
         "debt": "$25.21 billion",
         "revenue": "$5 billion",
         "expenses": "$9 billion",
-        "aid": "$88 million"
+        "aid": "$88 million",
+        "country": "Cuba"
     },
     "2019-12-31T21:16:42Z": {
         "population": " 11,338,138 ",
@@ -68,6 +72,7 @@
         "debt": "$25.21 billion",
         "revenue": "$54.52 billion",
         "expenses": "$64.64 billion",
-        "aid": "$88 million"
+        "aid": "$88 million",
+        "country": "Cuba"
     }
 }
