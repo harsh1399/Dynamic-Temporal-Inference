@@ -1,0 +1,81 @@
+{
+    "2010-12-31T19:44:01Z": {
+        "gdp": "$157.9 billion",
+        "growth": "8.1% ",
+        "per capita": "$60,800 ",
+        "inflation": "11.7% ",
+        "labor": "80% ",
+        "unemployment": "2.2% ",
+        "edbr": "61",
+        "exports": "$95.46 billion",
+        "imports": "$26.54 billion",
+        "debt": "$14.21 billion",
+        "revenue": "$113.3 billion",
+        "expenses": "$63.55 billion"
+    },
+    "2011-12-31T13:27:31Z": {
+        "gdp": "$135.062 billion",
+        "growth": "8.1% ",
+        "per capita": "$84,309",
+        "inflation": "11.7% ",
+        "labor": "80% ",
+        "unemployment": "2.2% ",
+        "edbr": "74",
+        "exports": "$95.46 billion",
+        "imports": "$26.54 billion",
+        "debt": "$14.21 billion",
+        "revenue": "$113.3 billion",
+        "expenses": "$63.55 billion"
+    },
+    "2017-12-31T20:52:05Z": {
+        "gdp": "$282.06 billion",
+        "per capita": "$70,700",
+        "inflation": "2.9% ",
+        "unemployment": "3.4% ",
+        "edbr": "67",
+        "exports": "$115.46 billion",
+        "imports": "$36.54 billion",
+        "debt": "$14.22 billion",
+        "revenue": "$113.3 billion",
+        "expenses": "$63.55 billion"
+    },
+    "2018-12-31T13:32:44Z": {
+        "gdp": "$411 billion",
+        "growth": "0.6% ",
+        "per capita": "$69,700 ",
+        "inflation": "2.5% ",
+        "unemployment": "2.1% ",
+        "edbr": "96",
+        "exports": "$54.09 billion",
+        "imports": "$29.36 billion",
+        "debt": "$15.9 billion",
+        "revenue": "$52.87 billion",
+        "expenses": "$61.39 billion"
+    },
+    "2019-12-31T11:06:11Z": {
+        "gdp": "$120 billion",
+        "growth": "3.5% ",
+        "per capita": "$29,040 ",
+        "inflation": "2.5% ",
+        "unemployment": "2.1% ",
+        "edbr": "96",
+        "exports": "$54.09 billion",
+        "imports": "$29.36 billion",
+        "debt": "$15.9 billion",
+        "revenue": "$52.87 billion",
+        "expenses": "$61.39 billion"
+    },
+    "2020-12-31T07:42:11Z": {
+        "gdp": "$108.656 billion",
+        "growth": "1.2% ",
+        "per capita": "$22,252 ",
+        "inflation": "0.579% ",
+        "unemployment": "2.1% ",
+        "edbr": " 83",
+        "exports": "$54.09 billion",
+        "imports": "$29.36 billion",
+        "debt": "$18.40 billion",
+        "revenue": "$41.7 billion",
+        "expenses": "$69.33 billion"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "2017-12-31T15:03:21Z": {
+        "gdp": "$1.405 trillion",
+        "per capita": "$48,821 ",
+        "poverty": "13.6%",
+        "gini": "0.502 ",
+        "labor": "9,629,500",
+        "unemployment": "5.2% ",
+        "revenue": "$63,529.354 million",
+        "expenses": "$54,607 million"
+    },
+    "2018-12-31T19:56:15Z": {
+        "gdp": "$1.547 trillion",
+        "per capita": "$60,991 ",
+        "poverty": "13.6%",
+        "gini": "0.502 ",
+        "labor": "9,633,503 ",
+        "unemployment": "4.6% ",
+        "revenue": "$63,529.354 million",
+        "expenses": "$54,607 million"
+    },
+    "2021-12-31T01:13:16Z": {
+        "gdp": "$1.751 trillion",
+        "per capita": "$90,043 ",
+        "poverty": "13.6%",
+        "gini": "0.502",
+        "labor": "9,633,503 ",
+        "unemployment": "3.7% ",
+        "revenue": "$63.5 billion",
+        "expenses": "$54.6 billion"
+    },
+    "2022-12-31T15:09:46Z": {
+        "gdp": "$2.0 trillion",
+        "per capita": "$102,587 ",
+        "poverty": "13.6%",
+        "gini": "0.502",
+        "labor": "9,633,503 ",
+        "unemployment": "4.7% ",
+        "revenue": "$63.5 billion",
+        "expenses": "$54.6 billion"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "2012-12-31T22:32:50Z": {
+        "gdp": "$4.037 billion",
+        "growth": "8.7% ",
+        "per capita": "$700 ",
+        "inflation": "20% ",
+        "poverty": "50% ",
+        "edbr": "182",
+        "labor": "1.935 million",
+        "exports": "$415.4 million",
+        "imports": "$899.9 million",
+        "debt": "118.5% of GDP",
+        "revenue": "$715.4 million",
+        "expenses": "$1.021 billion",
+        "reserves": "$114.8 million"
+    },
+    "2017-12-31T01:00:48Z": {
+        "gdp": "$3.881 billion",
+        "growth": "7.53% ",
+        "per capita": "$593 ",
+        "inflation": "17% ",
+        "poverty": "50% ",
+        "edbr": "189",
+        "labor": "1.935 million",
+        "exports": "$304.5 million",
+        "imports": "$939.7 million",
+        "debt": "118% of GDP",
+        "revenue": "$838.8 million",
+        "expenses": "$1.19 billion",
+        "reserves": "$171.2 million"
+    },
+    "2019-12-31T00:38:11Z": {
+        "gdp": "$2.007 billion",
+        "growth": "7.6% ",
+        "per capita": "$332 ",
+        "inflation": "14.401% ",
+        "poverty": "50% ",
+        "edbr": " 189",
+        "labor": "2.71 million",
+        "exports": "$635.7 million",
+        "imports": "$1.127 billion",
+        "debt": "118% of GDP",
+        "revenue": "$838.8 million",
+        "expenses": "$1.19 billion",
+        "reserves": "$171.2 million"
+    }
+}

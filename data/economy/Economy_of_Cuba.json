@@ -1,0 +1,73 @@
+{
+    "2013-12-31T04:03:15Z": {
+        "gdp": "$57.49 billion",
+        "growth": "2.7% ",
+        "per capita": "$9,900 ",
+        "inflation": "1.5% ",
+        "poverty": "1.5% ",
+        "labor": "5.159 million",
+        "occupations": "20%",
+        "unemployment": "1.7% ",
+        "exports": "$2.458 billion",
+        "imports": "$8.963 billion",
+        "debt": "$19.44 billion",
+        "revenue": "$35.01 billion",
+        "expenses": "$36.73 billion",
+        "aid": "$87.8 million"
+    },
+    "2016-12-31T15:40:36Z": {
+        "gdp": "$72.3 billion",
+        "growth": "4.7% ",
+        "per capita": "$10,200 ",
+        "inflation": "4.4% ",
+        "poverty": "1.5% ",
+        "labor": "5.111 million",
+        "occupations": "18%",
+        "unemployment": "3% ",
+        "exports": "$4.41 billion",
+        "imports": "$15.24 billion",
+        "debt": "$25.21 billion",
+        "revenue": "$2.721 billion",
+        "expenses": "$2.919 billion",
+        "aid": "$87.8 million"
+    },
+    "2017-12-31T19:20:32Z": {
+        "gdp": "US$87.206 billion",
+        "growth": "0.9 %",
+        "per capita": "US$7,657 ",
+        "inflation": "4.4% ",
+        "poverty": "5% ",
+        "labor": "5.1 million",
+        "occupations": "18%",
+        "unemployment": "90% ",
+        "exports": "$4.41 billion",
+        "imports": "$15.2 billion",
+        "debt": "$25.21 billion",
+        "revenue": "$3 billion",
+        "expenses": "$3 billion",
+        "aid": "$88 million"
+    },
+    "2018-12-31T01:41:40Z": {
+        "unemployment": "4% ",
+        "exports": "$4.41 billion",
+        "imports": "$15.2 billion",
+        "debt": "$25.21 billion",
+        "revenue": "$5 billion",
+        "expenses": "$9 billion",
+        "aid": "$88 million"
+    },
+    "2019-12-31T21:16:42Z": {
+        "population": " 11,338,138 ",
+        "gdp": "$96.851 billion",
+        "per capita": "$8,541 ",
+        "hdi": " 0.777 ",
+        "labor": " 5,088,527 ",
+        "unemployment": "2.6% ",
+        "exports": "$4.41 billion",
+        "imports": "$15.2",
+        "debt": "$25.21 billion",
+        "revenue": "$54.52 billion",
+        "expenses": "$64.64 billion",
+        "aid": "$88 million"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "2010-12-31T19:49:00Z": {
+        "gdp": "$1.008 billion",
+        "growth": "2.6% ",
+        "per capita": "$700 ",
+        "inflation": "4% ",
+        "poverty": "20",
+        "edbr": "181",
+        "labor": "480,000 ",
+        "occupations": "20",
+        "unemployment": "19",
+        "exports": "$54 million",
+        "imports": "$104 million",
+        "debt": "20",
+        "revenue": "20",
+        "expenses": "20",
+        "aid": "$115.4 million"
+    },
+    "2013-12-31T02:17:33Z": {
+        "gdp": "$1.963 billion",
+        "growth": "1.5% ",
+        "per capita": "$1,200 ",
+        "inflation": "2.4% ",
+        "edbr": "176",
+        "labor": "632,700 ",
+        "debt": "$1.095 billion",
+        "revenue": "$129.1 million",
+        "expenses": "$153.4 million",
+        "credit": "$170.2 million",
+        "reserves": "$168.6 million"
+    },
+    "2015-12-31T05:53:01Z": {
+        "gdp": "$1.963 billion",
+        "growth": "1.5% ",
+        "per capita": "$1,200 ",
+        "inflation": "2.4% ",
+        "edbr": "176",
+        "labor": "632,700 ",
+        "revenue": "$129.1 million",
+        "expenses": "$153.4 million",
+        "aid": "$170.2 million",
+        "reserves": "$168.6 million"
+    }
+}

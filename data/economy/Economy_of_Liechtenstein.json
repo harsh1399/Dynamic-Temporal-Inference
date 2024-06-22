@@ -1,0 +1,61 @@
+{
+    "2011-12-31T06:40:25Z": {
+        "gdp": "$5.101 ",
+        "growth": "3.8% ",
+        "per capita": "$147,200 ",
+        "inflation": "0.7% ",
+        "labor": "35,440 ",
+        "occupations": "8%",
+        "unemployment": "1.5% ",
+        "exports": "$2.9 billion",
+        "imports": "$917.3 million",
+        "revenue": "$943 million",
+        "expenses": "$820 million"
+    },
+    "2014-12-31T00:05:11Z": {
+        "gdp": "$3.2 billion",
+        "growth": "0.5% ",
+        "per capita": "$89,400 ",
+        "inflation": "0.2% ",
+        "labor": "51% ",
+        "occupations": "0.8%",
+        "unemployment": "2.5% ",
+        "revenue": "$1.29 billion",
+        "expenses": "$1.372 billion"
+    },
+    "2015-12-31T20:59:10Z": {
+        "gdp": "$3.2 billion",
+        "growth": "0.5% ",
+        "per capita": "$89,400 ",
+        "inflation": "0.2% ",
+        "labor": "51% ",
+        "occupations": "0.8%",
+        "unemployment": "2.5% ",
+        "revenue": "$1.29 billion",
+        "expenses": "$1.372 billion"
+    },
+    "2019-12-31T19:25:15Z": {
+        "gdp": "$4.978 billion",
+        "growth": "1.8% ",
+        "per capita": "$141,100 ",
+        "inflation": "0.4% ",
+        "labor": "51% ",
+        "occupations": "0.8%",
+        "unemployment": "1.8% ",
+        "revenue": "$1.29 billion",
+        "expenses": "$1.372 billion"
+    },
+    "2020-12-31T16:32:10Z": {
+        "population": " 38,378 ",
+        "gdp": "$6.215 billion",
+        "growth": "1.8% ",
+        "per capita": "$165,028 ",
+        "inflation": "0.4% ",
+        "hdi": " 0.917 ",
+        "labor": "51% ",
+        "occupations": "0.8%",
+        "unemployment": "1.8% ",
+        "revenue": "$1.29 billion",
+        "expenses": "$1.372 billion"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "2011-12-31T23:52:46Z": {
+        "gdp": "$83.29 billion",
+        "growth": "19.40% ",
+        "per capita": "$101,000 ",
+        "inflation": "15.2% ",
+        "edbr": "50",
+        "labor": "1.124 million",
+        "unemployment": "0.6% ",
+        "exports": "$62.44 billion",
+        "imports": "$24.96 billion",
+        "debt": "6% of GDP",
+        "revenue": "$40.36 billion",
+        "expenses": "$28.08 billion"
+    },
+    "2017-12-31T16:34:45Z": {
+        "gdp": "$171 billion",
+        "growth": "3.8 ",
+        "per capita": "$108,786 ",
+        "inflation": "1.6% ",
+        "poverty": "0%",
+        "edbr": "83",
+        "labor": " 1.691 million",
+        "unemployment": "0.4% ",
+        "debt": "55.6% of GDP",
+        "revenue": "$41.71 billion",
+        "expenses": "$53.95 billion"
+    },
+    "2018-12-31T18:36:12Z": {
+        "gdp": "$183.807billion",
+        "growth": "3.6% ",
+        "per capita": "$108,786 ",
+        "inflation": "0.9% ",
+        "poverty": "0%",
+        "edbr": "83",
+        "labor": " 1.953 million",
+        "unemployment": "0.6% ",
+        "debt": "56.8% of GDP",
+        "revenue": "$72.35 billion",
+        "expenses": "$55.81 billion"
+    },
+    "2019-12-31T10:23:54Z": {
+        "gdp": "$366.622 billion",
+        "growth": "3.6% ",
+        "per capita": "$108,786 ",
+        "inflation": "0.9% ",
+        "poverty": "0%",
+        "edbr": " 83",
+        "labor": " 1.953 million",
+        "unemployment": "0.6% ",
+        "debt": "56.8% of GDP",
+        "revenue": "$95.35 billion",
+        "expenses": "$55.81 billion"
+    },
+    "2020-12-31T01:52:33Z": {
+        "population": " 2,781,677 ",
+        "gdp": "$191.849 billion",
+        "growth": "1.6% ",
+        "per capita": "$69,688 ",
+        "inflation": "2.2% ",
+        "poverty": "0%",
+        "hdi": " 0.848 ",
+        "edbr": " 77",
+        "labor": " 2,129,330 ",
+        "unemployment": "0.6% ",
+        "debt": "56.8% of GDP",
+        "revenue": "$95.35 billion",
+        "expenses": "$55.81 billion"
+    }
+}

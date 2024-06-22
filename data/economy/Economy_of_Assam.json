@@ -1,0 +1,53 @@
+{
+    "2017-12-31T06:12:24Z": {
+        "gdp": "2.58 ",
+        "growth": "15% ",
+        "unemployment": "4% ",
+        "debt": "19.31% of GDP",
+        "revenue": "73467",
+        "expenses": "85923"
+    },
+    "2018-12-31T21:38:16Z": {
+        "gdp": "3.33 ",
+        "growth": "15% ",
+        "per capita": "54056 ",
+        "unemployment": "4% ",
+        "debt": "17.6% ",
+        "revenue": "76665",
+        "expenses": "90270"
+    },
+    "2019-12-31T03:43:57Z": {
+        "gdp": "3.74 ",
+        "growth": "12.4% ",
+        "per capita": "82203 ",
+        "unemployment": "4% ",
+        "debt": "17.6% ",
+        "balance": "11113 ",
+        "revenue": "84196",
+        "expenses": "99419"
+    },
+    "2020-12-31T04:38:37Z": {
+        "gdp": "3.16 ",
+        "growth": "8.5% ",
+        "per capita": "82837 ",
+        "poverty": "31.98% ",
+        "hdi": " 0.614 ",
+        "unemployment": "4.0% ",
+        "debt": "19.5% ",
+        "balance": "9383 ",
+        "revenue": "92231",
+        "expenses": "1.03"
+    },
+    "2021-12-31T10:57:35Z": {
+        "gdp": "4.09 ",
+        "growth": "8.5% ",
+        "per capita": "119155 ",
+        "poverty": "31.98% ",
+        "hdi": " 0.614 ",
+        "unemployment": "4.0% ",
+        "debt": "19.5% ",
+        "balance": "9383 ",
+        "revenue": "92231",
+        "expenses": "1.03"
+    }
+}

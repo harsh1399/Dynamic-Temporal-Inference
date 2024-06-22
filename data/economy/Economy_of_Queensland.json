@@ -1,0 +1,29 @@
+{
+    "2010-12-31T04:33:43Z": {
+        "gdp": "$243.8 billion",
+        "growth": "0.8% ",
+        "inflation": "3.7% ",
+        "labor": "2,226,000 ",
+        "unemployment": "4.4% ",
+        "exports": "$65.5 billion",
+        "imports": "$41.7 billion"
+    },
+    "2012-12-31T15:02:15Z": {
+        "gdp": "$243.8 billion",
+        "growth": "0.2% ",
+        "inflation": "3.3% ",
+        "labor": "2,313,800 ",
+        "unemployment": "5.5% ",
+        "exports": "$49.2 billion",
+        "imports": "$41.7 billion"
+    },
+    "2015-12-31T05:17:40Z": {
+        "gdp": "$283.6 billion",
+        "growth": "3.5% ",
+        "inflation": "3.3% ",
+        "labor": "2,313,800 ",
+        "unemployment": "5.6% ",
+        "exports": "$49.2 billion",
+        "imports": "$41.7 billion"
+    }
+}

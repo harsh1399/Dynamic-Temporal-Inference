@@ -1,0 +1,46 @@
+{
+    "2011-12-31T21:26:47Z": {
+        "gdp": "$528 billion",
+        "per capita": "$32,965 "
+    },
+    "2016-12-31T18:15:49Z": {
+        "gdp": "$745,875 million",
+        "per capita": "$46,980 ",
+        "poverty": "12.2%",
+        "gini": "0.469 ",
+        "labor": "6,488,200 ",
+        "unemployment": "6.0% ",
+        "revenue": "$29,761.862 million",
+        "expenses": "$19,831 million"
+    },
+    "2018-12-31T15:26:31Z": {
+        "gdp": "$791,608 million",
+        "per capita": "$51,817 ",
+        "poverty": "12.2%",
+        "gini": "0.469",
+        "labor": "6,488,200 ",
+        "unemployment": "6.6% ",
+        "revenue": "$29,761.862 million",
+        "expenses": "$19,831 million"
+    },
+    "2019-12-31T15:30:49Z": {
+        "gdp": "$865.310 billion",
+        "per capita": "$67,915 ",
+        "poverty": "12.2%",
+        "gini": "0.469",
+        "labor": "6,577,567 ",
+        "unemployment": "3.8% ",
+        "revenue": "$29.762 billion",
+        "expenses": "$19.831 billion"
+    },
+    "2022-12-31T16:31:59Z": {
+        "gdp": "$945.674 billion",
+        "per capita": "$74,630 ",
+        "poverty": "11.5%",
+        "gini": "0.469",
+        "labor": "6,577,567 ",
+        "unemployment": "4.5% ",
+        "revenue": "$29.762 billion",
+        "expenses": "$19.831 billion"
+    }
+}

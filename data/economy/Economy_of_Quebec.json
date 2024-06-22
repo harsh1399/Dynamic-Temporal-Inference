@@ -1,0 +1,42 @@
+{
+    "2009-12-31T06:20:31Z": {
+        "gdp": "284.866 billion",
+        "per capita": "32,051 ",
+        "inflation": "2.1 %",
+        "unemployment": "7.2 %",
+        "exports": "147.6 billion",
+        "imports": "167.0 billion"
+    },
+    "2011-12-31T18:50:38Z": {
+        "gdp": "$303.7 billion",
+        "per capita": "$32,051 ",
+        "inflation": "2.1 %",
+        "unemployment": "7.2 %",
+        "exports": "$147.6 billion",
+        "imports": "$167.0 billion"
+    },
+    "2018-12-31T12:20:14Z": {
+        "gdp": "US$ 358.0 billion",
+        "per capita": "US$ 44,286 ",
+        "poverty": "6.2%",
+        "unemployment": "7.8 %",
+        "exports": "$147.6 billion",
+        "imports": "$167.0 billion"
+    },
+    "2021-12-31T04:59:39Z": {
+        "gdp": "$ 365.6 billion",
+        "per capita": "$ 52,384 ",
+        "poverty": "6.2%",
+        "unemployment": "7.8 %",
+        "exports": "$147.6 billion",
+        "imports": "$167.0 billion"
+    },
+    "2022-12-31T18:36:43Z": {
+        "gdp": "$ 365.6 billion",
+        "per capita": "$ 52,384 ",
+        "poverty": "6.2%",
+        "unemployment": "4.7 %",
+        "exports": "$147.6 billion",
+        "imports": "$167.0 billion"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "2010-12-31T16:31:13Z": {
+        "gdp": "$1.532 billion",
+        "growth": "7.5% ",
+        "per capita": "$500 ",
+        "inflation": "11.2% ",
+        "edbr": "149",
+        "occupations": "70%",
+        "unemployment": "85% ",
+        "exports": "$1.197 billion",
+        "imports": "$7.143 billion",
+        "debt": "$3.2 billion"
+    },
+    "2011-12-31T02:40:38Z": {
+        "gdp": "$977 million",
+        "growth": "7.3% ",
+        "per capita": "$227 ",
+        "inflation": "7.4% ",
+        "edbr": "155",
+        "occupations": "70%",
+        "unemployment": "80% ",
+        "exports": "$1.197 billion",
+        "imports": "$7.143 billion",
+        "debt": "45% of GDP",
+        "revenue": "$234.9 million",
+        "expenses": "$312.1 million"
+    },
+    "2014-12-31T14:44:09Z": {
+        "gdp": "$2.719 billion",
+        "growth": "8.3% ",
+        "per capita": "$700 ",
+        "inflation": "6.9% ",
+        "poverty": "80% ",
+        "labor": "1.372 million",
+        "edbr": "151",
+        "occupations": "70% ",
+        "unemployment": "3.7% ",
+        "revenue": "$481.5 million",
+        "expenses": "$522.3 million"
+    },
+    "2018-12-31T10:18:17Z": {
+        "gdp": "$2.719 billion",
+        "growth": "0.0% ",
+        "per capita": "$813 ",
+        "inflation": "6.9% ",
+        "poverty": "51% ",
+        "labor": "1.372 million",
+        "edbr": "174",
+        "occupations": "70% ",
+        "unemployment": "3.7% ",
+        "revenue": "$481.5 million",
+        "expenses": "$522.3 million"
+    },
+    "2020-12-31T12:59:50Z": {
+        "gdp": "$3.248 billion",
+        "growth": "2.5% ",
+        "per capita": "$728 ",
+        "inflation": "6.9% ",
+        "poverty": "51% ",
+        "hdi": " 0.465 ",
+        "labor": "1.372 million",
+        "edbr": " 175",
+        "occupations": "70% ",
+        "unemployment": "2.8% ",
+        "revenue": "$481.5 million",
+        "expenses": "$522.3 million"
+    }
+}

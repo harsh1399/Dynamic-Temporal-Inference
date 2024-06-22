@@ -1,0 +1,40 @@
+{
+    "2013-12-31T01:40:24Z": {
+        "gdp": "$1.662 billion",
+        "growth": "4.3% ",
+        "per capita": "$41,900 ",
+        "inflation": "3.5% ",
+        "labor": "22,660 ",
+        "occupations": "0.1%",
+        "unemployment": "3.1% ",
+        "exports": "$4.628 billion",
+        "imports": "$3.744 billion",
+        "revenue": "$690.6 million",
+        "expenses": "$652.9 million"
+    },
+    "2017-12-31T14:52:01Z": {
+        "gdp": "$1.665 billion",
+        "growth": "0.9% ",
+        "per capita": "$39,200 ",
+        "inflation": "2.5%",
+        "labor": "21830 ",
+        "occupations": "0.1%",
+        "unemployment": "2% ",
+        "edbr": "79",
+        "revenue": "$667.7 million",
+        "expenses": "$694.7 million"
+    },
+    "2020-12-31T14:46:27Z": {
+        "population": " 34,735 ",
+        "gdp": "$1.638 billion",
+        "growth": "2.5% ",
+        "per capita": "$48,948 ",
+        "inflation": "1.5% ",
+        "labor": "23,095 ",
+        "occupations": "0.2%",
+        "unemployment": "5.6% ",
+        "edbr": " 92",
+        "current account": "73.710 million",
+        "debt": " 1.276 billion"
+    }
+}

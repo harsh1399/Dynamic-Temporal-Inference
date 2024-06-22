@@ -1,0 +1,57 @@
+{
+    "2015-12-31T06:35:51Z": {
+        "population": "41,974,218 ",
+        "gdp": "310810.24 ",
+        "per capita": "60800",
+        "growth": "8.78% ",
+        "gini": "0.31 ",
+        "revenue": "83181.16 ",
+        "expenses": "84487.77 "
+    },
+    "2019-12-31T15:12:44Z": {
+        "population": "41,974,218 ",
+        "gdp": "4.43 ",
+        "growth": "6.6% ",
+        "per capita": "92727 ",
+        "gini": "0.31 ",
+        "unemployment": "3.8% ",
+        "debt": "20.7% ",
+        "revenue": "1",
+        "expenses": "1.20"
+    },
+    "2020-12-31T07:46:40Z": {
+        "population": "41,974,218 ",
+        "gdp": "5.34 ",
+        "growth": "6.2% ",
+        "per capita": "116614 ",
+        "gini": "0.31 ",
+        "unemployment": "7.1% ",
+        "balance": "17878 ",
+        "debt": "19% ",
+        "revenue": "1.24",
+        "expenses": "1.5"
+    },
+    "2022-12-31T07:49:51Z": {
+        "population": "41,974,218 ",
+        "gdp": "5.86 ",
+        "growth": "10.1% ",
+        "per capita": "127383 ",
+        "gini": "0.31 ",
+        "unemployment": "1.7% ",
+        "balance": "17878 ",
+        "debt": "19% ",
+        "revenue": "1.24",
+        "expenses": "1.5"
+    },
+    "2023-12-31T04:08:45Z": {
+        "population": "41,974,218 ",
+        "growth": "7.8% ",
+        "per capita": "150676 ",
+        "gini": "0.31 ",
+        "unemployment": "1.7% ",
+        "balance": "17878 ",
+        "debt": "12.7% ",
+        "revenue": "1.635",
+        "expenses": "2"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "2018-12-31T18:29:50Z": {
+        "gdp": "10.49 ",
+        "growth": "8% ",
+        "per capita": "108372",
+        "current account": "2.2% ",
+        "debt": "3.66",
+        "revenue": "1.49",
+        "expenses": "1.96"
+    },
+    "2019-12-31T18:13:40Z": {
+        "gdp": "US$190 billion",
+        "growth": "12.58 ",
+        "per capita": "143955",
+        "unemployment": "4.6% ",
+        "debt": "3.60",
+        "balance": "27254 ",
+        "revenue": "1.65",
+        "expenses": "2.38"
+    },
+    "2020-12-31T15:19:10Z": {
+        "gdp": "12.54 ",
+        "growth": "14.6% ",
+        "per capita": "115748 ",
+        "poverty": "19.98% ",
+        "hdi": " 0.641 ",
+        "unemployment": "11.2% ",
+        "debt": "32.9% ",
+        "balance": "31483 ",
+        "revenue": "1.79",
+        "expenses": "2.56"
+    },
+    "2021-12-31T04:03:50Z": {
+        "gdp": " 1354518 ",
+        "growth": "8% ",
+        "per capita": "115348 ",
+        "poverty": "19.98% ",
+        "hdi": "0.641",
+        "unemployment": "3.9%",
+        "debt": "35.4% ",
+        "balance": "4.00%",
+        "revenue": "302494 ",
+        "expenses": "308727 "
+    },
+    "2022-12-31T15:38:42Z": {
+        "population": " 91,347,736 ",
+        "gdp": "15.36 ",
+        "growth": "12.8% ",
+        "per capita": "168932 ",
+        "poverty": "14.98% ",
+        "hdi": " 0.656 ",
+        "unemployment": "3.9% ",
+        "exports": "$12.36 billion",
+        "debt": "34.23% ",
+        "balance": "62397 ",
+        "revenue": "2.26 ",
+        "expenses": "2.61 "
+    },
+    "2023-12-31T06:04:54Z": {
+        "population": " 91,347,736 ",
+        "gdp": "17.19 ",
+        "growth": "10.6% ",
+        "per capita": " 164971 ",
+        "poverty": "14.98% ",
+        "hdi": " 0.656 ",
+        "unemployment": "3.9% ",
+        "exports": "$13.9 billion",
+        "debt": "34.23% ",
+        "balance": "65839 ",
+        "revenue": "2.13 ",
+        "expenses": "2.79 "
+    }
+}

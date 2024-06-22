@@ -1,0 +1,39 @@
+{
+    "2010-12-31T05:50:39Z": {
+        "gdp": "$14.266 trillion",
+        "growth": "3.0% ",
+        "per capita": "$46,442 ",
+        "inflation": "1.1% ",
+        "poverty": "14.3% ",
+        "gini": "45 ",
+        "labor": "154.5 million",
+        "occupations": "0.6%",
+        "edbr": "5",
+        "unemployment": "9.6% ",
+        "exports": "$1.057 trillion",
+        "imports": "$1.558 trillion",
+        "debt": "$13.2 trillion",
+        "revenue": "$2.106 trillion",
+        "expenses": "$3.515 trillion",
+        "aid": "0.2% of GDP"
+    },
+    "2011-12-31T02:13:55Z": {
+        "gdp": "$14.526 trillion",
+        "growth": "3.0% ",
+        "per capita": "$46,844 ",
+        "inflation": "3.9% ",
+        "poverty": "15.1% ",
+        "gini": "45 ",
+        "labor": "153.9 million",
+        "occupations": "0.7% ",
+        "edbr": "4",
+        "unemployment": "8.6% ",
+        "exports": "$1.289 trillion",
+        "imports": "$1.935 trillion",
+        "debt": "99.7% of GDP",
+        "revenue": "$2.302 trillion",
+        "expenses": "$3.601 trillion",
+        "reserves": "US$140.607 billion",
+        "aid": "0.2% of GDP"
+    }
+}

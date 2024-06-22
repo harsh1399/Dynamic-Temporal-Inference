@@ -1,0 +1,32 @@
+{
+    "2013-12-31T02:36:06Z": {
+        "gdp": "$8.412 billion",
+        "growth": "19.8% ",
+        "per capita": "$1,400 ",
+        "inflation": "12.9% ",
+        "poverty": "70.2% ",
+        "labor": "2.207 million",
+        "gini": "62.9 ",
+        "exports": "$1.104 billion",
+        "imports": "$1.509 billion",
+        "debt": "34.6% of GDP",
+        "revenue": "$510.2 million",
+        "expenses": "$728.5 million"
+    },
+    "2020-12-31T14:58:29Z": {
+        "gdp": "$4.082 billion",
+        "growth": "3.8% ",
+        "per capita": "$539 ",
+        "inflation": "16.862% ",
+        "poverty": "70.2% ",
+        "hdi": " 0.438 ",
+        "labor": "2.207 million",
+        "gini": "62.9 ",
+        "edbr": " 163",
+        "exports": "$1.104 billion",
+        "imports": "$1.509 billion",
+        "debt": "34.6% of GDP",
+        "revenue": "$510.2 million",
+        "expenses": "$728.5 million"
+    }
+}

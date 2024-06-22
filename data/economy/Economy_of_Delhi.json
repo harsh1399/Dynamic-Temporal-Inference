@@ -1,0 +1,28 @@
+{
+    "2017-12-31T17:58:25Z": {
+        "gdp": "6.22 ",
+        "growth": "13%",
+        "per capita": "227755 ",
+        "unemployment": "4.63% ",
+        "revenue": "42616",
+        "expenses": "48000"
+    },
+    "2021-12-31T05:20:41Z": {
+        "gdp": "210 billion",
+        "growth": "11.5% ",
+        "per capita": "402000 ",
+        "unemployment": "4.6% ",
+        "balance": "5902 ",
+        "revenue": "50767",
+        "expenses": "60000"
+    },
+    "2022-12-31T10:09:06Z": {
+        "population": "1.9 ",
+        "growth": "17.65%",
+        "per capita": "486000 ",
+        "unemployment": "6.6% ",
+        "balance": "9194 ",
+        "revenue": "61891",
+        "expenses": "71085"
+    }
+}

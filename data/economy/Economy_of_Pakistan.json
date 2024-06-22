@@ -1,0 +1,51 @@
+{
+    "2011-12-31T09:11:13Z": {
+        "edbr": "105",
+        "gdp": "$210.8 billion",
+        "growth": "2.4% ",
+        "per capita": "$2,791 ",
+        "inflation": "16.17% ",
+        "poverty": "24% ",
+        "labor": "55.77 million",
+        "occupations": "43%",
+        "unemployment": "6.2% ",
+        "exports": "$25 billion",
+        "imports": "$41 billion",
+        "revenue": "$24.75 billion",
+        "expenses": "$35.67 billion"
+    },
+    "2017-12-31T09:07:36Z": {
+        "gdp": "$1.060 Trillion",
+        "growth": "5.28% ",
+        "per capita": "$1,629 ",
+        "inflation": "4.0%",
+        "poverty": "39% ",
+        "gini": " 30.7 ",
+        "occupations": "42.3%",
+        "unemployment": "5.9% ",
+        "edbr": " 147",
+        "exports": "$21.938 billion",
+        "imports": "$48.506 billion",
+        "debt": "61.7% of GDP",
+        "revenue": "15.5% of GDP",
+        "expenses": "21.3% of GDP",
+        "reserves": "$13.9 Billion"
+    },
+    "2018-12-31T12:39:54Z": {
+        "gdp": "$1.060 Trillion",
+        "growth": "5.28% ",
+        "per capita": "$1,629 ",
+        "inflation": "4.4%",
+        "poverty": "39% ",
+        "gini": " 30.7 ",
+        "occupations": "42.3%",
+        "unemployment": "5.9% ",
+        "edbr": "147",
+        "exports": "$21.938 billion",
+        "imports": "$48.506 billion",
+        "debt": "61.6% of GDP",
+        "revenue": "15.5% of GDP",
+        "expenses": "21.3% of GDP",
+        "reserves": "$13 Billion"
+    }
+}

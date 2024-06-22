@@ -1,0 +1,46 @@
+{
+    "2019-12-31T18:23:26Z": {
+        "gdp": "70.6 billion",
+        "growth": "3.0% ",
+        "per capita": "19,002 ",
+        "poverty": "23% "
+    },
+    "2019-12-31T18:39:36Z": {
+        "gdp": "70.6 billion",
+        "growth": "3.0% ",
+        "per capita": "19,002 ",
+        "poverty": "23% ",
+        "unemployment": "4.4%",
+        "exports": "16.4 billion"
+    },
+    "2020-12-31T11:55:47Z": {
+        "gdp": "73 ",
+        "growth": "0.2%",
+        "per capita": "19,002 ",
+        "poverty": "23% ",
+        "unemployment": "4.4%",
+        "exports": "17.7 billion",
+        "debt": "100 trillion",
+        "revenue": "73",
+        "expenses": "500",
+        "aid": "500000",
+        "credit": "0",
+        "reserves": "0"
+    },
+    "2020-12-31T12:25:52Z": {
+        "gdp": "73.1 billion",
+        "growth": "3.0% ",
+        "per capita": "19,002 ",
+        "poverty": "23% ",
+        "unemployment": "4.4%",
+        "exports": "17.7 billion"
+    },
+    "2021-12-31T13:00:10Z": {
+        "gdp": "77.5billion",
+        "growth": "2.7% ",
+        "per capita": "24,586 ",
+        "poverty": "23% ",
+        "unemployment": "3.9% ",
+        "exports": "13.4 billion"
+    }
+}
