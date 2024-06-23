@@ -1,0 +1,29 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_the_United_States,What was the United States's highest expenses during the year when its gdp was at its highest?,$3.601 trillion,"$3.601 trillion 
+"
+Economy_of_the_United_States,What was the United States's highest inflation during the year when its gdp was at its lowest?,1.1% ,"3.9% 
+"
+Economy_of_the_United_States,What was the United States's lowest expenses during the year when its inflation was at its highest?,$3.601 trillion,"$3.515 trillion 
+"
+Economy_of_the_United_States,In which years was the the United States's poverty the highest?,2011,"2011 
+"
+Economy_of_the_United_States,In which years was the the United States's imports the highest?,2011,"2011 
+"
+Economy_of_the_United_States,During which years did the United States experience its lowest gdp?,2010,"The data doesn't include GDP for multiple years. 
+"
+Economy_of_the_United_States,What was the percentage increase in the United States's inflation from 2010 to 2011?,254.5%,"Increased by 2.8 percentage points. 
+"
+Economy_of_the_United_States,What was the percentage increase in the United States's imports from 2010 to 2011?,24.2%,"24.3% increase 
+"
+Economy_of_the_United_States,What was the percentage increase in the United States's poverty from 2010 to 2011?,5.6%,"5.6% increase 
+"
+Economy_of_the_United_States,"Did the imports increase, decrease, or remain the same from 2010 to 2011?",increased,"Imports increased. 
+"
+Economy_of_the_United_States,"Did the gdp increase, decrease, or remain the same from 2010 to 2011?",increased,"Increased from $14.266 trillion to $14.526 trillion. 
+"
+Economy_of_the_United_States,"Did the per capita increase, decrease, or remain the same from 2010 to 2011?",increased,"Increased from $46,442 to $46,844. 
+"
+Economy_of_the_United_States,List all the years in which revenue was lower than expenses.,"2011, 2010","2010 and 2011. 
+"
+Economy_of_the_United_States,List all the years in which revenue was higher than expenses.,"2011, 2010","No years listed. 
+"

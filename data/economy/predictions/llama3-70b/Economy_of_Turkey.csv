@@ -1,0 +1,16 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Turkey,Tell me the highest inflation figures Turkey achieved during the year when the timeline shows the highest debt figures.,6.1% ,"Highest debt: 35.5% of GDP in 2013. 
+Highest inflation in 2013: 6.1%."
+Economy_of_Turkey,What was Turkey's highest poverty during the year when its revenue was at its highest?,21.9% ,20% in 2007.
+Economy_of_Turkey,In which years was the Turkey's poverty the lowest?,2017,2017.
+Economy_of_Turkey,During which years did Turkey experience its lowest exports?,2016,2013 and 2007.
+Economy_of_Turkey,During which years did Turkey experience its highest revenue?,"2017, 2016, 2018","2016, 2017, and 2018."
+Economy_of_Turkey,What was the percentage decrease in Turkey's expenses from 2018 to 2019?,20.6%,Expenses decreased by 20.3% from 2018 to 2019.
+Economy_of_Turkey,What was the percentage decrease in Turkey's expenses from 2016 to 2019?,20.6%,20.5% decrease.
+Economy_of_Turkey,What was the percentage increase in Turkey's gdp from 2007 to 2019?,8.2%,-7.3%.
+Economy_of_Turkey,"Did the gdp increase, decrease, or remain the same from 2017 to 2018?",increased,Decreased.
+Economy_of_Turkey,"Did the expenses increase, decrease, or remain the same from 2017 to 2018?",remained same,Remain the same.
+Economy_of_Turkey,List all the years in which imports were higher than exports.,"2017, 2007","2007, 2013, 2016, 2018, 2019."
+Economy_of_Turkey,List all the years in which imports were lower than exports.,"2017, 2007",2017.
+Economy_of_Turkey,List all the years in which revenue was lower than expenses.,"2019, 2017, 2016, 2018, 2013, 2007","2007, 2013, 2016, 2017, 2018, 2019."
+Economy_of_Turkey,List all the years in which revenue was higher than expenses.,"2019, 2017, 2016, 2018, 2013, 2007",2017 and 2019.

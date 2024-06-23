@@ -1,0 +1,23 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Quebec,Tell me the highest gdp figures Quebec achieved during the year when the timeline shows the highest exports figures.,$ 365.6 billion,"$358.0 billion
+"
+Economy_of_Quebec,What was Quebec's highest gdp during the year when its imports was at its lowest?,$ 365.6 billion,"$365.6 billion 
+"
+Economy_of_Quebec,What was Quebec's highest exports during the year when its gdp was at its lowest?,147.6 billion,"$147.6 billion 
+"
+Economy_of_Quebec,During which years did Quebec experience its highest imports?,"2009, 2011, 2018, 2022, 2021","All years listed. 
+"
+Economy_of_Quebec,During which years did Quebec experience its highest exports?,"2009, 2011, 2018, 2022, 2021","Exports remained consistent. 
+"
+Economy_of_Quebec,What was the percentage increase in Quebec's gdp from 2011 to 2018?,17.9%,"17.5% increase 
+"
+Economy_of_Quebec,What was the percentage increase in Quebec's gdp from 2009 to 2011?,6.6%,"6.6% increase 
+"
+Economy_of_Quebec,What was the percentage increase in Quebec's gdp from 2018 to 2021?,2.1%,"2.1% increase 
+"
+Economy_of_Quebec,"Did the gdp increase, decrease, or remain the same from 2021 to 2022?",remained same,"Remained the same. 
+"
+Economy_of_Quebec,"Did the per capita increase, decrease, or remain the same from 2021 to 2022?",remained same,"Remained the same. 
+"
+Economy_of_Quebec,"Did the exports increase, decrease, or remain the same from 2021 to 2022?",remained same,"Remained the same. 
+"

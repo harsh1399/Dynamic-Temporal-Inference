@@ -1,0 +1,23 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Bihar,In which years was the Bihar's debt the highest?,"2023, 2022","2022 and 2023 
+"
+Economy_of_Bihar,In which years was the Bihar's debt the lowest?,2017,"2017 and 2020 
+"
+Economy_of_Bihar,What was the percentage increase in Bihar's debt from 2016 to 2020?,7.9%,"11.1% 
+"
+Economy_of_Bihar,What was the percentage increase in Bihar's debt from 2017 to 2023?,104.7%,"113.2% 
+"
+Economy_of_Bihar,What was the percentage decrease in Bihar's debt from 2019 to 2021?,9.0%,"2.97% decrease 
+"
+Economy_of_Bihar,What was the percentage increase in Bihar's debt from 2020 to 2022?,28.4%,"28.76% 
+"
+Economy_of_Bihar,"Did the expenses increase, decrease, or remain the same from 2020 to 2021?",remained same,"Remained the same. 
+"
+Economy_of_Bihar,"Did the debt increase, decrease, or remain the same from 2019 to 2020?",decreased,"Decreased 
+"
+Economy_of_Bihar,"Did the gdp increase, decrease, or remain the same from 2016 to 2017?",increased,"Increased 
+"
+Economy_of_Bihar,List all the years in which revenue was higher than expenses.,"2023, 2017, 2016, 2018, 2020, 2022, 2021","2016, 2019 
+"
+Economy_of_Bihar,List all the years in which revenue was lower than expenses.,"2023, 2017, 2016, 2018, 2020, 2022, 2021","2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023 
+"

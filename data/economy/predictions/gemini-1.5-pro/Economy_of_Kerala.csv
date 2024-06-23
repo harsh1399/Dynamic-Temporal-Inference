@@ -1,0 +1,25 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Kerala,Tell me the highest poverty figures Kerala achieved during the year when the timeline shows the highest debt figures.,0.71% ,"0.71% 
+"
+Economy_of_Kerala,Tell me the lowest debt figures Kerala achieved during the year when the timeline shows the highest poverty figures.,30.1% ,"30.1% 
+"
+Economy_of_Kerala,In which years was the Kerala's poverty the lowest?,2022,"2022 
+"
+Economy_of_Kerala,In which years was the Kerala's debt the lowest?,"2020, 2021","2020, 2021 
+"
+Economy_of_Kerala,During which years did Kerala experience its highest poverty?,"2020, 2021","2020-2021 
+"
+Economy_of_Kerala,What was the percentage increase in Kerala's debt from 2020 to 2022?,23.5%,"7 percentage points 
+"
+Economy_of_Kerala,What was the percentage decrease in Kerala's poverty from 2020 to 2022?,89.9%,"90% decrease 
+"
+Economy_of_Kerala,"Did the debt increase, decrease, or remain the same from 2020 to 2021?",remained same,"Remained the same 
+"
+Economy_of_Kerala,"Did the hdi increase, decrease, or remain the same from 2021 to 2022?",remained same,"Remained the same. 
+"
+Economy_of_Kerala,"Did the gdp increase, decrease, or remain the same from 2020 to 2021?",increased,"GDP increased. 
+"
+Economy_of_Kerala,List all the years in which revenue was lower than expenses.,"2022, 2020, 2021","2020, 2021, 2022 
+"
+Economy_of_Kerala,List all the years in which revenue was higher than expenses.,"2022, 2020, 2021","None. 
+"

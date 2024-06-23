@@ -1,0 +1,21 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Syria,Tell me the lowest revenue figures Syria achieved during the year when the timeline shows the highest expenses figures.,$1.033 billion,Revenue: $1.033 billion (2019)
+Economy_of_Syria,Tell me the lowest poverty figures Syria achieved during the year when the timeline shows the highest revenue figures.,75.0% ,Poverty was 11.9% in 2008.
+Economy_of_Syria,During which years did Syria experience its highest expenses?,"2019, 2018","2019-12-31T18:04:36Z, 2022-12-31T13:28:34Z."
+Economy_of_Syria,During which years did Syria experience its highest inflation?,2014,"2014, 2015, 2018, 2019, 2021, 2022.
+
+These are the years when Syria experienced its highest inflation, with rates being 59.1%, 29.2%, 30%, 30%, 28.1%, and 28.1%, respectively."
+Economy_of_Syria,What was the percentage decrease in Syria's inflation from 2015 to 2021?,3.8%,"The percentage decrease in Syria's inflation from 2015 to 2021 was approximately 24.1%.
+
+Here's the calculation: 
+(59.1% - 28.1%) / 59.1% = 0.2407 or 24.1% (rounded)."
+Economy_of_Syria,What was the percentage increase in Syria's revenue from 2018 to 2021?,161.4%,Revenue increased by 162.3% from 2018 to 2021.
+Economy_of_Syria,What was the percentage decrease in Syria's expenses from 2019 to 2021?,79.0%,11.8% decrease.
+Economy_of_Syria,"Did the per capita increase, decrease, or remain the same from 2014 to 2015?",remained same,Per capita remained the same from 2014 to 2015.
+Economy_of_Syria,"Did the revenue increase, decrease, or remain the same from 2017 to 2018?",decreased,Decreased from 2017 to 2018.
+Economy_of_Syria,"Did the per capita increase, decrease, or remain the same from 2017 to 2018?",decreased,"Decreased from $5,100 to $2,684."
+Economy_of_Syria,List all the years in which revenue was lower than expenses.,"2015, 2019, 2008, 2014, 2018","2014, 2015, 2017, 2018, 2019, 2021, 2022"
+Economy_of_Syria,List all the years in which revenue was higher than expenses.,"2015, 2019, 2008, 2014, 2018","The years in which revenue was higher than expenses are:
+
+1. 2008
+2. 2021"

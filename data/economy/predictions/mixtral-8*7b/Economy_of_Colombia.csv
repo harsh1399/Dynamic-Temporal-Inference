@@ -1,0 +1,42 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Colombia,Tell me the highest debt figures Colombia achieved during the year when the timeline shows the highest inflation figures.,41.9% of GDP,"51.7%, 2020 debt with 2020 inflation."
+Economy_of_Colombia,Tell me the lowest inflation figures Colombia achieved during the year when the timeline shows the lowest expenses figures.,2.6% ,Inflation was 3.238% when expenses were $91.73 billion.
+Economy_of_Colombia,What was Colombia's highest inflation during the year when its gdp was at its lowest?,2.6% ,Inflation was 6.77% in Dec 2017 when GDP was at its lowest.
+Economy_of_Colombia,During which years did Colombia experience its lowest debt?,"2015, 2017","2011-12-31, 2015-12-31"
+Economy_of_Colombia,During which years did Colombia experience its highest gdp?,2015,"2019-12-31T20:55:58Z, 2018-12-31T05:34:09Z"
+Economy_of_Colombia,What was the percentage decrease in Colombia's exports from 2011 to 2020?,1.9%,"Approximately 1.6% decrease.
+
+Explanation:
+Comparing the export values of Colombia between the years 2011 and 2020, the value in 2020 was ""$39.48 billion"" and in 2011 was ""$40.24 billion"". To calculate the percentage change, we subtract the value in 2011 from the value in 2020, divide the result by the 2011 value, and multiply by 100.
+
+Percentage change = [(Value in 2020 - Value in 2011) / Value in 2011] x 100
+
+Percentage change = [($39.48 billion - $40.24 billion) / $40.24 billion] x 100
+
+Percentage change = (-$0.76 billion / $40.24 billion) x 100
+
+Percentage change ≈ -0.0189 x 100
+
+Percentage change ≈ -1.89%
+
+However, since we are rounding to the nearest whole number, the percentage decrease in Colombia's exports from 2011 to 2020 is approximately 1.6%."
+Economy_of_Colombia,What was the percentage increase in Colombia's revenue from 2011 to 2019?,14.9%,155.6% increase
+Economy_of_Colombia,What was the percentage increase in Colombia's debt from 2017 to 2018?,17.9%,17.65% increase.
+Economy_of_Colombia,What was the percentage decrease in Colombia's poverty from 2017 to 2018?,1.8%,The percentage decrease in Colombia's poverty from 2017 to 2018 was 0.5%.
+Economy_of_Colombia,"Did the imports increase, decrease, or remain the same from 2019 to 2020?",remained same,Imports remained the same from 2019 to 2020.
+Economy_of_Colombia,"Did the revenue increase, decrease, or remain the same from 2019 to 2020?",remained same,Decreased to $83.35 billion.
+Economy_of_Colombia,"Did the per capita increase, decrease, or remain the same from 2018 to 2019?",decreased,Per capita increased from 2018 to 2019.
+Economy_of_Colombia,List all the years in which imports were lower than exports.,2011,"2011, 2015, 2018, 2019, 2020"
+Economy_of_Colombia,List all the years in which imports were higher than exports.,2011,"2015, 2017, 2019, 2020
+
+Explanation:
+The provided timeline contains several data points for Colombia in different years. To find the years in which imports were higher than exports, I compared the ""imports"" and ""exports"" values for each data point. The years where imports were higher than exports are:
+
+1. 2015-12-31T23:14:07Z: Imports = $56.8 billion, Exports = $55.0 billion
+2. 2017-12-31T00:32:53Z: Imports = $56.8 billion, Exports = $55.0 billion
+3. 2019-12-31T20:55:58Z: Imports = $44.24 billion, Exports = $39.48 billion
+4. 2020-12-31T09:40:58Z: Imports = $44.24 billion, Exports = $39.48 billion
+
+Therefore, the years when imports were higher than exports are 2015, 2017, 2019, and 2020."
+Economy_of_Colombia,List all the years in which revenue was higher than expenses.,"2015, 2019, 2017, 2011, 2018, 2020","2019-12-31T20:55:58Z, 2020-12-31T09:40:58Z"
+Economy_of_Colombia,List all the years in which revenue was lower than expenses.,"2015, 2019, 2017, 2011, 2018, 2020","2011, 2015, 2017, 2018, 2019, 2020"

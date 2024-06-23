@@ -1,0 +1,46 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Moldova,What was Moldova's highest revenue during the year when its inflation was at its lowest?,2.886 billion,"Revenue: $2.886 billion, Inflation: 3.321% (2019)"
+Economy_of_Moldova,Tell me the highest imports figures Moldova achieved during the year when the timeline shows the highest inflation figures.,$5.317 billion,Imports in 2022 were $5.8 billion.
+Economy_of_Moldova,During which years did Moldova experience its lowest exports?,2011,2011-2015; Exports were lower at $1.24 billion (2011) and $2.339 billion (2015) compared to $2.700 billion in other years.
+Economy_of_Moldova,During which years did Moldova experience its highest imports?,"2019, 2022","2022-12-31T04:02:52Z, 2015-12-31T14:21:36Z"
+Economy_of_Moldova,What was the percentage increase in Moldova's gdp from 2019 to 2022?,21.1%,"The percentage increase in Moldova's GDP from 2019 to 2022 is 19.4%.
+
+Explanation:
+In 2019, Moldova's GDP was $11.404 billion.
+In 2022, Moldova's GDP was $13.811 billion.
+To find the percentage change, we can use the formula:
+(new value - old value) / |old value| \* 100%
+(13.811 - 11.404) / |11.404| \* 100% = 19.4%
+
+Note: The value of ""debt"" in the 2022 data point appears to be the same as in the 2019 data point. However, I have assumed that this is an error and have not used it in the calculation."
+Economy_of_Moldova,What was the percentage increase in Moldova's inflation from 2019 to 2022?,11.4%,"Inflation increased by approximately 1.4%.
+
+Here's the calculation:
+
+2022 inflation = 3.7%
+2019 inflation = 3.321%
+
+Increase in inflation = 2022 inflation - 2019 inflation
+= 3.7% - 3.321%
+= 0.379%
+
+To express this as a percentage increase:
+(0.379% / 3.321%) x 100% ≈ 11.4%
+
+However, the question asks about the percentage increase from 2019 to 2022, so:
+Percentage increase = 1.4%
+
+Therefore, Moldova's inflation increased by approximately 1.4% from 2019 to 2022."
+Economy_of_Moldova,What was the percentage increase in Moldova's exports from 2015 to 2019?,15.4%,15.9% increase in exports.
+Economy_of_Moldova,List all the years in which revenue was higher than expenses.,"2015, 2011, 2019, 2022","2019, 2022"
+Economy_of_Moldova,List all the years in which revenue was lower than expenses.,"2015, 2011, 2019, 2022","2011, 2015, 2019, 2022
+
+Explanation:
+In the given timeline, the revenue is lower than expenses in all the provided years. Specifically, the revenue is:
+
+- $1.751 billion against expenses of $2.112 billion in 2011
+- $2.836 billion against expenses of $2.931 billion in 2015
+- $2.886 billion against expenses of $2.947 billion in 2019
+- $2.886 billion against expenses of $2.947 billion in 2022
+
+Note: I have assumed that ""revenue"" indicates the total revenue of the entity in each year."

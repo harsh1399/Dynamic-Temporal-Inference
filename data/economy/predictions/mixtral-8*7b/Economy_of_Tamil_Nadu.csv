@@ -1,0 +1,6 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Tamil_Nadu,What was the percentage increase in Tamil Nadu's debt from 2020 to 2023?,14.3%,3.29% increase in debt from 2020 to 2023.
+Economy_of_Tamil_Nadu,What was the percentage increase in Tamil Nadu's debt from 2019 to 2023?,14.3%,3% increase in debt from 2019 to 2023.
+Economy_of_Tamil_Nadu,What was the percentage increase in Tamil Nadu's debt from 2021 to 2023?,14.3%,0% increase in debt from 2021 to 2023.
+Economy_of_Tamil_Nadu,"Did the debt increase, decrease, or remain the same from 2021 to 2022?",increased,Debt increased from 2021 to 2022.
+Economy_of_Tamil_Nadu,"Did the gdp increase, decrease, or remain the same from 2021 to 2022?",increased,GDP increased from 21.9 to 24.85.

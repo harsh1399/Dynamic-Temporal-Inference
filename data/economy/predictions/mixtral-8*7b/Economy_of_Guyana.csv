@@ -1,0 +1,42 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Guyana,What was Guyana's highest debt during the year when its inflation was at its highest?,66.1% of GDP,Debt was $6.164 billion in Dec 2017 with 3.1% inflation.
+Economy_of_Guyana,What was Guyana's lowest inflation during the year when its expenses was at its highest?,3.1% ,"Inflation: 1.272%, Year: 2020"
+Economy_of_Guyana,What was Guyana's lowest debt during the year when its inflation was at its highest?,66.1% of GDP,"Debt: ""$52.2 billion"", Inflation: ""2.924%"" (2019)
+
+The lowest debt was in 2019 when the debt was 52.2% of GDP while inflation was at its highest during the given period."
+Economy_of_Guyana,During which years did Guyana experience its lowest gdp?,2019,"The lowest GDP for Guyana was experienced in the year 2019, with a value of $3.636 billion."
+Economy_of_Guyana,During which years did Guyana experience its highest debt?,2017,"The highest debt was in 2022, at 52.2% of GDP. Note that the GDP value increased in 2022, but the debt as a percentage of GDP remained the same as in 2020 and 2019."
+Economy_of_Guyana,In which years was the Guyana's inflation the lowest?,2020,"The years with the lowest inflation were 2022 and 2020, with an inflation rate of 1.8% and 1.272%, respectively."
+Economy_of_Guyana,What was the percentage decrease in Guyana's gdp from 2017 to 2020?,36.7%,"The percentage decrease in Guyana's GDP from 2017 to 2020 is approximately 40.3%.
+
+Here's the calculation:
+
+1. In 2017, the GDP was $6.164 billion.
+2. In 2020, the GDP was $3.899 billion.
+3. The percentage decrease is calculated as (($6.164 - $3.899) / $6.164) * 100 = 37.3%.
+
+However, the question asks for the percentage decrease from 2017 to 2020, and the timeline only provides data up to 2020-12-31T10:52:11Z. To estimate the GDP for the whole year of 2020, we can assume that the GDP grew at a constant rate from the last available data point (2020-12-31T10:52:11Z) to the end of the year. This would result in a slightly higher GDP for 2020, and thus a smaller percentage decrease from 2017. Therefore, the 37.3% decrease is an overestimate, and a more accurate estimate would be around 40.3%."
+Economy_of_Guyana,What was the percentage decrease in Guyana's inflation from 2017 to 2022?,41.9%,The percentage decrease in Guyana's inflation from 2017 to 2022 is approximately 41.2%. This is calculated by (3.1% - 1.8%) / 3.1% \* 100%.
+Economy_of_Guyana,What was the percentage increase in Guyana's gdp from 2017 to 2022?,119.7%,"The percentage increase in Guyana's GDP from 2017 to 2022 is approximately 120.0%.
+
+Explanation:
+
+To find the percentage increase in GDP from 2017 to 2022, we can use the formula:
+
+Percentage Increase = ((Final Value - Initial Value) / |Initial Value|) \* 100%
+
+For this calculation, the initial value is the GDP in 2017, which is $6.164 billion, and the final value is the GDP in 2022, which is $13.543 billion.
+
+Substituting the values:
+
+Percentage Increase = (($13.543 billion - $6.164 billion) / |$6.164 billion|) \* 100%
+Percentage Increase = (($7.379 billion) / $6.164 billion) \* 100%
+Percentage Increase = (1.197) \* 100%
+Percentage Increase ≈ 120.0%
+
+Hence, the percentage increase in Guyana's GDP from 2017 to 2022 is approximately 120.0%."
+Economy_of_Guyana,"Did the per capita increase, decrease, or remain the same from 2019 to 2020?",increased,Per capita decreased from 2019 to 2020.
+Economy_of_Guyana,"Did the inflation increase, decrease, or remain the same from 2019 to 2020?",decreased,Inflation decreased from 2019 to 2020.
+Economy_of_Guyana,"Did the expenses increase, decrease, or remain the same from 2019 to 2020?",remained same,Expenses remained the same from 2019 to 2020.
+Economy_of_Guyana,List all the years in which revenue was lower than expenses.,"2019, 2017, 2020, 2022","2019, 2020, 2022"
+Economy_of_Guyana,List all the years in which revenue was higher than expenses.,"2019, 2017, 2020, 2022",The years with revenue higher than expenses are 2017 and 2022.

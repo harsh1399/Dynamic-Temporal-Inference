@@ -1,0 +1,43 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Pakistan,Tell me the lowest expenses figures Pakistan achieved during the year when the timeline shows the highest inflation figures.,$35.67 billion,Expenses: $35.67 billion; Inflation: 16.17% (2011)
+Economy_of_Pakistan,What was Pakistan's highest expenses during the year when its revenue was at its highest?,$35.67 billion,Expenses were highest in 2017.
+Economy_of_Pakistan,During which years did Pakistan experience its lowest poverty?,2011,"2018-12-31T12:39:54Z, 2017-12-31T09:07:36Z"
+Economy_of_Pakistan,In which years was the Pakistan's inflation the highest?,2011,"Inflation was highest in 2011: 16.17%.
+
+Note: I observed the ""inflation"" field in the provided timeline and found that the highest inflation rate was in the year 2011, with a value of 16.17%."
+Economy_of_Pakistan,What was the percentage increase in Pakistan's poverty from 2011 to 2017?,62.5%,54.17% increase in poverty.
+Economy_of_Pakistan,What was the percentage increase in Pakistan's imports from 2011 to 2017?,18.3%,"Import's increase: 127.5%
+
+The increase in Pakistan's imports from 2011 to 2017 can be calculated by:
+
+((Imports in 2017 - Imports in 2011) / Imports in 2011) * 100%
+
+= (($41 billion - $25 billion) / $25 billion) * 100%
+
+= 127.5%
+
+So, the percentage increase in Pakistan's imports from 2011 to 2017 is 127.5%."
+Economy_of_Pakistan,What was the percentage decrease in Pakistan's exports from 2011 to 2017?,12.2%,"There was a 16.32% decrease in Pakistan's exports from 2011 to 2017.
+
+The exports value in 2011 was $25 billion, while in 2017 it was $21.938 billion. To calculate the percentage decrease, you can use the formula:
+
+[(V2 - V1) / V1] \* 100%, where V1 is the initial value ($25 billion) and V2 is the final value ($21.938 billion):
+
+[(21.938 - 25) / 25] \* 100% = -16.32%
+
+Hence, there was a 16.32% decrease in Pakistan's exports from 2011 to 2017."
+Economy_of_Pakistan,"Did the poverty increase, decrease, or remain the same from 2017 to 2018?",remained same,Poverty remained the same from 2017 to 2018.
+Economy_of_Pakistan,"Did the expenses increase, decrease, or remain the same from 2017 to 2018?",remained same,Remained the same.
+Economy_of_Pakistan,List all the years in which revenue was lower than expenses.,"2017, 2011, 2018","2011, 2017, 2018
+
+Explanation:
+At each timestamp provided, we can see that revenue is lower than expenses for all years:
+
+In 2011 (at the timestamp 2011-12-31T09:11:13Z), the revenue was ""$24.75 billion"", while expenses were ""$35.67 billion"".
+
+In 2017 (at the timestamp 2017-12-31T09:07:36Z), revenue was ""15.5% of GDP"", while expenses were ""21.3% of GDP"".
+
+In 2018 (at the timestamp 2018-12-31T12:39:54Z), revenue was also ""15.5% of GDP"", while expenses remained ""21.3% of GDP"".
+
+Thus, for all the given years, revenue was lower than expenses."
+Economy_of_Pakistan,List all the years in which revenue was higher than expenses.,"2017, 2011, 2018","The timeline does not show any year in which revenue was higher than expenses. In both 2017 and 2018, revenue was 15.5% of GDP, while expenses were 21.3% of GDP. In 2011, the revenue and expenses data are not available."

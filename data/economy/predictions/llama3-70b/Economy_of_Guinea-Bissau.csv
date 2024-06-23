@@ -1,0 +1,12 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Guinea-Bissau,Tell me the highest gdp figures Guinea-Bissau achieved during the year when the timeline shows the highest inflation figures.,$1.008 billion,The highest GDP figure was $1.963 billion in 2013.
+Economy_of_Guinea-Bissau,What was Guinea-Bissau's lowest inflation during the year when its gdp was at its highest?,2.4% ,Guinea-Bissau's lowest inflation was 2.4% in 2013.
+Economy_of_Guinea-Bissau,In which years was the Guinea-Bissau's inflation the lowest?,"2015, 2013",2013 and 2015.
+Economy_of_Guinea-Bissau,In which years was the Guinea-Bissau's inflation the highest?,2010,2010 only.
+Economy_of_Guinea-Bissau,In which years was the Guinea-Bissau's gdp the highest?,"2015, 2013","2013, 2015"
+Economy_of_Guinea-Bissau,What was the percentage increase in Guinea-Bissau's gdp from 2010 to 2015?,94.7%,95% increase in GDP from 2010 to 2015.
+Economy_of_Guinea-Bissau,What was the percentage increase in Guinea-Bissau's gdp from 2010 to 2013?,94.7%,95% increase from $1.008 billion to $1.963 billion.
+Economy_of_Guinea-Bissau,What was the percentage decrease in Guinea-Bissau's inflation from 2010 to 2015?,40.0%,42% decrease in inflation from 2010 to 2015.
+Economy_of_Guinea-Bissau,What was the percentage decrease in Guinea-Bissau's inflation from 2010 to 2013?,40.0%,42.5% decrease in inflation from 2010 to 2013.
+Economy_of_Guinea-Bissau,List all the years in which revenue was higher than expenses.,"2015, 2013",2013.
+Economy_of_Guinea-Bissau,List all the years in which revenue was lower than expenses.,"2015, 2013",2013.

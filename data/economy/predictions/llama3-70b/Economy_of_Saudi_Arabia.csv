@@ -1,0 +1,14 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Saudi_Arabia,What was Saudi Arabia's lowest gdp during the year when its inflation was at its highest?,$1.679 trillion,Saudi Arabia's lowest GDP was $740.123 billion in 2019 when its inflation was at its highest at 100% in 2016.
+Economy_of_Saudi_Arabia,Tell me the highest imports figures Saudi Arabia achieved during the year when the timeline shows the lowest debt figures.,$136.8 billion, Imports: $157.7 billion (2017)
+Economy_of_Saudi_Arabia,What was Saudi Arabia's lowest expenses during the year when its debt was at its highest?,$227.8 billion,$210.6 billion in 2013.
+Economy_of_Saudi_Arabia,In which years was the Saudi Arabia's exports the lowest?,2017,2016 and 2020.
+Economy_of_Saudi_Arabia,During which years did Saudi Arabia experience its lowest imports?,"2023, 2020","The years Saudi Arabia experienced its lowest imports are 2013, 2016, and 2020."
+Economy_of_Saudi_Arabia,What was the percentage increase in Saudi Arabia's imports from 2016 to 2017?,15.3%,15.2%
+Economy_of_Saudi_Arabia,What was the percentage decrease in Saudi Arabia's inflation from 2016 to 2019?,99.8%,99.8% decrease in inflation.
+Economy_of_Saudi_Arabia,"Did the per capita increase, decrease, or remain the same from 2019 to 2020?",decreased,Decreased.
+Economy_of_Saudi_Arabia,"Did the imports increase, decrease, or remain the same from 2016 to 2017?",increased,Imports increased from $136.8 billion to $157.7 billion.
+Economy_of_Saudi_Arabia,List all the years in which imports were lower than exports.,"2023, 2019, 2017, 2016, 2020, 2013","2013, 2016, 2017, 2020, 2023"
+Economy_of_Saudi_Arabia,List all the years in which imports were higher than exports.,"2023, 2019, 2017, 2016, 2020, 2013","2013, 2016, and 2017."
+Economy_of_Saudi_Arabia,List all the years in which revenue was lower than expenses.,"2023, 2019, 2017, 2016, 2020","2016, 2017, 2019, 2020."
+Economy_of_Saudi_Arabia,List all the years in which revenue was higher than expenses.,"2023, 2019, 2017, 2016, 2020","2013, 2017."

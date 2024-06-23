@@ -1,0 +1,18 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Kerala,Tell me the highest poverty figures Kerala achieved during the year when the timeline shows the highest debt figures.,0.71% ,Poverty was 7.05% with debt at 37.18%.
+Economy_of_Kerala,Tell me the lowest debt figures Kerala achieved during the year when the timeline shows the highest poverty figures.,30.1% ,Debt was 30.1% when poverty was highest.
+Economy_of_Kerala,In which years was the Kerala's poverty the lowest?,2022,2022-12-31T12:18:55Z
+Economy_of_Kerala,In which years was the Kerala's debt the lowest?,"2020, 2021","2020-12-31T16:27:15Z, 2021-12-31T08:17:44Z"
+Economy_of_Kerala,During which years did Kerala experience its highest poverty?,"2020, 2021",Poverty was highest in 2020.
+Economy_of_Kerala,What was the percentage increase in Kerala's debt from 2020 to 2022?,23.5%,Debt increased by 22.8% from 2020 to 2022.
+Economy_of_Kerala,What was the percentage decrease in Kerala's poverty from 2020 to 2022?,89.9%,89.3% decrease in poverty.
+Economy_of_Kerala,"Did the debt increase, decrease, or remain the same from 2020 to 2021?",remained same,"Remained the same. 
+
+Explanation:
+According to the provided timeline, the debt for Kerala in the year 2020 was 30.1% and in the year 2021 it was also 30.1%. Therefore, the debt remained the same from 2020 to 2021."
+Economy_of_Kerala,"Did the hdi increase, decrease, or remain the same from 2021 to 2022?",remained same,The HDI remained the same from 2021 to 2022.
+Economy_of_Kerala,"Did the gdp increase, decrease, or remain the same from 2020 to 2021?",increased,GDP increased from 2020 to 2021.
+Economy_of_Kerala,List all the years in which revenue was lower than expenses.,"2022, 2020, 2021","2020, 2021
+
+Explanation: Based on the provided timeline, the revenue was lower than expenses in the years 2020 and 2021 for Kerala as the revenue was 1.15 and 1.15 respectively, while the expenses were 1.44 in both years. However, in 2022, the revenue increased to 1.34, which is higher than the expenses of 1.74."
+Economy_of_Kerala,List all the years in which revenue was higher than expenses.,"2022, 2020, 2021","2020, 2021"

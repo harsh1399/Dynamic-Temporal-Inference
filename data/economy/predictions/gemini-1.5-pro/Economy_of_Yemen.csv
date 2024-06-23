@@ -1,0 +1,23 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Yemen,What was Yemen's lowest imports during the year when its exports was at its lowest?,$8.893 billion,"$4.079 billion 
+"
+Economy_of_Yemen,What was Yemen's highest exports during the year when its imports was at its lowest?,$384.5 million,"$9.234 billion 
+"
+Economy_of_Yemen,Tell me the highest debt figures Yemen achieved during the year when the timeline shows the highest expenses figures.,42.5% of GDP,"74.5% of GDP 
+"
+Economy_of_Yemen,In which years was the Yemen's revenue the lowest?,2019,"2013 and 2017 
+"
+Economy_of_Yemen,During which years did Yemen experience its highest debt?,2019,"2019 
+"
+Economy_of_Yemen,What was the percentage increase in Yemen's inflation from 2013 to 2019?,142.1%,"147.37% 
+"
+Economy_of_Yemen,What was the percentage decrease in Yemen's revenue from 2011 to 2017?,13.9%,"68.7% decrease 
+"
+Economy_of_Yemen,List all the years in which imports were higher than exports.,"2019, 2011","2011, 2013, 2017, 2019 
+"
+Economy_of_Yemen,List all the years in which imports were lower than exports.,"2019, 2011","2011 
+"
+Economy_of_Yemen,List all the years in which revenue was lower than expenses.,"2019, 2017, 2011, 2013","2011, 2013, 2017, 2019 
+"
+Economy_of_Yemen,List all the years in which revenue was higher than expenses.,"2019, 2017, 2011, 2013","No year listed. 
+"

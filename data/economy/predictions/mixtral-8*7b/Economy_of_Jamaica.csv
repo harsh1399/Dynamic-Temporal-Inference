@@ -1,0 +1,27 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Jamaica,Tell me the lowest imports figures Jamaica achieved during the year when the timeline shows the highest inflation figures.,$2.7 billion,$1.4 billion (2010)
+Economy_of_Jamaica,What was Jamaica's lowest imports during the year when its exports was at its highest?,$5.856 billion,Imports were $1.31 billion in 2018.
+Economy_of_Jamaica,In which years was the Jamaica's imports the highest?,2015,"2011, 2015."
+Economy_of_Jamaica,During which years did Jamaica experience its lowest inflation?,2018,"The lowest inflation was experienced in the year 2018, with an inflation rate of 3.4%."
+Economy_of_Jamaica,What was the percentage decrease in Jamaica's poverty from 2010 to 2011?,24.9%,"The percentage decrease in Jamaica's poverty from 2010 to 2011 was 17.3%.
+
+Explanation:
+To find the percentage decrease in poverty, we use the formula:
+
+(P1 - P2 / P1) \* 100%
+
+where P1 is the initial poverty rate and P2 is the poverty rate at the end of the time period.
+
+Using the values provided in the timeline:
+
+P1 = 19.7% (poverty rate in 2010)
+P2 = 14.8% (poverty rate in 2011)
+
+Substitute these values into the formula:
+
+(19.7 - 14.8 / 19.7) \* 100%
+
+The percentage decrease in Jamaica's poverty from 2010 to 2011 was 17.3%."
+Economy_of_Jamaica,What was the percentage increase in Jamaica's poverty from 2011 to 2018?,18.9%,2.6% increase in poverty.
+Economy_of_Jamaica,"Did the gdp increase, decrease, or remain the same from 2010 to 2011?",increased,GDP increased from 2010 to 2011.
+Economy_of_Jamaica,"Did the per capita increase, decrease, or remain the same from 2010 to 2011?",increased,Per capita increased from 2010 to 2011.

@@ -1,0 +1,23 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Costa_Rica,What was Costa Rica's lowest poverty during the year when its exports was at its highest?,20.5% ,"20.5% 
+"
+Economy_of_Costa_Rica,Tell me the highest inflation figures Costa Rica achieved during the year when the timeline shows the lowest revenue figures.,8.3% ,"8.3% 
+"
+Economy_of_Costa_Rica,In which years was the Costa Rica's revenue the lowest?,2011,"2011, 2017, 2019 
+"
+Economy_of_Costa_Rica,In which years was the Costa Rica's inflation the highest?,2011,"2011 
+"
+Economy_of_Costa_Rica,What was the percentage increase in Costa Rica's imports from 2017 to 2020?,0.3%,"There is no increase, imports remained the same. 
+"
+Economy_of_Costa_Rica,What was the percentage increase in Costa Rica's imports from 2011 to 2019?,38.9%,"47.8% 
+"
+Economy_of_Costa_Rica,What was the percentage decrease in Costa Rica's poverty from 2011 to 2019?,3.8%,"0.8% decrease 
+"
+Economy_of_Costa_Rica,"Did the imports increase, decrease, or remain the same from 2019 to 2020?",increased,"Increase 
+"
+Economy_of_Costa_Rica,"Did the exports increase, decrease, or remain the same from 2019 to 2020?",decreased,"Decrease 
+"
+Economy_of_Costa_Rica,List all the years in which revenue was lower than expenses.,"2019, 2017, 2011, 2020","2011, 2017, 2019, 2020 
+"
+Economy_of_Costa_Rica,List all the years in which revenue was higher than expenses.,"2019, 2017, 2011, 2020","No years listed had higher revenue than expenses. 
+"

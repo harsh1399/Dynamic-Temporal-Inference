@@ -1,0 +1,11 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Belarus,What was Belarus's lowest gdp during the year when its expenses was at its lowest?,$63.267 billion,Belarus's lowest GDP was $63.267 billion in 2015.
+Economy_of_Belarus,What was Belarus's highest expenses during the year when its revenue was at its highest?,$25.05 billion,$25.23 billion in 2011.
+Economy_of_Belarus,In which years was the Belarus's revenue the highest?,2011,"2019, 2020."
+Economy_of_Belarus,During which years did Belarus experience its lowest inflation?,"2019, 2020",2019.
+Economy_of_Belarus,What was the percentage increase in Belarus's expenses from 2015 to 2016?,0.2%,There is no increase in expenses from 2015 to 2016.
+Economy_of_Belarus,What was the percentage increase in Belarus's inflation from 2011 to 2016?,118.0%,118% increase.
+Economy_of_Belarus,"Did the exports increase, decrease, or remain the same from 2015 to 2016?",remained same,Exports remained the same.
+Economy_of_Belarus,"Did the gdp increase, decrease, or remain the same from 2015 to 2016?",increased,Increased.
+Economy_of_Belarus,List all the years in which imports were lower than exports.,"2015, 2017, 2016","2011, 2015, 2016, 2017."
+Economy_of_Belarus,List all the years in which imports were higher than exports.,"2015, 2017, 2016","2015, 2016, 2017, 2019, 2020."

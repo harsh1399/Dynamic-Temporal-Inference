@@ -1,0 +1,42 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Venezuela,What was Venezuela's highest imports during the year when its gdp was at its lowest?,$9.1 billion,$50.34 billion (2016)
+Economy_of_Venezuela,What was Venezuela's lowest imports during the year when its gdp was at its highest?,$50.34 billion,Imports were $9.1 billion in Dec 2019 when GDP was highest at $344.2 billion in Dec 2011.
+Economy_of_Venezuela,Tell me the lowest poverty figures Venezuela achieved during the year when the timeline shows the lowest gdp figures.,19.7% ,Poverty was 19.7% in 2019.
+Economy_of_Venezuela,During which years did Venezuela experience its lowest expenses?,2011,2018-2019.
+Economy_of_Venezuela,During which years did Venezuela experience its lowest gdp?,2019,"The lowest GDP of Venezuela was experienced in the year 2019, with a GDP of $70.140 billion."
+Economy_of_Venezuela,During which years did Venezuela experience its highest gdp?,2015,"The years with the highest GDP for Venezuela are 2015 and 2017, both with a GDP of around $500 billion."
+Economy_of_Venezuela,What was the percentage decrease in Venezuela's revenue from 2016 to 2019?,34.9%,"36.3% decrease
+
+Explanation:
+
+* In 2016, Venezuela's revenue was $142.6 billion.
+* In 2019, Venezuela's revenue was $92.8 billion.
+* To find the percentage decrease, divide the difference by the initial value and multiply by 100: (($142.6 - $92.8) / $142.6) \* 100 = 36.3%."
+Economy_of_Venezuela,What was the percentage increase in Venezuela's revenue from 2011 to 2017?,6.5%,174.36% increase.
+Economy_of_Venezuela,What was the percentage increase in Venezuela's revenue from 2017 to 2019?,119.9%,The percentage increase in Venezuela's revenue from 2017 to 2019 was -79.5%.
+Economy_of_Venezuela,"Did the expenses increase, decrease, or remain the same from 2018 to 2019?",increased,Expenses increased from 2018 to 2019.
+Economy_of_Venezuela,"Did the per capita increase, decrease, or remain the same from 2017 to 2018?",decreased,"Decreased from $15,891 to $10,968."
+Economy_of_Venezuela,List all the years in which imports were higher than exports.,"2015, 2019, 2017, 2011, 2018","2015, 2016, 2017
+
+Explanation:
+- In the given timeline, there are three instances where imports were higher than exports:
+  - 2015-12-31T19:31:02Z: Imports = $50.34 billion, Exports = $83.2 billion
+  - 2016-12-31T07:37:20Z: Imports = $50.34 billion, Exports = $47.53 billion
+  - 2017-12-31T20:50:29Z: Imports = $17.8 billion, Exports = $28.07 billion
+
+(Note: Only the years are provided as the answer, as required by the instruction to keep the answers concise.)"
+Economy_of_Venezuela,List all the years in which imports were lower than exports.,"2015, 2019, 2017, 2011, 2018","2011, 2018, 2019
+
+Explanation:
+According to the timeline, the values for exports and imports in each year are as follows:
+
+* 2011: Exports = $57.6 billion, Imports = $38.44 billion
+* 2015: Exports = $83.2 billion, Imports = $50.34 billion
+* 2016: Exports = $47.53 billion, Imports = $50.34 billion
+* 2017: Exports = $28.07 billion, Imports = $17.8 billion
+* 2018: Exports = $32.08 billion, Imports = $17.75 billion
+* 2019: Exports = $32.08 billion, Imports = $9.1 billion
+
+Based on this data, the years in which imports were lower than exports are 2011, 2018, and 2019."
+Economy_of_Venezuela,List all the years in which revenue was higher than expenses.,"2015, 2019, 2017, 2011, 2018, 2016","2011, 2015"
+Economy_of_Venezuela,List all the years in which revenue was lower than expenses.,"2015, 2019, 2017, 2011, 2018, 2016","2015, 2016, 2017, 2018, 2019"

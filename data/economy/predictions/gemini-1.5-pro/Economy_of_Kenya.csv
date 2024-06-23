@@ -1,0 +1,29 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Kenya,What was Kenya's lowest gdp during the year when its gini was at its highest?,"$29.564, billion","$89.205 billion 
+"
+Economy_of_Kenya,What was Kenya's highest gdp during the year when its inflation was at its lowest?,"$29.564, billion","$175.659 billion 
+"
+Economy_of_Kenya,What was Kenya's lowest debt during the year when its expenses was at its lowest?,$7.729 billion,"$7.729 billion 
+"
+Economy_of_Kenya,During which years did Kenya experience its highest gdp?,2018,"2016 and 2018 
+"
+Economy_of_Kenya,During which years did Kenya experience its highest inflation?,"2016, 2018","2016 and 2018 
+"
+Economy_of_Kenya,In which years was the Kenya's expenses the lowest?,2011,"2011 and 2016 
+"
+Economy_of_Kenya,What was the percentage increase in Kenya's inflation from 2011 to 2016?,101.6%,"Approximately 100% increase. 
+"
+Economy_of_Kenya,What was the percentage decrease in Kenya's inflation from 2016 to 2019?,27.3%,"1.76%  (from 6.45% to 4.69%) 
+"
+Economy_of_Kenya,What was the percentage decrease in Kenya's expenses from 2018 to 2020?,21.8%,"Unable to answer, expenses increased from 2018 to 2020. 
+"
+Economy_of_Kenya,What was the percentage decrease in Kenya's gdp from 2018 to 2019?,49.2%,"54.9% decrease 
+"
+Economy_of_Kenya,"Did the inflation increase, decrease, or remain the same from 2019 to 2020?",increased,"Inflation increased 
+"
+Economy_of_Kenya,"Did the gdp increase, decrease, or remain the same from 2019 to 2020?",increased,"Increase 
+"
+Economy_of_Kenya,List all the years in which revenue was higher than expenses.,"2019, 2011, 2018, 2016, 2020, 2021","No year listed. 
+"
+Economy_of_Kenya,List all the years in which revenue was lower than expenses.,"2019, 2011, 2018, 2016, 2020, 2021","2011, 2016, 2018, 2019, 2020, 2021 
+"

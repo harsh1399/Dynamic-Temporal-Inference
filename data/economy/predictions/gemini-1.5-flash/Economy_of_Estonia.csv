@@ -1,0 +1,27 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Estonia,Tell me the highest expenses figures Estonia achieved during the year when the timeline shows the lowest debt figures.,$8.439 billion,"$8.439 billion 
+"
+Economy_of_Estonia,What was Estonia's lowest debt during the year when its gdp was at its highest?,9% of GDP,"9% of GDP 
+"
+Economy_of_Estonia,During which years did Estonia experience its lowest gdp?,2018,"2018 
+"
+Economy_of_Estonia,In which years was the Estonia's inflation the highest?,2018,"2018 
+"
+Economy_of_Estonia,In which years was the Estonia's poverty the lowest?,2018,"2018 
+"
+Economy_of_Estonia,What was the percentage decrease in Estonia's poverty from 2017 to 2018?,95.4%,"95.4% decrease 
+"
+Economy_of_Estonia,What was the percentage increase in Estonia's exports from 2018 to 2019?,12.5%,"12.5% 
+"
+Economy_of_Estonia,What was the percentage increase in Estonia's exports from 2017 to 2019?,24.1%,"23.3% 
+"
+Economy_of_Estonia,What was the percentage decrease in Estonia's gdp from 2016 to 2019?,16.7%,"17.6% 
+"
+Economy_of_Estonia,"Did the per capita increase, decrease, or remain the same from 2018 to 2019?",increased,"Increased 
+"
+Economy_of_Estonia,"Did the debt increase, decrease, or remain the same from 2017 to 2018?",decreased,"Decreased 
+"
+Economy_of_Estonia,List all the years in which revenue was lower than expenses.,"2019, 2017, 2016, 2018","2016, 2017, 2019 
+"
+Economy_of_Estonia,List all the years in which revenue was higher than expenses.,"2019, 2017, 2016, 2018","2016, 2019 
+"

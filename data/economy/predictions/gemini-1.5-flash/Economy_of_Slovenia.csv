@@ -1,0 +1,27 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Slovenia,What was Slovenia's lowest gdp during the year when its revenue was at its lowest?,$54.059 billion,"$48.078 billion 
+"
+Economy_of_Slovenia,What was Slovenia's highest revenue during the year when its debt was at its lowest?,20.02 billion,"$20.02 billion 
+"
+Economy_of_Slovenia,What was Slovenia's highest gdp during the year when its expenses was at its lowest?,$54.059 billion,"$54.059 billion 
+"
+Economy_of_Slovenia,During which years did Slovenia experience its lowest expenses?,"2019, 2020","2019 and 2020 
+"
+Economy_of_Slovenia,In which years was the Slovenia's revenue the lowest?,"2019, 2020","2017, 2018 
+"
+Economy_of_Slovenia,What was the percentage decrease in Slovenia's revenue from 2018 to 2019?,97.7%,"9.4% decrease 
+"
+Economy_of_Slovenia,What was the percentage decrease in Slovenia's gdp from 2018 to 2019?,5.0%,"5.1% decrease 
+"
+Economy_of_Slovenia,What was the percentage decrease in Slovenia's expenses from 2018 to 2019?,98.0%,"Not applicable. 
+"
+Economy_of_Slovenia,"Did the gdp increase, decrease, or remain the same from 2017 to 2018?",increased,"Increased 
+"
+Economy_of_Slovenia,"Did the expenses increase, decrease, or remain the same from 2019 to 2020?",remained same,"Remained the same 
+"
+Economy_of_Slovenia,"Did the per capita increase, decrease, or remain the same from 2017 to 2018?",increased,"Increased 
+"
+Economy_of_Slovenia,List all the years in which revenue was higher than expenses.,"2017, 2018, 2014","2014, 2019 
+"
+Economy_of_Slovenia,List all the years in which revenue was lower than expenses.,"2017, 2018, 2014","2017, 2018 
+"

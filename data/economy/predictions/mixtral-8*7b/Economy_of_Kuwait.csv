@@ -1,0 +1,31 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Kuwait,Tell me the highest revenue figures Kuwait achieved during the year when the timeline shows the lowest gdp figures.,$41.7 billion,$52.87 billion (2019)
+Economy_of_Kuwait,What was Kuwait's highest imports during the year when its gdp was at its highest?,$29.36 billion,$54.09 billion (2019)
+Economy_of_Kuwait,What was Kuwait's highest exports during the year when its inflation was at its lowest?,$54.09 billion,$115.46 billion (2017)
+Economy_of_Kuwait,In which years was the Kuwait's revenue the lowest?,2020,"2020-12-31T07:42:11Z, 2019-12-31T11:06:11Z"
+Economy_of_Kuwait,During which years did Kuwait experience its highest exports?,2017,2018-2019.
+Economy_of_Kuwait,What was the percentage increase in Kuwait's expenses from 2019 to 2020?,12.9%,"The percentage increase in Kuwait's expenses from 2019 to 2020 was approximately 32.1%.
+
+Explanation:
+To calculate the percentage increase in expenses from 2019 to 2020, we can use the formula:
+
+Percentage Increase = (New Value - Old Value) / Old Value \* 100%
+
+In this case, the old value (expenses in 2019) is $61.39 billion, and the new value (expenses in 2020) is $69.33 billion. Plugging these values into the formula, we get:
+
+Percentage Increase = ($69.33 billion - $61.39 billion) / $61.39 billion \* 100%
+
+Percentage Increase ≈ 32.1%
+
+Therefore, the percentage increase in Kuwait's expenses from 2019 to 2020 was approximately 32.1%."
+Economy_of_Kuwait,What was the percentage increase in Kuwait's expenses from 2011 to 2020?,9.1%,108.45% increase in expenses.
+Economy_of_Kuwait,What was the percentage increase in Kuwait's expenses from 2010 to 2020?,9.1%,36.6% increase.
+Economy_of_Kuwait,What was the percentage increase in Kuwait's gdp from 2017 to 2018?,45.7%,The percentage increase in Kuwait's GDP from 2017 to 2018 was 0.6%.
+Economy_of_Kuwait,"Did the exports increase, decrease, or remain the same from 2019 to 2020?",remained same,Exports decreased from 2019 to 2020.
+Economy_of_Kuwait,"Did the expenses increase, decrease, or remain the same from 2018 to 2019?",remained same,Expenses decreased from 2018 to 2019.
+Economy_of_Kuwait,List all the years in which imports were higher than exports.,"2010, 2019, 2017, 2011, 2018, 2020",The years are 2019 and 2020.
+Economy_of_Kuwait,List all the years in which imports were lower than exports.,"2010, 2019, 2017, 2011, 2018, 2020","The years are 2010, 2011, 2017, 2018, and 2020. These are the years in which the imports value is lower than exports value in the given timeline."
+Economy_of_Kuwait,List all the years in which revenue was lower than expenses.,"2019, 2018, 2020","2018-12-31T13:32:44Z, 2019-12-31T11:06:11Z, 2020-12-31T07:42:11Z"
+Economy_of_Kuwait,List all the years in which revenue was higher than expenses.,"2019, 2018, 2020","2010, 2011, 2018
+
+The revenue was higher than expenses in the years 2010, 2011, and 2018."

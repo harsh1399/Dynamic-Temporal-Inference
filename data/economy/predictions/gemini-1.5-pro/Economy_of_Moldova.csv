@@ -1,0 +1,19 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Moldova,What was Moldova's highest revenue during the year when its inflation was at its lowest?,2.886 billion,"2.886 billion 
+"
+Economy_of_Moldova,Tell me the highest imports figures Moldova achieved during the year when the timeline shows the highest inflation figures.,$5.317 billion,"$5.317 billion 
+"
+Economy_of_Moldova,During which years did Moldova experience its lowest exports?,2011,"2011 and 2022 
+"
+Economy_of_Moldova,During which years did Moldova experience its highest imports?,"2019, 2022","2019 and 2022 
+"
+Economy_of_Moldova,What was the percentage increase in Moldova's gdp from 2019 to 2022?,21.1%,"21% 
+"
+Economy_of_Moldova,What was the percentage increase in Moldova's inflation from 2019 to 2022?,11.4%,"0.38%  (approximately) 
+"
+Economy_of_Moldova,What was the percentage increase in Moldova's exports from 2015 to 2019?,15.4%,"0% increase 
+"
+Economy_of_Moldova,List all the years in which revenue was higher than expenses.,"2015, 2011, 2019, 2022","None. 
+"
+Economy_of_Moldova,List all the years in which revenue was lower than expenses.,"2015, 2011, 2019, 2022","2011, 2015, 2019, 2022 
+"

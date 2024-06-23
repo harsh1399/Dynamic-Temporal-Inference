@@ -1,0 +1,11 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Kurdistan_Region,Tell me the highest debt figures Kurdistan Region achieved during the year when the timeline shows the lowest revenue figures.,76% of GDP,76% of GDP in 2016.
+Economy_of_Kurdistan_Region,Tell me the lowest gdp figures Kurdistan Region achieved during the year when the timeline shows the lowest expenses figures.,$23.6 billion,"There is only one data point, so the answer is $23.6 billion."
+Economy_of_Kurdistan_Region,Tell me the highest expenses figures Kurdistan Region achieved during the year when the timeline shows the lowest inflation figures.,$53.45 billion,$53.45 billion in 2016.
+Economy_of_Kurdistan_Region,In which years was the Kurdistan Region's gdp the lowest?,2016,"The question is asking for the years when the GDP was the lowest, but there is only one data point for the GDP in the given timeline, which is 2016. Therefore, the answer is:
+
+2016."
+Economy_of_Kurdistan_Region,In which years was the Kurdistan Region's gdp the highest?,2016,The question is not answerable based on the provided timeline.
+Economy_of_Kurdistan_Region,During which years did Kurdistan Region experience its lowest debt?,2016,2016.
+Economy_of_Kurdistan_Region,List all the years in which revenue was lower than expenses.,2016,2016.
+Economy_of_Kurdistan_Region,List all the years in which revenue was higher than expenses.,2016,None.

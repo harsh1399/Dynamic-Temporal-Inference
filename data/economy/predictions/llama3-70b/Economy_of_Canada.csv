@@ -1,0 +1,21 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Canada,What was Canada's lowest poverty during the year when its inflation was at its lowest?,11.0% ,"Canada's lowest poverty was 9.4% in 2019, when its inflation was at its lowest, 0.6%."
+Economy_of_Canada,Tell me the highest debt figures Canada achieved during the year when the timeline shows the lowest poverty figures.,89.7% of GDP,"133.32% of GDP in 2021-2022, when poverty was 9.4% in 2019."
+Economy_of_Canada,What was Canada's highest poverty during the year when its gdp was at its highest?,10.1% ,12.9% in 2015.
+Economy_of_Canada,In which years was the Canada's gdp the lowest?,2016,2016.
+Economy_of_Canada,In which years was the Canada's inflation the highest?,2022,2021 and 2022.
+Economy_of_Canada,What was the percentage decrease in Canada's revenue from 2015 to 2019?,4.8%,Revenue decreased by 4.8%.
+Economy_of_Canada,What was the percentage decrease in Canada's revenue from 2016 to 2019?,4.8%,None. Revenue increased from $682.5 billion to $649.6 billion.
+Economy_of_Canada,What was the percentage decrease in Canada's exports from 2019 to 2022?,10.4%,6.1%
+Economy_of_Canada,What was the percentage increase in Canada's gdp from 2020 to 2021?,17.5%,17.5% increase.
+Economy_of_Canada,"Did the expenses increase, decrease, or remain the same from 2015 to 2016?",remained same,Remain the same.
+Economy_of_Canada,"Did the revenue increase, decrease, or remain the same from 2016 to 2017?",decreased,Increased.
+Economy_of_Canada,List all the years in which imports were higher than exports.,"2012, 2021, 2015","Based on the provided entity timeline, the years in which imports were higher than exports are:
+
+* 2016
+* 2017
+* 2020
+* 2022"
+Economy_of_Canada,List all the years in which imports were lower than exports.,"2012, 2021, 2015",2021.
+Economy_of_Canada,List all the years in which revenue was higher than expenses.,"2015, 2019, 2017, 2016, 2020, 2022, 2021",Revenue was higher than expenses in 2017.
+Economy_of_Canada,List all the years in which revenue was lower than expenses.,"2015, 2019, 2017, 2016, 2020, 2022, 2021","2015, 2016, 2017, 2019, 2020, 2021, 2022"

@@ -1,0 +1,25 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Eritrea,Tell me the highest inflation figures Eritrea achieved during the year when the timeline shows the lowest expenses figures.,20% ,"20% 
+"
+Economy_of_Eritrea,What was Eritrea's lowest gdp during the year when its inflation was at its highest?,$4.037 billion,"$2.007 billion 
+"
+Economy_of_Eritrea,Tell me the highest inflation figures Eritrea achieved during the year when the timeline shows the highest imports figures.,17% ,"14.401% 
+"
+Economy_of_Eritrea,During which years did Eritrea experience its highest revenue?,"2019, 2017","2017 and 2019 
+"
+Economy_of_Eritrea,During which years did Eritrea experience its lowest expenses?,2012,"2017 and 2019 
+"
+Economy_of_Eritrea,In which years was the Eritrea's exports the lowest?,2017,"2017 and 2012 
+"
+Economy_of_Eritrea,What was the percentage decrease in Eritrea's gdp from 2012 to 2017?,3.9%,"3.8% 
+"
+Economy_of_Eritrea,What was the percentage increase in Eritrea's expenses from 2012 to 2019?,16.6%,"14.7% increase 
+"
+Economy_of_Eritrea,What was the percentage increase in Eritrea's expenses from 2012 to 2017?,16.6%,"14.6% increase 
+"
+Economy_of_Eritrea,What was the percentage decrease in Eritrea's inflation from 2012 to 2017?,15.0%,"2.5% decrease 
+"
+Economy_of_Eritrea,List all the years in which imports were higher than exports.,2019,"2012, 2017, 2019 
+"
+Economy_of_Eritrea,List all the years in which imports were lower than exports.,2019,"2012 
+"

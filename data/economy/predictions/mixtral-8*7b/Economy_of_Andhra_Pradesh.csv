@@ -1,0 +1,19 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Andhra_Pradesh,In which years was the Andhra Pradesh's debt the lowest?,"2019, 2020","2019-12-31T03:35:44Z, 2020-12-31T08:37:38Z"
+Economy_of_Andhra_Pradesh,In which years was the Andhra Pradesh's debt the highest?,2022,"2022-12-31T09:41:27Z, 2019-12-31T03:35:44Z
+
+The debt was the highest in the years 2022-12-31T09:41:27Z and 2019-12-31T03:35:44Z with a debt value of 32.79% and 27% respectively."
+Economy_of_Andhra_Pradesh,What was the percentage increase in Andhra Pradesh's debt from 2016 to 2017?,0.7%,The percentage increase in Andhra Pradesh's debt from 2016 to 2017 was 0.2%.
+Economy_of_Andhra_Pradesh,What was the percentage decrease in Andhra Pradesh's debt from 2018 to 2020?,5.9%,"The percentage decrease in Andhra Pradesh's debt from 2018 to 2020 was approximately 5.02%.
+
+Explanation:
+- In 2018, the debt-to-GDP ratio was 28.7%.
+- In 2020, the debt-to-GDP ratio was 27%.
+- To find the percentage change, subtract the final ratio from the initial ratio, divide the result by the initial ratio, and multiply by 100:
+  - Percentage change = ( (28.7-27)/28.7 ) \* 100
+  - Percentage change ≈ 5.02%"
+Economy_of_Andhra_Pradesh,"Did the expenses increase, decrease, or remain the same from 2016 to 2017?",increased,Expenses increased from 2016 to 2017.
+Economy_of_Andhra_Pradesh,"Did the debt increase, decrease, or remain the same from 2017 to 2018?",increased,Debt increased from 2017 to 2018.
+Economy_of_Andhra_Pradesh,"Did the debt increase, decrease, or remain the same from 2016 to 2017?",increased,Debt increased from 27.9% to 28.1%.
+Economy_of_Andhra_Pradesh,List all the years in which revenue was lower than expenses.,"2019, 2017, 2016, 2018, 2020, 2022","2016-12-31T23:26:07Z, 2017-12-31T14:42:44Z, 2018-12-31T18:07:08Z, 2019-12-31T03:35:44Z, 2020-12-31T08:37:38Z"
+Economy_of_Andhra_Pradesh,List all the years in which revenue was higher than expenses.,"2019, 2017, 2016, 2018, 2020, 2022","2019-12-31T03:35:44Z, 2020-12-31T08:37:38Z"

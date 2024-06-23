@@ -1,0 +1,27 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Romania,Tell me the highest imports figures Romania achieved during the year when the timeline shows the highest exports figures.,$116.4 billion,"$116.4 billion 
+"
+Economy_of_Romania,Tell me the highest imports figures Romania achieved during the year when the timeline shows the highest revenue figures.,$88.12 billion,"$116.4 billion 
+"
+Economy_of_Romania,In which years was the Romania's poverty the lowest?,2022,"2022 
+"
+Economy_of_Romania,During which years did Romania experience its highest gdp?,2022,"2022 
+"
+Economy_of_Romania,During which years did Romania experience its highest exports?,2022,"2022 
+"
+Economy_of_Romania,What was the percentage increase in Romania's expenses from 2020 to 2022?,8.0%,"7.9% 
+"
+Economy_of_Romania,What was the percentage increase in Romania's expenses from 2011 to 2019?,10.8%,"This question cannot be answered from the given information. The 2011 data does not contain expense information as a percentage of GDP. 
+"
+Economy_of_Romania,What was the percentage increase in Romania's gdp from 2019 to 2020?,1.6%,"1.9% 
+"
+Economy_of_Romania,What was the percentage increase in Romania's exports from 2011 to 2022?,69.1%,"69% 
+"
+Economy_of_Romania,"Did the expenses increase, decrease, or remain the same from 2019 to 2020?",decreased,"Increased 
+"
+Economy_of_Romania,"Did the revenue increase, decrease, or remain the same from 2019 to 2020?",decreased,"Increase 
+"
+Economy_of_Romania,List all the years in which revenue was higher than expenses.,"2019, 2011, 2020, 2022","This information cannot be provided from the given data. 
+"
+Economy_of_Romania,List all the years in which revenue was lower than expenses.,"2019, 2011, 2020, 2022","2011, 2019, 2020, 2022 
+"

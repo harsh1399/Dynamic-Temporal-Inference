@@ -1,0 +1,25 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Liechtenstein,Tell me the lowest expenses figures Liechtenstein achieved during the year when the timeline shows the lowest inflation figures.,$1.372 billion,"$820 million 
+"
+Economy_of_Liechtenstein,What was Liechtenstein's lowest inflation during the year when its revenue was at its highest?,0.7% ,"0.4% 
+"
+Economy_of_Liechtenstein,What was Liechtenstein's lowest revenue during the year when its inflation was at its highest?,$943 million,"$943 million 
+"
+Economy_of_Liechtenstein,In which years was the Liechtenstein's inflation the highest?,2011,"2011 
+"
+Economy_of_Liechtenstein,During which years did Liechtenstein experience its lowest inflation?,"2015, 2014","2014, 2015 
+"
+Economy_of_Liechtenstein,What was the percentage increase in Liechtenstein's gdp from 2015 to 2019?,55.6%,"55.5% 
+"
+Economy_of_Liechtenstein,What was the percentage decrease in Liechtenstein's inflation from 2011 to 2015?,71.4%,"0.5% decrease 
+"
+Economy_of_Liechtenstein,What was the percentage increase in Liechtenstein's inflation from 2014 to 2019?,100.0%,"100% 
+"
+Economy_of_Liechtenstein,"Did the gdp increase, decrease, or remain the same from 2014 to 2015?",remained same,"Remain the same 
+"
+Economy_of_Liechtenstein,"Did the expenses increase, decrease, or remain the same from 2014 to 2015?",remained same,"Remain the same 
+"
+Economy_of_Liechtenstein,List all the years in which revenue was lower than expenses.,"2015, 2019, 2014, 2020","2014, 2015, 2019, 2020 
+"
+Economy_of_Liechtenstein,List all the years in which revenue was higher than expenses.,"2015, 2019, 2014, 2020","No years listed. 
+"

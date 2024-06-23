@@ -1,0 +1,31 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Indonesia,Tell me the lowest exports figures Indonesia achieved during the year when the timeline shows the highest poverty figures.,$141 billion,"$141 billion 
+"
+Economy_of_Indonesia,What was Indonesia's lowest poverty during the year when its expenses was at its lowest?,17.8% ,"17.8% 
+"
+Economy_of_Indonesia,What was Indonesia's lowest poverty during the year when its gdp was at its lowest?,9.8% ,"17.8% 
+"
+Economy_of_Indonesia,In which years was the Indonesia's inflation the lowest?,2021,"2021, 2022, 2023 
+"
+Economy_of_Indonesia,In which years was the Indonesia's expenses the highest?,2023,"2022 and 2023 
+"
+Economy_of_Indonesia,In which years was the Indonesia's revenue the highest?,2023,"2023 
+"
+Economy_of_Indonesia,What was the percentage increase in Indonesia's expenses from 2021 to 2022?,29.9%,"30% 
+"
+Economy_of_Indonesia,What was the percentage decrease in Indonesia's inflation from 2010 to 2017?,72.7%,"64% 
+"
+Economy_of_Indonesia,What was the percentage increase in Indonesia's gdp from 2019 to 2023?,25.2%,"26% 
+"
+Economy_of_Indonesia,What was the percentage increase in Indonesia's inflation from 2019 to 2022?,62.1%,"62.1% 
+"
+Economy_of_Indonesia,"Did the per capita increase, decrease, or remain the same from 2022 to 2023?",remained same,"Remained the same 
+"
+Economy_of_Indonesia,"Did the gdp increase, decrease, or remain the same from 2022 to 2023?",decreased,"Decrease 
+"
+Economy_of_Indonesia,"Did the expenses increase, decrease, or remain the same from 2019 to 2020?",remained same,"Remained the same 
+"
+Economy_of_Indonesia,List all the years in which revenue was lower than expenses.,"2023, 2010, 2019, 2017, 2020, 2022, 2021","2010, 2017, 2019, 2020, 2021, 2022, 2023 
+"
+Economy_of_Indonesia,List all the years in which revenue was higher than expenses.,"2023, 2010, 2019, 2017, 2020, 2022, 2021","None. 
+"

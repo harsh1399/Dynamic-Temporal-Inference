@@ -1,0 +1,13 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Liechtenstein,Tell me the lowest expenses figures Liechtenstein achieved during the year when the timeline shows the lowest inflation figures.,$1.372 billion,Expenses: $1.29 billion
+Economy_of_Liechtenstein,What was Liechtenstein's lowest inflation during the year when its revenue was at its highest?,0.7% ,"0.2%, in 2014."
+Economy_of_Liechtenstein,What was Liechtenstein's lowest revenue during the year when its inflation was at its highest?,$943 million,Revenue in 2011 was $943 million.
+Economy_of_Liechtenstein,In which years was the Liechtenstein's inflation the highest?,2011,"2011 and 2020, with inflation at 0.7% and 0.4%, respectively. Note that while 2011 has a slightly higher rate, both years tie for the highest inflation rate over the given timeline."
+Economy_of_Liechtenstein,During which years did Liechtenstein experience its lowest inflation?,"2015, 2014","2011, 2019-2020"
+Economy_of_Liechtenstein,What was the percentage increase in Liechtenstein's gdp from 2015 to 2019?,55.6%,25.6% increase.
+Economy_of_Liechtenstein,What was the percentage decrease in Liechtenstein's inflation from 2011 to 2015?,71.4%,Inflation decreased by 0.3% from 2011 to 2015 in Liechtenstein.
+Economy_of_Liechtenstein,What was the percentage increase in Liechtenstein's inflation from 2014 to 2019?,100.0%,Inflation increased by 0.2% from 2014 to 2019.
+Economy_of_Liechtenstein,"Did the gdp increase, decrease, or remain the same from 2014 to 2015?",remained same,Remained the same.
+Economy_of_Liechtenstein,"Did the expenses increase, decrease, or remain the same from 2014 to 2015?",remained same,Expenses remained the same from 2014 to 2015.
+Economy_of_Liechtenstein,List all the years in which revenue was lower than expenses.,"2015, 2019, 2014, 2020","2014-12-31T00:05:11Z, 2015-12-31T20:59:10Z, 2019-12-31T19:25:15Z"
+Economy_of_Liechtenstein,List all the years in which revenue was higher than expenses.,"2015, 2019, 2014, 2020","2011-12-31T06:40:25Z, 2020-12-31T16:32:10Z"

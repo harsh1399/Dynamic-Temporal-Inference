@@ -1,0 +1,14 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Kyrgyzstan,Tell me the highest inflation figures Kyrgyzstan achieved during the year when the timeline shows the highest poverty figures.,5.8% ,"Highest inflation: 5.8%, Highest poverty: 40% in 2017."
+Economy_of_Kyrgyzstan,Tell me the highest inflation figures Kyrgyzstan achieved during the year when the timeline shows the highest gdp figures.,2.208% ,5.8% in 2017 and 2018.
+Economy_of_Kyrgyzstan,Tell me the lowest gdp figures Kyrgyzstan achieved during the year when the timeline shows the highest inflation figures.,$7.4 billion,The lowest GDP figure is $7.4 billion in 2017-2018.
+Economy_of_Kyrgyzstan,In which years was the Kyrgyzstan's expenses the highest?,"2019, 2020","2017, 2018, and 2019."
+Economy_of_Kyrgyzstan,During which years did Kyrgyzstan experience its lowest inflation?,2020,2019 and 2020.
+Economy_of_Kyrgyzstan,What was the percentage increase in Kyrgyzstan's gdp from 2018 to 2019?,9.4%,9.3%.
+Economy_of_Kyrgyzstan,What was the percentage decrease in Kyrgyzstan's inflation from 2017 to 2020?,73.4%,72.4% decrease in inflation from 2017 to 2020.
+Economy_of_Kyrgyzstan,What was the percentage increase in Kyrgyzstan's revenue from 2017 to 2019?,24.6%,23.5%
+Economy_of_Kyrgyzstan,What was the percentage decrease in Kyrgyzstan's poverty from 2017 to 2019?,19.7%,7.9 percentage points.
+Economy_of_Kyrgyzstan,"Did the inflation increase, decrease, or remain the same from 2019 to 2020?",decreased,Decreased.
+Economy_of_Kyrgyzstan,"Did the expenses increase, decrease, or remain the same from 2017 to 2018?",remained same,Remained the same.
+Economy_of_Kyrgyzstan,List all the years in which revenue was lower than expenses.,"2019, 2017, 2018, 2020","2017, 2018, 2019, 2020"
+Economy_of_Kyrgyzstan,List all the years in which revenue was higher than expenses.,"2019, 2017, 2018, 2020",None.

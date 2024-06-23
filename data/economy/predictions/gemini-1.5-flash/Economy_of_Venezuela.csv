@@ -1,0 +1,31 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Venezuela,What was Venezuela's highest imports during the year when its gdp was at its lowest?,$9.1 billion,"$50.34 billion 
+"
+Economy_of_Venezuela,What was Venezuela's lowest imports during the year when its gdp was at its highest?,$50.34 billion,"$9.1 billion 
+"
+Economy_of_Venezuela,Tell me the lowest poverty figures Venezuela achieved during the year when the timeline shows the lowest gdp figures.,19.7% ,"19.7% 
+"
+Economy_of_Venezuela,During which years did Venezuela experience its lowest expenses?,2011,"2011 and 2017 
+"
+Economy_of_Venezuela,During which years did Venezuela experience its lowest gdp?,2019,"2019, 2018 
+"
+Economy_of_Venezuela,During which years did Venezuela experience its highest gdp?,2015,"2015 and 2016 
+"
+Economy_of_Venezuela,What was the percentage decrease in Venezuela's revenue from 2016 to 2019?,34.9%,"33% decrease 
+"
+Economy_of_Venezuela,What was the percentage increase in Venezuela's revenue from 2011 to 2017?,6.5%,"126.6% 
+"
+Economy_of_Venezuela,What was the percentage increase in Venezuela's revenue from 2017 to 2019?,119.9%,"115% increase 
+"
+Economy_of_Venezuela,"Did the expenses increase, decrease, or remain the same from 2018 to 2019?",increased,"Increased 
+"
+Economy_of_Venezuela,"Did the per capita increase, decrease, or remain the same from 2017 to 2018?",decreased,"Decreased 
+"
+Economy_of_Venezuela,List all the years in which imports were higher than exports.,"2015, 2019, 2017, 2011, 2018","2011, 2015, 2016 
+"
+Economy_of_Venezuela,List all the years in which imports were lower than exports.,"2015, 2019, 2017, 2011, 2018","2011, 2015, 2016, 2017, 2018, 2019 
+"
+Economy_of_Venezuela,List all the years in which revenue was higher than expenses.,"2015, 2019, 2017, 2011, 2018, 2016","2011, 2015, 2016, 2019 
+"
+Economy_of_Venezuela,List all the years in which revenue was lower than expenses.,"2015, 2019, 2017, 2011, 2018, 2016","2011, 2015, 2016, 2017, 2018, 2019 
+"

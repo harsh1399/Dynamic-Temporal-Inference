@@ -1,0 +1,15 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Sri_Lanka,What was Sri Lanka's lowest imports during the year when its exports was at its lowest?,$19.931 billion,$15.584 billion in 2021.
+Economy_of_Sri_Lanka,What was Sri Lanka's lowest revenue during the year when its imports was at its highest?,$8.495 billion,$8.495 billion in 2016 and 2017.
+Economy_of_Sri_Lanka,In which years was the Sri Lanka's exports the highest?,"2017, 2016",2016 and 2017.
+Economy_of_Sri_Lanka,In which years was the Sri Lanka's inflation the highest?,2022,2022.
+Economy_of_Sri_Lanka,In which years was the Sri Lanka's poverty the highest?,"2019, 2018",2018.
+Economy_of_Sri_Lanka,What was the percentage decrease in Sri Lanka's poverty from 2017 to 2021?,4.7%,0.2%
+Economy_of_Sri_Lanka,What was the percentage decrease in Sri Lanka's exports from 2017 to 2018?,50.0%,50%.
+Economy_of_Sri_Lanka,What was the percentage decrease in Sri Lanka's poverty from 2016 to 2022?,4.7%,0.2% decrease.
+Economy_of_Sri_Lanka,What was the percentage decrease in Sri Lanka's exports from 2018 to 2020?,20.4%,23.73%
+Economy_of_Sri_Lanka,"Did the expenses increase, decrease, or remain the same from 2021 to 2022?",remained same,Decreased.
+Economy_of_Sri_Lanka,"Did the poverty increase, decrease, or remain the same from 2018 to 2019?",remained same,Remained the same.
+Economy_of_Sri_Lanka,"Did the gdp increase, decrease, or remain the same from 2016 to 2017?",remained same,Remained the same.
+Economy_of_Sri_Lanka,List all the years in which revenue was higher than expenses.,"2019, 2017, 2016, 2018, 2020, 2022, 2021",None.
+Economy_of_Sri_Lanka,List all the years in which revenue was lower than expenses.,"2019, 2017, 2016, 2018, 2020, 2022, 2021","2016, 2017, 2018, 2019, 2020, 2021, 2022"

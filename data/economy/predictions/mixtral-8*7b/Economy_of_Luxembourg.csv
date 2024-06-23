@@ -1,0 +1,22 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Luxembourg,What was Luxembourg's highest inflation during the year when its revenue was at its highest?,0.7% ,Inflation was 1.729% in 2019 when revenue was at its highest.
+Economy_of_Luxembourg,What was Luxembourg's lowest inflation during the year when its gdp was at its highest?,2.1% ,Inflation was 0.3% in 2017.
+Economy_of_Luxembourg,In which years was the Luxembourg's debt the lowest?,2010,"2017, 2020."
+Economy_of_Luxembourg,During which years did Luxembourg experience its highest inflation?,2011,2011-2012. Inflation was 2.1% in both years.
+Economy_of_Luxembourg,What was the percentage decrease in Luxembourg's inflation from 2010 to 2017?,40.0%,"The percentage decrease in Luxembourg's inflation from 2010 to 2017 was approximately 86.3%.
+
+Explanation:
+
+To find the percentage decrease in inflation from 2010 to 2017, subtract the 2017 inflation rate (0.3%) from the 2010 inflation rate (0.5%), resulting in -0.2%. Divide this result by the 2010 inflation rate and multiply by 100 to get the percentage.
+
+Percentage decrease = (-0.2 / 0.5) * 100 ≈ -86.3%
+
+This means that Luxembourg's inflation rate decreased by approximately 86.3% between 2010 and 2017. It's worth noting that having a negative percentage is consistent with calculating a decrease."
+Economy_of_Luxembourg,What was the percentage increase in Luxembourg's expenses from 2010 to 2011?,11.9%,11.7% increase.
+Economy_of_Luxembourg,"Did the gdp increase, decrease, or remain the same from 2010 to 2011?",increased,GDP increased from 2010 to 2011.
+Economy_of_Luxembourg,"Did the per capita increase, decrease, or remain the same from 2019 to 2020?",decreased,Per capita decreased from 2019 to 2020.
+Economy_of_Luxembourg,List all the years in which revenue was lower than expenses.,"2017, 2011, 2010","2011, 2017, 2019, 2020
+
+Explanation:
+At each timestamp provided, I checked if the revenue value was lower than the expenses value. If it was, I noted down the corresponding year. In this case, revenue was lower than expenses in the years 2011, 2017, 2019, and 2020."
+Economy_of_Luxembourg,List all the years in which revenue was higher than expenses.,"2017, 2011, 2010","2019-12-31T12:24:48Z, 2020-12-31T22:33:11Z"

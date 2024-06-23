@@ -1,0 +1,23 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Cameroon,What was Cameroon's highest inflation during the year when its gdp was at its highest?,2% ,"2% 
+"
+Economy_of_Cameroon,Tell me the highest poverty figures Cameroon achieved during the year when the timeline shows the highest inflation figures.,48% ,"48% 
+"
+Economy_of_Cameroon,During which years did Cameroon experience its lowest inflation?,2019,"2019 
+"
+Economy_of_Cameroon,During which years did Cameroon experience its highest inflation?,2014,"2014 
+"
+Economy_of_Cameroon,During which years did Cameroon experience its highest debt?,2011,"2011, 2019 
+"
+Economy_of_Cameroon,What was the percentage decrease in Cameroon's debt from 2011 to 2014?,76.6%,"47.7% 
+"
+Economy_of_Cameroon,What was the percentage increase in Cameroon's inflation from 2011 to 2014?,70.0%,"60% 
+"
+Economy_of_Cameroon,List all the years in which imports were lower than exports.,2011,"2011, 2017 
+"
+Economy_of_Cameroon,List all the years in which imports were higher than exports.,2011,"2011, 2014, 2017, 2019 
+"
+Economy_of_Cameroon,List all the years in which revenue was higher than expenses.,"2019, 2017","2019 
+"
+Economy_of_Cameroon,List all the years in which revenue was lower than expenses.,"2019, 2017","2011, 2014, 2017, 2019 
+"

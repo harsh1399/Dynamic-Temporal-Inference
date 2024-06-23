@@ -1,0 +1,20 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Bahrain,Tell me the highest gdp figures Bahrain achieved during the year when the timeline shows the lowest exports figures.,$38.184 billion,"GDP: $38.184 billion (2020) with lowest exports: $14.33 billion (2018, 2020)"
+Economy_of_Bahrain,Tell me the lowest debt figures Bahrain achieved during the year when the timeline shows the lowest inflation figures.,82.7% of GDP,Debt was $18.75 billion in 2016.
+Economy_of_Bahrain,In which years was the Bahrain's expenses the lowest?,2011,"The years with the lowest expenses for Bahrain are 2011 and 2016, with expenses of $5.806 billion and $8.217 billion, respectively."
+Economy_of_Bahrain,In which years was the Bahrain's exports the lowest?,"2018, 2020",Exports were the lowest in the year 2011-12-31T22:10:19Z and 2020-12-31T16:12:57Z with a value of $19.17 billion and $14.33 billion respectively.
+Economy_of_Bahrain,During which years did Bahrain experience its highest inflation?,2011,Inflation was highest in 2011 (7%).
+Economy_of_Bahrain,What was the percentage decrease in Bahrain's inflation from 2011 to 2018?,87.1%,85.7% decrease.
+Economy_of_Bahrain,What was the percentage decrease in Bahrain's revenue from 2014 to 2018?,34.8%,"The percentage decrease in Bahrain's revenue from 2014 to 2018 was approximately 34.6%.
+
+Calculation:
+[($8.378 billion - $5.463 billion) / $8.378 billion] \* 100% = 34.6%"
+Economy_of_Bahrain,List all the years in which imports were lower than exports.,"2011, 2014, 2018, 2016, 2020","The years are 2011, 2014, 2016, and 2020. For these years, the value of imports is less than the value of exports in the given data."
+Economy_of_Bahrain,List all the years in which imports were higher than exports.,"2011, 2014, 2018, 2016, 2020","The years are 2011, 2014, 2016, and 2020.
+
+Explanation:
+Referring to the timeline, compare the values for ""exports"" and ""imports"" for each year. The years where the value for ""imports"" is higher than the value for ""exports"" are 2011, 2014, 2016, and 2020."
+Economy_of_Bahrain,List all the years in which revenue was lower than expenses.,"2016, 2014, 2018, 2020","2014, 2016, 2018, 2020"
+Economy_of_Bahrain,List all the years in which revenue was higher than expenses.,"2016, 2014, 2018, 2020","The years are 2011, 2014.
+
+The timeline provided indicates the revenue and expenses for Bahrain for the years 2011, 2014, 2016, 2018, and 2020. Only in the years 2011 and 2014 was the revenue higher than the expenses. In 2011, the revenue was $7.226 billion and the expenses were $5.806 billion, resulting in revenue being higher than expenses. Similarly, in 2014, the revenue was $8.378 billion and the expenses were $8.675 billion, but even though the expenses were higher than the revenue, the difference is very small, and it can still be argued that revenue was ""higher"" if we consider the measurement error or insignificant difference. However, based solely on the information presented in the timeline without making any assumptions or interpretations, the years are 2011 and 2014."

@@ -1,0 +1,27 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Israel,Tell me the lowest inflation figures Israel achieved during the year when the timeline shows the lowest exports figures.,3.3% ,"0.2% 
+"
+Economy_of_Israel,Tell me the highest inflation figures Israel achieved during the year when the timeline shows the lowest debt figures.,0.807% ,"3.2% 
+"
+Economy_of_Israel,Tell me the highest exports figures Israel achieved during the year when the timeline shows the lowest poverty figures.,$62.5 billion,"$62.5 billion
+"
+Economy_of_Israel,In which years was the Israel's revenue the highest?,"2015, 2019, 2017, 2018, 2013","2013, 2015, 2017, 2018, 2019 
+"
+Economy_of_Israel,During which years did Israel experience its highest imports?,"2015, 2017, 2013","2013 and 2015 
+"
+Economy_of_Israel,What was the percentage decrease in Israel's imports from 2015 to 2019?,5.5%,"5.5% decrease 
+"
+Economy_of_Israel,What was the percentage increase in Israel's gdp from 2013 to 2019?,41.2%,"42.0% 
+"
+Economy_of_Israel,What was the percentage decrease in Israel's inflation from 2015 to 2017?,84.4%,"2.7% 
+"
+Economy_of_Israel,"Did the exports increase, decrease, or remain the same from 2017 to 2018?",decreased,"Decreased 
+"
+Economy_of_Israel,"Did the debt increase, decrease, or remain the same from 2017 to 2018?",decreased,"Decreased 
+"
+Economy_of_Israel,"Did the revenue increase, decrease, or remain the same from 2017 to 2018?",remained same,"Remained the same. 
+"
+Economy_of_Israel,List all the years in which revenue was higher than expenses.,"2015, 2019, 2017, 2011, 2018, 2013","None. 
+"
+Economy_of_Israel,List all the years in which revenue was lower than expenses.,"2015, 2019, 2017, 2011, 2018, 2013","2011, 2013, 2015, 2017, 2018, 2019 
+"

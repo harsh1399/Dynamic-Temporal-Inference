@@ -1,0 +1,34 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Cameroon,What was Cameroon's highest inflation during the year when its gdp was at its highest?,2% ,Inflation was 2% when GDP was highest.
+Economy_of_Cameroon,Tell me the highest poverty figures Cameroon achieved during the year when the timeline shows the highest inflation figures.,48% ,Poverty remained at 37.5% in 2017 with highest inflation of 3.4%.
+Economy_of_Cameroon,During which years did Cameroon experience its lowest inflation?,2019,The lowest inflation was experienced in the year 2011.
+Economy_of_Cameroon,During which years did Cameroon experience its highest inflation?,2014,"The highest inflation was experienced in 2014, with 3.4%."
+Economy_of_Cameroon,During which years did Cameroon experience its highest debt?,2011,"The highest debt was in 2011, at 69.1% of GDP."
+Economy_of_Cameroon,What was the percentage decrease in Cameroon's debt from 2011 to 2014?,76.6%,76.4% decrease in debt from 2011 to 2014.
+Economy_of_Cameroon,What was the percentage increase in Cameroon's inflation from 2011 to 2014?,70.0%,Inflation increase was 1.7%.
+Economy_of_Cameroon,List all the years in which imports were lower than exports.,2011,"2011, 2014, 2017, 2019"
+Economy_of_Cameroon,List all the years in which imports were higher than exports.,2011,"The years in which imports were higher than exports are 2014, 2017, and 2019.
+
+Here's the reasoning for each year:
+
+* 2014: Imports were $5.901 billion, while exports were $5.361 billion.
+* 2017: Imports were $6.159 billion, while exports were $5.283 billion.
+* 2019: Imports were $4.812 billion, while exports were $4.732 billion.
+
+In all three years, imports had a higher value than exports, as stated in the provided timeline."
+Economy_of_Cameroon,List all the years in which revenue was higher than expenses.,"2019, 2017","The years in which revenue was higher than expenses are 2011 and 2019. This can be determined by comparing the ""revenue"" and ""expenses"" values in the provided timeline.
+
+Explanation:
+
+* In 2011, revenue was $2.493 billion and expenses were $2.248 billion.
+* In 2012, revenue was $2.493 billion and expenses were $2.248 billion.
+* In 2013, revenue was $2.493 billion and expenses were $2.248 billion.
+* In 2014, revenue was $2.493 billion and expenses were $2.248 billion.
+* In 2015, revenue was $2.493 billion and expenses were $2.248 billion.
+* In 2016, revenue was $4.035 billion and expenses were $5.404 billion.
+* In 2017, revenue was $4.035 billion and expenses were $5.404 billion.
+* In 2018, revenue was $4.035 billion and expenses were $5.404 billion.
+* In 2019, revenue was $5.363 billion and expenses were $6.556 billion.
+
+Therefore, the only two years in which revenue was higher than expenses were 2011 and 2019."
+Economy_of_Cameroon,List all the years in which revenue was lower than expenses.,"2019, 2017","2011, 2014, 2017, 2019"

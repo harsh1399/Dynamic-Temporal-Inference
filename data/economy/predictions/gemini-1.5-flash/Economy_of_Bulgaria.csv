@@ -1,0 +1,25 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Bulgaria,What was Bulgaria's lowest imports during the year when its gdp was at its highest?,$28.47 billion,"$28.47 billion 
+"
+Economy_of_Bulgaria,What was Bulgaria's lowest revenue during the year when its debt was at its highest?, 29.43 billion,"$29.43 billion 
+"
+Economy_of_Bulgaria,What was Bulgaria's highest poverty during the year when its inflation was at its lowest?,21% ,"21% 
+"
+Economy_of_Bulgaria,During which years did Bulgaria experience its highest debt?,"2015, 2016","2015 and 2016 
+"
+Economy_of_Bulgaria,In which years was the Bulgaria's inflation the highest?,"2017, 2018","2017 and 2018 
+"
+Economy_of_Bulgaria,In which years was the Bulgaria's poverty the highest?,"2019, 2022, 2020, 2021","2015, 2019, 2020, 2021, 2022 
+"
+Economy_of_Bulgaria,What was the percentage decrease in Bulgaria's imports from 2020 to 2022?,6.2%,"5.6% decrease 
+"
+Economy_of_Bulgaria,What was the percentage decrease in Bulgaria's gdp from 2018 to 2021?,57.2%,"46% decrease 
+"
+Economy_of_Bulgaria,"Did the per capita increase, decrease, or remain the same from 2015 to 2016?",remained same,"Remained the same. 
+"
+Economy_of_Bulgaria,"Did the debt increase, decrease, or remain the same from 2016 to 2017?",decreased,"Decreased 
+"
+Economy_of_Bulgaria,List all the years in which revenue was lower than expenses.,"2015, 2017, 2016, 2018, 2022","2015, 2016, 2017, 2018 
+"
+Economy_of_Bulgaria,List all the years in which revenue was higher than expenses.,"2015, 2017, 2016, 2018, 2022","2019, 2022 
+"

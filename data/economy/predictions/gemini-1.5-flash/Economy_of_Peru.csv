@@ -1,0 +1,27 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Peru,What was Peru's highest expenses during the year when its gdp was at its lowest?,$39.5 billion,"$64.81 billion 
+"
+Economy_of_Peru,What was Peru's lowest gdp during the year when its expenses was at its highest?,$368 billion,"$225.203 billion 
+"
+Economy_of_Peru,Tell me the highest gdp figures Peru achieved during the year when the timeline shows the highest expenses figures.,$469.7 billion,"$64.81 billion 
+"
+Economy_of_Peru,In which years was the Peru's revenue the highest?,"2018, 2014","2014 and 2018 
+"
+Economy_of_Peru,In which years was the Peru's debt the lowest?,"2018, 2014","2014 and 2018 
+"
+Economy_of_Peru,In which years was the Peru's expenses the highest?,"2018, 2014","2019 
+"
+Economy_of_Peru,What was the percentage increase in Peru's revenue from 2012 to 2019?,56.9%,"90% increase 
+"
+Economy_of_Peru,What was the percentage decrease in Peru's debt from 2012 to 2014?,27.3%,"4.1% decrease 
+"
+Economy_of_Peru,What was the percentage increase in Peru's gdp from 2012 to 2018?,133.7%,"84.3% 
+"
+Economy_of_Peru,"Did the expenses increase, decrease, or remain the same from 2018 to 2019?",decreased,"Increased 
+"
+Economy_of_Peru,"Did the per capita increase, decrease, or remain the same from 2018 to 2019?",decreased,"Decreased 
+"
+Economy_of_Peru,List all the years in which revenue was higher than expenses.,"2012, 2011, 2019","2014, 2018 
+"
+Economy_of_Peru,List all the years in which revenue was lower than expenses.,"2012, 2011, 2019","2011, 2012, 2019 
+"

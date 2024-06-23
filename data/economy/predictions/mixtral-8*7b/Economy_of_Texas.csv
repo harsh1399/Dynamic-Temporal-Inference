@@ -1,0 +1,39 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Texas,Tell me the highest revenue figures Texas achieved during the year when the timeline shows the lowest poverty figures.,$183.3 billion,Revenue in 2023 was $183.3 billion with 10% poverty.
+Economy_of_Texas,Tell me the lowest expenses figures Texas achieved during the year when the timeline shows the lowest gdp figures.,$71.4094 billion,Expenses: $71.4094 billion (2018)
+Economy_of_Texas,In which years was the Texas's gdp the highest?,2023,"2023-12-31T09:06:31Z,
+2022-12-31T17:57:00Z"
+Economy_of_Texas,In which years was the Texas's revenue the lowest?,2018,"The revenue was the lowest in 2018.
+
+The revenue values given for each date are as follows:
+
+* December 31, 2018: $71.5447 billion
+* December 31, 2022: $150 billion
+* December 31, 2023: $183.3 billion
+
+Based on these values, the revenue was the lowest in 2018. The revenue value for 2018 is the smallest of the three."
+Economy_of_Texas,During which years did Texas experience its highest expenses?,"2023, 2022","2022-12-31T17:57:00Z, 2023-12-31T09:06:31Z"
+Economy_of_Texas,What was the percentage increase in Texas's expenses from 2018 to 2022?,40.0%,"The percentage increase in Texas's expenses from 2018 to 2022 is approximately 39.5%.
+
+Here's the calculation:
+
+* In 2018, Texas's expenses were $71.5447 billion.
+* In 2022, Texas's expenses were $100 billion.
+* The percentage increase is calculated as (new value - old value) / old value \* 100% = (100 - 71.5447) / 71.5447 \* 100% = 39.496% or approximately 39.5%.
+
+Confidence: 100%"
+Economy_of_Texas,What was the percentage increase in Texas's revenue from 2018 to 2022?,109.7%,109.8% increase
+Economy_of_Texas,What was the percentage increase in Texas's revenue from 2022 to 2023?,22.2%,Revenue increased by 164.3% from 2022 to 2023 in Texas.
+Economy_of_Texas,What was the percentage increase in Texas's gdp from 2022 to 2023?,14.3%,"14.28% increase in Texas's GDP from 2022 to 2023.
+
+The percentage increase in Texas's GDP from 2022 to 2023 can be calculated as follows:
+
+(2023 GDP - 2022 GDP) / 2022 GDP \* 100%
+= ($2.4 trillion - $2.1 trillion) / $2.1 trillion \* 100%
+= 0.1428 \* 100%
+= 14.28%
+
+Answer: 14.28% increase in Texas's GDP from 2022 to 2023."
+Economy_of_Texas,"Did the poverty increase, decrease, or remain the same from 2022 to 2023?",remained same,Poverty remained the same from 2022 to 2023.
+Economy_of_Texas,"Did the per capita increase, decrease, or remain the same from 2022 to 2023?",increased,Per capita increased from 2022 to 2023.
+Economy_of_Texas,"Did the gdp increase, decrease, or remain the same from 2022 to 2023?",increased,GDP increased from 2022 to 2023.

@@ -1,0 +1,20 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_West_Bengal,What was the percentage increase in West Bengal's debt from 2020 to 2021?,7.6%,"The timeline provided does not include information for ""West Bengal"". It only includes information for an entity referred to as ""West"". Therefore, I cannot provide an answer to the question as it relates to ""West Bengal"".
+
+However, based solely on the information presented in the timeline for the entity identified as ""West"", the percentage increase in debt from 2020 to 2021 was approximately 3.4%. This was calculated as (32.9 - 35.4) / 32.9 \* 100."
+Economy_of_West_Bengal,What was the percentage increase in West Bengal's debt from 2020 to 2023?,4.0%,"I'm sorry for the confusion, but the timeline provided does not seem to have consistent data for the entity ""West Bengal"" as mentioned in the question. The entity appearing in the timeline is referred to as ""West"" and not ""West Bengal."" Therefore, I cannot provide the exact answer to the question based on the information presented in the timeline.
+
+However, if you are interested in understanding the changes in debt percentage for the ""West"" entity, from 2020 to 2023, here are the values:
+
+In 2020, the debt percentage is 32.9%, while in 2023, the debt percentage is 34.23%.
+
+So, the percentage increase in debt for the ""West"" entity from 2020 to 2023 was approximately 3.44%."
+Economy_of_West_Bengal,What was the percentage increase in West Bengal's debt from 2020 to 2022?,4.0%,"The timeline provided does not include information for ""West Bengal"". It does have data for the ""West"", but without a clear relationship between ""West Bengal"" and the ""West"" established in the prompt, I cannot accurately answer the question.
+
+However, if we assume that the ""West"" refers to ""West Bengal"", then the percentage increase in debt from 2020 to 2022 for West Bengal would be approximately 3.93% (using the given percentages for debt: 32.9% in 2020 and 34.23% in 2022)."
+Economy_of_West_Bengal,"Did the debt increase, decrease, or remain the same from 2020 to 2021?",increased,The debt increased from 2020 to 2021.
+Economy_of_West_Bengal,"Did the expenses increase, decrease, or remain the same from 2019 to 2020?",increased,Expenses increased from 2019 to 2020.
+Economy_of_West_Bengal,List all the years in which revenue was higher than expenses.,"2023, 2019, 2018, 2020, 2022, 2021","2021, 2022, 2023"
+Economy_of_West_Bengal,List all the years in which revenue was lower than expenses.,"2023, 2019, 2018, 2020, 2022, 2021","2020, 2021, 2022, 2023
+
+Explanation: In the provided timeline, the revenue is lower than expenses in the years 2020, 2021, 2022, and 2023. You can verify this by comparing the ""revenue"" and ""expenses"" values for each year."

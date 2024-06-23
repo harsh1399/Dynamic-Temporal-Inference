@@ -1,0 +1,38 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Greenland,Tell me the lowest imports figures Greenland achieved during the year when the timeline shows the lowest gdp figures.,$599 million,Imports: $36.4 million (in 2015)
+Economy_of_Greenland,Tell me the highest debt figures Greenland achieved during the year when the timeline shows the highest exports figures.,$58 million,Debt at highest exports: $36.4 million
+Economy_of_Greenland,In which years was the Greenland's exports the lowest?,2015,Exports were the lowest in the year 2015.
+Economy_of_Greenland,In which years was the Greenland's debt the lowest?,2010,The debt was the lowest in the year 2015.
+Economy_of_Greenland,What was the percentage increase in Greenland's gdp from 2010 to 2019?,119.4%,119% increase in GDP.
+Economy_of_Greenland,What was the percentage decrease in Greenland's exports from 2010 to 2015?,5.7%,38.35% decrease in exports. (calculated as (404 - 381) / 404)
+Economy_of_Greenland,What was the percentage decrease in Greenland's imports from 2012 to 2019?,9.6%,"The percentage decrease in Greenland's imports from 2012 to 2019 is approximately 7.5%.
+
+Explanation:
+Calculate the ratio of the difference between the imports in 2012 and 2019 to the imports in 2012, then multiply by 100.
+
+Formula: (|Imports2012 - Imports2019| / Imports2012) \* 100
+
+= (|$867 million - $783.5 million| / $867 million) \* 100 
+
+= (|-$83.5 million| / $867 million) \* 100 
+
+= ($83.5 million / $867 million) \* 100 
+
+= 0.0963 \* 100 
+
+= 9.63% ≈ 7.5% (rounded for conciseness as per instruction)"
+Economy_of_Greenland,List all the years in which revenue was higher than expenses.,2012,"2012-12-31T14:15:52Z, 2015-12-31T16:10:38Z, 2019-12-31T01:23:33Z
+
+Explanation:
+
+To find the years where revenue was higher than expenses, we need to compare the revenue and expenses values for each year.
+
+In the provided timeline:
+
+* For the year 2010-12-31T17:19:58Z, revenue was $1.36 billion and expenses were $1.27 billion, so revenue is higher.
+* For the year 2012-12-31T14:15:52Z, revenue was $1.47 billion and expenses were $1.51 billion, so expenses are higher.
+* For the year 2015-12-31T16:10:38Z, revenue was $1.099 billion and expenses were also $1.099 billion, so revenue and expenses are equal.
+* For the year 2019-12-31T01:23:33Z, revenue was $1.099 billion and expenses were also $1.099 billion, so revenue and expenses are equal.
+
+Therefore, the answer is [2010-12-31T17:19:58Z, 2015-12-31T16:10:38Z, 2019-12-31T01:23:33Z], which are the years where revenue was higher than expenses."
+Economy_of_Greenland,List all the years in which revenue was lower than expenses.,2012,"2015, 2019"

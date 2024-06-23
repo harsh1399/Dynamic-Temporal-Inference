@@ -1,0 +1,25 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Nepal,What was Nepal's lowest exports during the year when its inflation was at its highest?,$ 1.2 Billion,"Exports: $2.69 billion, Inflation: 7.28% (2022)"
+Economy_of_Nepal,What was Nepal's highest inflation during the year when its exports was at its highest?,6.15% ,Inflation was 7.28% when exports were $2.69 billion.
+Economy_of_Nepal,During which years did Nepal experience its highest expenses?,2022,"2022-12-31T17:32:38Z, 2021-12-31T15:21:13Z.
+
+Nepal experienced its highest expenses in the years 2022-12-31T17:32:38Z and 2021-12-31T15:21:13Z with expenses amounting to 15.945 billion and 15.925 billion, respectively. Answer based solely on the provided timeline."
+Economy_of_Nepal,In which years was the Nepal's revenue the lowest?,2010,"2010, 2019.
+
+The revenue was the lowest in the years 2010 and 2019. In 2010, the revenue was $1.7 billion, and in 2019, it was $5.925 billion. These were the lowest values for revenue in the provided timeline."
+Economy_of_Nepal,What was the percentage decrease in Nepal's expenses from 2017 to 2021?,15.1%,25.2% decrease.
+Economy_of_Nepal,What was the percentage decrease in Nepal's gdp from 2017 to 2021?,46.3%,"The percentage decrease in Nepal's GDP from 2017 to 2021 is 10.3%.
+
+Here's the calculation:
+
+(2017 GDP - 2021 GDP) / 2017 GDP * 100 = (-15.33 billion / 67 billion) * 100 = -10.3%
+
+Note: The GDP value for 2017 is $67 billion and for 2021 is $36 billion."
+Economy_of_Nepal,"Did the per capita increase, decrease, or remain the same from 2019 to 2020?",increased,Per capita decreased from 2019 to 2020.
+Economy_of_Nepal,"Did the imports increase, decrease, or remain the same from 2010 to 2011?",increased,Imports increased from 2010 to 2011.
+Economy_of_Nepal,List all the years in which imports were lower than exports.,"2011, 2020, 2010, 2021","The years in which imports were lower than exports are:
+
+None. In all the given years, imports are higher than exports."
+Economy_of_Nepal,List all the years in which imports were higher than exports.,"2011, 2020, 2010, 2021","2011, 2013, 2017, 2019, 2020, 2021, 2022"
+Economy_of_Nepal,List all the years in which revenue was higher than expenses.,"2010, 2017, 2011, 2020, 2013, 2022, 2021",2022-12-31T17:32:38Z
+Economy_of_Nepal,List all the years in which revenue was lower than expenses.,"2010, 2017, 2011, 2020, 2013, 2022, 2021","2010-2011, 2011-2013, 2019-2020, 2020-2021, 2021-2022"

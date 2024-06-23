@@ -1,0 +1,14 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Karnataka,During which years did Karnataka experience its lowest debt?,2019,The years with the lowest debt for Karnataka were 2020-2021.
+Economy_of_Karnataka,During which years did Karnataka experience its highest debt?,2022,2022. Debt was 27.49%.
+Economy_of_Karnataka,What was the percentage increase in Karnataka's debt from 2019 to 2021?,2.1%,1.74% increase in debt from 2019 to 2021.
+Economy_of_Karnataka,What was the percentage increase in Karnataka's debt from 2020 to 2022?,41.0%,The percentage increase in Karnataka's debt from 2020 to 2022 is 41.2%.
+Economy_of_Karnataka,What was the percentage increase in Karnataka's debt from 2021 to 2022?,41.0%,42.44% increase.
+Economy_of_Karnataka,"Did the debt increase, decrease, or remain the same from 2019 to 2020?",increased,The debt increased from 19.1% in 2019 to 19.5% in 2020.
+Economy_of_Karnataka,"Did the per capita increase, decrease, or remain the same from 2020 to 2021?",increased,Per capita increased from 2020 to 2021.
+Economy_of_Karnataka,"Did the revenue increase, decrease, or remain the same from 2019 to 2020?",decreased,Revenue decreased from 2019 to 2020.
+Economy_of_Karnataka,List all the years in which revenue was lower than expenses.,"2019, 2022, 2020, 2021","2019, 2020, 2021"
+Economy_of_Karnataka,List all the years in which revenue was higher than expenses.,"2019, 2022, 2020, 2021","2022-12-31T08:42:31Z
+
+Explanation:
+In the provided timeline, there is only one instance where the revenue was higher than expenses, which is in the year 2022 (represented as ""2022-12-31T08:42:31Z""). In this year, the revenue was ""1.90"" and expenses were ""2.52%"". For all other years, the revenue was lower than the expenses."

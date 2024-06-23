@@ -1,0 +1,29 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Botswana,What was Botswana's lowest revenue during the year when its imports was at its lowest?,$4.556 billion,"$4.556 billion 
+"
+Economy_of_Botswana,What was Botswana's lowest poverty during the year when its debt was at its highest?,16.3% ,"16.3% 
+"
+Economy_of_Botswana,Tell me the lowest imports figures Botswana achieved during the year when the timeline shows the highest inflation figures.,$3.931 billion,"$3.931 billion 
+"
+Economy_of_Botswana,During which years did Botswana experience its highest inflation?,"2015, 2017, 2011, 2016","2011 and 2015 
+"
+Economy_of_Botswana,During which years did Botswana experience its highest gdp?,2015,"2019, 2018 
+"
+Economy_of_Botswana,What was the percentage decrease in Botswana's inflation from 2016 to 2018?,60.5%,"48.1% 
+"
+Economy_of_Botswana,What was the percentage decrease in Botswana's poverty from 2016 to 2018?,18.5%,"18.5% 
+"
+Economy_of_Botswana,"Did the exports increase, decrease, or remain the same from 2016 to 2017?",remained same,"Remain the same 
+"
+Economy_of_Botswana,"Did the imports increase, decrease, or remain the same from 2018 to 2019?",increased,"Increased 
+"
+Economy_of_Botswana,"Did the per capita increase, decrease, or remain the same from 2016 to 2017?",increased,"Increased 
+"
+Economy_of_Botswana,List all the years in which imports were lower than exports.,"2015, 2019, 2017, 2011, 2018, 2016","2011, 2015, 2016, 2017, 2018 
+"
+Economy_of_Botswana,List all the years in which imports were higher than exports.,"2015, 2019, 2017, 2011, 2018, 2016","2019 
+"
+Economy_of_Botswana,List all the years in which revenue was lower than expenses.,2019,"2019 
+"
+Economy_of_Botswana,List all the years in which revenue was higher than expenses.,2019,"2011, 2015, 2016, 2017, 2019 
+"

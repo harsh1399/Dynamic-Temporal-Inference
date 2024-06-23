@@ -1,0 +1,27 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Honduras,What was Honduras's lowest gdp during the year when its revenue was at its highest?,$22.68 billion,"$18.55 billion 
+"
+Economy_of_Honduras,What was Honduras's highest debt during the year when its revenue was at its highest?,51.9% of GDP,"51.9% of GDP 
+"
+Economy_of_Honduras,During which years did Honduras experience its highest imports?,2017,"2017 and 2018 
+"
+Economy_of_Honduras,In which years was the Honduras's revenue the lowest?,2017,"2017 and 2019 
+"
+Economy_of_Honduras,During which years did Honduras experience its highest revenue?,2018,"2018 
+"
+Economy_of_Honduras,What was the percentage decrease in Honduras's inflation from 2017 to 2018?,23.1%,"1.2% 
+"
+Economy_of_Honduras,What was the percentage increase in Honduras's exports from 2017 to 2018?,3.5%,"2.8% 
+"
+Economy_of_Honduras,What was the percentage increase in Honduras's exports from 2017 to 2019?,3.5%,"2.8% increase 
+"
+Economy_of_Honduras,What was the percentage increase in Honduras's debt from 2017 to 2019?,45.0%,"16.1% increase 
+"
+Economy_of_Honduras,"Did the gdp increase, decrease, or remain the same from 2018 to 2019?",increased,"Increased 
+"
+Economy_of_Honduras,"Did the inflation increase, decrease, or remain the same from 2017 to 2018?",decreased,"Decreased. 
+"
+Economy_of_Honduras,List all the years in which revenue was lower than expenses.,"2019, 2017, 2018","2017, 2019 
+"
+Economy_of_Honduras,List all the years in which revenue was higher than expenses.,"2019, 2017, 2018","2017, 2019 
+"

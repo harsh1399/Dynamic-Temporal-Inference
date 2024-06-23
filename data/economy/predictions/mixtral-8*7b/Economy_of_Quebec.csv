@@ -1,0 +1,26 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Quebec,Tell me the highest gdp figures Quebec achieved during the year when the timeline shows the highest exports figures.,$ 365.6 billion,"GDP: $365.6 billion, exports: $147.6 billion."
+Economy_of_Quebec,What was Quebec's highest gdp during the year when its imports was at its lowest?,$ 365.6 billion,"GDP in 2021 was highest at $365.6 billion, but imports did not reach their lowest value in that year. The imports remained constant at $167.0 billion throughout the timeline. Therefore, the answer to the question is not available in the provided data."
+Economy_of_Quebec,What was Quebec's highest exports during the year when its gdp was at its lowest?,147.6 billion,Exports remained constant at $147.6 billion.
+Economy_of_Quebec,During which years did Quebec experience its highest imports?,"2009, 2011, 2018, 2022, 2021",Imports were unchanged from 2011 to 2022.
+Economy_of_Quebec,During which years did Quebec experience its highest exports?,"2009, 2011, 2018, 2022, 2021",Exports remained constant at $147.6 billion from 2011 to 2022.
+Economy_of_Quebec,What was the percentage increase in Quebec's gdp from 2011 to 2018?,17.9%,16.34% increase.
+Economy_of_Quebec,What was the percentage increase in Quebec's gdp from 2009 to 2011?,6.6%,The percentage increase in Quebec's GDP from 2009 to 2011 was approximately 6.63%.
+Economy_of_Quebec,What was the percentage increase in Quebec's gdp from 2018 to 2021?,2.1%,"The percentage increase in Quebec's GDP from 2018 to 2021 is approximately 16.0%.
+
+To calculate this, we can use the formula:
+
+(GDP in 2021 - GDP in 2018) / GDP in 2018 \* 100%
+
+= ($365.6 billion - $358.0 billion) / $358.0 billion \* 100%
+
+= $7.6 billion / $358.0 billion \* 100%
+
+= 0.02123 \* 100%
+
+= 2.123%
+
+Therefore, the percentage increase in Quebec's GDP from 2018 to 2021 is approximately 2.123%, or 16.0% when rounded to the nearest whole number."
+Economy_of_Quebec,"Did the gdp increase, decrease, or remain the same from 2021 to 2022?",remained same,GDP remained the same from 2021 to 2022.
+Economy_of_Quebec,"Did the per capita increase, decrease, or remain the same from 2021 to 2022?",remained same,Per capita remained the same from 2021 to 2022.
+Economy_of_Quebec,"Did the exports increase, decrease, or remain the same from 2021 to 2022?",remained same,Remained the same.

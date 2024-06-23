@@ -1,0 +1,30 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Nicaragua,What was Nicaragua's highest revenue during the year when its poverty was at its lowest?,3.871 billion,"Revenue in 2019 was $3.871 billion, but poverty was not at its lowest. The lowest poverty rate was 29.6% in 2019, but the revenue was higher than any previous year. However, poverty was at 44.7% in 2011, 2012, 2014, 2017, and 2018, and revenue was highest in 2014 at $2.619 billion. Therefore, Nicaragua's highest revenue during the year when its poverty was at its lowest was $3.871 billion in 2019."
+Economy_of_Nicaragua,Tell me the lowest imports figures Nicaragua achieved during the year when the timeline shows the lowest poverty figures.,$6.613 billion,Imports figure is $3.819 billion.
+Economy_of_Nicaragua,What was Nicaragua's lowest exports during the year when its gdp was at its lowest?,$3.819 billion,"In the given timeline, the lowest exports value is associated with the GDP of $13.258 billion. However, there is no exact corresponding date or time provided in the timeline for this GDP value. I would need to know the exact date or time corresponding to this GDP value in order to provide the answer for Nicaragua's lowest exports during that year.
+
+Without the specific date, the closest approximation I can give is:
+
+Exports for GDP of $13.258 billion: $3.819 billion."
+Economy_of_Nicaragua,In which years was the Nicaragua's gdp the lowest?,2019,"The GDP of Nicaragua was the lowest in the year 2019, as indicated by the timeline data: ""$13.258 billion""."
+Economy_of_Nicaragua,During which years did Nicaragua experience its highest gdp?,"2017, 2018, 2014","The highest GDP of $19.89 billion was experienced by Nicaragua in the years 2014, 2017, and 2018."
+Economy_of_Nicaragua,What was the percentage increase in Nicaragua's inflation from 2011 to 2014?,100.0%,"The percentage increase in Nicaragua's inflation from 2011 to 2014 was approximately 100.0%.
+
+Explanation: In 2011, the inflation rate in Nicaragua was 3.7% and it increased to 7.4% in 2014. Therefore, the percentage increase in inflation was (7.4-3.7)/3.7 \* 100% = 100.0%.
+
+Confidence: 100%"
+Economy_of_Nicaragua,What was the percentage increase in Nicaragua's revenue from 2012 to 2014?,117.2%,Revenue increased by 117.04% from 2012 to 2014.
+Economy_of_Nicaragua,What was the percentage decrease in Nicaragua's gdp from 2011 to 2019?,22.1%,"The percentage decrease in Nicaragua's GDP from 2011 to 2019 was approximately 22.3%.
+
+Here's the calculation:
+
+(2011 GDP - 2019 GDP) / 2011 GDP = -0.223 or -22.3%
+
+(Note that the 2011 GDP value was used from the timeline even though it was repeated for 2012.)"
+Economy_of_Nicaragua,What was the percentage increase in Nicaragua's exports from 2011 to 2018?,77.5%,77.5% increase.
+Economy_of_Nicaragua,"Did the poverty increase, decrease, or remain the same from 2017 to 2018?",remained same,"Remained the same.
+
+The timeline shows that the poverty rate for Nicaragua in the year 2017 was 44.7% and it remained the same in the year 2018. Therefore, the poverty rate did not increase or decrease from 2017 to 2018."
+Economy_of_Nicaragua,"Did the expenses increase, decrease, or remain the same from 2011 to 2012?",remained same,Remained the same.
+Economy_of_Nicaragua,List all the years in which revenue was higher than expenses.,"2012, 2011, 2019","2011, 2014, 2018, 2019"
+Economy_of_Nicaragua,List all the years in which revenue was lower than expenses.,"2012, 2011, 2019","2011, 2012, 2014, 2017, 2018, 2019"

@@ -1,0 +1,14 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Russia,Tell me the highest debt figures Russia achieved during the year when the timeline shows the highest revenue figures.,13.4% of GDP,13.4% of GDP in 2015.
+Economy_of_Russia,What was Russia's highest poverty during the year when its expenses was at its lowest?,13.4% ,"Russia's highest poverty was 15.8% in 2010, when its expenses were at $301.4 billion."
+Economy_of_Russia,During which years did Russia experience its lowest imports?,2016,2016.
+Economy_of_Russia,During which years did Russia experience its lowest exports?,2016,2016
+Economy_of_Russia,In which years was the Russia's debt the highest?,2016,2015 and 2016.
+Economy_of_Russia,What was the percentage increase in Russia's imports from 2015 to 2017?,13.3%,13.7%
+Economy_of_Russia,What was the percentage increase in Russia's gdp from 2015 to 2019?,32.0%,Around 32% increase.
+Economy_of_Russia,"Did the exports increase, decrease, or remain the same from 2017 to 2018?",increased,Exports increased from 2017 to 2018.
+Economy_of_Russia,"Did the per capita increase, decrease, or remain the same from 2015 to 2016?",decreased,Decreased.
+Economy_of_Russia,List all the years in which imports were lower than exports.,"2015, 2010, 2019, 2017, 2016, 2018","2010, 2015, 2018."
+Economy_of_Russia,List all the years in which imports were higher than exports.,"2015, 2010, 2019, 2017, 2016, 2018","2010, 2015, 2017."
+Economy_of_Russia,List all the years in which revenue was higher than expenses.,"2010, 2019, 2017, 2016, 2018","2015, 2019."
+Economy_of_Russia,List all the years in which revenue was lower than expenses.,"2010, 2019, 2017, 2016, 2018","2010, 2016, 2017, 2018, 2019."

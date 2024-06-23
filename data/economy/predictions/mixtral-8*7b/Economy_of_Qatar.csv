@@ -1,0 +1,14 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Qatar,What was Qatar's highest inflation during the year when its gdp was at its lowest?,15.2% ,Inflation was 15.2% when GDP was at its lowest in 2011.
+Economy_of_Qatar,Tell me the lowest gdp figures Qatar achieved during the year when the timeline shows the lowest revenue figures.,$83.29 billion,$183.807 billion (2018)
+Economy_of_Qatar,During which years did Qatar experience its highest gdp?,2019,"2019-12-31T10:23:54Z, 2020-12-31T01:52:33Z"
+Economy_of_Qatar,In which years was the Qatar's expenses the lowest?,2011,"2011, 2018-2019."
+Economy_of_Qatar,What was the percentage decrease in Qatar's inflation from 2017 to 2019?,43.8%,The percentage decrease in Qatar's inflation from 2017 to 2019 was 64.3%.
+Economy_of_Qatar,What was the percentage increase in Qatar's gdp from 2011 to 2019?,340.2%,The percentage increase in Qatar's GDP from 2011 to 2019 was approximately 334%.
+Economy_of_Qatar,What was the percentage increase in Qatar's gdp from 2017 to 2019?,114.4%,"The percentage increase in Qatar's GDP from 2017 to 2019 was approximately 107.1%. This was calculated by taking the difference in GDP between the 2019 and 2017 timestamps and dividing it by the 2017 GDP, then multiplying by 100 to get a percentage increase."
+Economy_of_Qatar,What was the percentage increase in Qatar's revenue from 2011 to 2018?,79.3%,83.54% increase.
+Economy_of_Qatar,"Did the per capita increase, decrease, or remain the same from 2018 to 2019?",remained same,Remained the same.
+Economy_of_Qatar,"Did the revenue increase, decrease, or remain the same from 2017 to 2018?",increased,Revenue increased from 2017 to 2018.
+Economy_of_Qatar,"Did the debt increase, decrease, or remain the same from 2019 to 2020?",remained same,Debt remained the same from 2019 to 2020.
+Economy_of_Qatar,List all the years in which revenue was higher than expenses.,2017,"2018, 2019"
+Economy_of_Qatar,List all the years in which revenue was lower than expenses.,2017,"2017-12-31T16:34:45Z, 2018-12-31T18:36:12Z, 2019-12-31T10:23:54Z"

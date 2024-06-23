@@ -1,0 +1,26 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Laos,Tell me the highest expenses figures Laos achieved during the year when the timeline shows the lowest exports figures.,$1.129 billion,"Expenses: $4.038 billion, Exports: $2.13 billion."
+Economy_of_Laos,What was Laos's highest poverty during the year when its expenses was at its highest?,22% ,Poverty was 22% in 2019.
+Economy_of_Laos,In which years was the Laos's gdp the highest?,2017,"2020-12-31T15:40:16Z, 2017-12-31T12:41:18Z"
+Economy_of_Laos,In which years was the Laos's imports the highest?,2019,"2019-12-31T09:07:01Z, 2020-12-31T15:40:16Z"
+Economy_of_Laos,In which years was the Laos's inflation the lowest?,2012,"The years with the lowest inflation for Laos were 2019 and 2020, with an inflation rate of 2.3% and 2.039%, respectively."
+Economy_of_Laos,What was the percentage decrease in Laos's revenue from 2019 to 2020?,1.4%,"The percentage decrease in Laos's revenue from 2019 to 2020 was approximately 17.4%.
+
+Here's how I arrived at that answer:
+
+In 2019, Laos's revenue was $3.144 billion.
+In 2020, Laos's revenue was $3.099 billion.
+
+To find the percentage decrease, divide the difference between the two amounts by the original amount, then multiply by 100:
+
+(3.144 - 3.099) / 3.144 \* 100 = 17.4%
+
+So, Laos's revenue decreased by approximately 17.4% from 2019 to 2020."
+Economy_of_Laos,What was the percentage increase in Laos's exports from 2012 to 2013?,93.0%,"93.1% increase. 
+
+The exports in 2012 were $1.104 billion, and in 2013, they were $2.131 billion. The percentage increase can be calculated as ((2.131 - 1.104) / 1.104) \* 100 = 93.1%."
+Economy_of_Laos,"Did the per capita increase, decrease, or remain the same from 2019 to 2020?",increased,Per capita increased from 2019 to 2020.
+Economy_of_Laos,"Did the expenses increase, decrease, or remain the same from 2012 to 2013?",increased,Expenses increased from 2012 to 2013.
+Economy_of_Laos,"Did the debt increase, decrease, or remain the same from 2012 to 2013?",remained same,Debt remained the same from 2012 to 2013.
+Economy_of_Laos,List all the years in which revenue was higher than expenses.,"2019, 2020, 2013","2017-12-31T12:41:18Z, 2020-12-31T15:40:16Z"
+Economy_of_Laos,List all the years in which revenue was lower than expenses.,"2019, 2020, 2013","2012, 2013, 2019, 2020"

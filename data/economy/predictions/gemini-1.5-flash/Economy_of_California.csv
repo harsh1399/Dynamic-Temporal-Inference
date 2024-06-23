@@ -1,0 +1,23 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_California,Tell me the highest poverty figures California achieved during the year when the timeline shows the lowest expenses figures.,14.3% ,"13.3% 
+"
+Economy_of_California,Tell me the lowest expenses figures California achieved during the year when the timeline shows the highest poverty figures.,$220 billion,"$220 billion 
+"
+Economy_of_California,In which years was the California's poverty the highest?,2017,"2017 and 2018 
+"
+Economy_of_California,During which years did California experience its lowest gdp?,2017,"2017 and 2018 
+"
+Economy_of_California,What was the percentage increase in California's gdp from 2019 to 2022?,11.9%,"11.6% 
+"
+Economy_of_California,What was the percentage increase in California's expenses from 2018 to 2022?,30.0%,"30.9% 
+"
+Economy_of_California,What was the percentage increase in California's expenses from 2019 to 2022?,30.0%,"30.9% 
+"
+Economy_of_California,What was the percentage decrease in California's poverty from 2017 to 2023?,7.0%,"1.0% decrease 
+"
+Economy_of_California,"Did the expenses increase, decrease, or remain the same from 2018 to 2019?",remained same,"Remained the same. 
+"
+Economy_of_California,"Did the per capita increase, decrease, or remain the same from 2017 to 2018?",increased,"Increased 
+"
+Economy_of_California,"Did the per capita increase, decrease, or remain the same from 2018 to 2019?",increased,"Increased 
+"

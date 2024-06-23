@@ -1,0 +1,29 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_the_United_States,What was the United States's highest expenses during the year when its gdp was at its highest?,$3.601 trillion,"$3.601 trillion 
+"
+Economy_of_the_United_States,What was the United States's highest inflation during the year when its gdp was at its lowest?,1.1% ,"1.1% 
+"
+Economy_of_the_United_States,What was the United States's lowest expenses during the year when its inflation was at its highest?,$3.601 trillion,"This information cannot be answered as the provided timeline does not include data on the United States. 
+"
+Economy_of_the_United_States,In which years was the the United States's poverty the highest?,2011,"2011 
+"
+Economy_of_the_United_States,In which years was the the United States's imports the highest?,2011,"2011 
+"
+Economy_of_the_United_States,During which years did the United States experience its lowest gdp?,2010,"The provided data does not contain information about the United States. 
+"
+Economy_of_the_United_States,What was the percentage increase in the United States's inflation from 2010 to 2011?,254.5%,"2.8% 
+"
+Economy_of_the_United_States,What was the percentage increase in the United States's imports from 2010 to 2011?,24.2%,"24% 
+"
+Economy_of_the_United_States,What was the percentage increase in the United States's poverty from 2010 to 2011?,5.6%,"0.8% 
+"
+Economy_of_the_United_States,"Did the imports increase, decrease, or remain the same from 2010 to 2011?",increased,"Increase 
+"
+Economy_of_the_United_States,"Did the gdp increase, decrease, or remain the same from 2010 to 2011?",increased,"Increase 
+"
+Economy_of_the_United_States,"Did the per capita increase, decrease, or remain the same from 2010 to 2011?",increased,"Increase 
+"
+Economy_of_the_United_States,List all the years in which revenue was lower than expenses.,"2011, 2010","2010, 2011 
+"
+Economy_of_the_United_States,List all the years in which revenue was higher than expenses.,"2011, 2010","No such year found. 
+"

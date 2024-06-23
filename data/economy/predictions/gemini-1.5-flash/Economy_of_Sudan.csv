@@ -1,0 +1,27 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Sudan,Tell me the lowest debt figures Sudan achieved during the year when the timeline shows the highest exports figures.,104.5% of GDP,"104.5% of GDP 
+"
+Economy_of_Sudan,Tell me the highest inflation figures Sudan achieved during the year when the timeline shows the lowest revenue figures.,32.4% ,"32.4% 
+"
+Economy_of_Sudan,Tell me the highest gdp figures Sudan achieved during the year when the timeline shows the highest revenue figures.,$100 billion,"$100 billion 
+"
+Economy_of_Sudan,In which years was the Sudan's debt the highest?,"2011, 2018, 2016, 2013","All years listed. 
+"
+Economy_of_Sudan,During which years did Sudan experience its lowest revenue?,2018,"2018 
+"
+Economy_of_Sudan,During which years did Sudan experience its highest inflation?,2018,"2018 
+"
+Economy_of_Sudan,What was the percentage increase in Sudan's imports from 2013 to 2018?,20.5%,"No increase 
+"
+Economy_of_Sudan,What was the percentage decrease in Sudan's inflation from 2013 to 2016?,1.5%,"19.7% 
+"
+Economy_of_Sudan,What was the percentage decrease in Sudan's exports from 2016 to 2018?,51.6%,"51% 
+"
+Economy_of_Sudan,List all the years in which imports were lower than exports.,"2011, 2016, 2013","2011, 2013, 2016 
+"
+Economy_of_Sudan,List all the years in which imports were higher than exports.,"2011, 2016, 2013","2018 
+"
+Economy_of_Sudan,List all the years in which revenue was higher than expenses.,"2011, 2018, 2016, 2013","None. 
+"
+Economy_of_Sudan,List all the years in which revenue was lower than expenses.,"2011, 2018, 2016, 2013","2011, 2018 
+"

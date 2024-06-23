@@ -1,0 +1,28 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Peru,What was Peru's highest expenses during the year when its gdp was at its lowest?,$39.5 billion,"The timeline provided does not include a year where GDP was at its lowest and expenses were at their highest for Peru.
+The lowest GDP is in 2019-12-31T19:23:37Z at $225.203 billion while the highest expenses is in 2018-12-31T22:01:11Z at $66.42 billion, but the GDP in 2018-12-31T22:01:11Z is $469.7 billion.
+There is no year in this timeline where both conditions are met."
+Economy_of_Peru,What was Peru's lowest gdp during the year when its expenses was at its highest?,$368 billion,$225.203 billion (2019).
+Economy_of_Peru,Tell me the highest gdp figures Peru achieved during the year when the timeline shows the highest expenses figures.,$469.7 billion,$469.7 billion (2018)
+Economy_of_Peru,In which years was the Peru's revenue the highest?,"2018, 2014","2018-12-31T22:01:11Z, 2019-12-31T19:23:37Z"
+Economy_of_Peru,In which years was the Peru's debt the lowest?,"2018, 2014","The years with the lowest debt as a percentage of GDP for Peru were 2011 and 2014, with a debt level of 15% of GDP."
+Economy_of_Peru,In which years was the Peru's expenses the highest?,"2018, 2014","2019-12-31T19:23:37Z, 2018-12-31T22:01:11Z"
+Economy_of_Peru,What was the percentage increase in Peru's revenue from 2012 to 2019?,56.9%,56.7% increase.
+Economy_of_Peru,What was the percentage decrease in Peru's debt from 2012 to 2014?,27.3%,"22.22% decrease
+
+Explanation:
+
+In 2012, Peru's debt was 15% of GDP. In 2014, it was 10.9% of GDP.
+
+To find the percentage decrease, use the formula:
+
+[ (Initial value - Final value) / |Initial value| ] * 100%
+
+Percentage decrease = [ (15 - 10.9) / |15| ] * 100%
+
+Percentage decrease = 22.22%"
+Economy_of_Peru,What was the percentage increase in Peru's gdp from 2012 to 2018?,133.7%,54.25% increase.
+Economy_of_Peru,"Did the expenses increase, decrease, or remain the same from 2018 to 2019?",decreased,Expenses decreased from 2018 to 2019.
+Economy_of_Peru,"Did the per capita increase, decrease, or remain the same from 2018 to 2019?",decreased,Per capita decreased from 2018 to 2019.
+Economy_of_Peru,List all the years in which revenue was higher than expenses.,"2012, 2011, 2019",The years in which revenue was higher than expenses are 2014 and 2018.
+Economy_of_Peru,List all the years in which revenue was lower than expenses.,"2012, 2011, 2019","The years in which revenue was lower than expenses are 2011, 2012, 2019."

@@ -1,0 +1,31 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Telangana,Tell me the lowest debt figures Telangana achieved during the year when the timeline shows the lowest inflation figures.,21.4% ,"20.7% 
+"
+Economy_of_Telangana,Tell me the highest debt figures Telangana achieved during the year when the timeline shows the lowest inflation figures.,21.4% ,"21.4% 
+"
+Economy_of_Telangana,What was Telangana's highest debt during the year when its inflation was at its highest?,25.29% ,"25.29% 
+"
+Economy_of_Telangana,In which years was the Telangana's debt the highest?,2022,"2022 
+"
+Economy_of_Telangana,In which years was the Telangana's debt the lowest?,"2020, 2021","2020 and 2021 
+"
+Economy_of_Telangana,During which years did Telangana experience its lowest inflation?,2019,"2019 and 2022 
+"
+Economy_of_Telangana,What was the percentage increase in Telangana's debt from 2019 to 2022?,18.2%,"18.1% 
+"
+Economy_of_Telangana,What was the percentage decrease in Telangana's debt from 2019 to 2021?,3.3%,"No change 
+"
+Economy_of_Telangana,What was the percentage increase in Telangana's inflation from 2019 to 2021?,73.5%,"70.3% 
+"
+Economy_of_Telangana,What was the percentage increase in Telangana's inflation from 2019 to 2022?,73.5%,"71.8% 
+"
+Economy_of_Telangana,"Did the inflation increase, decrease, or remain the same from 2020 to 2021?",remained same,"Remained the same. 
+"
+Economy_of_Telangana,"Did the revenue increase, decrease, or remain the same from 2020 to 2021?",remained same,"Remained the same. 
+"
+Economy_of_Telangana,"Did the inflation increase, decrease, or remain the same from 2021 to 2022?",remained same,"Remained the same. 
+"
+Economy_of_Telangana,List all the years in which revenue was lower than expenses.,"2019, 2022, 2020, 2021","2019, 2020, 2021, 2022 
+"
+Economy_of_Telangana,List all the years in which revenue was higher than expenses.,"2019, 2022, 2020, 2021","2019, 2022 
+"

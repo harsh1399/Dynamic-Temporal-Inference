@@ -1,0 +1,24 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Egypt,What was Egypt's lowest poverty during the year when its debt was at its lowest?,27.8% ,"26%, in 2015 (based on data provided). However, the timeline starts in 2015, so there is no data for debt levels in prior years to compare. Therefore, the lowest debt level and corresponding poverty rate cannot be determined solely from the provided data."
+Economy_of_Egypt,Tell me the highest exports figures Egypt achieved during the year when the timeline shows the lowest poverty figures.,$27.15 billion,$47.45 billion (2020)
+Economy_of_Egypt,In which years was the Egypt's imports the lowest?,2018,"2015, 2020.
+(Note: The timeline provided starts from Dec 31, 2015, and imports were the lowest at $27.15 billion in 2015 and $47.45 billion in 2020.)"
+Economy_of_Egypt,During which years did Egypt experience its lowest inflation?,2021,"2015-12-31, 2020-12-31"
+Economy_of_Egypt,What was the percentage increase in Egypt's gdp from 2019 to 2021?,58.0%,60.5% increase.
+Economy_of_Egypt,What was the percentage decrease in Egypt's expenses from 2015 to 2021?,5.0%,"There was a 16.2% decrease in Egypt's expenses from 2015 to 2021.
+
+Explanation:
+To calculate the percentage decrease in Egypt's expenses from 2015 to 2021, we first need to identify the initial and final expense values, and then apply the formula for percentage change.
+
+1. From the timeline, the initial expenses in 2015 were $100.8 billion.
+2. The final expenses in 2021 were $58 billion.
+3. Use the formula: Percentage Change = [(Final Value - Initial Value) / |Initial Value|] * 100%
+4. Plug in the values: Percentage Change = [($58 billion - $100.8 billion) / $100.8 billion] * 100%
+5. Calculate the result: Percentage Change ≈ -$42.8 billion / $100.8 billion * 100% ≈ -42.4%
+
+Thus, there was a 16.2% decrease in Egypt's expenses from 2015 to 2021. Note that this value is negative, but the question asks for a percentage decrease, so we discard the negative sign."
+Economy_of_Egypt,What was the percentage increase in Egypt's revenue from 2017 to 2020?,18.4%,0% increase in revenue from 2017 to 2020.
+Economy_of_Egypt,"Did the imports increase, decrease, or remain the same from 2017 to 2018?",decreased,Imports increased from 2017 to 2018.
+Economy_of_Egypt,"Did the poverty increase, decrease, or remain the same from 2018 to 2019?",remained same,Poverty increased from 27.8% in 2018 to 27.8% in 2019.
+Economy_of_Egypt,List all the years in which revenue was higher than expenses.,"2015, 2019, 2017, 2018, 2020, 2021","2018-12-31T13:13:16Z, 2019-12-31T23:31:09Z, 2020-12-31T06:11:28Z, 2021-12-31T18:54:55Z"
+Economy_of_Egypt,List all the years in which revenue was lower than expenses.,"2015, 2019, 2017, 2018, 2020, 2021","2019, 2020, 2021"

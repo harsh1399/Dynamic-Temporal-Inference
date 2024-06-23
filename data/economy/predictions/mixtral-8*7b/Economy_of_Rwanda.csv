@@ -1,0 +1,17 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Rwanda,Tell me the lowest imports figures Rwanda achieved during the year when the timeline shows the lowest exports figures.,$1.922 billion,"Imports: $152.8 million (2011, 2015)"
+Economy_of_Rwanda,Tell me the lowest imports figures Rwanda achieved during the year when the timeline shows the highest inflation figures.,$365.7 million,Imports were $152.8 million in 2011.
+Economy_of_Rwanda,During which years did Rwanda experience its highest poverty?,"2015, 2011","2011, 2015 (poverty rate: 55% in both years)."
+Economy_of_Rwanda,In which years was the Rwanda's gdp the lowest?,2011,"2011, 2015 (GDP: $3.7 billion)"
+Economy_of_Rwanda,What was the percentage increase in Rwanda's gdp from 2011 to 2019?,157.1%,The percentage increase in Rwanda's GDP from 2011 to 2019 is 155.6%.
+Economy_of_Rwanda,What was the percentage decrease in Rwanda's poverty from 2015 to 2019?,28.9%,"The percentage decrease in Rwanda's poverty from 2015 to 2019 was approximately 22.7%. This was calculated by subtracting the poverty rate in 2019 (39.1%) from the poverty rate in 2015 (55%), and then dividing that number by the poverty rate in 2015 and multiplying by 100 to get the percentage change."
+Economy_of_Rwanda,What was the percentage decrease in Rwanda's inflation from 2015 to 2019?,79.6%,Inflation decreased by 5.136%.
+Economy_of_Rwanda,"Did the poverty increase, decrease, or remain the same from 2018 to 2019?",decreased,Poverty decreased from 2018 to 2019.
+Economy_of_Rwanda,"Did the inflation increase, decrease, or remain the same from 2019 to 2020?",remained same,Remained the same.
+Economy_of_Rwanda,List all the years in which imports were higher than exports.,2018,"2011, 2015, 2018, 2019, 2020.
+
+Explanation:
+For each year in the timeline, compare the ""exports"" value to the ""imports"" value. If ""imports"" is higher, then include that year in the response. After reviewing all entries in the provided timeline, the years with higher imports compared to exports are 2011, 2015, 2018, 2019, and 2020."
+Economy_of_Rwanda,List all the years in which imports were lower than exports.,2018,"2011, 2019, 2020"
+Economy_of_Rwanda,List all the years in which revenue was lower than expenses.,"2015, 2019, 2011, 2018, 2020","2011, 2015, 2018, 2019, 2020"
+Economy_of_Rwanda,List all the years in which revenue was higher than expenses.,"2015, 2019, 2011, 2018, 2020","2019-12-31T20:52:29Z, 2020-12-31T20:13:07Z"

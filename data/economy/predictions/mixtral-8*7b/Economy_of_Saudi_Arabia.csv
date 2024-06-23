@@ -1,0 +1,53 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Saudi_Arabia,What was Saudi Arabia's lowest gdp during the year when its inflation was at its highest?,$1.679 trillion,$740.123 billion in 2019 with 100% inflation.
+Economy_of_Saudi_Arabia,Tell me the highest imports figures Saudi Arabia achieved during the year when the timeline shows the lowest debt figures.,$136.8 billion,$221.1 billion (2020-2023)
+Economy_of_Saudi_Arabia,What was Saudi Arabia's lowest expenses during the year when its debt was at its highest?,$227.8 billion,"$210.6 billion in 2016, with 15% of GDP debt in 2019.
+
+ (Note: Despite the highest debt of ""15% of GDP"" being in the 2019 data, the lowest expenses figure of ""$210.6 billion"" is from the 2016 data; no year has both the highest debt and the lowest expenses.)"
+Economy_of_Saudi_Arabia,In which years was the Saudi Arabia's exports the lowest?,2017,"The exports were the lowest in 2019 and 2020, both at $231.3 billion."
+Economy_of_Saudi_Arabia,During which years did Saudi Arabia experience its lowest imports?,"2023, 2020","The years with the lowest imports for Saudi Arabia are 2013 and 2019, both with imports of $136.8 billion."
+Economy_of_Saudi_Arabia,What was the percentage increase in Saudi Arabia's imports from 2016 to 2017?,15.3%,"The percentage increase in Saudi Arabia's imports from 2016 to 2017 is 9.3%.
+
+This was calculated by taking the difference in the value of imports between the two years and dividing it by the value in 2016, then multiplying by 100.
+
+In the given timeline, the value of imports in 2016 is $136.8 billion and in 2017 is $157.7 billion.
+
+The calculation is as follows:
+
+(157.7 - 136.8) / 136.8 \* 100 = 9.3%
+
+So, the percentage increase in Saudi Arabia's imports from 2016 to 2017 was 9.3%."
+Economy_of_Saudi_Arabia,What was the percentage decrease in Saudi Arabia's inflation from 2016 to 2019?,99.8%,"99.8% decrease in inflation from 2016 to 2019.
+
+Explanation:
+- In 2016, the inflation rate in Saudi Arabia was 100%, and
+- in 2019, it had decreased to 0.2%.
+- To find the percentage decrease, we subtract the later number from the earlier one, divide by the absolute value of the earlier number, and then multiply by 100:
+  - Percentage decrease = (0.2% - 100%) / 100% * 100% = -99.8%
+  - This means there was a 99.8% decrease in inflation from 2016 to 2019."
+Economy_of_Saudi_Arabia,"Did the per capita increase, decrease, or remain the same from 2019 to 2020?",decreased,Per capita increased from 2019 to 2020.
+Economy_of_Saudi_Arabia,"Did the imports increase, decrease, or remain the same from 2016 to 2017?",increased,Imports decreased from 2016 to 2017.
+Economy_of_Saudi_Arabia,List all the years in which imports were lower than exports.,"2023, 2019, 2017, 2016, 2020, 2013","2013-12-31T22:31:59Z,
+ 2016-12-31T12:27:09Z,
+ 2017-12-31T16:39:32Z,
+ 2019-12-31T15:34:42Z,
+ 2020-12-31T09:05:50Z,
+ 2023-12-31T01:24:14Z
+
+Explanation: In all the provided timestamps, the value of exports is always higher than the value of imports, except in the case where data for both imports and exports is the same at a particular timestamp."
+Economy_of_Saudi_Arabia,List all the years in which imports were higher than exports.,"2023, 2019, 2017, 2016, 2020, 2013","The years in which imports were higher than exports for the given entity are:
+
+1. 2016-12-31T12:27:09Z
+2. 2019-12-31T15:34:42Z"
+Economy_of_Saudi_Arabia,List all the years in which revenue was lower than expenses.,"2023, 2019, 2017, 2016, 2020","2016, 2017, 2019, 2020, 2023.
+
+Explanation:
+
+* In the year 2016, the revenue was $162 billion and expenses were $260 billion.
+* In the year 2017, the revenue was $149.7 billion and expenses were $236.7 billion.
+* In the year 2019, the revenue was $171.6 billion and expenses were $227.8 billion.
+* In the year 2020, the revenue was $181 billion and expenses were $241.8 billion.
+* In the year 2023, the revenue is $181 billion (no change from 2020) and expenses are $241.8 billion (no change from 2020).
+
+Since revenue was lower than expenses in these years, it suggests that the entity had a budget deficit during those times."
+Economy_of_Saudi_Arabia,List all the years in which revenue was higher than expenses.,"2023, 2019, 2017, 2016, 2020","2013, 2020, 2023"

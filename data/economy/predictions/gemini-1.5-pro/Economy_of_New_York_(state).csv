@@ -1,0 +1,19 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_New_York_(state),Tell me the lowest poverty figures New York (state) achieved during the year when the timeline shows the lowest gdp figures.,13.6%,"This question cannot be answered from the given source. The provided context includes economic data but doesn't specify any state-level information for New York. 
+"
+Economy_of_New_York_(state),What was New York (state)'s lowest revenue during the year when its poverty was at its lowest?,$63.5 billion,"This question cannot be answered from the given information. The table does not provide data on poverty levels for New York. 
+"
+Economy_of_New_York_(state),In which years was the New York (state)'s gdp the highest?,2022,"The provided text does not mention ""New York"" and only uses ""New"" to indicate the country, so it's impossible to answer your question about New York. Based on the data provided, the country's GDP was highest in **2022**. 
+"
+Economy_of_New_York_(state),In which years was the New York (state)'s poverty the highest?,"2017, 2022, 2018, 2021","The provided data doesn't mention the state but a country named ""New"". Also, the poverty rate remains constant throughout the timeline. 
+"
+Economy_of_New_York_(state),In which years was the New York (state)'s poverty the lowest?,"2017, 2022, 2018, 2021","The provided timeline does not include information on states and therefore we cannot answer that question. 
+"
+Economy_of_New_York_(state),What was the percentage increase in New York (state)'s gdp from 2018 to 2022?,29.3%,"The provided context refers to a country ""New"", not New York. Based on the data provided, the percentage increase in country ""New""'s GDP from 2018 to 2022 is **29.28%**. 
+"
+Economy_of_New_York_(state),What was the percentage increase in New York (state)'s gdp from 2017 to 2022?,42.3%,"The answer is approximately 42%. 
+"
+Economy_of_New_York_(state),"Did the revenue increase, decrease, or remain the same from 2021 to 2022?",remained same,"Remains the same. 
+"
+Economy_of_New_York_(state),"Did the poverty increase, decrease, or remain the same from 2021 to 2022?",remained same,"Remain the same 
+"

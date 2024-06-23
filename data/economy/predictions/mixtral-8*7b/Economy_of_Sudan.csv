@@ -1,0 +1,30 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Sudan,Tell me the lowest debt figures Sudan achieved during the year when the timeline shows the highest exports figures.,104.5% of GDP,"Debt at 104.5% of GDP in 2011 and 2013.
+
+The timeline shows the highest exports figures in 2011 and 2013, both at $8.464 billion. The debt during these years was 104.5% of GDP, which is the lowest debt figure shown in the timeline."
+Economy_of_Sudan,Tell me the highest inflation figures Sudan achieved during the year when the timeline shows the lowest revenue figures.,32.4% ,Inflation was 32.4% in 2018 with lowest revenue in 2016.
+Economy_of_Sudan,Tell me the highest gdp figures Sudan achieved during the year when the timeline shows the highest revenue figures.,$100 billion,"GDP is not specified for the year of highest revenue.
+
+ Based solely on the provided timeline, the highest revenue figures for Sudan were achieved in the year 2018-12-31T21:56:16Z, with revenue of $8.48 billion. However, the GDP for that year is given as ""20"" without any unit provided, making it impossible to accurately compare the GDP to other years. Therefore, I am unable to provide a concise answer to the question as posed."
+Economy_of_Sudan,In which years was the Sudan's debt the highest?,"2011, 2018, 2016, 2013","2011-12-31, 2018-12-31
+
+The debt of Sudan is 104.5% of GDP in both the given years, which is the highest debt percentage compared to the other provided timestamps."
+Economy_of_Sudan,During which years did Sudan experience its lowest revenue?,2018,"2016, 2018 (revenue is constant at $9.046 billion in those years)"
+Economy_of_Sudan,During which years did Sudan experience its highest inflation?,2018,The highest inflation was experienced in 2018 with 32.4%.
+Economy_of_Sudan,What was the percentage increase in Sudan's imports from 2013 to 2018?,20.5%,22.5% increase.
+Economy_of_Sudan,What was the percentage decrease in Sudan's inflation from 2013 to 2016?,1.5%,"The percentage decrease in Sudan's inflation from 2013 to 2016 was approximately 3.5%. This was calculated by subtracting the inflation rate of 12.8% in 2016 from the rate of 13% in 2013, and then dividing that by the 2013 rate."
+Economy_of_Sudan,What was the percentage decrease in Sudan's exports from 2016 to 2018?,51.6%,51.28% decrease in exports.
+Economy_of_Sudan,List all the years in which imports were lower than exports.,"2011, 2016, 2013","The years are 2011 and 2013. In those years, the value of exports was higher than that of imports. Specifically, in 2011, exports were $8.464 billion and imports were $6.823 billion, while in 2013, exports were also $8.464 billion and imports were $6.823 billion. However, starting from 2016, imports exceeded exports, with imports being $8.22 billion and exports being $4.1 billion in 2018."
+Economy_of_Sudan,List all the years in which imports were higher than exports.,"2011, 2016, 2013","2018-12-31T21:56:16Z, 2011-12-31T18:42:57Z"
+Economy_of_Sudan,List all the years in which revenue was higher than expenses.,"2011, 2018, 2016, 2013","The years are 2011, 2013. In these years, revenue was higher than expenses. This conclusion is based on the ""revenue"" and ""expenses"" values presented in the timeline for those years. In 2011, revenue was $9.046 billion and expenses were $10.83 billion, and in 2013, revenue was $9.046 billion and expenses were $10.83 billion. In both cases, revenue was higher than expenses. In 2016 and 2018, expenses were higher than revenue."
+Economy_of_Sudan,List all the years in which revenue was lower than expenses.,"2011, 2018, 2016, 2013","2011, 2013, 2016, 2018. 
+
+Explanation:
+For each year in the timeline, I checked if the ""revenue"" value was less than the ""expenses"" value.
+
+* In the year 2011 (""2011-12-31T18:42:57Z""), revenue was $9.046 billion and expenses were $10.83 billion, so revenue was lower.
+* In the year 2013 (""2013-12-31T14:16:24Z""), revenue was $9.046 billion and expenses were $10.83 billion, so revenue was lower.
+* In the year 2016 (""2016-12-31T01:04:38Z""), revenue was $9.046 billion and expenses were $10.83 billion, so revenue was lower.
+* In the year 2018 (""2018-12-31T21:56:16Z""), revenue was $8.48 billion and expenses were $13.36 billion, so revenue was lower.
+
+Therefore, revenue was lower than expenses in all of these years."

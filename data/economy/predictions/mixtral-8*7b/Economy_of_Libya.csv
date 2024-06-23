@@ -1,0 +1,28 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Libya,What was Libya's lowest revenue during the year when its expenses was at its lowest?,$25.34 billion,"Revenue: $25.34 billion, Expenses: $15.47 billion (in 2010-2012)"
+Economy_of_Libya,Tell me the highest revenue figures Libya achieved during the year when the timeline shows the lowest expenses figures.,$25.34 billion,Revenue: $70.50 billion (2018)
+Economy_of_Libya,Tell me the lowest debt figures Libya achieved during the year when the timeline shows the highest inflation figures.,$4.267 billion,4.7% of GDP (2019)
+Economy_of_Libya,During which years did Libya experience its highest revenue?,"2017, 2018",2011-2012 (revenue: $25.34 billion)
+Economy_of_Libya,In which years was the Libya's revenue the lowest?,2019,"2019-12-31T16:14:31Z, 2010-12-31T19:51:45Z
+
+The revenue was the lowest in these two years:
+- 2019-12-31T16:14:31Z: $15.78 billion
+- 2010-12-31T19:51:45Z: $25.34 billion
+
+Please note that the revenue amounts are in billion, and therefore $15.78 billion is lower than $25.34 billion."
+Economy_of_Libya,In which years was the Libya's inflation the lowest?,"2011, 2010",2010-2011 and 2012. Inflation was 1% in these years.
+Economy_of_Libya,What was the percentage increase in Libya's inflation from 2012 to 2018?,1212.0%,25.8% increase in inflation from 2012 to 2018.
+Economy_of_Libya,What was the percentage increase in Libya's inflation from 2011 to 2019?,2208.9%,"The percentage increase in Libya's inflation from 2011 to 2019 was 21.8%.
+
+Here's the calculation:
+
+* In 2011: Inflation was 1%
+* In 2019: Inflation was 23.089%
+
+Percentage increase = ((23.089 - 1) / 1) \* 100 = 21.8% or 21.899 when rounded to two decimal places."
+Economy_of_Libya,What was the percentage increase in Libya's revenue from 2012 to 2018?,63.9%,The percentage increase in Libya's revenue from 2012 to 2018 is 63.8%.
+Economy_of_Libya,"Did the per capita increase, decrease, or remain the same from 2011 to 2012?",decreased,Per capita increased from 2011 to 2012.
+Economy_of_Libya,"Did the revenue increase, decrease, or remain the same from 2018 to 2019?",decreased,Remained the same.
+Economy_of_Libya,"Did the debt increase, decrease, or remain the same from 2011 to 2012?",remained same,Remained the same.
+Economy_of_Libya,List all the years in which revenue was lower than expenses.,"2019, 2017, 2018","2010, 2011, 2017, 2018, 2019"
+Economy_of_Libya,List all the years in which revenue was higher than expenses.,"2019, 2017, 2018","2011, 2012, 2017, 2018"

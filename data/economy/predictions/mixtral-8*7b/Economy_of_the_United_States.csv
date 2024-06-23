@@ -1,0 +1,42 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_the_United_States,What was the United States's highest expenses during the year when its gdp was at its highest?,$3.601 trillion,"The highest expenses were $3.601 trillion.
+
+This answer is based on the information provided in the timeline. In the year 2011, the United States' GDP was at its highest, at $14.526 trillion. During that same year, the United States' expenses were $3.601 trillion. Therefore, the highest expenses during the year when the GDP was at its highest was $3.601 trillion."
+Economy_of_the_United_States,What was the United States's highest inflation during the year when its gdp was at its lowest?,1.1% ,"Insufficient information.
+
+The provided timeline does not contain enough data points to determine the years for which the GDP of the United States was at its lowest. Additionally, the inflation rate for individual years is not explicitly given, but instead, the inflation rates are given for specific dates. Therefore, it is not possible to provide a concise answer without making assumptions or external references."
+Economy_of_the_United_States,What was the United States's lowest expenses during the year when its inflation was at its highest?,$3.601 trillion,"Insufficient information.
+
+The timeline provided only includes data for two points in time, 2010-12-31 and 2011-12-31, and the expenses for 2011 are higher than those for 2010. Without information on inflation and expenses for additional years, it is not possible to determine the United States's lowest expenses during the year when its inflation was at its highest."
+Economy_of_the_United_States,In which years was the the United States's poverty the highest?,2011,"2010-12-31T05:50:39Z, 14.3%"
+Economy_of_the_United_States,In which years was the the United States's imports the highest?,2011,"2011-12-31T02:13:55Z,
+2010-12-31T05:50:39Z
+
+The United States's imports were the highest in both years provided in the timeline. In 2010, imports were $1.558 trillion and in 2011, they were $1.935 trillion."
+Economy_of_the_United_States,During which years did the United States experience its lowest gdp?,2010,"The provided timeline does not contain information for any year other than 2010 and 2011, so based solely on the information presented, it is not possible to determine during which years the United States experienced its lowest GDP."
+Economy_of_the_United_States,What was the percentage increase in the United States's inflation from 2010 to 2011?,254.5%,"Inflation increased by 2.8% from 2010 to 2011.
+
+Here's the calculation: (3.9% - 1.1%) = 2.8%
+
+The percentage increase in the United States's inflation from 2010 to 2011 was 2.8%."
+Economy_of_the_United_States,What was the percentage increase in the United States's imports from 2010 to 2011?,24.2%,37.5% increase in imports.
+Economy_of_the_United_States,What was the percentage increase in the United States's poverty from 2010 to 2011?,5.6%,"Poverty decreased by 1.4% from 2010 to 2011.
+
+The timeline shows that the poverty rate in the United States was 14.3% in 2010 and 15.1% in 2011. To find the percentage change, we can use the following formula:
+
+[(Value in 2011 - Value in 2010) / |Value in 2010|] \* 100%
+
+So, the percentage change in poverty rate from 2010 to 2011 is:
+
+[15.1 - 14.3) / |14.3|] \* 100% = 1.4%
+
+Hence, the poverty rate in the United States decreased by 1.4% from 2010 to 2011."
+Economy_of_the_United_States,"Did the imports increase, decrease, or remain the same from 2010 to 2011?",increased,Imports increased from 2010 to 2011.
+Economy_of_the_United_States,"Did the gdp increase, decrease, or remain the same from 2010 to 2011?",increased,GDP increased from 2010 to 2011.
+Economy_of_the_United_States,"Did the per capita increase, decrease, or remain the same from 2010 to 2011?",increased,Per capita increased from 2010 to 2011.
+Economy_of_the_United_States,List all the years in which revenue was lower than expenses.,"2011, 2010","2010-12-31T05:50:39Z, 2011-12-31T02:13:55Z
+
+Explanation: Both in the year 2010 and 2011, the revenue was lower than the expenses, as per the provided timeline data."
+Economy_of_the_United_States,List all the years in which revenue was higher than expenses.,"2011, 2010","2011. 
+
+Explanation: Based solely on the information presented in the timeline, the revenue was higher than expenses in the year 2011. In the provided data, the revenue for 2011 was $2.302 trillion, while the expenses were $3.601 trillion. However, for the given data point in 2010, the revenue was $2.106 trillion, while the expenses were $3.515 trillion, meaning the revenue was lower than expenses in 2010."

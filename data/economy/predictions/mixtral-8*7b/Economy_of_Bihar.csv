@@ -1,0 +1,31 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Bihar,In which years was the Bihar's debt the highest?,"2023, 2022","2023, 2022
+
+The debt was the highest in the years 2023 and 2022, with a debt of 38.66%."
+Economy_of_Bihar,In which years was the Bihar's debt the lowest?,2017,"The debt was the lowest in the years 2019 and 2020, at 33.07% and 30.1% respectively."
+Economy_of_Bihar,What was the percentage increase in Bihar's debt from 2016 to 2020?,7.9%,"5.75% increase
+
+Explanation: The debt percentage of Bihar was 27.9% in 2016, and it became 30.1% in 2020. So, the percentage increase is (30.1-27.9)/27.9 \* 100% = 5.75%."
+Economy_of_Bihar,What was the percentage increase in Bihar's debt from 2017 to 2023?,104.7%,30.1% increase in debt from 2017 to 2023.
+Economy_of_Bihar,What was the percentage decrease in Bihar's debt from 2019 to 2021?,9.0%,"The percentage decrease in Bihar's debt from 2019 to 2021 was approximately 9.2%.
+
+Explanation:
+
+- In 2019, Bihar's debt-to-GDP ratio was 33.07%, and in 2021, it was 30.1%.
+- To find the percentage change, subtract the initial value from the final value and divide the result by the initial value, then multiply by 100.
+- So, the calculation is as follows: (33.07 - 30.1) / 33.07 \* 100 ≈ 9.2%.
+
+Therefore, the percentage decrease in Bihar's debt from 2019 to 2021 was about 9.2%."
+Economy_of_Bihar,What was the percentage increase in Bihar's debt from 2020 to 2022?,28.4%,"The percentage increase in Bihar's debt from 2020 to 2022 is 27.2%. This was calculated by taking the difference between the debt levels in 2022 (38.66%) and 2020 (30.1%), and dividing by the 2020 debt level, then multiplying by 100 to get a percentage. Debt level in 2020 was 30.1% and in 2022 was 38.66%, so the increase was (38.66-30.1)/30.1 \* 100 = 27.2%."
+Economy_of_Bihar,"Did the expenses increase, decrease, or remain the same from 2020 to 2021?",remained same,Remained the same.
+Economy_of_Bihar,"Did the debt increase, decrease, or remain the same from 2019 to 2020?",decreased,The debt decreased from 2019 to 2020.
+Economy_of_Bihar,"Did the gdp increase, decrease, or remain the same from 2016 to 2017?",increased,GDP increased from 2016 to 2017.
+Economy_of_Bihar,List all the years in which revenue was higher than expenses.,"2023, 2017, 2016, 2018, 2020, 2022, 2021","2019-12-31T00:34:15Z, 2020-12-31T22:09:38Z, 2021-12-31T17:41:22Z"
+Economy_of_Bihar,List all the years in which revenue was lower than expenses.,"2023, 2017, 2016, 2018, 2020, 2022, 2021","Based on the provided timeline, the years where revenue was lower than expenses are:
+
+- 2018-12-31T07:17:19Z
+- 2019-12-31T00:34:15Z
+- 2020-12-31T22:09:38Z
+- 2021-12-31T17:41:22Z
+- 2022-12-31T14:58:16Z
+- 2023-12-31T08:40:02Z"

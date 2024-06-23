@@ -1,0 +1,27 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Estonia,Tell me the highest expenses figures Estonia achieved during the year when the timeline shows the lowest debt figures.,$8.439 billion,Expenses were $10.44 billion in 2019 with 8.4% debt of GDP.
+Economy_of_Estonia,What was Estonia's lowest debt during the year when its gdp was at its highest?,9% of GDP,8.4% of GDP in Dec 2019
+Economy_of_Estonia,During which years did Estonia experience its lowest gdp?,2018,"The lowest GDP was experienced by Estonia in the year 2018, as indicated by the timeline data. The GDP value for 2018 is $23 billion, which is lower than the GDP values for the other years provided."
+Economy_of_Estonia,In which years was the Estonia's inflation the highest?,2018,"2016-12-31, 2017-12-31. Both years had an inflation rate of 3.3%."
+Economy_of_Estonia,In which years was the Estonia's poverty the lowest?,2018,"2018, 2019
+
+The years 2018 and 2019 had the lowest poverty rates in Estonia, as indicated by the lowest poverty percentage in those years in the provided timeline."
+Economy_of_Estonia,What was the percentage decrease in Estonia's poverty from 2017 to 2018?,95.4%,"The percentage decrease in Estonia's poverty from 2017 to 2018 was approximately 80.3%. This calculation can be derived by taking the difference between the poverty rate of 21.9% in 2017 and the poverty rate of 1% in 2018, then dividing that difference by the 2017 poverty rate and multiplying by 100 to get the percentage change. The formula for this calculation is: [(2017 poverty rate - 2018 poverty rate) / 2017 poverty rate] \* 100."
+Economy_of_Estonia,What was the percentage increase in Estonia's exports from 2018 to 2019?,12.5%,"14.5% increase. 
+
+Explanation: In 2018, Estonia's exports were 12.8 billion, while in 2019, they were 14.4 billion, reflecting a 14.5% increase in Estonia's exports from 2018 to 2019."
+Economy_of_Estonia,What was the percentage increase in Estonia's exports from 2017 to 2019?,24.1%,25.4% increase.
+Economy_of_Estonia,What was the percentage decrease in Estonia's gdp from 2016 to 2019?,16.7%,"The percentage decrease in Estonia's GDP from 2016 to 2019 is not explicitly stated, but we can calculate it as follows:
+
+In 2016, GDP was $36.947 billion. 
+In 2019, GDP was $30.761 billion.
+
+So, the percentage change is calculated as (Final Value - Initial Value) / |Initial Value| * 100%
+
+The percentage decrease is therefore (30.761 - 36.947) / 36.947 * 100% = -16.77%
+
+So, there was approximately a 16.77% decrease in Estonia's GDP from 2016 to 2019."
+Economy_of_Estonia,"Did the per capita increase, decrease, or remain the same from 2018 to 2019?",increased,Per capita decreased from 2018 to 2019.
+Economy_of_Estonia,"Did the debt increase, decrease, or remain the same from 2017 to 2018?",decreased,The debt decreased from 2017 to 2018.
+Economy_of_Estonia,List all the years in which revenue was lower than expenses.,"2019, 2017, 2016, 2018","2017, 2019"
+Economy_of_Estonia,List all the years in which revenue was higher than expenses.,"2019, 2017, 2016, 2018",2019-12-31T00:58:37Z

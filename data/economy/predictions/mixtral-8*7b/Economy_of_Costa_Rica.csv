@@ -1,0 +1,29 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Costa_Rica,What was Costa Rica's lowest poverty during the year when its exports was at its highest?,20.5% ,"Poverty: 20.5%, Exports: $12.6 billion (2019)"
+Economy_of_Costa_Rica,Tell me the highest inflation figures Costa Rica achieved during the year when the timeline shows the lowest revenue figures.,8.3% ,Inflation was 2.220% in 2019 with lowest revenue in 2017.
+Economy_of_Costa_Rica,In which years was the Costa Rica's revenue the lowest?,2011,Revenue was lowest in 2017 and 2020.
+Economy_of_Costa_Rica,In which years was the Costa Rica's inflation the highest?,2011,"2011-12-31T15:51:32Z, 2017-12-31T19:58:42Z"
+Economy_of_Costa_Rica,What was the percentage increase in Costa Rica's imports from 2017 to 2020?,0.3%,"The percentage increase in Costa Rica's imports from 2017 to 2020 was approximately 11.8%.
+
+Explanation:
+The value of imports in 2017 was $15.1 billion, and in 2020, it was $15.15 billion. To find the percentage increase, we can use the formula:
+
+(new value - old value) / old value \* 100%
+
+Plugging in the numbers, we get:
+
+($15.15 billion - $15.1 billion) / $15.1 billion \* 100%
+
+This simplifies to approximately 11.8%."
+Economy_of_Costa_Rica,What was the percentage increase in Costa Rica's imports from 2011 to 2019?,38.9%,42.4% increase.
+Economy_of_Costa_Rica,What was the percentage decrease in Costa Rica's poverty from 2011 to 2019?,3.8%,"0.4% decrease
+
+The poverty rate in Costa Rica was 21.3% in 2011 and decreased to 20.5% in 2019. To calculate the percentage decrease, subtract the poverty rate in 2019 from the poverty rate in 2011, divide the result by the poverty rate in 2011, then multiply by 100.
+
+(21.3% - 20.5%) / 21.3 \* 100 = 0.4%
+
+The poverty rate decreased by approximately 0.4% from 2011 to 2019, based on the given data."
+Economy_of_Costa_Rica,"Did the imports increase, decrease, or remain the same from 2019 to 2020?",increased,Imports increased from 2019 to 2020.
+Economy_of_Costa_Rica,"Did the exports increase, decrease, or remain the same from 2019 to 2020?",decreased,Exports decreased from 2019 to 2020.
+Economy_of_Costa_Rica,List all the years in which revenue was lower than expenses.,"2019, 2017, 2011, 2020","2017, 2019, 2020"
+Economy_of_Costa_Rica,List all the years in which revenue was higher than expenses.,"2019, 2017, 2011, 2020","The years in which revenue was higher than expenses were 2011 and 2019. This is based on the timeline data provided where the revenue in 2011 was US$3.795 billion and expenses were US$4.908 billion, and in 2019, revenue was US$7.197 billion and expenses were US$9.621 billion. In all other years, expenses exceeded revenue."

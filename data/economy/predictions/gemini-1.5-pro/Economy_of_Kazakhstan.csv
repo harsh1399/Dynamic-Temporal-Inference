@@ -1,0 +1,27 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Kazakhstan,What was Kazakhstan's lowest gdp during the year when its revenue was at its lowest?,$177.835 billion,"$170.539 billion 
+"
+Economy_of_Kazakhstan,What was Kazakhstan's highest revenue during the year when its gdp was at its lowest?,35.48 billion,"$35.48 billion 
+"
+Economy_of_Kazakhstan,Tell me the lowest revenue figures Kazakhstan achieved during the year when the timeline shows the highest gdp figures.,$43 billion,"$43 billion 
+"
+Economy_of_Kazakhstan,In which years was the Kazakhstan's poverty the lowest?,"2019, 2020, 2022","2018, 2019, 2020, 2022 
+"
+Economy_of_Kazakhstan,During which years did Kazakhstan experience its lowest expenses?,2011,"2011, 2019, 2020, 2022 
+"
+Economy_of_Kazakhstan,In which years was the Kazakhstan's debt the highest?,"2019, 2020, 2022","2019, 2020, 2022 
+"
+Economy_of_Kazakhstan,What was the percentage decrease in Kazakhstan's gdp from 2017 to 2020?,59.7%,"48.2% 
+"
+Economy_of_Kazakhstan,What was the percentage increase in Kazakhstan's debt from 2017 to 2019?,73.3%,"74% 
+"
+Economy_of_Kazakhstan,"Did the debt increase, decrease, or remain the same from 2017 to 2018?",remained same,"Remained the same 
+"
+Economy_of_Kazakhstan,"Did the revenue increase, decrease, or remain the same from 2018 to 2019?",decreased,"Remain the same. 
+"
+Economy_of_Kazakhstan,"Did the expenses increase, decrease, or remain the same from 2018 to 2019?",decreased,"Decreased. 
+"
+Economy_of_Kazakhstan,List all the years in which revenue was higher than expenses.,"2019, 2017, 2011, 2018, 2020, 2022","None 
+"
+Economy_of_Kazakhstan,List all the years in which revenue was lower than expenses.,"2019, 2017, 2011, 2018, 2020, 2022","2011, 2017, 2018, 2019, 2020, 2022 
+"

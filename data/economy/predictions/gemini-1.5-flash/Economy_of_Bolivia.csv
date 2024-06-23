@@ -1,0 +1,25 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Bolivia,Tell me the lowest revenue figures Bolivia achieved during the year when the timeline shows the lowest gdp figures.,$16.59 billion,"$8.623 billion 
+"
+Economy_of_Bolivia,What was Bolivia's highest expenses during the year when its poverty was at its lowest?,$16.76 billion,"$18.02 billion 
+"
+Economy_of_Bolivia,What was Bolivia's highest gdp during the year when its expenses was at its lowest?,$47.88 billion,"$40.737 billion 
+"
+Economy_of_Bolivia,In which years was the Bolivia's inflation the lowest?,2019,"2019, 2020 
+"
+Economy_of_Bolivia,During which years did Bolivia experience its lowest poverty?,"2017, 2018","2017 and 2018 
+"
+Economy_of_Bolivia,What was the percentage increase in Bolivia's revenue from 2012 to 2019?,46.6%,"47.6% 
+"
+Economy_of_Bolivia,What was the percentage decrease in Bolivia's inflation from 2017 to 2020?,60.8%,"70.8% decrease 
+"
+Economy_of_Bolivia,What was the percentage increase in Bolivia's gdp from 2011 to 2012?,7.4%,"7.9% 
+"
+Economy_of_Bolivia,"Did the gdp increase, decrease, or remain the same from 2018 to 2019?",increased,"Increased 
+"
+Economy_of_Bolivia,"Did the debt increase, decrease, or remain the same from 2019 to 2020?",decreased,"Increased. 
+"
+Economy_of_Bolivia,List all the years in which revenue was lower than expenses.,"2015, 2017, 2019, 2020","2011, 2012, 2015, 2017, 2019, 2020 
+"
+Economy_of_Bolivia,List all the years in which revenue was higher than expenses.,"2015, 2017, 2019, 2020","2011, 2012, 2015, 2018 
+"

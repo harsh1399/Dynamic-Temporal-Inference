@@ -1,0 +1,27 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Finland,Tell me the highest debt figures Finland achieved during the year when the timeline shows the lowest revenue figures.,59.4% of GDP,"61.3% of GDP 
+"
+Economy_of_Finland,Tell me the highest debt figures Finland achieved during the year when the timeline shows the highest inflation figures.,45.4% of GDP,"61.3% of GDP 
+"
+Economy_of_Finland,In which years was the Finland's inflation the lowest?,2016,"2016, 2020 
+"
+Economy_of_Finland,During which years did Finland experience its lowest gdp?,2011,"2020 
+"
+Economy_of_Finland,In which years was the Finland's inflation the highest?,2011,"2011, 2018, 2019 
+"
+Economy_of_Finland,What was the percentage increase in Finland's expenses from 2011 to 2017?,105.1%,"61.3% increase 
+"
+Economy_of_Finland,What was the percentage increase in Finland's revenue from 2011 to 2017?,93.8%,"Insufficient information to answer. 
+"
+Economy_of_Finland,What was the percentage increase in Finland's gdp from 2016 to 2018?,15.8%,"16% 
+"
+Economy_of_Finland,What was the percentage increase in Finland's debt from 2011 to 2017?,14.5%,"11.6% increase 
+"
+Economy_of_Finland,"Did the inflation increase, decrease, or remain the same from 2017 to 2018?",remained same,"Remained the same 
+"
+Economy_of_Finland,"Did the debt increase, decrease, or remain the same from 2019 to 2020?",decreased,"decrease 
+"
+Economy_of_Finland,List all the years in which revenue was lower than expenses.,"2019, 2017, 2016, 2018, 2020","2016, 2017, 2018, 2019. 
+"
+Economy_of_Finland,List all the years in which revenue was higher than expenses.,"2019, 2017, 2016, 2018, 2020","2011, 2019 
+"

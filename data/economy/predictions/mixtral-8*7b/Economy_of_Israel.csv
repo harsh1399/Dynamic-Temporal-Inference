@@ -1,0 +1,14 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Israel,Tell me the lowest inflation figures Israel achieved during the year when the timeline shows the lowest exports figures.,3.3% ,Inflation was 0.2% when exports were $60.6 billion.
+Economy_of_Israel,Tell me the highest inflation figures Israel achieved during the year when the timeline shows the lowest debt figures.,0.807% ,Inflation was 0.2% in 2018 with debt at 59.8% of GDP.
+Economy_of_Israel,Tell me the highest exports figures Israel achieved during the year when the timeline shows the lowest poverty figures.,$62.5 billion,Exports: $62.5 billion (2017)
+Economy_of_Israel,In which years was the Israel's revenue the highest?,"2015, 2019, 2017, 2018, 2013","2018-12-31T00:47:24Z, 2019-12-31T22:02:56Z - Israel's revenue was the highest in these years, each having a revenue of $68.29 billion."
+Economy_of_Israel,During which years did Israel experience its highest imports?,"2015, 2017, 2013","2019-12-31T22:02:56Z or 2015-12-31T20:17:53Z. Both entries have imports valued at $70.62 billion, which is the highest import value in the provided timeline."
+Economy_of_Israel,What was the percentage decrease in Israel's imports from 2015 to 2019?,5.5%,6.14% decrease.
+Economy_of_Israel,What was the percentage increase in Israel's gdp from 2013 to 2019?,41.2%,The percentage increase in Israel's GDP from 2013 to 2019 was approximately 36.8%.
+Economy_of_Israel,What was the percentage decrease in Israel's inflation from 2015 to 2017?,84.4%,The percentage decrease in Israel's inflation from 2015 to 2017 was 65.6%.
+Economy_of_Israel,"Did the exports increase, decrease, or remain the same from 2017 to 2018?",decreased,Exports remained the same from 2017 to 2018.
+Economy_of_Israel,"Did the debt increase, decrease, or remain the same from 2017 to 2018?",decreased,Debt decreased from 2017 to 2018.
+Economy_of_Israel,"Did the revenue increase, decrease, or remain the same from 2017 to 2018?",remained same,Remained the same.
+Economy_of_Israel,List all the years in which revenue was higher than expenses.,"2015, 2019, 2017, 2011, 2018, 2013","2018-12-31T00:47:24Z, 2019-12-31T22:02:56Z"
+Economy_of_Israel,List all the years in which revenue was lower than expenses.,"2015, 2019, 2017, 2011, 2018, 2013","The years in which revenue was lower than expenses are 2011, 2013, 2015, 2017, 2018, and 2019. This conclusion is based solely on the information presented in the timeline, and the revenue being lower than expenses is determined by comparing the ""revenue"" and ""expenses"" values for each year. The revenue is lower than expenses in every year provided in the timeline, except for the year 2012, which is not present in the timeline."

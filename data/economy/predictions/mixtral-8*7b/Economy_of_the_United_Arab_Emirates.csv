@@ -1,0 +1,17 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_the_United_Arab_Emirates,Tell me the lowest expenses figures the United Arab Emirates achieved during the year when the timeline shows the lowest imports figures.,$54.68 billion,"Lowest expenses: ""$92.15 billion"" in 2015."
+Economy_of_the_United_Arab_Emirates,Tell me the lowest inflation figures the United Arab Emirates achieved during the year when the timeline shows the lowest imports figures.,1.5% ,"1.4%, 2012-12-31T23:07:48Z (lowest imports in 2014)"
+Economy_of_the_United_Arab_Emirates,In which years was the the United Arab Emirates's revenue the highest?,"2015, 2014","2020-12-31T19:05:04Z, 2021-12-31T12:52:14Z"
+Economy_of_the_United_Arab_Emirates,In which years was the the United Arab Emirates's exports the highest?,2015,"2015, 2020-2021
+
+Exports were the highest in the years 2015, 2020, and 2021, with $368 billion, $308.5 billion, and $308.5 billion respectively."
+Economy_of_the_United_Arab_Emirates,What was the percentage increase in the United Arab Emirates's exports from 2012 to 2015?,73.3%,45.25% increase.
+Economy_of_the_United_Arab_Emirates,What was the percentage decrease in the United Arab Emirates's gdp from 2015 to 2020?,27.3%,22.2% decrease.
+Economy_of_the_United_Arab_Emirates,What was the percentage increase in the United Arab Emirates's gdp from 2011 to 2019?,102.7%,102.4% increase.
+Economy_of_the_United_Arab_Emirates,What was the percentage decrease in the United Arab Emirates's debt from 2011 to 2015?,14.4%,"The timeline provided does not contain information for the United Arab Emirates. The data given pertains to an anonymous entity. Hence, it is not possible to calculate the percentage decrease in the United Arab Emirates's debt from 2011 to 2015 based solely on the given information. Additionally, the entity's debt in 2011 was not explicitly stated but was instead inferred as 47.2% of its GDP at that time, making the calculations less precise."
+Economy_of_the_United_Arab_Emirates,"Did the inflation increase, decrease, or remain the same from 2014 to 2015?",remained same,Inflation decreased from 2014 to 2015.
+Economy_of_the_United_Arab_Emirates,"Did the exports increase, decrease, or remain the same from 2011 to 2012?",increased,Exports increased from 2011 to 2012.
+Economy_of_the_United_Arab_Emirates,List all the years in which imports were lower than exports.,"2015, 2019, 2017, 2011, 2014, 2020, 2012, 2021","2011, 2012, 2015, 2020, 2021"
+Economy_of_the_United_Arab_Emirates,List all the years in which imports were higher than exports.,"2015, 2019, 2017, 2011, 2014, 2020, 2012, 2021","2014-12-31T03:39:40Z, 2017-12-31T21:11:43Z, 2021-12-31T12:52:14Z"
+Economy_of_the_United_Arab_Emirates,List all the years in which revenue was lower than expenses.,"2019, 2017, 2011, 2020, 2012, 2021","2012, 2014, 2019, 2020, 2021"
+Economy_of_the_United_Arab_Emirates,List all the years in which revenue was higher than expenses.,"2019, 2017, 2011, 2020, 2012, 2021","2015, 2019, 2021"

@@ -1,0 +1,14 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Uttar_Pradesh,In which years was the Uttar Pradesh's debt the highest?,"2023, 2022","2023, 2022.
+
+The debt was the highest in the years 2023 and 2022, with a debt of 32.5% in both years."
+Economy_of_Uttar_Pradesh,During which years did Uttar Pradesh experience its lowest debt?,2021,2023-2022.
+Economy_of_Uttar_Pradesh,What was the percentage increase in Uttar Pradesh's debt from 2021 to 2022?,12.8%,Debt increased by 14.6% from 2021 to 2022.
+Economy_of_Uttar_Pradesh,What was the percentage increase in Uttar Pradesh's debt from 2021 to 2023?,12.8%,Debt increased by 13.2% from 2021 to 2023 in Uttar Pradesh.
+Economy_of_Uttar_Pradesh,"Did the debt increase, decrease, or remain the same from 2022 to 2023?",remained same,Debt increased from 2022 to 2023.
+Economy_of_Uttar_Pradesh,"Did the gdp increase, decrease, or remain the same from 2021 to 2022?",increased,GDP increased from 2021 to 2022.
+Economy_of_Uttar_Pradesh,"Did the gdp increase, decrease, or remain the same from 2022 to 2023?",increased,GDP increased from 2022 to 2023.
+Economy_of_Uttar_Pradesh,List all the years in which revenue was higher than expenses.,"2019, 2022, 2023, 2021","2023
+
+The revenue was higher than expenses only in the year 2023, as per the provided timeline."
+Economy_of_Uttar_Pradesh,List all the years in which revenue was lower than expenses.,"2019, 2022, 2023, 2021","2019, 2021, 2022"

@@ -1,0 +1,26 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Romania,Tell me the highest imports figures Romania achieved during the year when the timeline shows the highest exports figures.,$116.4 billion,$116.4 billion (2022)
+Economy_of_Romania,Tell me the highest imports figures Romania achieved during the year when the timeline shows the highest revenue figures.,$88.12 billion,"$100 billion (2019)
+
+Explanation:
+Based on the timeline provided, the highest revenue figures for Romania were achieved in the year 2019, with revenue at $100 billion. During that same year, the imports figure was $88.12 billion. However, the timeline shows that the imports figure remained the same for both 2019 and 2020, but the revenue figure decreased in 2020. Therefore, the highest imports figures Romania achieved during the year when the timeline shows the highest revenue figures is $88.12 billion in 2019."
+Economy_of_Romania,In which years was the Romania's poverty the lowest?,2022,"2022-12-31T23:09:28Z, 2020-12-31T04:36:51Z"
+Economy_of_Romania,During which years did Romania experience its highest gdp?,2022,The highest GDP was experienced by Romania in the year 2022.
+Economy_of_Romania,During which years did Romania experience its highest exports?,2022,2022.
+Economy_of_Romania,What was the percentage increase in Romania's expenses from 2020 to 2022?,8.0%,9.88% increase.
+Economy_of_Romania,What was the percentage increase in Romania's expenses from 2011 to 2019?,10.8%,10.83% increase.
+Economy_of_Romania,What was the percentage increase in Romania's gdp from 2019 to 2020?,1.6%,"The percentage increase in Romania's GDP from 2019 to 2020 was 4.8%.
+
+This can be calculated by subtracting the GDP value in 2019 ($239.851 billion) from the GDP value in 2020 ($243.698 billion), resulting in a difference of $3.847 billion. Dividing this difference by the GDP value in 2019, and multiplying by 100 to get a percentage, gives us 4.8%.
+
+Reference(s):
+timeline: {""2011-12-31T23:51:47Z"": {""gdp"": ""$251.741 billion"", ...},""2019-12-31T22:26:47Z"": {""gdp"": ""$239.851 billion"", ...},""2020-12-31T04:36:51Z"": {""gdp"": ""$243.698 billion"", ...}}
+question: What was the percentage increase in Romania's gdp from 2019 to 2020?
+answer: 4.8%"
+Economy_of_Romania,What was the percentage increase in Romania's exports from 2011 to 2022?,69.1%,"262.55% increase. 
+
+(Exports increased from $52.22 billion in 2011 to $88.3 billion in 2022.)"
+Economy_of_Romania,"Did the expenses increase, decrease, or remain the same from 2019 to 2020?",decreased,Expenses increased from 2019 to 2020.
+Economy_of_Romania,"Did the revenue increase, decrease, or remain the same from 2019 to 2020?",decreased,Revenue decreased from 2019 to 2020.
+Economy_of_Romania,List all the years in which revenue was higher than expenses.,"2019, 2011, 2020, 2022",2022
+Economy_of_Romania,List all the years in which revenue was lower than expenses.,"2019, 2011, 2020, 2022","2019, 2020, 2022"

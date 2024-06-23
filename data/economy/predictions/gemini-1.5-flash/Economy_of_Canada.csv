@@ -1,0 +1,31 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Canada,What was Canada's lowest poverty during the year when its inflation was at its lowest?,11.0% ,"11.0% 
+"
+Economy_of_Canada,Tell me the highest debt figures Canada achieved during the year when the timeline shows the lowest poverty figures.,89.7% of GDP,"133.32% of GDP 
+"
+Economy_of_Canada,What was Canada's highest poverty during the year when its gdp was at its highest?,10.1% ,"12.9% 
+"
+Economy_of_Canada,In which years was the Canada's gdp the lowest?,2016,"2016, 2020 
+"
+Economy_of_Canada,In which years was the Canada's inflation the highest?,2022,"2022, 2021 
+"
+Economy_of_Canada,What was the percentage decrease in Canada's revenue from 2015 to 2019?,4.8%,"19.1% decrease 
+"
+Economy_of_Canada,What was the percentage decrease in Canada's revenue from 2016 to 2019?,4.8%,"16.5% decrease 
+"
+Economy_of_Canada,What was the percentage decrease in Canada's exports from 2019 to 2022?,10.4%,"10.4% decrease 
+"
+Economy_of_Canada,What was the percentage increase in Canada's gdp from 2020 to 2021?,17.5%,"12.5% 
+"
+Economy_of_Canada,"Did the expenses increase, decrease, or remain the same from 2015 to 2016?",remained same,"Remained the same. 
+"
+Economy_of_Canada,"Did the revenue increase, decrease, or remain the same from 2016 to 2017?",decreased,"Decreased. 
+"
+Economy_of_Canada,List all the years in which imports were higher than exports.,"2012, 2021, 2015","2016, 2017, 2019, 2022 
+"
+Economy_of_Canada,List all the years in which imports were lower than exports.,"2012, 2021, 2015","2012, 2015, 2017, 2019, 2021 
+"
+Economy_of_Canada,List all the years in which revenue was higher than expenses.,"2015, 2019, 2017, 2016, 2020, 2022, 2021","2012, 2015, 2016 
+"
+Economy_of_Canada,List all the years in which revenue was lower than expenses.,"2015, 2019, 2017, 2016, 2020, 2022, 2021","2015, 2016, 2017 
+"

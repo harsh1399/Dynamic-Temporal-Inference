@@ -1,0 +1,27 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_the_Philippines,What was the Philippines's lowest gdp during the year when its revenue was at its highest?,$0.330 trillion,"$224.8 billion 
+"
+Economy_of_the_Philippines,Tell me the highest revenue figures the Philippines achieved during the year when the timeline shows the lowest inflation figures.,$31.38 billion,"$31.38 billion 
+"
+Economy_of_the_Philippines,What was the Philippines's highest expenses during the year when its poverty was at its highest?,$33.82 billion,"$35.95 billion 
+"
+Economy_of_the_Philippines,In which years was the the Philippines's revenue the highest?,"2019, 2017, 2018","2017 
+"
+Economy_of_the_Philippines,In which years was the the Philippines's expenses the lowest?,2011,"2011 and 2012 
+"
+Economy_of_the_Philippines,During which years did the Philippines experience its highest poverty?,2011,"2011 and 2012 
+"
+Economy_of_the_Philippines,What was the percentage increase in the Philippines's expenses from 2011 to 2018?,123.4%,"112.5% 
+"
+Economy_of_the_Philippines,What was the percentage increase in the Philippines's gdp from 2012 to 2019?,65.4%,"66.3% 
+"
+Economy_of_the_Philippines,"Did the inflation increase, decrease, or remain the same from 2017 to 2018?",increased,"Increased. 
+"
+Economy_of_the_Philippines,"Did the gdp increase, decrease, or remain the same from 2018 to 2019?",decreased,"Decreased slightly. 
+"
+Economy_of_the_Philippines,"Did the gini increase, decrease, or remain the same from 2018 to 2019?",remained same,"Decreased 
+"
+Economy_of_the_Philippines,List all the years in which revenue was lower than expenses.,"2019, 2017, 2011, 2018, 2012","2011, 2012, 2017 
+"
+Economy_of_the_Philippines,List all the years in which revenue was higher than expenses.,"2019, 2017, 2011, 2018, 2012","2012, 2017 
+"

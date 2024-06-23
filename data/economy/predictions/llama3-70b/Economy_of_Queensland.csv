@@ -1,0 +1,9 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Queensland,What was Queensland's highest inflation during the year when its gdp was at its highest?,3.3% ,Highest inflation was 3.7% in 2010.
+Economy_of_Queensland,Tell me the highest exports figures Queensland achieved during the year when the timeline shows the highest gdp figures.,$49.2 billion,$65.5 billion in 2010.
+Economy_of_Queensland,In which years was the Queensland's imports the highest?,"2012, 2010, 2015","All years, imports remained constant."
+Economy_of_Queensland,In which years was the Queensland's inflation the lowest?,"2012, 2015","2012, 2015."
+Economy_of_Queensland,What was the percentage decrease in Queensland's inflation from 2010 to 2012?,10.8%,11.4% decrease.
+Economy_of_Queensland,What was the percentage increase in Queensland's gdp from 2010 to 2015?,16.3%,16.3%.
+Economy_of_Queensland,List all the years in which imports were higher than exports.,"2012, 2010, 2015",None.
+Economy_of_Queensland,List all the years in which imports were lower than exports.,"2012, 2010, 2015",2010.

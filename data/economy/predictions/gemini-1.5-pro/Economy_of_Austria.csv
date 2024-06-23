@@ -1,0 +1,27 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Austria,What was Austria's highest poverty during the year when its debt was at its highest?,6.2% ,"6.2% 
+"
+Economy_of_Austria,Tell me the lowest inflation figures Austria achieved during the year when the timeline shows the highest poverty figures.,1.762% ,"1.762%  
+"
+Economy_of_Austria,What was Austria's highest poverty during the year when its gdp was at its lowest?,6.2% ,"17.5% 
+"
+Economy_of_Austria,In which years was the Austria's poverty the highest?,"2019, 2020","2019, 2020 
+"
+Economy_of_Austria,In which years was the Austria's inflation the highest?,"2017, 2018","2017, 2018 
+"
+Economy_of_Austria,What was the percentage increase in Austria's revenue from 2018 to 2020?,5.2%,"Revenue remained unchanged. 
+"
+Economy_of_Austria,What was the percentage increase in Austria's poverty from 2018 to 2020?,182.3%,"11.3% 
+"
+Economy_of_Austria,What was the percentage increase in Austria's revenue from 2017 to 2019?,5.2%,"10% 
+"
+Economy_of_Austria,"Did the inflation increase, decrease, or remain the same from 2017 to 2018?",remained same,"Remained the same. 
+"
+Economy_of_Austria,"Did the per capita increase, decrease, or remain the same from 2018 to 2019?",increased,"Increase 
+"
+Economy_of_Austria,"Did the inflation increase, decrease, or remain the same from 2018 to 2019?",decreased,"decrease 
+"
+Economy_of_Austria,List all the years in which revenue was lower than expenses.,"2019, 2017, 2018, 2020","2017, 2018, 2019, 2020 
+"
+Economy_of_Austria,List all the years in which revenue was higher than expenses.,"2019, 2017, 2018, 2020","None. 
+"

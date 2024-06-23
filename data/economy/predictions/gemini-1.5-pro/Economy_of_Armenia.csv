@@ -1,0 +1,23 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Armenia,Tell me the lowest debt figures Armenia achieved during the year when the timeline shows the lowest gdp figures.,42.1% of GDP,"The timeline shows the lowest gdp figure for Armenia as $10.066 billion. However, it does not present the debt figures for that same year. Therefore, I cannot provide an answer to your question. 
+"
+Economy_of_Armenia,What was Armenia's lowest revenue during the year when its exports was at its lowest?,$2.2 billion,"$2.2 billion 
+"
+Economy_of_Armenia,In which years was the Armenia's gdp the highest?,2018,"2023 
+"
+Economy_of_Armenia,In which years was the Armenia's gdp the lowest?,2013,"2013 and 2015 
+"
+Economy_of_Armenia,What was the percentage increase in Armenia's imports from 2017 to 2018?,56.9%,"87% 
+"
+Economy_of_Armenia,What was the percentage increase in Armenia's exports from 2020 to 2023?,7.8%,"8% 
+"
+Economy_of_Armenia,What was the percentage increase in Armenia's revenue from 2018 to 2020?,8.1%,"Revenue remained constant. Thus, the percentage increase is 0%. 
+"
+Economy_of_Armenia,"Did the revenue increase, decrease, or remain the same from 2017 to 2018?",remained same,"Remains the same. 
+"
+Economy_of_Armenia,"Did the exports increase, decrease, or remain the same from 2017 to 2018?",increased,"Increase 
+"
+Economy_of_Armenia,List all the years in which revenue was higher than expenses.,"2015, 2023, 2019, 2017, 2018, 2020, 2013","This information cannot be answered from the given data. There is no year where revenue was higher than expenses. 
+"
+Economy_of_Armenia,List all the years in which revenue was lower than expenses.,"2015, 2023, 2019, 2017, 2018, 2020, 2013","2013, 2015, 2017, 2018, 2019, 2020, 2023 
+"

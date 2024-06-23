@@ -1,0 +1,17 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_San_Marino,Tell me the lowest gdp figures San Marino achieved during the year when the timeline shows the lowest inflation figures.,$1.638 billion,"$1.638 billion 
+"
+Economy_of_San_Marino,What was San Marino's highest inflation during the year when its gdp was at its lowest?,1.5% ,"3.5% 
+"
+Economy_of_San_Marino,In which years was the San Marino's gdp the highest?,2017,"2013 and 2017 
+"
+Economy_of_San_Marino,During which years did San Marino experience its lowest gdp?,2020,"2020 
+"
+Economy_of_San_Marino,In which years was the San Marino's inflation the lowest?,2020,"2020 
+"
+Economy_of_San_Marino,What was the percentage decrease in San Marino's inflation from 2013 to 2017?,28.6%,"2.0% 
+"
+Economy_of_San_Marino,What was the percentage decrease in San Marino's inflation from 2013 to 2020?,57.1%,"2% 
+"
+Economy_of_San_Marino,What was the percentage decrease in San Marino's gdp from 2013 to 2020?,1.4%,"1.4% 
+"

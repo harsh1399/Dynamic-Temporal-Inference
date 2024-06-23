@@ -1,0 +1,39 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Armenia,Tell me the lowest debt figures Armenia achieved during the year when the timeline shows the lowest gdp figures.,42.1% of GDP,Debt was lowest in 2017 with $53.4 billion of GDP.
+Economy_of_Armenia,What was Armenia's lowest revenue during the year when its exports was at its lowest?,$2.2 billion,"Revenue: $2.445 billion, Exports: $1.495 billion (2015)"
+Economy_of_Armenia,In which years was the Armenia's gdp the highest?,2018,"2023, 2020, 2019
+
+The GDP of Armenia is the highest in the years 2023, 2020, and 2019, with a GDP of $21 billion, $12.433 billion, and $12.411 billion, respectively."
+Economy_of_Armenia,In which years was the Armenia's gdp the lowest?,2013,"The years with the lowest GDP for Armenia are 2013 and 2019, with a GDP of $10.066 billion and $12.411 billion, respectively."
+Economy_of_Armenia,What was the percentage increase in Armenia's imports from 2017 to 2018?,56.9%,"The percentage increase in Armenia's imports from 2017 to 2018 was approximately 55.56%.
+
+The timeline provides the following data for imports:
+- 2017: ""$2.638 billion""
+- 2018: ""$4.14 billion""
+
+To calculate the percentage increase, we can use the formula:
+
+percentage increase = ((new value - old value) / old value) * 100%
+
+Plugging in the numbers, we get:
+
+percentage increase = (($4.14 billion - $2.638 billion) / $2.638 billion) * 100%
+
+percentage increase ≈ (1.5 billion / 2.638 billion) * 100%
+
+percentage increase ≈ 0.567 * 100%
+
+percentage increase ≈ 56.7%
+
+Therefore, the percentage increase in Armenia's imports from 2017 to 2018 was approximately 55.56%."
+Economy_of_Armenia,What was the percentage increase in Armenia's exports from 2020 to 2023?,7.8%,14.5% increase.
+Economy_of_Armenia,What was the percentage increase in Armenia's revenue from 2018 to 2020?,8.1%,"15.79% increase in revenue.
+
+Explanation:
+Revenue in 2018: $2.445 billion
+Revenue in 2020: $2.644 billion
+Percentage increase: [(2.644-2.445)/2.445] \* 100 = 15.79%"
+Economy_of_Armenia,"Did the revenue increase, decrease, or remain the same from 2017 to 2018?",remained same,Revenue decreased from 2017 to 2018.
+Economy_of_Armenia,"Did the exports increase, decrease, or remain the same from 2017 to 2018?",increased,Exports increased from 2017 to 2018.
+Economy_of_Armenia,List all the years in which revenue was higher than expenses.,"2015, 2023, 2019, 2017, 2018, 2020, 2013","2015, 2019, 2020"
+Economy_of_Armenia,List all the years in which revenue was lower than expenses.,"2015, 2023, 2019, 2017, 2018, 2020, 2013","2015, 2017, 2018, 2019, 2020"

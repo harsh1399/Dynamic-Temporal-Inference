@@ -1,0 +1,48 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Slovenia,What was Slovenia's lowest gdp during the year when its revenue was at its lowest?,$54.059 billion,"The timeline provided does not include a year where Slovenia's revenue was at its lowest and records the GDP for that year. Therefore, I'm unable to provide an answer based on the given data."
+Economy_of_Slovenia,What was Slovenia's highest revenue during the year when its debt was at its lowest?,20.02 billion,Revenue in 2019 was $20.02 billion.
+Economy_of_Slovenia,What was Slovenia's highest gdp during the year when its expenses was at its lowest?,$54.059 billion,$56.933 billion in 2018
+Economy_of_Slovenia,During which years did Slovenia experience its lowest expenses?,"2019, 2020","2019-12-31T13:02:29Z, 2020-12-31T13:11:36Z"
+Economy_of_Slovenia,In which years was the Slovenia's revenue the lowest?,"2019, 2020","2014, 2017, 2018 (revenue is the same for these years)"
+Economy_of_Slovenia,What was the percentage decrease in Slovenia's revenue from 2018 to 2019?,97.7%,"The percentage decrease in Slovenia's revenue from 2018 to 2019 is approximately 0.26%.
+
+Here's how I arrived at this answer:
+
+1. Retrieve the revenue figures for 2018 and 2019 from the provided timeline:
+   - 2018 revenue: ""8,52 billion""
+   - 2019 revenue: ""20.02 billion""
+
+2. Calculate the absolute difference between the two revenue figures:
+   - Absolute difference: 20.02 - 8.52 = 11.50 billion
+
+3. Calculate the percentage difference by dividing the absolute difference by the 2018 revenue and multiplying by 100:
+   - Percentage decrease: (11.50 / 8.52) \* 100 ≈ 0.26%
+
+Please note that the revenue figures in the timeline are given in a different format than the standard scientific E-notation. I have assumed they represent the same value for consistency."
+Economy_of_Slovenia,What was the percentage decrease in Slovenia's gdp from 2018 to 2019?,5.0%,"The percentage decrease in Slovenia's GDP from 2018 to 2019 was approximately 0.9%.
+
+Here's the calculation:
+
+(56.933 - 54.059) / 56.933 = 0.04028538157630655 (rounded to two decimal places)
+
+To express this as a percentage, multiply by 100:
+
+0.04028538157630655 \* 100 = 4.028538157630655%
+
+So, the percentage decrease is roughly 0.9% when rounding to the nearest whole number."
+Economy_of_Slovenia,What was the percentage decrease in Slovenia's expenses from 2018 to 2019?,98.0%,The percentage decrease in Slovenia's expenses from 2018 to 2019 was 3.2%.
+Economy_of_Slovenia,"Did the gdp increase, decrease, or remain the same from 2017 to 2018?",increased,GDP increased from 2017 to 2018.
+Economy_of_Slovenia,"Did the expenses increase, decrease, or remain the same from 2019 to 2020?",remained same,Remained the same.
+Economy_of_Slovenia,"Did the per capita increase, decrease, or remain the same from 2017 to 2018?",increased,Per capita increased from 2017 to 2018.
+Economy_of_Slovenia,List all the years in which revenue was higher than expenses.,"2017, 2018, 2014","2019-12-31T13:02:29Z, 2020-12-31T13:11:36Z"
+Economy_of_Slovenia,List all the years in which revenue was lower than expenses.,"2017, 2018, 2014","2017, 2018, 2019, 2020
+
+Explanation:
+
+* In the provided timeline, the revenue and expenses of Slovenia in different years are given.
+* To find out the years in which revenue was lower than expenses, we need to compare these two values for each year.
+* In 2017, revenue was ""8.52 billion"" and expenses were ""9.80 billion"", so revenue was lower than expenses.
+* In 2018, revenue was ""8.52 billion"" and expenses were ""9.80 billion"", so revenue was lower than expenses.
+* In 2019, revenue was ""20.02 billion"" and expenses were ""19.92 billion"", so revenue was higher than expenses.
+* In 2020, revenue was ""20.02 billion"" and expenses were ""19.92 billion"", so revenue was higher than expenses.
+* Therefore, the years in which revenue was lower than expenses are 2017, 2018, 2019, and 2020."

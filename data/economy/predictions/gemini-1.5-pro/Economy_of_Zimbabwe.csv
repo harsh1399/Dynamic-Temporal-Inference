@@ -1,0 +1,34 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Zimbabwe,Tell me the highest debt figures Zimbabwe achieved during the year when the timeline shows the lowest inflation figures.,$1 Billion,"$1 billion 
+"
+Economy_of_Zimbabwe,What was Zimbabwe's highest gdp during the year when its gini was at its highest?,$7.366 billion,"$26.127 billion 
+"
+Economy_of_Zimbabwe,Tell me the lowest gdp figures Zimbabwe achieved during the year when the timeline shows the highest revenue figures.,$3.5 billion,"$3.5 billion 
+"
+Economy_of_Zimbabwe,In which years was the Zimbabwe's gdp the highest?,2019,"2019 
+"
+Economy_of_Zimbabwe,During which years did Zimbabwe experience its lowest gdp?,2011,"2011, 2014, 2016 
+"
+Economy_of_Zimbabwe,What was the percentage increase in Zimbabwe's inflation from 2016 to 2019?,29.4%,"957.2% 
+"
+Economy_of_Zimbabwe,What was the percentage increase in Zimbabwe's revenue from 2018 to 2019?,32.1%,"100 * (3.8 - 2.876) / 2.876 = 32.13% 
+So the answer is: 32.13% 
+"
+Economy_of_Zimbabwe,What was the percentage decrease in Zimbabwe's inflation from 2016 to 2017?,92.1%,"79.61% 
+"
+Economy_of_Zimbabwe,What was the percentage increase in Zimbabwe's poverty from 2017 to 2018?,33.3%,"20% 
+"
+Economy_of_Zimbabwe,"Did the gini increase, decrease, or remain the same from 2018 to 2019?",decreased,"decrease 
+"
+Economy_of_Zimbabwe,"Did the inflation increase, decrease, or remain the same from 2016 to 2017?",decreased,"Decrease 
+"
+Economy_of_Zimbabwe,"Did the exports increase, decrease, or remain the same from 2016 to 2017?",remained same,"Remained the same 
+"
+Economy_of_Zimbabwe,List all the years in which imports were lower than exports.,2011,"2011, 2014. 
+"
+Economy_of_Zimbabwe,List all the years in which imports were higher than exports.,2011,"2014, 2016, 2017, 2018, 2019 
+"
+Economy_of_Zimbabwe,List all the years in which revenue was lower than expenses.,"2019, 2017, 2011, 2014, 2018, 2016","2011, 2014, 2016, 2017, 2018, 2019 
+"
+Economy_of_Zimbabwe,List all the years in which revenue was higher than expenses.,"2019, 2017, 2011, 2014, 2018, 2016","No year listed has revenues higher than expenses. 
+"

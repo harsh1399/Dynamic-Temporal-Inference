@@ -1,0 +1,30 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Eritrea,Tell me the highest inflation figures Eritrea achieved during the year when the timeline shows the lowest expenses figures.,20% ,20.001% inflation in 2019
+Economy_of_Eritrea,What was Eritrea's lowest gdp during the year when its inflation was at its highest?,$4.037 billion,$2.007 billion in 2019 with 14.401% inflation.
+Economy_of_Eritrea,Tell me the highest inflation figures Eritrea achieved during the year when the timeline shows the highest imports figures.,17% ,"20.0% (2012, $899.9M imports)"
+Economy_of_Eritrea,During which years did Eritrea experience its highest revenue?,"2019, 2017","2019-2017. 
+
+The revenue for Eritrea was highest in the year 2019 at $838.8 million, which was also the revenue in the year 2017. There is no increase or decrease in revenue mentioned for Eritrea in the timeline provided, so we can assume that the revenue remained constant at $838.8 million during these two years."
+Economy_of_Eritrea,During which years did Eritrea experience its lowest expenses?,2012,2019-12-31T00:38:11Z
+Economy_of_Eritrea,In which years was the Eritrea's exports the lowest?,2017,"2012, 2019"
+Economy_of_Eritrea,What was the percentage decrease in Eritrea's gdp from 2012 to 2017?,3.9%,"The percentage decrease in Eritrea's GDP from 2012 to 2017 was approximately 4.4%.
+
+Here's the calculation:
+
+(4.037 billion - 3.881 billion) / 4.037 billion = 0.044 or 4.4%"
+Economy_of_Eritrea,What was the percentage increase in Eritrea's expenses from 2012 to 2019?,16.6%,68.24% increase in expenses.
+Economy_of_Eritrea,What was the percentage increase in Eritrea's expenses from 2012 to 2017?,16.6%,16.34% increase in expenses.
+Economy_of_Eritrea,What was the percentage decrease in Eritrea's inflation from 2012 to 2017?,15.0%,The percentage decrease in Eritrea's inflation from 2012 to 2017 was approximately 18.57% (calculated by (20% - 17%) / 20% \* 100%).
+Economy_of_Eritrea,List all the years in which imports were higher than exports.,2019,"2012, 2017, 2019
+
+Explanation: In the provided timeline, the value for ""imports"" is higher than the value for ""exports"" in all three years (2012, 2017, and 2019)."
+Economy_of_Eritrea,List all the years in which imports were lower than exports.,2019,"The years with imports lower than exports are: None.
+
+The timeline provided shows that for all three dates given, the value of imports is higher than that of exports for Eritrea, and does not show any year where this is not the case.
+
+Here's a breakdown of the import and export values by year:
+- 2012-12-31T22:32:50Z: Imports: $899.9 million, Exports: $415.4 million
+- 2017-12-31T01:00:48Z: Imports: $939.7 million, Exports: $304.5 million
+- 2019-12-31T00:38:11Z: Imports: $1.127 billion, Exports: $635.7 million
+
+As you can see, in all three cases, imports were higher than exports."

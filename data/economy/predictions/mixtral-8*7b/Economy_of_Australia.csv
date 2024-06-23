@@ -1,0 +1,37 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Australia,What was Australia's highest expenses during the year when its gdp was at its lowest?,$446.4 billion,Expenses were $482.7 billion in 2020 and 2021 when GDP was at its lowest ($1.376 trillion in 2020 and $1.61 trillion in 2021).
+Economy_of_Australia,What was Australia's lowest exports during the year when its revenue was at its highest?,$438.1 billion,Exports: $480.2 billion (2021)
+Economy_of_Australia,What was Australia's highest revenue during the year when its expenses was at its lowest?,$420.5 billion,"Revenue: $485.2 billion, Expenses: $482.7 billion (2021)"
+Economy_of_Australia,In which years was the Australia's imports the lowest?,"2017, 2018","2018, 2019
+
+The imports were at their lowest in the years 2018 and 2019, with a value of $196.1 billion."
+Economy_of_Australia,During which years did Australia experience its lowest debt?,"2019, 2020, 2021",2019-2021.
+Economy_of_Australia,What was the percentage increase in Australia's revenue from 2017 to 2018?,9.6%,8.7% increase.
+Economy_of_Australia,What was the percentage increase in Australia's exports from 2017 to 2020?,147.2%,152.5% increase.
+Economy_of_Australia,"Did the imports increase, decrease, or remain the same from 2019 to 2020?",increased,Imports decreased from 2019 to 2020.
+Economy_of_Australia,"Did the imports increase, decrease, or remain the same from 2020 to 2021?",decreased,Imports increased from 2020 to 2021.
+Economy_of_Australia,List all the years in which imports were higher than exports.,"2019, 2023, 2020, 2021","""2018-12-31T20:15:01Z"", ""2019-12-31T09:19:29Z"", ""2020-12-31T04:18:53Z"", ""2021-12-31T18:52:16Z""
+
+Explanation:
+Referring to the timeline, the following years had higher imports compared to exports:
+
+1. ""2018-12-31T20:15:01Z"" - Imports: $196.1 billion, Exports: $190.2 billion
+2. ""2019-12-31T09:19:29Z"" - Imports: $414.9 billion, Exports: $438.1 billion
+3. ""2020-12-31T04:18:53Z"" - Imports: $421.4 billion, Exports: $470.2 billion
+4. ""2021-12-31T18:52:16Z"" - Imports: $420.4 billion, Exports: $480.2 billion
+
+These are the only instances where imports were higher than exports in the provided timeline."
+Economy_of_Australia,List all the years in which imports were lower than exports.,"2019, 2023, 2020, 2021","""2019-12-31T09:19:29Z"",
+ ""2020-12-31T04:18:53Z"",
+ ""2021-12-31T18:52:16Z"""
+Economy_of_Australia,List all the years in which revenue was lower than expenses.,"2017, 2018","2019, 2020, 2021, 2023
+
+Explanation: The revenue and expenses for each year are as follows:
+
+* 2019: Revenue = $485.2 billion, Expenses = $482.7 billion
+* 2020: Revenue = $485.2 billion, Expenses = $482.7 billion
+* 2021: Revenue = $485.2 billion, Expenses = $482.7 billion
+* 2023: Revenue = $485.2 billion, Expenses = $482.7 billion
+
+In all of these years, revenue was lower than expenses. This information can be inferred directly from the timeline provided."
+Economy_of_Australia,List all the years in which revenue was higher than expenses.,"2017, 2018","2019-12-31T09:19:29Z, 2021-12-31T18:52:16Z"

@@ -1,0 +1,13 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Texas,Tell me the highest revenue figures Texas achieved during the year when the timeline shows the lowest poverty figures.,$183.3 billion,Highest revenue: $183.3 billion in 2023.
+Economy_of_Texas,Tell me the lowest expenses figures Texas achieved during the year when the timeline shows the lowest gdp figures.,$71.4094 billion,$71.4094 billion.
+Economy_of_Texas,In which years was the Texas's gdp the highest?,2023,2023.
+Economy_of_Texas,In which years was the Texas's revenue the lowest?,2018,2018.
+Economy_of_Texas,During which years did Texas experience its highest expenses?,"2023, 2022",2023 and 2022.
+Economy_of_Texas,What was the percentage increase in Texas's expenses from 2018 to 2022?,40.0%,40% increase in Texas's expenses.
+Economy_of_Texas,What was the percentage increase in Texas's revenue from 2018 to 2022?,109.7%,110% increase in revenue from 2018 to 2022.
+Economy_of_Texas,What was the percentage increase in Texas's revenue from 2022 to 2023?,22.2%,22.2% increase in revenue from 2022 to 2023.
+Economy_of_Texas,What was the percentage increase in Texas's gdp from 2022 to 2023?,14.3%,14.29% increase in Texas's GDP.
+Economy_of_Texas,"Did the poverty increase, decrease, or remain the same from 2022 to 2023?",remained same,Remain the same.
+Economy_of_Texas,"Did the per capita increase, decrease, or remain the same from 2022 to 2023?",increased,Increased.
+Economy_of_Texas,"Did the gdp increase, decrease, or remain the same from 2022 to 2023?",increased,Increased.

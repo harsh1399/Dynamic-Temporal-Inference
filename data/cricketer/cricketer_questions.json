@@ -1,0 +1,3480 @@
+{
+    "Mohammad_Yousuf_(cricketer)": {
+        "q1": {
+            "question7": {
+                "Q": "How many matches did Mohammad Yousuf played in LA in 2010?",
+                "A": 2
+            },
+            "question2": {
+                "Q": "How many matches did Mohammad Yousuf played in Test in 2010?",
+                "A": 4
+            }
+        },
+        "q2": {
+            "question3": {
+                "Q": "How many matches did Mohammad Yousuf played in Tests and ODIs combined from 2010 to 2012?",
+                "A": 6
+            },
+            "question4": {
+                "Q": "How many matches did Mohammad Yousuf played in Tests and ODIs combined from 2010 to 2018?",
+                "A": 6
+            }
+        },
+        "q3": {
+            "question2": {
+                "Q": "How many 100s did Mohammad Yousuf score in FC from 2008 to 2012?",
+                "A": 1
+            },
+            "question3": {
+                "Q": "How many 100s did Mohammad Yousuf score in FC from 2008 to 2018?",
+                "A": 2
+            },
+            "question4": {
+                "Q": "How many 100s did Mohammad Yousuf score in FC from 2009 to 2018?",
+                "A": 1
+            }
+        },
+        "q4": {
+            "question7": {
+                "Q": "How many 50s did Mohammad Yousuf score in FC from 2008 to 2010?",
+                "A": 5
+            },
+            "question5": {
+                "Q": "How many 50s did Mohammad Yousuf score in ODI from 2009 to 2012?",
+                "A": 1
+            }
+        },
+        "q5": {
+            "question6": {
+                "Q": "How many 50s did Mohammad Yousuf score in LA in 2009?",
+                "A": 1
+            },
+            "question2": {
+                "Q": "How many 50s did Mohammad Yousuf score in Test in 2010?",
+                "A": 1
+            },
+            "question3": {
+                "Q": "How many 50s did Mohammad Yousuf score in ODI in 2010?",
+                "A": 1
+            }
+        },
+        "q6": {
+            "question1": {
+                "Q": "How many 100s did Mohammad Yousuf score in FC in 2009?",
+                "A": 1
+            }
+        }
+    },
+    "Shaun_Tait": {
+        "q1": {
+            "question15": {
+                "Q": "How many wickets did Shaun Tait took in FC in 2009?",
+                "A": 13
+            },
+            "question12": {
+                "Q": "How many matches did Shaun Tait played in FC in 2009?",
+                "A": 4
+            },
+            "question14": {
+                "Q": "How many runs did Shaun Tait scored in FC in 2009?",
+                "A": 54
+            }
+        },
+        "q2": {
+            "question20": {
+                "Q": "How many wickets did Shaun Tait took in Tests and ODIs combined from 2010 to 2013?",
+                "A": 16
+            },
+            "question17": {
+                "Q": "How many wickets did Shaun Tait took in Tests and ODIs combined from 2009 to 2015?",
+                "A": 24
+            }
+        },
+        "q3": {},
+        "q4": {},
+        "q5": {},
+        "q6": {}
+    },
+    "Harbhajan_Singh": {
+        "q1": {
+            "question2": {
+                "Q": "How many wickets did Harbhajan Singh took in FC in 2008?",
+                "A": 84
+            },
+            "question4": {
+                "Q": "How many tenfor did Harbhajan Singh took in FC in 2008?",
+                "A": 1
+            },
+            "question3": {
+                "Q": "How many fivefor did Harbhajan Singh took in FC in 2008?",
+                "A": 3
+            }
+        },
+        "q2": {},
+        "q3": {
+            "question2": {
+                "Q": "How many 100s did Harbhajan Singh score in FC from 2008 to 2012?",
+                "A": 2
+            },
+            "question1": {
+                "Q": "How many 100s did Harbhajan Singh score in FC from 2007 to 2012?",
+                "A": 2
+            }
+        },
+        "q4": {
+            "question1": {
+                "Q": "How many 50s did Harbhajan Singh score in FC from 2007 to 2012?",
+                "A": 7
+            },
+            "question2": {
+                "Q": "How many 50s did Harbhajan Singh score in FC from 2008 to 2012?",
+                "A": 3
+            }
+        },
+        "q5": {
+            "question1": {
+                "Q": "How many 50s did Harbhajan Singh score in FC in 2008?",
+                "A": 4
+            }
+        },
+        "q6": {}
+    },
+    "Yuvraj_Singh": {
+        "q1": {
+            "question2": {
+                "Q": "How many wickets did Yuvraj Singh took in Test in 2011?",
+                "A": 1
+            },
+            "question1": {
+                "Q": "How many matches did Yuvraj Singh played in Test in 2011?",
+                "A": 2
+            }
+        },
+        "q2": {},
+        "q3": {
+            "question1": {
+                "Q": "How many 100s did Yuvraj Singh score in FC from 2008 to 2011?",
+                "A": 2
+            }
+        },
+        "q4": {
+            "question2": {
+                "Q": "How many 50s did Yuvraj Singh score in FC from 2008 to 2011?",
+                "A": 9
+            },
+            "question1": {
+                "Q": "How many 50s did Yuvraj Singh score in FC from 2008 to 2010?",
+                "A": 4
+            }
+        },
+        "q5": {
+            "question1": {
+                "Q": "How many 50s did Yuvraj Singh score in Test in 2011?",
+                "A": 2
+            },
+            "question2": {
+                "Q": "How many 50s did Yuvraj Singh score in FC in 2011?",
+                "A": 5
+            }
+        },
+        "q6": {
+            "question1": {
+                "Q": "How many 100s did Yuvraj Singh score in FC in 2011?",
+                "A": 2
+            }
+        }
+    },
+    "Tino_Best": {
+        "q1": {
+            "question1": {
+                "Q": "How many wickets did Tino Best took in FC in 2014?",
+                "A": 4
+            }
+        },
+        "q2": {
+            "question3": {
+                "Q": "How many matches did Tino Best played in Tests and ODIs combined from 2010 to 2016?",
+                "A": 25
+            },
+            "question9": {
+                "Q": "How many runs did Tino Best scored in Tests and ODIs combined from 2013 to 2016?",
+                "A": 83
+            },
+            "question14": {
+                "Q": "How many wickets did Tino Best took in Tests and ODIs combined from 2013 to 2016?",
+                "A": 18
+            }
+        },
+        "q3": {},
+        "q4": {
+            "question6": {
+                "Q": "How many 50s did Tino Best score in Test from 2010 to 2016?",
+                "A": 1
+            },
+            "question8": {
+                "Q": "How many 50s did Tino Best score in FC from 2010 to 2014?",
+                "A": 1
+            },
+            "question1": {
+                "Q": "How many 50s did Tino Best score in Tests and ODIs combined from 2010 to 2013?",
+                "A": 1
+            }
+        },
+        "q5": {},
+        "q6": {}
+    },
+    "Lasith_Malinga": {
+        "q1": {
+            "question31": {
+                "Q": "How many runs did Lasith Malinga scored in LA in 2008?",
+                "A": 49
+            },
+            "question21": {
+                "Q": "How many matches did Lasith Malinga played in FC in 2011?",
+                "A": 2
+            },
+            "question38": {
+                "Q": "How many fivefor did Lasith Malinga took in LA in 2011?",
+                "A": 1
+            }
+        },
+        "q2": {
+            "question4": {
+                "Q": "How many fivefor did Lasith Malinga took in Tests and ODIs combined from 2009 to 2011?",
+                "A": 2
+            },
+            "question1": {
+                "Q": "How many matches did Lasith Malinga played in Tests and ODIs combined from 2009 to 2011?",
+                "A": 17
+            }
+        },
+        "q3": {},
+        "q4": {
+            "question10": {
+                "Q": "How many 50s did Lasith Malinga score in LA from 2008 to 2011?",
+                "A": 1
+            },
+            "question4": {
+                "Q": "How many 50s did Lasith Malinga score in ODI from 2008 to 2011?",
+                "A": 1
+            },
+            "question9": {
+                "Q": "How many 50s did Lasith Malinga score in LA from 2007 to 2011?",
+                "A": 1
+            }
+        },
+        "q5": {
+            "question1": {
+                "Q": "How many 50s did Lasith Malinga score in Tests and ODIs combined in 2011?",
+                "A": 2
+            },
+            "question2": {
+                "Q": "How many 50s did Lasith Malinga score in Test in 2011?",
+                "A": 1
+            },
+            "question4": {
+                "Q": "How many 50s did Lasith Malinga score in FC in 2011?",
+                "A": 1
+            }
+        },
+        "q6": {}
+    },
+    "Umar_Gul": {
+        "q1": {
+            "question7": {
+                "Q": "How many fivefor did Umar Gul took in Tests and ODIs combined in 2009?",
+                "A": 1
+            },
+            "question1": {
+                "Q": "How many matches did Umar Gul played in Tests and ODIs combined in 2009?",
+                "A": 26
+            }
+        },
+        "q2": {
+            "question28": {
+                "Q": "How many wickets did Umar Gul took in Tests and ODIs combined from 2009 to 2016?",
+                "A": 134
+            },
+            "question5": {
+                "Q": "How many matches did Umar Gul played in Tests and ODIs combined from 2009 to 2013?",
+                "A": 73
+            }
+        },
+        "q3": {},
+        "q4": {
+            "question4": {
+                "Q": "How many 50s did Umar Gul score in Tests and ODIs combined from 2009 to 2019?",
+                "A": 1
+            },
+            "question8": {
+                "Q": "How many 50s did Umar Gul score in Test from 2009 to 2019?",
+                "A": 1
+            },
+            "question7": {
+                "Q": "How many 50s did Umar Gul score in Test from 2009 to 2017?",
+                "A": 1
+            }
+        },
+        "q5": {},
+        "q6": {}
+    },
+    "Herschelle_Gibbs": {
+        "q1": {
+            "question4": {
+                "Q": "How many matches did Herschelle Gibbs played in LA in 2011?",
+                "A": 14
+            },
+            "question3": {
+                "Q": "How many matches did Herschelle Gibbs played in LA in 2010?",
+                "A": 5
+            }
+        },
+        "q2": {},
+        "q3": {
+            "question1": {
+                "Q": "How many 100s did Herschelle Gibbs score in LA from 2008 to 2010?",
+                "A": 2
+            },
+            "question2": {
+                "Q": "How many 100s did Herschelle Gibbs score in LA from 2008 to 2011?",
+                "A": 3
+            }
+        },
+        "q4": {
+            "question5": {
+                "Q": "How many 50s did Herschelle Gibbs score in LA from 2008 to 2010?",
+                "A": 3
+            },
+            "question8": {
+                "Q": "How many 50s did Herschelle Gibbs score in LA from 2008 to 2013?",
+                "A": 5
+            }
+        },
+        "q5": {
+            "question1": {
+                "Q": "How many 50s did Herschelle Gibbs score in FC in 2009?",
+                "A": 2
+            },
+            "question3": {
+                "Q": "How many 50s did Herschelle Gibbs score in LA in 2010?",
+                "A": 1
+            },
+            "question2": {
+                "Q": "How many 50s did Herschelle Gibbs score in LA in 2009?",
+                "A": 2
+            }
+        },
+        "q6": {
+            "question2": {
+                "Q": "How many 100s did Herschelle Gibbs score in LA in 2010?",
+                "A": 1
+            },
+            "question3": {
+                "Q": "How many 100s did Herschelle Gibbs score in LA in 2011?",
+                "A": 1
+            }
+        }
+    },
+    "Rahul_Dravid": {
+        "q1": {
+            "question4": {
+                "Q": "How many matches did Rahul Dravid played in FC in 2011?",
+                "A": 10
+            },
+            "question3": {
+                "Q": "How many matches did Rahul Dravid played in ODI in 2011?",
+                "A": 5
+            }
+        },
+        "q2": {},
+        "q3": {
+            "question2": {
+                "Q": "How many 100s did Rahul Dravid score in FC from 2008 to 2011?",
+                "A": 13
+            },
+            "question1": {
+                "Q": "How many 100s did Rahul Dravid score in FC from 2008 to 2010?",
+                "A": 10
+            }
+        },
+        "q4": {
+            "question6": {
+                "Q": "How many 50s did Rahul Dravid score in LA from 2008 to 2011?",
+                "A": 2
+            },
+            "question3": {
+                "Q": "How many 50s did Rahul Dravid score in FC from 2008 to 2010?",
+                "A": 10
+            }
+        },
+        "q5": {
+            "question3": {
+                "Q": "How many 50s did Rahul Dravid score in ODI in 2011?",
+                "A": 1
+            },
+            "question1": {
+                "Q": "How many 50s did Rahul Dravid score in Tests and ODIs combined in 2011?",
+                "A": 3
+            }
+        },
+        "q6": {
+            "question2": {
+                "Q": "How many 100s did Rahul Dravid score in Test in 2011?",
+                "A": 5
+            },
+            "question3": {
+                "Q": "How many 100s did Rahul Dravid score in FC in 2011?",
+                "A": 3
+            },
+            "question1": {
+                "Q": "How many 100s did Rahul Dravid score in Tests and ODIs combined in 2011?",
+                "A": 5
+            }
+        }
+    },
+    "Andrew_Strauss": {
+        "q1": {
+            "question12": {
+                "Q": "How many matches did Andrew Strauss played in FC in 2012?",
+                "A": 23
+            },
+            "question3": {
+                "Q": "How many matches did Andrew Strauss played in Tests and ODIs combined in 2012?",
+                "A": 11
+            },
+            "question2": {
+                "Q": "How many matches did Andrew Strauss played in Tests and ODIs combined in 2011?",
+                "A": 25
+            }
+        },
+        "q2": {
+            "question2": {
+                "Q": "How many matches did Andrew Strauss played in Tests and ODIs combined from 2009 to 2012?",
+                "A": 59
+            },
+            "question3": {
+                "Q": "How many matches did Andrew Strauss played in Tests and ODIs combined from 2010 to 2012?",
+                "A": 36
+            },
+            "question1": {
+                "Q": "How many matches did Andrew Strauss played in Tests and ODIs combined from 2009 to 2011?",
+                "A": 48
+            }
+        },
+        "q3": {
+            "question18": {
+                "Q": "How many 100s did Andrew Strauss score in FC from 2009 to 2011?",
+                "A": 6
+            },
+            "question12": {
+                "Q": "How many 100s did Andrew Strauss score in ODI from 2009 to 2012?",
+                "A": 3
+            }
+        },
+        "q4": {
+            "question13": {
+                "Q": "How many 50s did Andrew Strauss score in ODI from 2010 to 2012?",
+                "A": 3
+            },
+            "question6": {
+                "Q": "How many 50s did Andrew Strauss score in Test from 2010 to 2012?",
+                "A": 6
+            },
+            "question18": {
+                "Q": "How many 50s did Andrew Strauss score in FC from 2009 to 2011?",
+                "A": 12
+            }
+        },
+        "q5": {
+            "question3": {
+                "Q": "How many 50s did Andrew Strauss score in Tests and ODIs combined in 2012?",
+                "A": 2
+            },
+            "question6": {
+                "Q": "How many 50s did Andrew Strauss score in Test in 2012?",
+                "A": 2
+            }
+        },
+        "q6": {
+            "question11": {
+                "Q": "How many 100s did Andrew Strauss score in LA in 2010?",
+                "A": 2
+            },
+            "question2": {
+                "Q": "How many 100s did Andrew Strauss score in Tests and ODIs combined in 2011?",
+                "A": 1
+            },
+            "question4": {
+                "Q": "How many 100s did Andrew Strauss score in Test in 2010?",
+                "A": 1
+            }
+        }
+    },
+    "Chaminda_Vaas": {
+        "q1": {
+            "question3": {
+                "Q": "How many matches did Chaminda Vaas played in FC in 2008?",
+                "A": 14
+            },
+            "question14": {
+                "Q": "How many wickets did Chaminda Vaas took in LA in 2009?",
+                "A": 1
+            }
+        },
+        "q2": {},
+        "q3": {},
+        "q4": {
+            "question10": {
+                "Q": "How many 50s did Chaminda Vaas score in LA from 2008 to 2010?",
+                "A": 3
+            },
+            "question12": {
+                "Q": "How many 50s did Chaminda Vaas score in LA from 2009 to 2012?",
+                "A": 5
+            }
+        },
+        "q5": {
+            "question1": {
+                "Q": "How many 50s did Chaminda Vaas score in FC in 2008?",
+                "A": 3
+            },
+            "question3": {
+                "Q": "How many 50s did Chaminda Vaas score in LA in 2010?",
+                "A": 3
+            },
+            "question2": {
+                "Q": "How many 50s did Chaminda Vaas score in FC in 2009?",
+                "A": 1
+            }
+        },
+        "q6": {}
+    },
+    "Scott_Styris": {
+        "q1": {
+            "question1": {
+                "Q": "How many matches did Scott Styris played in FC in 2009?",
+                "A": 4
+            }
+        },
+        "q2": {
+            "question2": {
+                "Q": "How many matches did Scott Styris played in Tests and ODIs combined from 2009 to 2013?",
+                "A": 1
+            },
+            "question8": {
+                "Q": "How many wickets did Scott Styris took in Tests and ODIs combined from 2013 to 2017?",
+                "A": 12
+            },
+            "question6": {
+                "Q": "How many wickets did Scott Styris took in Tests and ODIs combined from 2009 to 2017?",
+                "A": 12
+            }
+        },
+        "q3": {
+            "question1": {
+                "Q": "How many 100s did Scott Styris score in FC from 2008 to 2011?",
+                "A": 1
+            },
+            "question2": {
+                "Q": "How many 100s did Scott Styris score in FC from 2008 to 2013?",
+                "A": 1
+            },
+            "question3": {
+                "Q": "How many 100s did Scott Styris score in FC from 2009 to 2011?",
+                "A": 1
+            }
+        },
+        "q4": {
+            "question2": {
+                "Q": "How many 50s did Scott Styris score in Tests and ODIs combined from 2011 to 2017?",
+                "A": 5
+            },
+            "question7": {
+                "Q": "How many 50s did Scott Styris score in FC from 2008 to 2011?",
+                "A": 3
+            },
+            "question8": {
+                "Q": "How many 50s did Scott Styris score in FC from 2008 to 2013?",
+                "A": 3
+            }
+        },
+        "q5": {
+            "question1": {
+                "Q": "How many 50s did Scott Styris score in FC in 2009?",
+                "A": 3
+            }
+        },
+        "q6": {}
+    },
+    "Robert_Key_(cricketer)": {
+        "q1": {
+            "question3": {
+                "Q": "How many matches did Robert Key played in LA in 2009?",
+                "A": 19
+            },
+            "question1": {
+                "Q": "How many matches did Robert Key played in FC in 2009?",
+                "A": 26
+            }
+        },
+        "q2": {},
+        "q3": {
+            "question4": {
+                "Q": "How many 100s did Robert Key score in LA from 2009 to 2016?",
+                "A": 3
+            },
+            "question2": {
+                "Q": "How many 100s did Robert Key score in FC from 2009 to 2016?",
+                "A": 13
+            }
+        },
+        "q4": {
+            "question4": {
+                "Q": "How many 50s did Robert Key score in LA from 2009 to 2016?",
+                "A": 5
+            },
+            "question2": {
+                "Q": "How many 50s did Robert Key score in FC from 2009 to 2016?",
+                "A": 21
+            },
+            "question3": {
+                "Q": "How many 50s did Robert Key score in LA from 2008 to 2016?",
+                "A": 7
+            }
+        },
+        "q5": {
+            "question1": {
+                "Q": "How many 50s did Robert Key score in FC in 2009?",
+                "A": 8
+            },
+            "question2": {
+                "Q": "How many 50s did Robert Key score in LA in 2009?",
+                "A": 2
+            }
+        },
+        "q6": {
+            "question1": {
+                "Q": "How many 100s did Robert Key score in FC in 2009?",
+                "A": 4
+            },
+            "question2": {
+                "Q": "How many 100s did Robert Key score in LA in 2009?",
+                "A": 1
+            }
+        }
+    },
+    "Geraint_Jones": {
+        "q1": {
+            "question2": {
+                "Q": "How many matches did Geraint Jones played in ODI in 2015?",
+                "A": 1
+            },
+            "question1": {
+                "Q": "How many matches did Geraint Jones played in Tests and ODIs combined in 2015?",
+                "A": 1
+            }
+        },
+        "q2": {
+            "question1": {
+                "Q": "How many matches did Geraint Jones played in Tests and ODIs combined from 2014 to 2016?",
+                "A": 1
+            }
+        },
+        "q3": {},
+        "q4": {
+            "question7": {
+                "Q": "How many 50s did Geraint Jones score in LA from 2012 to 2016?",
+                "A": 6
+            },
+            "question1": {
+                "Q": "How many 50s did Geraint Jones score in FC from 2012 to 2014?",
+                "A": 10
+            },
+            "question2": {
+                "Q": "How many 50s did Geraint Jones score in FC from 2012 to 2015?",
+                "A": 14
+            }
+        },
+        "q5": {
+            "question1": {
+                "Q": "How many 50s did Geraint Jones score in FC in 2015?",
+                "A": 4
+            },
+            "question3": {
+                "Q": "How many 50s did Geraint Jones score in LA in 2016?",
+                "A": 3
+            }
+        },
+        "q6": {}
+    },
+    "Makhaya_Ntini": {
+        "q1": {
+            "question1": {
+                "Q": "How many matches did Makhaya Ntini played in FC in 2009?",
+                "A": 14
+            },
+            "question4": {
+                "Q": "How many runs did Makhaya Ntini scored in LA in 2009?",
+                "A": 19
+            },
+            "question5": {
+                "Q": "How many wickets did Makhaya Ntini took in LA in 2009?",
+                "A": 11
+            }
+        },
+        "q2": {
+            "question3": {
+                "Q": "How many runs did Makhaya Ntini scored in Tests and ODIs combined from 2009 to 2017?",
+                "A": 7
+            },
+            "question2": {
+                "Q": "How many matches did Makhaya Ntini played in Tests and ODIs combined from 2009 to 2017?",
+                "A": 1
+            },
+            "question1": {
+                "Q": "How many matches did Makhaya Ntini played in Tests and ODIs combined from 2009 to 2011?",
+                "A": 1
+            }
+        },
+        "q3": {},
+        "q4": {},
+        "q5": {},
+        "q6": {}
+    },
+    "Shahid_Afridi": {
+        "q1": {
+            "question8": {
+                "Q": "How many wickets did Shahid Afridi took in ODI in 2009?",
+                "A": 4
+            },
+            "question9": {
+                "Q": "How many wickets did Shahid Afridi took in ODI in 2010?",
+                "A": 32
+            },
+            "question2": {
+                "Q": "How many matches did Shahid Afridi played in Tests and ODIs combined in 2010?",
+                "A": 22
+            }
+        },
+        "q2": {
+            "question2": {
+                "Q": "How many wickets did Shahid Afridi took in Tests and ODIs combined from 2008 to 2010?",
+                "A": 36
+            },
+            "question1": {
+                "Q": "How many matches did Shahid Afridi played in Tests and ODIs combined from 2008 to 2010?",
+                "A": 28
+            },
+            "question3": {
+                "Q": "How many fivefor did Shahid Afridi took in Tests and ODIs combined from 2008 to 2010?",
+                "A": 1
+            }
+        },
+        "q3": {},
+        "q4": {
+            "question2": {
+                "Q": "How many 50s did Shahid Afridi score in ODI from 2008 to 2010?",
+                "A": 1
+            },
+            "question1": {
+                "Q": "How many 50s did Shahid Afridi score in Tests and ODIs combined from 2008 to 2010?",
+                "A": 1
+            }
+        },
+        "q5": {
+            "question1": {
+                "Q": "How many 50s did Shahid Afridi score in Tests and ODIs combined in 2010?",
+                "A": 1
+            },
+            "question2": {
+                "Q": "How many 50s did Shahid Afridi score in ODI in 2010?",
+                "A": 1
+            },
+            "question3": {
+                "Q": "How many 50s did Shahid Afridi score in LA in 2010?",
+                "A": 3
+            }
+        },
+        "q6": {}
+    },
+    "Anil_Kumble": {
+        "q1": {
+            "question2": {
+                "Q": "How many fivefor did Anil Kumble took in FC in 2008?",
+                "A": 2
+            },
+            "question1": {
+                "Q": "How many matches did Anil Kumble played in FC in 2008?",
+                "A": 17
+            }
+        },
+        "q2": {},
+        "q3": {},
+        "q4": {
+            "question2": {
+                "Q": "How many 50s did Anil Kumble score in FC from 2007 to 2019?",
+                "A": 1
+            },
+            "question1": {
+                "Q": "How many 50s did Anil Kumble score in FC from 2007 to 2016?",
+                "A": 1
+            }
+        },
+        "q5": {
+            "question1": {
+                "Q": "How many 50s did Anil Kumble score in FC in 2008?",
+                "A": 1
+            }
+        },
+        "q6": {}
+    },
+    "Michael_Clarke_(cricketer)": {
+        "q1": {
+            "question6": {
+                "Q": "How many matches did Michael Clarke played in FC in 2010?",
+                "A": 9
+            },
+            "question3": {
+                "Q": "How many matches did Michael Clarke played in Test in 2010?",
+                "A": 8
+            },
+            "question4": {
+                "Q": "How many wickets did Michael Clarke took in Test in 2010?",
+                "A": 2
+            }
+        },
+        "q2": {
+            "question3": {
+                "Q": "How many wickets did Michael Clarke took in Tests and ODIs combined from 2009 to 2012?",
+                "A": 14
+            },
+            "question1": {
+                "Q": "How many matches did Michael Clarke played in Tests and ODIs combined from 2009 to 2012?",
+                "A": 87
+            }
+        },
+        "q3": {
+            "question4": {
+                "Q": "How many 100s did Michael Clarke score in Test from 2010 to 2012?",
+                "A": 7
+            },
+            "question5": {
+                "Q": "How many 100s did Michael Clarke score in ODI from 2009 to 2012?",
+                "A": 3
+            }
+        },
+        "q4": {
+            "question4": {
+                "Q": "How many 50s did Michael Clarke score in Test from 2010 to 2012?",
+                "A": 3
+            },
+            "question10": {
+                "Q": "How many 50s did Michael Clarke score in FC from 2009 to 2012?",
+                "A": 7
+            },
+            "question2": {
+                "Q": "How many 50s did Michael Clarke score in Tests and ODIs combined from 2010 to 2012?",
+                "A": 15
+            }
+        },
+        "q5": {
+            "question3": {
+                "Q": "How many 50s did Michael Clarke score in ODI in 2010?",
+                "A": 4
+            },
+            "question1": {
+                "Q": "How many 50s did Michael Clarke score in Tests and ODIs combined in 2010?",
+                "A": 6
+            },
+            "question4": {
+                "Q": "How many 50s did Michael Clarke score in FC in 2010?",
+                "A": 2
+            }
+        },
+        "q6": {
+            "question1": {
+                "Q": "How many 100s did Michael Clarke score in Tests and ODIs combined in 2010?",
+                "A": 2
+            },
+            "question3": {
+                "Q": "How many 100s did Michael Clarke score in FC in 2010?",
+                "A": 2
+            }
+        }
+    },
+    "Andrew_Symonds": {
+        "q1": {
+            "question2": {
+                "Q": "How many wickets did Andrew Symonds took in FC in 2009?",
+                "A": 5
+            },
+            "question1": {
+                "Q": "How many matches did Andrew Symonds played in FC in 2009?",
+                "A": 7
+            }
+        },
+        "q2": {},
+        "q3": {},
+        "q4": {
+            "question1": {
+                "Q": "How many 50s did Andrew Symonds score in FC from 2008 to 2010?",
+                "A": 2
+            }
+        },
+        "q5": {
+            "question1": {
+                "Q": "How many 50s did Andrew Symonds score in FC in 2009?",
+                "A": 2
+            }
+        },
+        "q6": {}
+    },
+    "Parthiv_Patel": {
+        "q1": {
+            "question1": {
+                "Q": "How many matches did Parthiv Patel played in Tests and ODIs combined in 2019?",
+                "A": 2
+            },
+            "question5": {
+                "Q": "How many matches did Parthiv Patel played in T20 in 2019?",
+                "A": 44
+            },
+            "question7": {
+                "Q": "How many runs did Parthiv Patel scored in FC in 2012?",
+                "A": 55
+            }
+        },
+        "q2": {
+            "question1": {
+                "Q": "How many matches did Parthiv Patel played in Tests and ODIs combined from 2017 to 2019?",
+                "A": 2
+            },
+            "question4": {
+                "Q": "How many runs did Parthiv Patel scored in Tests and ODIs combined from 2017 to 2019?",
+                "A": 56
+            }
+        },
+        "q3": {
+            "question8": {
+                "Q": "How many 100s did Parthiv Patel score in FC from 2012 to 2020?",
+                "A": 12
+            },
+            "question4": {
+                "Q": "How many 100s did Parthiv Patel score in FC from 2008 to 2020?",
+                "A": 18
+            },
+            "question9": {
+                "Q": "How many 100s did Parthiv Patel score in FC from 2014 to 2020?",
+                "A": 9
+            }
+        },
+        "q4": {
+            "question18": {
+                "Q": "How many 50s did Parthiv Patel score in T20 from 2014 to 2019?",
+                "A": 19
+            },
+            "question2": {
+                "Q": "How many 50s did Parthiv Patel score in Test from 2011 to 2018?",
+                "A": 2
+            }
+        },
+        "q5": {
+            "question2": {
+                "Q": "How many 50s did Parthiv Patel score in FC in 2012?",
+                "A": 1
+            },
+            "question1": {
+                "Q": "How many 50s did Parthiv Patel score in T20 in 2019?",
+                "A": 6
+            }
+        },
+        "q6": {}
+    },
+    "Ed_Cowan": {
+        "q1": {
+            "question1": {
+                "Q": "How many matches did Ed Cowan played in Test in 2012?",
+                "A": 10
+            },
+            "question9": {
+                "Q": "How many matches did Ed Cowan played in LA in 2013?",
+                "A": 3
+            },
+            "question7": {
+                "Q": "How many matches did Ed Cowan played in FC in 2013?",
+                "A": 18
+            }
+        },
+        "q2": {},
+        "q3": {
+            "question2": {
+                "Q": "How many 100s did Ed Cowan score in FC from 2011 to 2015?",
+                "A": 9
+            },
+            "question8": {
+                "Q": "How many 100s did Ed Cowan score in LA from 2011 to 2013?",
+                "A": 1
+            },
+            "question1": {
+                "Q": "How many 100s did Ed Cowan score in FC from 2011 to 2013?",
+                "A": 4
+            }
+        },
+        "q4": {
+            "question13": {
+                "Q": "How many 50s did Ed Cowan score in FC from 2012 to 2018?",
+                "A": 15
+            },
+            "question21": {
+                "Q": "How many 50s did Ed Cowan score in LA from 2013 to 2015?",
+                "A": 2
+            }
+        },
+        "q5": {
+            "question2": {
+                "Q": "How many 50s did Ed Cowan score in Test in 2013?",
+                "A": 1
+            },
+            "question3": {
+                "Q": "How many 50s did Ed Cowan score in T20 in 2012?",
+                "A": 1
+            },
+            "question1": {
+                "Q": "How many 50s did Ed Cowan score in Test in 2012?",
+                "A": 4
+            }
+        },
+        "q6": {
+            "question1": {
+                "Q": "How many 100s did Ed Cowan score in FC in 2012?",
+                "A": 4
+            },
+            "question2": {
+                "Q": "How many 100s did Ed Cowan score in LA in 2012?",
+                "A": 1
+            }
+        }
+    },
+    "Imran_Nazir_(cricketer)": {
+        "q1": {},
+        "q2": {
+            "question3": {
+                "Q": "How many matches did Imran Nazir played in Tests and ODIs combined from 2008 to 2017?",
+                "A": 7
+            },
+            "question1": {
+                "Q": "How many matches did Imran Nazir played in Tests and ODIs combined from 2008 to 2012?",
+                "A": 7
+            }
+        },
+        "q3": {
+            "question1": {
+                "Q": "How many 100s did Imran Nazir score in FC from 2013 to 2017?",
+                "A": 1
+            }
+        },
+        "q4": {
+            "question1": {
+                "Q": "How many 50s did Imran Nazir score in FC from 2013 to 2017?",
+                "A": 3
+            }
+        },
+        "q5": {},
+        "q6": {}
+    },
+    "Kumar_Sangakkara": {
+        "q1": {
+            "question2": {
+                "Q": "How many matches did Kumar Sangakkara played in ODI in 2009?",
+                "A": 23
+            },
+            "question5": {
+                "Q": "How many matches did Kumar Sangakkara played in LA in 2009?",
+                "A": 27
+            },
+            "question6": {
+                "Q": "How many matches did Kumar Sangakkara played in LA in 2010?",
+                "A": 6
+            }
+        },
+        "q2": {},
+        "q3": {
+            "question1": {
+                "Q": "How many 100s did Kumar Sangakkara score in FC from 2008 to 2010?",
+                "A": 4
+            },
+            "question2": {
+                "Q": "How many 100s did Kumar Sangakkara score in LA from 2008 to 2010?",
+                "A": 2
+            }
+        },
+        "q4": {
+            "question1": {
+                "Q": "How many 50s did Kumar Sangakkara score in ODI from 2008 to 2010?",
+                "A": 10
+            },
+            "question2": {
+                "Q": "How many 50s did Kumar Sangakkara score in FC from 2008 to 2010?",
+                "A": 6
+            },
+            "question3": {
+                "Q": "How many 50s did Kumar Sangakkara score in LA from 2008 to 2010?",
+                "A": 10
+            }
+        },
+        "q5": {
+            "question5": {
+                "Q": "How many 50s did Kumar Sangakkara score in LA in 2009?",
+                "A": 7
+            },
+            "question1": {
+                "Q": "How many 50s did Kumar Sangakkara score in Tests and ODIs combined in 2010?",
+                "A": 3
+            },
+            "question6": {
+                "Q": "How many 50s did Kumar Sangakkara score in LA in 2010?",
+                "A": 3
+            }
+        },
+        "q6": {
+            "question1": {
+                "Q": "How many 100s did Kumar Sangakkara score in FC in 2009?",
+                "A": 4
+            },
+            "question2": {
+                "Q": "How many 100s did Kumar Sangakkara score in LA in 2009?",
+                "A": 2
+            }
+        }
+    },
+    "Paul_Collingwood": {
+        "q1": {
+            "question11": {
+                "Q": "How many matches did Paul Collingwood played in LA in 2010?",
+                "A": 18
+            },
+            "question14": {
+                "Q": "How many wickets did Paul Collingwood took in LA in 2011?",
+                "A": 5
+            },
+            "question12": {
+                "Q": "How many matches did Paul Collingwood played in LA in 2011?",
+                "A": 6
+            }
+        },
+        "q2": {},
+        "q3": {
+            "question5": {
+                "Q": "How many 100s did Paul Collingwood score in LA from 2007 to 2009?",
+                "A": 1
+            },
+            "question7": {
+                "Q": "How many 100s did Paul Collingwood score in LA from 2007 to 2011?",
+                "A": 2
+            },
+            "question4": {
+                "Q": "How many 100s did Paul Collingwood score in FC from 2009 to 2011?",
+                "A": 1
+            }
+        },
+        "q4": {
+            "question3": {
+                "Q": "How many 50s did Paul Collingwood score in FC from 2007 to 2011?",
+                "A": 18
+            },
+            "question5": {
+                "Q": "How many 50s did Paul Collingwood score in LA from 2007 to 2009?",
+                "A": 9
+            },
+            "question2": {
+                "Q": "How many 50s did Paul Collingwood score in FC from 2007 to 2010?",
+                "A": 16
+            }
+        },
+        "q5": {
+            "question3": {
+                "Q": "How many 50s did Paul Collingwood score in LA in 2010?",
+                "A": 2
+            },
+            "question1": {
+                "Q": "How many 50s did Paul Collingwood score in FC in 2010?",
+                "A": 3
+            },
+            "question2": {
+                "Q": "How many 50s did Paul Collingwood score in FC in 2011?",
+                "A": 2
+            }
+        },
+        "q6": {
+            "question1": {
+                "Q": "How many 100s did Paul Collingwood score in FC in 2010?",
+                "A": 1
+            },
+            "question2": {
+                "Q": "How many 100s did Paul Collingwood score in LA in 2010?",
+                "A": 1
+            }
+        }
+    },
+    "Abdur_Razzak_(cricketer)": {
+        "q1": {
+            "question16": {
+                "Q": "How many matches did Abdur Razzak played in ODI in 2013?",
+                "A": 9
+            },
+            "question23": {
+                "Q": "How many wickets did Abdur Razzak took in ODI in 2015?",
+                "A": 1
+            },
+            "question3": {
+                "Q": "How many matches did Abdur Razzak played in Tests and ODIs combined in 2015?",
+                "A": 3
+            }
+        },
+        "q2": {
+            "question10": {
+                "Q": "How many matches did Abdur Razzak played in Tests and ODIs combined from 2013 to 2018?",
+                "A": 8
+            },
+            "question29": {
+                "Q": "How many wickets did Abdur Razzak took in Tests and ODIs combined from 2012 to 2014?",
+                "A": 16
+            },
+            "question27": {
+                "Q": "How many wickets did Abdur Razzak took in Tests and ODIs combined from 2010 to 2015?",
+                "A": 65
+            }
+        },
+        "q3": {},
+        "q4": {
+            "question20": {
+                "Q": "How many 50s did Abdur Razzak score in FC from 2010 to 2012?",
+                "A": 1
+            },
+            "question11": {
+                "Q": "How many 50s did Abdur Razzak score in ODI from 2010 to 2018?",
+                "A": 1
+            }
+        },
+        "q5": {
+            "question1": {
+                "Q": "How many 50s did Abdur Razzak score in Tests and ODIs combined in 2013?",
+                "A": 1
+            },
+            "question2": {
+                "Q": "How many 50s did Abdur Razzak score in ODI in 2013?",
+                "A": 1
+            }
+        },
+        "q6": {}
+    },
+    "Matthew_Hayden": {
+        "q1": {
+            "question1": {
+                "Q": "How many matches did Matthew Hayden played in FC in 2008?",
+                "A": 9
+            },
+            "question2": {
+                "Q": "How many matches did Matthew Hayden played in FC in 2009?",
+                "A": 2
+            }
+        },
+        "q2": {},
+        "q3": {
+            "question1": {
+                "Q": "How many 100s did Matthew Hayden score in FC from 2007 to 2009?",
+                "A": 2
+            },
+            "question3": {
+                "Q": "How many 100s did Matthew Hayden score in FC from 2007 to 2013?",
+                "A": 2
+            }
+        },
+        "q4": {
+            "question3": {
+                "Q": "How many 50s did Matthew Hayden score in FC from 2007 to 2013?",
+                "A": 2
+            },
+            "question1": {
+                "Q": "How many 50s did Matthew Hayden score in FC from 2007 to 2009?",
+                "A": 2
+            },
+            "question2": {
+                "Q": "How many 50s did Matthew Hayden score in FC from 2007 to 2011?",
+                "A": 2
+            }
+        },
+        "q5": {
+            "question1": {
+                "Q": "How many 50s did Matthew Hayden score in FC in 2008?",
+                "A": 2
+            }
+        },
+        "q6": {
+            "question1": {
+                "Q": "How many 100s did Matthew Hayden score in FC in 2008?",
+                "A": 2
+            }
+        }
+    },
+    "James_Franklin_(cricketer)": {
+        "q1": {
+            "question11": {
+                "Q": "How many matches did James Franklin played in ODI in 2012?",
+                "A": 15
+            },
+            "question1": {
+                "Q": "How many matches did James Franklin played in Tests and ODIs combined in 2012?",
+                "A": 18
+            }
+        },
+        "q2": {
+            "question5": {
+                "Q": "How many matches did James Franklin played in Tests and ODIs combined from 2012 to 2017?",
+                "A": 13
+            },
+            "question4": {
+                "Q": "How many matches did James Franklin played in Tests and ODIs combined from 2012 to 2016?",
+                "A": 13
+            },
+            "question1": {
+                "Q": "How many matches did James Franklin played in Tests and ODIs combined from 2011 to 2013?",
+                "A": 31
+            }
+        },
+        "q3": {
+            "question1": {
+                "Q": "How many 100s did James Franklin score in FC from 2011 to 2013?",
+                "A": 2
+            },
+            "question6": {
+                "Q": "How many 100s did James Franklin score in LA from 2012 to 2017?",
+                "A": 2
+            }
+        },
+        "q4": {
+            "question17": {
+                "Q": "How many 50s did James Franklin score in LA from 2013 to 2016?",
+                "A": 8
+            },
+            "question4": {
+                "Q": "How many 50s did James Franklin score in Tests and ODIs combined from 2012 to 2016?",
+                "A": 1
+            }
+        },
+        "q5": {
+            "question3": {
+                "Q": "How many 50s did James Franklin score in FC in 2012?",
+                "A": 3
+            },
+            "question2": {
+                "Q": "How many 50s did James Franklin score in ODI in 2013?",
+                "A": 1
+            }
+        },
+        "q6": {
+            "question2": {
+                "Q": "How many 100s did James Franklin score in LA in 2013?",
+                "A": 1
+            },
+            "question1": {
+                "Q": "How many 100s did James Franklin score in FC in 2012?",
+                "A": 2
+            }
+        }
+    },
+    "Mohammad_Sami": {
+        "q1": {
+            "question6": {
+                "Q": "How many wickets did Mohammad Sami took in FC in 2016?",
+                "A": 96
+            },
+            "question3": {
+                "Q": "How many wickets did Mohammad Sami took in T20 in 2016?",
+                "A": 87
+            }
+        },
+        "q2": {
+            "question2": {
+                "Q": "How many matches did Mohammad Sami played in Tests and ODIs combined from 2012 to 2016?",
+                "A": 2
+            },
+            "question6": {
+                "Q": "How many deliveries did Mohammad Sami bowled in Tests and ODIs combined from 2012 to 2015?",
+                "A": 96
+            },
+            "question1": {
+                "Q": "How many matches did Mohammad Sami played in Tests and ODIs combined from 2012 to 2015?",
+                "A": 2
+            }
+        },
+        "q3": {},
+        "q4": {
+            "question1": {
+                "Q": "How many 50s did Mohammad Sami score in FC from 2012 to 2016?",
+                "A": 3
+            }
+        },
+        "q5": {
+            "question1": {
+                "Q": "How many 50s did Mohammad Sami score in FC in 2016?",
+                "A": 3
+            }
+        },
+        "q6": {}
+    },
+    "Matthew_Hoggard": {
+        "q1": {
+            "question4": {
+                "Q": "How many matches did Matthew Hoggard played in LA in 2009?",
+                "A": 7
+            },
+            "question1": {
+                "Q": "How many matches did Matthew Hoggard played in FC in 2009?",
+                "A": 32
+            },
+            "question6": {
+                "Q": "How many wickets did Matthew Hoggard took in LA in 2009?",
+                "A": 5
+            }
+        },
+        "q2": {},
+        "q3": {},
+        "q4": {
+            "question2": {
+                "Q": "How many 50s did Matthew Hoggard score in FC from 2008 to 2013?",
+                "A": 1
+            },
+            "question1": {
+                "Q": "How many 50s did Matthew Hoggard score in FC from 2008 to 2010?",
+                "A": 1
+            }
+        },
+        "q5": {
+            "question1": {
+                "Q": "How many 50s did Matthew Hoggard score in FC in 2009?",
+                "A": 1
+            }
+        },
+        "q6": {}
+    },
+    "Alok_Kapali": {
+        "q1": {
+            "question2": {
+                "Q": "How many matches did Alok Kapali played in ODI in 2012?",
+                "A": 3
+            },
+            "question6": {
+                "Q": "How many wickets did Alok Kapali took in FC in 2013?",
+                "A": 2
+            },
+            "question3": {
+                "Q": "How many matches did Alok Kapali played in FC in 2012?",
+                "A": 13
+            }
+        },
+        "q2": {
+            "question1": {
+                "Q": "How many matches did Alok Kapali played in Tests and ODIs combined from 2011 to 2013?",
+                "A": 3
+            },
+            "question2": {
+                "Q": "How many matches did Alok Kapali played in Tests and ODIs combined from 2011 to 2017?",
+                "A": 3
+            }
+        },
+        "q3": {
+            "question2": {
+                "Q": "How many 100s did Alok Kapali score in FC from 2011 to 2017?",
+                "A": 1
+            },
+            "question1": {
+                "Q": "How many 100s did Alok Kapali score in FC from 2011 to 2013?",
+                "A": 1
+            }
+        },
+        "q4": {
+            "question3": {
+                "Q": "How many 50s did Alok Kapali score in FC from 2012 to 2017?",
+                "A": 1
+            },
+            "question2": {
+                "Q": "How many 50s did Alok Kapali score in FC from 2011 to 2017?",
+                "A": 4
+            },
+            "question1": {
+                "Q": "How many 50s did Alok Kapali score in FC from 2011 to 2013?",
+                "A": 4
+            }
+        },
+        "q5": {
+            "question2": {
+                "Q": "How many 50s did Alok Kapali score in FC in 2013?",
+                "A": 1
+            },
+            "question1": {
+                "Q": "How many 50s did Alok Kapali score in FC in 2012?",
+                "A": 3
+            }
+        },
+        "q6": {
+            "question1": {
+                "Q": "How many 100s did Alok Kapali score in FC in 2012?",
+                "A": 1
+            }
+        }
+    },
+    "Nuwan_Kulasekara": {
+        "q1": {
+            "question6": {
+                "Q": "How many runs did Nuwan Kulasekara scored in Test in 2012?",
+                "A": 97
+            },
+            "question10": {
+                "Q": "How many wickets did Nuwan Kulasekara took in Test in 2013?",
+                "A": 5
+            }
+        },
+        "q2": {},
+        "q3": {},
+        "q4": {
+            "question5": {
+                "Q": "How many 50s did Nuwan Kulasekara score in FC from 2008 to 2015?",
+                "A": 2
+            },
+            "question4": {
+                "Q": "How many 50s did Nuwan Kulasekara score in FC from 2008 to 2014?",
+                "A": 2
+            }
+        },
+        "q5": {
+            "question1": {
+                "Q": "How many 50s did Nuwan Kulasekara score in FC in 2014?",
+                "A": 1
+            }
+        },
+        "q6": {}
+    },
+    "Zaheer_Khan": {
+        "q1": {
+            "question21": {
+                "Q": "How many fivefor did Zaheer Khan took in Test in 2014?",
+                "A": 1
+            },
+            "question20": {
+                "Q": "How many fivefor did Zaheer Khan took in Test in 2011?",
+                "A": 1
+            }
+        },
+        "q2": {
+            "question6": {
+                "Q": "How many matches did Zaheer Khan played in Tests and ODIs combined from 2013 to 2017?",
+                "A": 3
+            },
+            "question4": {
+                "Q": "How many matches did Zaheer Khan played in Tests and ODIs combined from 2012 to 2014?",
+                "A": 4
+            },
+            "question5": {
+                "Q": "How many matches did Zaheer Khan played in Tests and ODIs combined from 2012 to 2017?",
+                "A": 4
+            }
+        },
+        "q3": {},
+        "q4": {
+            "question14": {
+                "Q": "How many 50s did Zaheer Khan score in FC from 2011 to 2014?",
+                "A": 1
+            },
+            "question1": {
+                "Q": "How many 50s did Zaheer Khan score in FC from 2008 to 2010?",
+                "A": 1
+            }
+        },
+        "q5": {
+            "question2": {
+                "Q": "How many 50s did Zaheer Khan score in FC in 2013?",
+                "A": 1
+            },
+            "question1": {
+                "Q": "How many 50s did Zaheer Khan score in FC in 2009?",
+                "A": 1
+            }
+        },
+        "q6": {}
+    },
+    "VVS_Laxman": {
+        "q1": {
+            "question1": {
+                "Q": "How many matches did VVS Laxman played in Tests and ODIs combined in 2010?",
+                "A": 8
+            },
+            "question4": {
+                "Q": "How many matches did VVS Laxman played in Test in 2010?",
+                "A": 8
+            },
+            "question14": {
+                "Q": "How many wickets did VVS Laxman took in FC in 2009?",
+                "A": 1
+            }
+        },
+        "q2": {
+            "question1": {
+                "Q": "How many matches did VVS Laxman played in Tests and ODIs combined from 2009 to 2011?",
+                "A": 20
+            },
+            "question3": {
+                "Q": "How many matches did VVS Laxman played in Tests and ODIs combined from 2010 to 2012?",
+                "A": 16
+            },
+            "question2": {
+                "Q": "How many matches did VVS Laxman played in Tests and ODIs combined from 2009 to 2012?",
+                "A": 24
+            }
+        },
+        "q3": {
+            "question1": {
+                "Q": "How many 100s did VVS Laxman score in Tests and ODIs combined from 2009 to 2011?",
+                "A": 2
+            },
+            "question6": {
+                "Q": "How many 100s did VVS Laxman score in Test from 2010 to 2012?",
+                "A": 1
+            },
+            "question15": {
+                "Q": "How many 100s did VVS Laxman score in FC from 2009 to 2012?",
+                "A": 3
+            }
+        },
+        "q4": {
+            "question7": {
+                "Q": "How many 50s did VVS Laxman score in FC from 2007 to 2009?",
+                "A": 17
+            },
+            "question13": {
+                "Q": "How many 50s did VVS Laxman score in FC from 2008 to 2012?",
+                "A": 25
+            },
+            "question8": {
+                "Q": "How many 50s did VVS Laxman score in FC from 2007 to 2010?",
+                "A": 24
+            }
+        },
+        "q5": {
+            "question7": {
+                "Q": "How many 50s did VVS Laxman score in FC in 2010?",
+                "A": 7
+            },
+            "question6": {
+                "Q": "How many 50s did VVS Laxman score in FC in 2009?",
+                "A": 11
+            },
+            "question1": {
+                "Q": "How many 50s did VVS Laxman score in Tests and ODIs combined in 2010?",
+                "A": 6
+            }
+        },
+        "q6": {
+            "question5": {
+                "Q": "How many 100s did VVS Laxman score in FC in 2008?",
+                "A": 2
+            },
+            "question2": {
+                "Q": "How many 100s did VVS Laxman score in Tests and ODIs combined in 2012?",
+                "A": 1
+            }
+        }
+    },
+    "Thilan_Samaraweera": {
+        "q1": {
+            "question8": {
+                "Q": "How many wickets did Thilan Samaraweera took in FC in 2011?",
+                "A": 1
+            },
+            "question4": {
+                "Q": "How many wickets did Thilan Samaraweera took in Test in 2012?",
+                "A": 1
+            },
+            "question2": {
+                "Q": "How many matches did Thilan Samaraweera played in Test in 2012?",
+                "A": 17
+            }
+        },
+        "q2": {},
+        "q3": {
+            "question7": {
+                "Q": "How many 100s did Thilan Samaraweera score in FC from 2008 to 2013?",
+                "A": 20
+            },
+            "question3": {
+                "Q": "How many 100s did Thilan Samaraweera score in Test from 2011 to 2013?",
+                "A": 2
+            }
+        },
+        "q4": {
+            "question4": {
+                "Q": "How many 50s did Thilan Samaraweera score in FC from 2008 to 2010?",
+                "A": 6
+            },
+            "question10": {
+                "Q": "How many 50s did Thilan Samaraweera score in FC from 2011 to 2013?",
+                "A": 13
+            },
+            "question3": {
+                "Q": "How many 50s did Thilan Samaraweera score in Test from 2011 to 2013?",
+                "A": 5
+            }
+        },
+        "q5": {
+            "question5": {
+                "Q": "How many 50s did Thilan Samaraweera score in FC in 2013?",
+                "A": 10
+            },
+            "question3": {
+                "Q": "How many 50s did Thilan Samaraweera score in FC in 2011?",
+                "A": 4
+            },
+            "question1": {
+                "Q": "How many 50s did Thilan Samaraweera score in Test in 2011?",
+                "A": 4
+            }
+        },
+        "q6": {
+            "question5": {
+                "Q": "How many 100s did Thilan Samaraweera score in FC in 2013?",
+                "A": 7
+            },
+            "question2": {
+                "Q": "How many 100s did Thilan Samaraweera score in Test in 2012?",
+                "A": 2
+            },
+            "question1": {
+                "Q": "How many 100s did Thilan Samaraweera score in Test in 2011?",
+                "A": 1
+            }
+        }
+    },
+    "Irfan_Pathan": {
+        "q1": {
+            "question8": {
+                "Q": "How many matches did Irfan Pathan played in FC in 2012?",
+                "A": 5
+            },
+            "question13": {
+                "Q": "How many fivefor did Irfan Pathan took in FC in 2011?",
+                "A": 1
+            },
+            "question1": {
+                "Q": "How many matches did Irfan Pathan played in Tests and ODIs combined in 2012?",
+                "A": 13
+            }
+        },
+        "q2": {
+            "question18": {
+                "Q": "How many wickets did Irfan Pathan took in Tests and ODIs combined from 2010 to 2015?",
+                "A": 21
+            },
+            "question2": {
+                "Q": "How many matches did Irfan Pathan played in Tests and ODIs combined from 2008 to 2011?",
+                "A": 2
+            }
+        },
+        "q3": {},
+        "q4": {
+            "question3": {
+                "Q": "How many 50s did Irfan Pathan score in FC from 2008 to 2012?",
+                "A": 4
+            },
+            "question5": {
+                "Q": "How many 50s did Irfan Pathan score in FC from 2008 to 2015?",
+                "A": 4
+            }
+        },
+        "q5": {},
+        "q6": {}
+    },
+    "Ashish_Nehra": {
+        "q1": {},
+        "q2": {},
+        "q3": {
+            "question3": {
+                "Q": "How many 100s did Ashish Nehra score in LA from 2011 to 2017?",
+                "A": 6
+            },
+            "question5": {
+                "Q": "How many 100s did Ashish Nehra score in LA from 2012 to 2016?",
+                "A": 6
+            },
+            "question4": {
+                "Q": "How many 100s did Ashish Nehra score in LA from 2012 to 2015?",
+                "A": 6
+            }
+        },
+        "q4": {},
+        "q5": {},
+        "q6": {}
+    },
+    "Mohammad_Ashraful": {
+        "q1": {
+            "question3": {
+                "Q": "How many matches did Mohammad Ashraful played in Tests and ODIs combined in 2011?",
+                "A": 13
+            },
+            "question11": {
+                "Q": "How many matches did Mohammad Ashraful played in Test in 2010?",
+                "A": 5
+            }
+        },
+        "q2": {
+            "question24": {
+                "Q": "How many wickets did Mohammad Ashraful took in Tests and ODIs combined from 2008 to 2013?",
+                "A": 14
+            },
+            "question31": {
+                "Q": "How many wickets did Mohammad Ashraful took in Tests and ODIs combined from 2009 to 2020?",
+                "A": 7
+            }
+        },
+        "q3": {
+            "question63": {
+                "Q": "How many 100s did Mohammad Ashraful score in FC from 2011 to 2013?",
+                "A": 3
+            },
+            "question69": {
+                "Q": "How many 100s did Mohammad Ashraful score in FC from 2013 to 2020?",
+                "A": 3
+            }
+        },
+        "q4": {
+            "question46": {
+                "Q": "How many 50s did Mohammad Ashraful score in FC from 2007 to 2019?",
+                "A": 17
+            },
+            "question62": {
+                "Q": "How many 50s did Mohammad Ashraful score in FC from 2010 to 2020?",
+                "A": 13
+            }
+        },
+        "q5": {
+            "question12": {
+                "Q": "How many 50s did Mohammad Ashraful score in FC in 2013?",
+                "A": 1
+            },
+            "question8": {
+                "Q": "How many 50s did Mohammad Ashraful score in FC in 2009?",
+                "A": 1
+            },
+            "question7": {
+                "Q": "How many 50s did Mohammad Ashraful score in FC in 2008?",
+                "A": 3
+            }
+        },
+        "q6": {
+            "question1": {
+                "Q": "How many 100s did Mohammad Ashraful score in Tests and ODIs combined in 2009?",
+                "A": 2
+            },
+            "question9": {
+                "Q": "How many 100s did Mohammad Ashraful score in FC in 2020?",
+                "A": 1
+            }
+        }
+    },
+    "Murali_Kartik": {
+        "q1": {
+            "question7": {
+                "Q": "How many tenfor did Murali Kartik took in FC in 2011?",
+                "A": 2
+            },
+            "question4": {
+                "Q": "How many wickets did Murali Kartik took in FC in 2012?",
+                "A": 18
+            },
+            "question2": {
+                "Q": "How many matches did Murali Kartik played in FC in 2012?",
+                "A": 5
+            }
+        },
+        "q2": {},
+        "q3": {},
+        "q4": {
+            "question1": {
+                "Q": "How many 50s did Murali Kartik score in FC from 2010 to 2012?",
+                "A": 5
+            }
+        },
+        "q5": {
+            "question1": {
+                "Q": "How many 50s did Murali Kartik score in FC in 2011?",
+                "A": 5
+            }
+        },
+        "q6": {}
+    },
+    "Jason_Gillespie": {
+        "q1": {
+            "question2": {
+                "Q": "How many wickets did Jason Gillespie took in FC in 2008?",
+                "A": 34
+            },
+            "question1": {
+                "Q": "How many matches did Jason Gillespie played in FC in 2008?",
+                "A": 17
+            }
+        },
+        "q2": {},
+        "q3": {},
+        "q4": {
+            "question1": {
+                "Q": "How many 50s did Jason Gillespie score in FC from 2007 to 2021?",
+                "A": 3
+            }
+        },
+        "q5": {
+            "question1": {
+                "Q": "How many 50s did Jason Gillespie score in FC in 2008?",
+                "A": 3
+            }
+        },
+        "q6": {}
+    },
+    "Simon_Katich": {
+        "q1": {
+            "question5": {
+                "Q": "How many matches did Simon Katich played in FC in 2009?",
+                "A": 20
+            },
+            "question4": {
+                "Q": "How many matches did Simon Katich played in FC in 2008?",
+                "A": 20
+            }
+        },
+        "q2": {
+            "question1": {
+                "Q": "How many matches did Simon Katich played in Tests and ODIs combined from 2009 to 2012?",
+                "A": 9
+            },
+            "question2": {
+                "Q": "How many matches did Simon Katich played in Tests and ODIs combined from 2009 to 2019?",
+                "A": 9
+            }
+        },
+        "q3": {
+            "question7": {
+                "Q": "How many 100s did Simon Katich score in FC from 2007 to 2012?",
+                "A": 17
+            },
+            "question10": {
+                "Q": "How many 100s did Simon Katich score in FC from 2008 to 2012?",
+                "A": 11
+            },
+            "question15": {
+                "Q": "How many 100s did Simon Katich score in FC from 2010 to 2019?",
+                "A": 3
+            }
+        },
+        "q4": {
+            "question2": {
+                "Q": "How many 50s did Simon Katich score in Tests and ODIs combined from 2009 to 2019?",
+                "A": 5
+            },
+            "question15": {
+                "Q": "How many 50s did Simon Katich score in FC from 2010 to 2019?",
+                "A": 5
+            },
+            "question4": {
+                "Q": "How many 50s did Simon Katich score in Test from 2009 to 2019?",
+                "A": 5
+            }
+        },
+        "q5": {
+            "question5": {
+                "Q": "How many 50s did Simon Katich score in FC in 2010?",
+                "A": 6
+            },
+            "question2": {
+                "Q": "How many 50s did Simon Katich score in Test in 2010?",
+                "A": 5
+            },
+            "question3": {
+                "Q": "How many 50s did Simon Katich score in FC in 2008?",
+                "A": 10
+            }
+        },
+        "q6": {
+            "question4": {
+                "Q": "How many 100s did Simon Katich score in FC in 2009?",
+                "A": 5
+            },
+            "question3": {
+                "Q": "How many 100s did Simon Katich score in FC in 2008?",
+                "A": 6
+            }
+        }
+    },
+    "Graeme_Smith": {
+        "q1": {
+            "question4": {
+                "Q": "How many matches did Graeme Smith played in Test in 2014?",
+                "A": 4
+            },
+            "question2": {
+                "Q": "How many matches did Graeme Smith played in Test in 2012?",
+                "A": 14
+            },
+            "question8": {
+                "Q": "How many matches did Graeme Smith played in FC in 2014?",
+                "A": 4
+            }
+        },
+        "q2": {},
+        "q3": {
+            "question9": {
+                "Q": "How many 100s did Graeme Smith score in Test from 2012 to 2019?",
+                "A": 1
+            },
+            "question22": {
+                "Q": "How many 100s did Graeme Smith score in FC from 2011 to 2019?",
+                "A": 5
+            },
+            "question27": {
+                "Q": "How many 100s did Graeme Smith score in LA from 2008 to 2012?",
+                "A": 2
+            }
+        },
+        "q4": {
+            "question28": {
+                "Q": "How many 50s did Graeme Smith score in LA from 2008 to 2011?",
+                "A": 6
+            },
+            "question20": {
+                "Q": "How many 50s did Graeme Smith score in FC from 2010 to 2019?",
+                "A": 14
+            },
+            "question26": {
+                "Q": "How many 50s did Graeme Smith score in FC from 2013 to 2019?",
+                "A": 1
+            }
+        },
+        "q5": {
+            "question11": {
+                "Q": "How many 50s did Graeme Smith score in LA in 2013?",
+                "A": 2
+            },
+            "question3": {
+                "Q": "How many 50s did Graeme Smith score in Test in 2013?",
+                "A": 2
+            }
+        },
+        "q6": {
+            "question2": {
+                "Q": "How many 100s did Graeme Smith score in Test in 2012?",
+                "A": 4
+            },
+            "question3": {
+                "Q": "How many 100s did Graeme Smith score in Test in 2013?",
+                "A": 1
+            }
+        }
+    },
+    "Hamish_Marshall": {
+        "q1": {
+            "question2": {
+                "Q": "How many matches did Hamish Marshall played in LA in 2017?",
+                "A": 15
+            },
+            "question1": {
+                "Q": "How many matches did Hamish Marshall played in FC in 2017?",
+                "A": 16
+            }
+        },
+        "q2": {},
+        "q3": {},
+        "q4": {},
+        "q5": {
+            "question1": {
+                "Q": "How many 50s did Hamish Marshall score in FC in 2017?",
+                "A": 4
+            },
+            "question2": {
+                "Q": "How many 50s did Hamish Marshall score in LA in 2017?",
+                "A": 3
+            }
+        },
+        "q6": {
+            "question1": {
+                "Q": "How many 100s did Hamish Marshall score in FC in 2017?",
+                "A": 2
+            },
+            "question2": {
+                "Q": "How many 100s did Hamish Marshall score in LA in 2017?",
+                "A": 1
+            }
+        }
+    },
+    "Rangana_Herath": {
+        "q1": {
+            "question6": {
+                "Q": "How many wickets did Rangana Herath took in FC in 2010?",
+                "A": 8
+            },
+            "question8": {
+                "Q": "How many wickets did Rangana Herath took in FC in 2012?",
+                "A": 110
+            },
+            "question4": {
+                "Q": "How many matches did Rangana Herath played in FC in 2012?",
+                "A": 22
+            }
+        },
+        "q2": {
+            "question1": {
+                "Q": "How many matches did Rangana Herath played in Tests and ODIs combined from 2016 to 2018?",
+                "A": 15
+            },
+            "question3": {
+                "Q": "How many fivefor did Rangana Herath took in Tests and ODIs combined from 2016 to 2018?",
+                "A": 5
+            },
+            "question2": {
+                "Q": "How many wickets did Rangana Herath took in Tests and ODIs combined from 2016 to 2018?",
+                "A": 69
+            }
+        },
+        "q3": {},
+        "q4": {
+            "question8": {
+                "Q": "How many 50s did Rangana Herath score in FC from 2009 to 2015?",
+                "A": 2
+            },
+            "question7": {
+                "Q": "How many 50s did Rangana Herath score in FC from 2009 to 2012?",
+                "A": 2
+            }
+        },
+        "q5": {
+            "question2": {
+                "Q": "How many 50s did Rangana Herath score in FC in 2012?",
+                "A": 2
+            },
+            "question1": {
+                "Q": "How many 50s did Rangana Herath score in FC in 2009?",
+                "A": 2
+            }
+        },
+        "q6": {}
+    },
+    "Steve_Tikolo": {
+        "q1": {
+            "question3": {
+                "Q": "How many runs did Steve Tikolo scored in T20 in 2014?",
+                "A": 312
+            },
+            "question4": {
+                "Q": "How many wickets did Steve Tikolo took in T20 in 2014?",
+                "A": 13
+            }
+        },
+        "q2": {},
+        "q3": {
+            "question7": {
+                "Q": "How many 100s did Steve Tikolo score in LA from 2007 to 2013?",
+                "A": 1
+            },
+            "question6": {
+                "Q": "How many 100s did Steve Tikolo score in FC from 2007 to 2017?",
+                "A": 2
+            }
+        },
+        "q4": {
+            "question3": {
+                "Q": "How many 50s did Steve Tikolo score in ODI from 2007 to 2017?",
+                "A": 3
+            },
+            "question11": {
+                "Q": "How many 50s did Steve Tikolo score in LA from 2013 to 2017?",
+                "A": 1
+            },
+            "question1": {
+                "Q": "How many 50s did Steve Tikolo score in ODI from 2007 to 2013?",
+                "A": 3
+            }
+        },
+        "q5": {
+            "question2": {
+                "Q": "How many 50s did Steve Tikolo score in LA in 2014?",
+                "A": 1
+            },
+            "question1": {
+                "Q": "How many 50s did Steve Tikolo score in T20 in 2014?",
+                "A": 1
+            }
+        },
+        "q6": {}
+    },
+    "Brian_Lara": {
+        "q1": {
+            "question2": {
+                "Q": "How many runs did Brian Lara scored in FC in 2008?",
+                "A": 185
+            },
+            "question1": {
+                "Q": "How many matches did Brian Lara played in FC in 2008?",
+                "A": 2
+            }
+        },
+        "q2": {},
+        "q3": {
+            "question1": {
+                "Q": "How many 100s did Brian Lara score in ODI from 2007 to 2010?",
+                "A": 10
+            },
+            "question3": {
+                "Q": "How many 100s did Brian Lara score in FC from 2007 to 2010?",
+                "A": 1
+            },
+            "question2": {
+                "Q": "How many 100s did Brian Lara score in ODI from 2008 to 2010?",
+                "A": 10
+            }
+        },
+        "q4": {
+            "question1": {
+                "Q": "How many 50s did Brian Lara score in FC from 2007 to 2010?",
+                "A": 1
+            }
+        },
+        "q5": {
+            "question1": {
+                "Q": "How many 50s did Brian Lara score in FC in 2008?",
+                "A": 1
+            }
+        },
+        "q6": {
+            "question1": {
+                "Q": "How many 100s did Brian Lara score in FC in 2008?",
+                "A": 1
+            }
+        }
+    },
+    "Mark_Boucher": {
+        "q1": {
+            "question5": {
+                "Q": "How many matches did Mark Boucher played in LA in 2012?",
+                "A": 7
+            },
+            "question3": {
+                "Q": "How many matches did Mark Boucher played in ODI in 2012?",
+                "A": 3
+            }
+        },
+        "q2": {
+            "question4": {
+                "Q": "How many matches did Mark Boucher played in Tests and ODIs combined from 2011 to 2017?",
+                "A": 11
+            },
+            "question1": {
+                "Q": "How many matches did Mark Boucher played in Tests and ODIs combined from 2009 to 2011?",
+                "A": 15
+            },
+            "question3": {
+                "Q": "How many matches did Mark Boucher played in Tests and ODIs combined from 2009 to 2017?",
+                "A": 26
+            }
+        },
+        "q3": {
+            "question1": {
+                "Q": "How many 100s did Mark Boucher score in FC from 2009 to 2012?",
+                "A": 1
+            },
+            "question2": {
+                "Q": "How many 100s did Mark Boucher score in FC from 2009 to 2017?",
+                "A": 1
+            }
+        },
+        "q4": {
+            "question12": {
+                "Q": "How many 50s did Mark Boucher score in FC from 2011 to 2017?",
+                "A": 1
+            },
+            "question6": {
+                "Q": "How many 50s did Mark Boucher score in Test from 2009 to 2012?",
+                "A": 5
+            },
+            "question2": {
+                "Q": "How many 50s did Mark Boucher score in Tests and ODIs combined from 2009 to 2012?",
+                "A": 5
+            }
+        },
+        "q5": {
+            "question3": {
+                "Q": "How many 50s did Mark Boucher score in FC in 2012?",
+                "A": 1
+            },
+            "question1": {
+                "Q": "How many 50s did Mark Boucher score in Tests and ODIs combined in 2012?",
+                "A": 1
+            }
+        },
+        "q6": {
+            "question1": {
+                "Q": "How many 100s did Mark Boucher score in FC in 2012?",
+                "A": 1
+            }
+        }
+    },
+    "Kevin_Pietersen": {
+        "q1": {
+            "question5": {
+                "Q": "How many matches did Kevin Pietersen played in ODI in 2010?",
+                "A": 9
+            },
+            "question2": {
+                "Q": "How many wickets did Kevin Pietersen took in Tests and ODIs combined in 2010?",
+                "A": 4
+            }
+        },
+        "q2": {
+            "question3": {
+                "Q": "How many wickets did Kevin Pietersen took in Tests and ODIs combined from 2009 to 2012?",
+                "A": 8
+            },
+            "question1": {
+                "Q": "How many matches did Kevin Pietersen played in Tests and ODIs combined from 2009 to 2012?",
+                "A": 55
+            },
+            "question2": {
+                "Q": "How many matches did Kevin Pietersen played in Tests and ODIs combined from 2010 to 2012?",
+                "A": 38
+            }
+        },
+        "q3": {
+            "question2": {
+                "Q": "How many 100s did Kevin Pietersen score in Tests and ODIs combined from 2010 to 2012?",
+                "A": 4
+            },
+            "question7": {
+                "Q": "How many 100s did Kevin Pietersen score in FC from 2009 to 2012?",
+                "A": 3
+            },
+            "question3": {
+                "Q": "How many 100s did Kevin Pietersen score in Test from 2009 to 2012?",
+                "A": 3
+            }
+        },
+        "q4": {
+            "question4": {
+                "Q": "How many 50s did Kevin Pietersen score in Test from 2010 to 2012?",
+                "A": 6
+            },
+            "question2": {
+                "Q": "How many 50s did Kevin Pietersen score in Tests and ODIs combined from 2010 to 2012?",
+                "A": 9
+            },
+            "question3": {
+                "Q": "How many 50s did Kevin Pietersen score in Test from 2009 to 2012?",
+                "A": 10
+            }
+        },
+        "q5": {
+            "question2": {
+                "Q": "How many 50s did Kevin Pietersen score in Test in 2010?",
+                "A": 4
+            },
+            "question1": {
+                "Q": "How many 50s did Kevin Pietersen score in Tests and ODIs combined in 2010?",
+                "A": 4
+            }
+        },
+        "q6": {
+            "question1": {
+                "Q": "How many 100s did Kevin Pietersen score in FC in 2010?",
+                "A": 1
+            }
+        }
+    },
+    "Abdul_Razzaq_(cricketer)": {
+        "q1": {
+            "question3": {
+                "Q": "How many wickets did Abdul Razzaq took in Tests and ODIs combined in 2010?",
+                "A": 13
+            },
+            "question5": {
+                "Q": "How many matches did Abdul Razzaq played in ODI in 2010?",
+                "A": 14
+            },
+            "question7": {
+                "Q": "How many wickets did Abdul Razzaq took in ODI in 2010?",
+                "A": 13
+            }
+        },
+        "q2": {
+            "question5": {
+                "Q": "How many matches did Abdul Razzaq played in Tests and ODIs combined from 2010 to 2012?",
+                "A": 20
+            },
+            "question14": {
+                "Q": "How many wickets did Abdul Razzaq took in Tests and ODIs combined from 2010 to 2016?",
+                "A": 10
+            },
+            "question12": {
+                "Q": "How many wickets did Abdul Razzaq took in Tests and ODIs combined from 2010 to 2012?",
+                "A": 10
+            }
+        },
+        "q3": {
+            "question16": {
+                "Q": "How many 100s did Abdul Razzaq score in ODI from 2009 to 2012?",
+                "A": 1
+            },
+            "question11": {
+                "Q": "How many 100s did Abdul Razzaq score in ODI from 2008 to 2011?",
+                "A": 1
+            }
+        },
+        "q4": {
+            "question3": {
+                "Q": "How many 50s did Abdul Razzaq score in Tests and ODIs combined from 2009 to 2013?",
+                "A": 1
+            },
+            "question22": {
+                "Q": "How many 50s did Abdul Razzaq score in ODI from 2010 to 2016?",
+                "A": 1
+            },
+            "question32": {
+                "Q": "How many 50s did Abdul Razzaq score in FC from 2009 to 2016?",
+                "A": 2
+            }
+        },
+        "q5": {
+            "question2": {
+                "Q": "How many 50s did Abdul Razzaq score in ODI in 2011?",
+                "A": 1
+            },
+            "question1": {
+                "Q": "How many 50s did Abdul Razzaq score in Tests and ODIs combined in 2011?",
+                "A": 1
+            },
+            "question4": {
+                "Q": "How many 50s did Abdul Razzaq score in FC in 2009?",
+                "A": 1
+            }
+        },
+        "q6": {
+            "question2": {
+                "Q": "How many 100s did Abdul Razzaq score in ODI in 2010?",
+                "A": 1
+            },
+            "question1": {
+                "Q": "How many 100s did Abdul Razzaq score in Tests and ODIs combined in 2010?",
+                "A": 1
+            }
+        }
+    },
+    "Mohammed_Shami": {
+        "q1": {
+            "question11": {
+                "Q": "How many matches did Mohammed Shami played in Test in 2014?",
+                "A": 8
+            },
+            "question12": {
+                "Q": "How many matches did Mohammed Shami played in Test in 2015?",
+                "A": 2
+            },
+            "question37": {
+                "Q": "How many fivefor did Mohammed Shami took in FC in 2015?",
+                "A": 1
+            }
+        },
+        "q2": {
+            "question20": {
+                "Q": "How many wickets did Mohammed Shami took in Tests and ODIs combined from 2015 to 2018?",
+                "A": 102
+            },
+            "question24": {
+                "Q": "How many fivefor did Mohammed Shami took in Tests and ODIs combined from 2013 to 2019?",
+                "A": 3
+            },
+            "question27": {
+                "Q": "How many fivefor did Mohammed Shami took in Tests and ODIs combined from 2015 to 2018?",
+                "A": 2
+            }
+        },
+        "q3": {},
+        "q4": {
+            "question6": {
+                "Q": "How many 50s did Mohammed Shami score in Test from 2013 to 2019?",
+                "A": 1
+            },
+            "question5": {
+                "Q": "How many 50s did Mohammed Shami score in Test from 2013 to 2018?",
+                "A": 1
+            }
+        },
+        "q5": {
+            "question2": {
+                "Q": "How many 50s did Mohammed Shami score in Test in 2014?",
+                "A": 1
+            },
+            "question3": {
+                "Q": "How many 50s did Mohammed Shami score in FC in 2014?",
+                "A": 1
+            }
+        },
+        "q6": {}
+    },
+    "Shane_Bond": {
+        "q1": {
+            "question17": {
+                "Q": "How many wickets did Shane Bond took in ODI in 2010?",
+                "A": 11
+            },
+            "question5": {
+                "Q": "How many wickets did Shane Bond took in Tests and ODIs combined in 2009?",
+                "A": 11
+            },
+            "question12": {
+                "Q": "How many matches did Shane Bond played in ODI in 2009?",
+                "A": 8
+            }
+        },
+        "q2": {
+            "question2": {
+                "Q": "How many runs did Shane Bond scored in Tests and ODIs combined from 2008 to 2010?",
+                "A": 121
+            },
+            "question1": {
+                "Q": "How many matches did Shane Bond played in Tests and ODIs combined from 2008 to 2010?",
+                "A": 16
+            }
+        },
+        "q3": {},
+        "q4": {},
+        "q5": {},
+        "q6": {}
+    },
+    "Shivnarine_Chanderpaul": {
+        "q1": {
+            "question16": {
+                "Q": "How many matches did Shivnarine Chanderpaul played in ODI in 2011?",
+                "A": 7
+            },
+            "question17": {
+                "Q": "How many matches did Shivnarine Chanderpaul played in FC in 2009?",
+                "A": 4
+            }
+        },
+        "q2": {
+            "question5": {
+                "Q": "How many matches did Shivnarine Chanderpaul played in Tests and ODIs combined from 2009 to 2015?",
+                "A": 74
+            },
+            "question34": {
+                "Q": "How many wickets did Shivnarine Chanderpaul took in Tests and ODIs combined from 2011 to 2015?",
+                "A": 1
+            },
+            "question7": {
+                "Q": "How many matches did Shivnarine Chanderpaul played in Tests and ODIs combined from 2010 to 2012?",
+                "A": 30
+            }
+        },
+        "q3": {
+            "question6": {
+                "Q": "How many 100s did Shivnarine Chanderpaul score in Tests and ODIs combined from 2009 to 2017?",
+                "A": 12
+            },
+            "question90": {
+                "Q": "How many 100s did Shivnarine Chanderpaul score in LA from 2011 to 2017?",
+                "A": 1
+            }
+        },
+        "q4": {
+            "question103": {
+                "Q": "How many 50s did Shivnarine Chanderpaul score in LA from 2013 to 2017?",
+                "A": 7
+            },
+            "question25": {
+                "Q": "How many 50s did Shivnarine Chanderpaul score in Test from 2009 to 2014?",
+                "A": 14
+            },
+            "question87": {
+                "Q": "How many 50s did Shivnarine Chanderpaul score in LA from 2009 to 2013?",
+                "A": 10
+            }
+        },
+        "q5": {
+            "question1": {
+                "Q": "How many 50s did Shivnarine Chanderpaul score in Tests and ODIs combined in 2010?",
+                "A": 8
+            },
+            "question13": {
+                "Q": "How many 50s did Shivnarine Chanderpaul score in FC in 2010?",
+                "A": 5
+            },
+            "question21": {
+                "Q": "How many 50s did Shivnarine Chanderpaul score in LA in 2014?",
+                "A": 3
+            }
+        },
+        "q6": {
+            "question10": {
+                "Q": "How many 100s did Shivnarine Chanderpaul score in Test in 2014?",
+                "A": 2
+            },
+            "question11": {
+                "Q": "How many 100s did Shivnarine Chanderpaul score in ODI in 2010?",
+                "A": 2
+            },
+            "question6": {
+                "Q": "How many 100s did Shivnarine Chanderpaul score in Test in 2010?",
+                "A": 1
+            }
+        }
+    },
+    "Tillakaratne_Dilshan": {
+        "q1": {
+            "question5": {
+                "Q": "How many wickets did Tillakaratne Dilshan took in Tests and ODIs combined in 2013?",
+                "A": 14
+            },
+            "question7": {
+                "Q": "How many matches did Tillakaratne Dilshan played in Test in 2012?",
+                "A": 11
+            }
+        },
+        "q2": {
+            "question13": {
+                "Q": "How many wickets did Tillakaratne Dilshan took in Tests and ODIs combined from 2011 to 2014?",
+                "A": 39
+            },
+            "question1": {
+                "Q": "How many matches did Tillakaratne Dilshan played in Tests and ODIs combined from 2009 to 2011?",
+                "A": 59
+            },
+            "question10": {
+                "Q": "How many wickets did Tillakaratne Dilshan took in Tests and ODIs combined from 2009 to 2013?",
+                "A": 55
+            }
+        },
+        "q3": {
+            "question36": {
+                "Q": "How many 100s did Tillakaratne Dilshan score in FC from 2008 to 2011?",
+                "A": 9
+            },
+            "question4": {
+                "Q": "How many 100s did Tillakaratne Dilshan score in Tests and ODIs combined from 2009 to 2014?",
+                "A": 17
+            }
+        },
+        "q4": {
+            "question59": {
+                "Q": "How many 50s did Tillakaratne Dilshan score in LA from 2009 to 2014?",
+                "A": 33
+            },
+            "question48": {
+                "Q": "How many 50s did Tillakaratne Dilshan score in LA from 2007 to 2011?",
+                "A": 18
+            }
+        },
+        "q5": {
+            "question6": {
+                "Q": "How many 50s did Tillakaratne Dilshan score in ODI in 2008?",
+                "A": 4
+            },
+            "question16": {
+                "Q": "How many 50s did Tillakaratne Dilshan score in FC in 2014?",
+                "A": 2
+            }
+        },
+        "q6": {
+            "question3": {
+                "Q": "How many 100s did Tillakaratne Dilshan score in Test in 2012?",
+                "A": 3
+            },
+            "question10": {
+                "Q": "How many 100s did Tillakaratne Dilshan score in FC in 2012?",
+                "A": 3
+            }
+        }
+    },
+    "Neil_McKenzie": {
+        "q1": {
+            "question2": {
+                "Q": "How many wickets did Neil McKenzie took in FC in 2010?",
+                "A": 3
+            },
+            "question1": {
+                "Q": "How many matches did Neil McKenzie played in FC in 2010?",
+                "A": 28
+            }
+        },
+        "q2": {},
+        "q3": {
+            "question1": {
+                "Q": "How many 100s did Neil McKenzie score in FC from 2009 to 2013?",
+                "A": 18
+            },
+            "question5": {
+                "Q": "How many 100s did Neil McKenzie score in LA from 2010 to 2013?",
+                "A": 2
+            },
+            "question3": {
+                "Q": "How many 100s did Neil McKenzie score in LA from 2009 to 2013?",
+                "A": 3
+            }
+        },
+        "q4": {
+            "question1": {
+                "Q": "How many 50s did Neil McKenzie score in FC from 2009 to 2013?",
+                "A": 22
+            },
+            "question2": {
+                "Q": "How many 50s did Neil McKenzie score in FC from 2010 to 2013?",
+                "A": 13
+            },
+            "question6": {
+                "Q": "How many 50s did Neil McKenzie score in LA from 2010 to 2021?",
+                "A": 10
+            }
+        },
+        "q5": {
+            "question2": {
+                "Q": "How many 50s did Neil McKenzie score in LA in 2010?",
+                "A": 6
+            },
+            "question1": {
+                "Q": "How many 50s did Neil McKenzie score in FC in 2010?",
+                "A": 9
+            }
+        },
+        "q6": {
+            "question2": {
+                "Q": "How many 100s did Neil McKenzie score in LA in 2010?",
+                "A": 1
+            },
+            "question1": {
+                "Q": "How many 100s did Neil McKenzie score in FC in 2010?",
+                "A": 6
+            }
+        }
+    },
+    "Ramnaresh_Sarwan": {
+        "q1": {
+            "question3": {
+                "Q": "How many matches did Ramnaresh Sarwan played in Tests and ODIs combined in 2013?",
+                "A": 8
+            },
+            "question8": {
+                "Q": "How many matches did Ramnaresh Sarwan played in ODI in 2013?",
+                "A": 8
+            },
+            "question15": {
+                "Q": "How many matches did Ramnaresh Sarwan played in LA in 2013?",
+                "A": 11
+            }
+        },
+        "q2": {
+            "question8": {
+                "Q": "How many matches did Ramnaresh Sarwan played in Tests and ODIs combined from 2012 to 2016?",
+                "A": 8
+            },
+            "question1": {
+                "Q": "How many matches did Ramnaresh Sarwan played in Tests and ODIs combined from 2010 to 2012?",
+                "A": 25
+            }
+        },
+        "q3": {
+            "question13": {
+                "Q": "How many 100s did Ramnaresh Sarwan score in ODI from 2011 to 2016?",
+                "A": 1
+            },
+            "question36": {
+                "Q": "How many 100s did Ramnaresh Sarwan score in LA from 2008 to 2021?",
+                "A": 4
+            },
+            "question38": {
+                "Q": "How many 100s did Ramnaresh Sarwan score in LA from 2010 to 2013?",
+                "A": 4
+            }
+        },
+        "q4": {
+            "question9": {
+                "Q": "How many 50s did Ramnaresh Sarwan score in ODI from 2010 to 2013?",
+                "A": 5
+            },
+            "question41": {
+                "Q": "How many 50s did Ramnaresh Sarwan score in LA from 2011 to 2021?",
+                "A": 3
+            }
+        },
+        "q5": {
+            "question6": {
+                "Q": "How many 50s did Ramnaresh Sarwan score in LA in 2011?",
+                "A": 3
+            },
+            "question7": {
+                "Q": "How many 50s did Ramnaresh Sarwan score in LA in 2012?",
+                "A": 3
+            },
+            "question4": {
+                "Q": "How many 50s did Ramnaresh Sarwan score in ODI in 2012?",
+                "A": 3
+            }
+        },
+        "q6": {
+            "question6": {
+                "Q": "How many 100s did Ramnaresh Sarwan score in LA in 2012?",
+                "A": 2
+            },
+            "question5": {
+                "Q": "How many 100s did Ramnaresh Sarwan score in LA in 2011?",
+                "A": 1
+            },
+            "question3": {
+                "Q": "How many 100s did Ramnaresh Sarwan score in FC in 2011?",
+                "A": 1
+            }
+        }
+    },
+    "Ajit_Agarkar": {
+        "q1": {
+            "question1": {
+                "Q": "How many matches did Ajit Agarkar played in FC in 2011?",
+                "A": 24
+            },
+            "question4": {
+                "Q": "How many fivefor did Ajit Agarkar took in FC in 2011?",
+                "A": 2
+            },
+            "question3": {
+                "Q": "How many wickets did Ajit Agarkar took in FC in 2011?",
+                "A": 49
+            }
+        },
+        "q2": {},
+        "q3": {
+            "question1": {
+                "Q": "How many 100s did Ajit Agarkar score in FC from 2008 to 2011?",
+                "A": 1
+            },
+            "question4": {
+                "Q": "How many 100s did Ajit Agarkar score in FC from 2010 to 2013?",
+                "A": 1
+            }
+        },
+        "q4": {
+            "question4": {
+                "Q": "How many 50s did Ajit Agarkar score in FC from 2010 to 2013?",
+                "A": 5
+            },
+            "question1": {
+                "Q": "How many 50s did Ajit Agarkar score in FC from 2008 to 2011?",
+                "A": 5
+            }
+        },
+        "q5": {
+            "question1": {
+                "Q": "How many 50s did Ajit Agarkar score in FC in 2011?",
+                "A": 5
+            }
+        },
+        "q6": {
+            "question1": {
+                "Q": "How many 100s did Ajit Agarkar score in FC in 2011?",
+                "A": 1
+            }
+        }
+    },
+    "Andrew_Hall": {
+        "q1": {
+            "question3": {
+                "Q": "How many wickets did Andrew Hall took in FC in 2009?",
+                "A": 30
+            },
+            "question2": {
+                "Q": "How many runs did Andrew Hall scored in FC in 2009?",
+                "A": 422
+            }
+        },
+        "q2": {},
+        "q3": {
+            "question4": {
+                "Q": "How many 100s did Andrew Hall score in FC from 2009 to 2011?",
+                "A": 2
+            },
+            "question1": {
+                "Q": "How many 100s did Andrew Hall score in FC from 2008 to 2011?",
+                "A": 3
+            },
+            "question8": {
+                "Q": "How many 100s did Andrew Hall score in FC from 2011 to 2017?",
+                "A": 7
+            }
+        },
+        "q4": {
+            "question5": {
+                "Q": "How many 50s did Andrew Hall score in FC from 2009 to 2014?",
+                "A": 24
+            },
+            "question8": {
+                "Q": "How many 50s did Andrew Hall score in FC from 2011 to 2017?",
+                "A": 20
+            },
+            "question2": {
+                "Q": "How many 50s did Andrew Hall score in FC from 2008 to 2014?",
+                "A": 26
+            }
+        },
+        "q5": {
+            "question1": {
+                "Q": "How many 50s did Andrew Hall score in FC in 2009?",
+                "A": 2
+            }
+        },
+        "q6": {
+            "question1": {
+                "Q": "How many 100s did Andrew Hall score in FC in 2009?",
+                "A": 1
+            }
+        }
+    },
+    "Brad_Hogg": {
+        "q1": {
+            "question1": {
+                "Q": "How many matches did Brad Hogg played in FC in 2008?",
+                "A": 3
+            },
+            "question4": {
+                "Q": "How many wickets did Brad Hogg took in LA in 2008?",
+                "A": 8
+            },
+            "question3": {
+                "Q": "How many matches did Brad Hogg played in LA in 2008?",
+                "A": 5
+            }
+        },
+        "q2": {
+            "question1": {
+                "Q": "How many runs did Brad Hogg scored in Tests and ODIs combined from 2013 to 2015?",
+                "A": 824
+            },
+            "question2": {
+                "Q": "How many runs did Brad Hogg scored in Tests and ODIs combined from 2013 to 2016?",
+                "A": 824
+            }
+        },
+        "q3": {},
+        "q4": {
+            "question4": {
+                "Q": "How many 50s did Brad Hogg score in FC from 2007 to 2016?",
+                "A": 1
+            },
+            "question2": {
+                "Q": "How many 50s did Brad Hogg score in FC from 2007 to 2013?",
+                "A": 1
+            }
+        },
+        "q5": {
+            "question1": {
+                "Q": "How many 50s did Brad Hogg score in FC in 2008?",
+                "A": 1
+            }
+        },
+        "q6": {}
+    },
+    "Mahela_Jayawardene": {
+        "q1": {
+            "question9": {
+                "Q": "How many matches did Mahela Jayawardene played in ODI in 2013?",
+                "A": 31
+            },
+            "question3": {
+                "Q": "How many matches did Mahela Jayawardene played in Tests and ODIs combined in 2015?",
+                "A": 1
+            }
+        },
+        "q2": {
+            "question8": {
+                "Q": "How many deliveries did Mahela Jayawardene bowled in Tests and ODIs combined from 2012 to 2015?",
+                "A": 47
+            },
+            "question7": {
+                "Q": "How many deliveries did Mahela Jayawardene bowled in Tests and ODIs combined from 2012 to 2014?",
+                "A": 47
+            }
+        },
+        "q3": {
+            "question26": {
+                "Q": "How many 100s did Mahela Jayawardene score in ODI from 2012 to 2014?",
+                "A": 2
+            },
+            "question27": {
+                "Q": "How many 100s did Mahela Jayawardene score in ODI from 2012 to 2015?",
+                "A": 3
+            },
+            "question2": {
+                "Q": "How many 100s did Mahela Jayawardene score in Tests and ODIs combined from 2012 to 2015?",
+                "A": 6
+            }
+        },
+        "q4": {
+            "question6": {
+                "Q": "How many 50s did Mahela Jayawardene score in Test from 2013 to 2015?",
+                "A": 5
+            },
+            "question46": {
+                "Q": "How many 50s did Mahela Jayawardene score in FC from 2011 to 2014?",
+                "A": 12
+            }
+        },
+        "q5": {
+            "question9": {
+                "Q": "How many 50s did Mahela Jayawardene score in FC in 2011?",
+                "A": 5
+            },
+            "question3": {
+                "Q": "How many 50s did Mahela Jayawardene score in Test in 2013?",
+                "A": 4
+            },
+            "question8": {
+                "Q": "How many 50s did Mahela Jayawardene score in ODI in 2014?",
+                "A": 6
+            }
+        },
+        "q6": {
+            "question11": {
+                "Q": "How many 100s did Mahela Jayawardene score in FC in 2014?",
+                "A": 3
+            },
+            "question9": {
+                "Q": "How many 100s did Mahela Jayawardene score in FC in 2011?",
+                "A": 2
+            }
+        }
+    },
+    "Farveez_Maharoof": {
+        "q1": {
+            "question1": {
+                "Q": "How many matches did Farveez Maharoof played in Tests and ODIs combined in 2017?",
+                "A": 1
+            },
+            "question2": {
+                "Q": "How many matches did Farveez Maharoof played in ODI in 2017?",
+                "A": 1
+            }
+        },
+        "q2": {
+            "question11": {
+                "Q": "How many wickets did Farveez Maharoof took in Tests and ODIs combined from 2009 to 2011?",
+                "A": 6
+            },
+            "question24": {
+                "Q": "How many fivefor did Farveez Maharoof took in Tests and ODIs combined from 2011 to 2016?",
+                "A": 1
+            }
+        },
+        "q3": {
+            "question2": {
+                "Q": "How many 100s did Farveez Maharoof score in FC from 2009 to 2013?",
+                "A": 3
+            },
+            "question1": {
+                "Q": "How many 100s did Farveez Maharoof score in FC from 2009 to 2011?",
+                "A": 3
+            }
+        },
+        "q4": {
+            "question1": {
+                "Q": "How many 50s did Farveez Maharoof score in FC from 2009 to 2011?",
+                "A": 2
+            },
+            "question2": {
+                "Q": "How many 50s did Farveez Maharoof score in FC from 2009 to 2013?",
+                "A": 3
+            }
+        },
+        "q5": {},
+        "q6": {}
+    },
+    "Tatenda_Taibu": {
+        "q1": {
+            "question16": {
+                "Q": "How many matches did Tatenda Taibu played in LA in 2012?",
+                "A": 12
+            },
+            "question12": {
+                "Q": "How many matches did Tatenda Taibu played in FC in 2012?",
+                "A": 4
+            },
+            "question1": {
+                "Q": "How many matches did Tatenda Taibu played in Tests and ODIs combined in 2010?",
+                "A": 8
+            }
+        },
+        "q2": {
+            "question1": {
+                "Q": "How many matches did Tatenda Taibu played in Tests and ODIs combined from 2009 to 2011?",
+                "A": 24
+            },
+            "question6": {
+                "Q": "How many matches did Tatenda Taibu played in Tests and ODIs combined from 2011 to 2017?",
+                "A": 18
+            },
+            "question2": {
+                "Q": "How many matches did Tatenda Taibu played in Tests and ODIs combined from 2009 to 2012?",
+                "A": 38
+            }
+        },
+        "q3": {
+            "question11": {
+                "Q": "How many 100s did Tatenda Taibu score in FC from 2009 to 2017?",
+                "A": 1
+            },
+            "question17": {
+                "Q": "How many 100s did Tatenda Taibu score in LA from 2008 to 2017?",
+                "A": 2
+            }
+        },
+        "q4": {
+            "question40": {
+                "Q": "How many 50s did Tatenda Taibu score in LA from 2009 to 2017?",
+                "A": 13
+            },
+            "question11": {
+                "Q": "How many 50s did Tatenda Taibu score in Test from 2010 to 2017?",
+                "A": 3
+            },
+            "question7": {
+                "Q": "How many 50s did Tatenda Taibu score in Tests and ODIs combined from 2012 to 2017?",
+                "A": 1
+            }
+        },
+        "q5": {
+            "question15": {
+                "Q": "How many 50s did Tatenda Taibu score in LA in 2011?",
+                "A": 6
+            },
+            "question3": {
+                "Q": "How many 50s did Tatenda Taibu score in Tests and ODIs combined in 2012?",
+                "A": 6
+            },
+            "question16": {
+                "Q": "How many 50s did Tatenda Taibu score in LA in 2012?",
+                "A": 3
+            }
+        },
+        "q6": {
+            "question1": {
+                "Q": "How many 100s did Tatenda Taibu score in ODI in 2009?",
+                "A": 1
+            },
+            "question5": {
+                "Q": "How many 100s did Tatenda Taibu score in LA in 2012?",
+                "A": 1
+            }
+        }
+    },
+    "Sanath_Jayasuriya": {
+        "q1": {
+            "question1": {
+                "Q": "How many matches did Sanath Jayasuriya played in Tests and ODIs combined in 2009?",
+                "A": 20
+            },
+            "question11": {
+                "Q": "How many fivefor did Sanath Jayasuriya took in ODI in 2010?",
+                "A": 21
+            },
+            "question8": {
+                "Q": "How many matches did Sanath Jayasuriya played in ODI in 2009?",
+                "A": 20
+            }
+        },
+        "q2": {
+            "question3": {
+                "Q": "How many fivefor did Sanath Jayasuriya took in Tests and ODIs combined from 2008 to 2010?",
+                "A": 58
+            },
+            "question2": {
+                "Q": "How many wickets did Sanath Jayasuriya took in Tests and ODIs combined from 2008 to 2010?",
+                "A": 616
+            }
+        },
+        "q3": {
+            "question3": {
+                "Q": "How many 100s did Sanath Jayasuriya score in ODI from 2008 to 2010?",
+                "A": 21
+            },
+            "question1": {
+                "Q": "How many 100s did Sanath Jayasuriya score in Tests and ODIs combined from 2008 to 2010?",
+                "A": 41
+            }
+        },
+        "q4": {
+            "question1": {
+                "Q": "How many 50s did Sanath Jayasuriya score in Tests and ODIs combined from 2008 to 2010?",
+                "A": 52
+            },
+            "question3": {
+                "Q": "How many 50s did Sanath Jayasuriya score in ODI from 2008 to 2010?",
+                "A": 32
+            }
+        },
+        "q5": {
+            "question2": {
+                "Q": "How many 50s did Sanath Jayasuriya score in Tests and ODIs combined in 2010?",
+                "A": 50
+            },
+            "question3": {
+                "Q": "How many 50s did Sanath Jayasuriya score in Test in 2010?",
+                "A": 20
+            },
+            "question5": {
+                "Q": "How many 50s did Sanath Jayasuriya score in ODI in 2010?",
+                "A": 30
+            }
+        },
+        "q6": {
+            "question4": {
+                "Q": "How many 100s did Sanath Jayasuriya score in ODI in 2009?",
+                "A": 1
+            },
+            "question6": {
+                "Q": "How many 100s did Sanath Jayasuriya score in FC in 2010?",
+                "A": 36
+            },
+            "question1": {
+                "Q": "How many 100s did Sanath Jayasuriya score in Tests and ODIs combined in 2009?",
+                "A": 1
+            }
+        }
+    },
+    "Rashid_Latif": {
+        "q1": {},
+        "q2": {
+            "question1": {
+                "Q": "How many matches did Rashid Latif played in Tests and ODIs combined from 2017 to 2020?",
+                "A": 40
+            },
+            "question2": {
+                "Q": "How many matches did Rashid Latif played in Tests and ODIs combined from 2018 to 2020?",
+                "A": 40
+            }
+        },
+        "q3": {
+            "question5": {
+                "Q": "How many 100s did Rashid Latif score in ODI from 2017 to 2020?",
+                "A": 60
+            },
+            "question3": {
+                "Q": "How many 100s did Rashid Latif score in Test from 2017 to 2020?",
+                "A": 40
+            },
+            "question4": {
+                "Q": "How many 100s did Rashid Latif score in Test from 2018 to 2020?",
+                "A": 40
+            }
+        },
+        "q4": {
+            "question4": {
+                "Q": "How many 50s did Rashid Latif score in ODI from 2018 to 2020?",
+                "A": 60
+            },
+            "question2": {
+                "Q": "How many 50s did Rashid Latif score in Tests and ODIs combined from 2018 to 2020?",
+                "A": 60
+            },
+            "question3": {
+                "Q": "How many 50s did Rashid Latif score in ODI from 2017 to 2020?",
+                "A": 60
+            }
+        },
+        "q5": {},
+        "q6": {}
+    },
+    "Shoaib_Malik": {
+        "q1": {
+            "question24": {
+                "Q": "How many matches did Shoaib Malik played in LA in 2018?",
+                "A": 23
+            },
+            "question3": {
+                "Q": "How many matches did Shoaib Malik played in Tests and ODIs combined in 2018?",
+                "A": 19
+            },
+            "question19": {
+                "Q": "How many wickets did Shoaib Malik took in FC in 2016?",
+                "A": 29
+            }
+        },
+        "q2": {
+            "question10": {
+                "Q": "How many wickets did Shoaib Malik took in Tests and ODIs combined from 2016 to 2018?",
+                "A": 5
+            },
+            "question3": {
+                "Q": "How many matches did Shoaib Malik played in Tests and ODIs combined from 2015 to 2019?",
+                "A": 57
+            },
+            "question1": {
+                "Q": "How many matches did Shoaib Malik played in Tests and ODIs combined from 2015 to 2017?",
+                "A": 27
+            }
+        },
+        "q3": {
+            "question5": {
+                "Q": "How many 100s did Shoaib Malik score in Tests and ODIs combined from 2016 to 2019?",
+                "A": 1
+            },
+            "question10": {
+                "Q": "How many 100s did Shoaib Malik score in ODI from 2016 to 2019?",
+                "A": 1
+            },
+            "question15": {
+                "Q": "How many 100s did Shoaib Malik score in LA from 2016 to 2018?",
+                "A": 1
+            }
+        },
+        "q4": {
+            "question3": {
+                "Q": "How many 50s did Shoaib Malik score in Tests and ODIs combined from 2015 to 2019?",
+                "A": 10
+            },
+            "question9": {
+                "Q": "How many 50s did Shoaib Malik score in ODI from 2015 to 2019?",
+                "A": 10
+            },
+            "question8": {
+                "Q": "How many 50s did Shoaib Malik score in ODI from 2015 to 2018?",
+                "A": 9
+            }
+        },
+        "q5": {
+            "question2": {
+                "Q": "How many 50s did Shoaib Malik score in Tests and ODIs combined in 2017?",
+                "A": 4
+            },
+            "question10": {
+                "Q": "How many 50s did Shoaib Malik score in FC in 2017?",
+                "A": 1
+            },
+            "question7": {
+                "Q": "How many 50s did Shoaib Malik score in ODI in 2018?",
+                "A": 4
+            }
+        },
+        "q6": {
+            "question5": {
+                "Q": "How many 100s did Shoaib Malik score in LA in 2016?",
+                "A": 1
+            },
+            "question3": {
+                "Q": "How many 100s did Shoaib Malik score in FC in 2016?",
+                "A": 1
+            }
+        }
+    },
+    "Shane_Watson": {
+        "q1": {
+            "question16": {
+                "Q": "How many matches did Shane Watson played in FC in 2012?",
+                "A": 5
+            },
+            "question6": {
+                "Q": "How many matches did Shane Watson played in Test in 2011?",
+                "A": 10
+            },
+            "question18": {
+                "Q": "How many wickets did Shane Watson took in FC in 2012?",
+                "A": 4
+            }
+        },
+        "q2": {
+            "question9": {
+                "Q": "How many fivefor did Shane Watson took in Tests and ODIs combined from 2010 to 2012?",
+                "A": 1
+            },
+            "question10": {
+                "Q": "How many fivefor did Shane Watson took in Tests and ODIs combined from 2010 to 2015?",
+                "A": 1
+            },
+            "question2": {
+                "Q": "How many matches did Shane Watson played in Tests and ODIs combined from 2010 to 2015?",
+                "A": 110
+            }
+        },
+        "q3": {
+            "question18": {
+                "Q": "How many 100s did Shane Watson score in FC from 2012 to 2015?",
+                "A": 3
+            },
+            "question2": {
+                "Q": "How many 100s did Shane Watson score in Tests and ODIs combined from 2010 to 2015?",
+                "A": 7
+            }
+        },
+        "q4": {
+            "question5": {
+                "Q": "How many 50s did Shane Watson score in Test from 2010 to 2012?",
+                "A": 7
+            },
+            "question13": {
+                "Q": "How many 50s did Shane Watson score in FC from 2008 to 2010?",
+                "A": 13
+            },
+            "question16": {
+                "Q": "How many 50s did Shane Watson score in FC from 2008 to 2015?",
+                "A": 30
+            }
+        },
+        "q5": {
+            "question8": {
+                "Q": "How many 50s did Shane Watson score in FC in 2012?",
+                "A": 2
+            },
+            "question3": {
+                "Q": "How many 50s did Shane Watson score in Test in 2011?",
+                "A": 5
+            }
+        },
+        "q6": {
+            "question1": {
+                "Q": "How many 100s did Shane Watson score in Tests and ODIs combined in 2011?",
+                "A": 2
+            },
+            "question2": {
+                "Q": "How many 100s did Shane Watson score in ODI in 2011?",
+                "A": 2
+            }
+        }
+    },
+    "Mark_Vermeulen": {
+        "q1": {
+            "question3": {
+                "Q": "How many matches did Mark Vermeulen played in Test in 2014?",
+                "A": 1
+            },
+            "question2": {
+                "Q": "How many runs did Mark Vermeulen scored in Tests and ODIs combined in 2014?",
+                "A": 35
+            },
+            "question4": {
+                "Q": "How many runs did Mark Vermeulen scored in Test in 2014?",
+                "A": 35
+            }
+        },
+        "q2": {
+            "question1": {
+                "Q": "How many matches did Mark Vermeulen played in Tests and ODIs combined from 2009 to 2014?",
+                "A": 1
+            },
+            "question2": {
+                "Q": "How many runs did Mark Vermeulen scored in Tests and ODIs combined from 2009 to 2014?",
+                "A": 35
+            }
+        },
+        "q3": {},
+        "q4": {},
+        "q5": {},
+        "q6": {}
+    }
+}

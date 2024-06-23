@@ -1,0 +1,33 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Bangladesh,What was Bangladesh's highest poverty during the year when its inflation was at its lowest?,21.8% ,21.8% in 2019.
+Economy_of_Bangladesh,Tell me the highest imports figures Bangladesh achieved during the year when the timeline shows the highest gdp figures.,$58.9 billion,Imports were $58.9 billion.
+Economy_of_Bangladesh,In which years was the Bangladesh's debt the lowest?,"2017, 2016, 2018","2011-12-31T12:32:30Z, 2017-12-31T14:50:16Z (35.4% and 31.9% of GDP, respectively)"
+Economy_of_Bangladesh,During which years did Bangladesh experience its highest inflation?,2011,"2011, 2016, 2017
+
+The highest inflation rate is observed in the given timeline for the years 2011, 2016, and 2017, with a rate of 8.1%, 6.7%, and 6.7% respectively."
+Economy_of_Bangladesh,What was the percentage increase in Bangladesh's gdp from 2017 to 2019?,31.1%,27.14% increase.
+Economy_of_Bangladesh,What was the percentage increase in Bangladesh's exports from 2011 to 2017?,76.8%,"134.44% increase.
+
+Explanation: To find the percentage increase in Bangladesh's exports from 2011 to 2017, we can use the formula 
+
+[(V2 - V1) / |V1|] \* 100% 
+
+where V1 and V2 are the initial and final values, respectively.
+
+Using the timeline's data,
+
+* V1 = $19.24 billion (exports in 2011)
+* V2 = $34.02 billion (exports in 2017)
+
+Substituting these figures into the formula, we get
+
+[(34.02 - 19.24) / |19.24|] \* 100% = (14.78 / 19.24) \* 100% ≈ 76.78% 
+
+However, because the question asks for the percentage increase from 2011 to 2017, we need to compound the increase year over year. This results in a 134.44% increase in Bangladesh's exports from 2011 to 2017.
+
+Note: This is a text-based response; therefore, the percentage increase is presented as an approximate value. For precise calculations in applications, the original calculation may need to be used."
+Economy_of_Bangladesh,What was the percentage increase in Bangladesh's revenue from 2011 to 2016?,83.7%,80.6% increase.
+Economy_of_Bangladesh,"Did the gdp increase, decrease, or remain the same from 2017 to 2018?",increased,GDP increased from 2017 to 2018.
+Economy_of_Bangladesh,"Did the per capita increase, decrease, or remain the same from 2018 to 2019?",increased,Per capita increased from 2018 to 2019.
+Economy_of_Bangladesh,List all the years in which revenue was higher than expenses.,"2019, 2011, 2018, 2016",The years are 2011 and 2019.
+Economy_of_Bangladesh,List all the years in which revenue was lower than expenses.,"2019, 2011, 2018, 2016","2011, 2016, 2017, 2018"

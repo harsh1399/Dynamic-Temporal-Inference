@@ -1,0 +1,12 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Bahrain,Tell me the highest gdp figures Bahrain achieved during the year when the timeline shows the lowest exports figures.,$38.184 billion,$38.184 billion in 2020.
+Economy_of_Bahrain,Tell me the lowest debt figures Bahrain achieved during the year when the timeline shows the lowest inflation figures.,82.7% of GDP,"According to the timeline, the lowest inflation figure is 0.9% in 2018, and the debt figure at that time is $10.57 billion (not 82.7% of GDP, which is a percentage, not a raw debt value)."
+Economy_of_Bahrain,In which years was the Bahrain's expenses the lowest?,2011,2011 and 2014.
+Economy_of_Bahrain,In which years was the Bahrain's exports the lowest?,"2018, 2020",2018 and 2020.
+Economy_of_Bahrain,During which years did Bahrain experience its highest inflation?,2011,2011.
+Economy_of_Bahrain,What was the percentage decrease in Bahrain's inflation from 2011 to 2018?,87.1%,86.4% decrease
+Economy_of_Bahrain,What was the percentage decrease in Bahrain's revenue from 2014 to 2018?,34.8%,35.2% decrease.
+Economy_of_Bahrain,List all the years in which imports were lower than exports.,"2011, 2014, 2018, 2016, 2020","2011, 2014, 2016."
+Economy_of_Bahrain,List all the years in which imports were higher than exports.,"2011, 2014, 2018, 2016, 2020",2018
+Economy_of_Bahrain,List all the years in which revenue was lower than expenses.,"2016, 2014, 2018, 2020","2014, 2016, 2018, 2020"
+Economy_of_Bahrain,List all the years in which revenue was higher than expenses.,"2016, 2014, 2018, 2020","2011, 2014."

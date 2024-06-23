@@ -1,0 +1,34 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Guatemala,Tell me the lowest inflation figures Guatemala achieved during the year when the timeline shows the lowest imports figures.,5.5% ,Inflation was 3.752% with imports of $15.57 billion in 2020.
+Economy_of_Guatemala,Tell me the highest imports figures Guatemala achieved during the year when the timeline shows the lowest exports figures.,US$ 140.7 billion,$15.57 billion (2020)
+Economy_of_Guatemala,In which years was the Guatemala's gdp the highest?,2017,"2017, 2020."
+Economy_of_Guatemala,In which years was the Guatemala's debt the highest?,2011,"2011, 2020."
+Economy_of_Guatemala,In which years was the Guatemala's exports the lowest?,2010,"2010, 2011."
+Economy_of_Guatemala,What was the percentage increase in Guatemala's poverty from 2011 to 2020?,104.5%,"The percentage increase in Guatemala's poverty from 2011 to 2020 was 96.55%. This was calculated by taking the absolute difference between the poverty percentage in 2020 (59.3%) and 2011 (29%), and dividing it by the poverty percentage in 2011 (29%). The result was then multiplied by 100 to get a percentage. It's important to note that this is an approximation, as the poverty rate in 2011 was rounded to 29% in the given data."
+Economy_of_Guatemala,What was the percentage increase in Guatemala's debt from 2010 to 2011?,10066229.6%,"The percentage increase in Guatemala's debt from 2010 to 2011 was 988,751%."
+Economy_of_Guatemala,What was the percentage decrease in Guatemala's inflation from 2014 to 2017?,40.0%,"The percentage decrease in Guatemala's inflation from 2014 to 2017 was approximately 4.2%.
+
+Explanation:
+
+1. The inflation rate in Guatemala in 2014 was 4.0%.
+2. The inflation rate in Guatemala in 2017 was 2.4%.
+3. The percentage decrease in inflation from 2014 to 2017 is calculated as (4.0 - 2.4)/4.0 \* 100 = 4.2%."
+Economy_of_Guatemala,"Did the per capita increase, decrease, or remain the same from 2010 to 2011?",increased,Per capita increased from 2010 to 2011.
+Economy_of_Guatemala,"Did the debt increase, decrease, or remain the same from 2010 to 2011?",increased,Debt increased from 2010 to 2011.
+Economy_of_Guatemala,"Did the gdp increase, decrease, or remain the same from 2010 to 2011?",decreased,GDP decreased from 2010 to 2011.
+Economy_of_Guatemala,List all the years in which revenue was lower than expenses.,"2017, 2014, 2020","2011, 2014, 2017, 2020
+
+Explanation:
+For each timestamp, I compared the ""revenue"" value to the ""expenses"" value for Guatemala. In every given timestamp from 2011 to 2020, the revenue was lower than the expenses.
+
+Specific values are:
+
+2011: Revenue: $0.00, Expenses: $0.00 (but since revenue is 0, it counts)
+2014: Revenue: $5.799 billion, Expenses: $7.091 billion
+2017: Revenue: $5.799 billion, Expenses: $7.091 billion
+2020: Revenue: 5.799 billion, Expenses: 7.091 billion
+
+Note that in 2011, 2014, 2017, and 2020, revenue was lower than expenses, and because they belong to the timeframe of 2011 to 2020, they are the years being asked for.
+```"
+Economy_of_Guatemala,List all the years in which revenue was higher than expenses.,"2017, 2014, 2020","2014-12-31T00:24:46Z,
+ 2017-12-31T22:54:29Z"

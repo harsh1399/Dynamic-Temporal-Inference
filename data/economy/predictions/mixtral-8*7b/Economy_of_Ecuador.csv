@@ -1,0 +1,26 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Ecuador,What was Ecuador's lowest expenses during the year when its debt was at its lowest?,$20.10 billion,$15.59 billion in 2017.
+Economy_of_Ecuador,What was Ecuador's lowest expenses during the year when its debt was at its highest?,38.08 billion,"I cannot provide an exact answer based solely on the information presented, as the timeline does not include a year where debt is at its highest and also lists the lowest expenses. However, I can tell you that based on the data provided:
+
+1. The highest debt as a percentage of GDP is 44.6% in 2020.
+2. The lowest expenses are in 2011, at $21.76 billion.
+
+Please note that these two events do not occur in the same year, so a specific answer cannot be provided."
+Economy_of_Ecuador,During which years did Ecuador experience its highest debt?,2020,"2020-12-31T13:03:25Z (44.6% of GDP)
+
+The debt level as a percentage of GDP is the highest in 2020."
+Economy_of_Ecuador,During which years did Ecuador experience its highest inflation?,2011,2011-12-31T22:43:55Z (3.6%)
+Economy_of_Ecuador,What was the percentage increase in Ecuador's expenses from 2011 to 2020?,75.0%,"The percentage increase in Ecuador's expenses from 2011 to 2020 is approximately 78.7%.
+
+Here's the calculation:
+
+* In 2011, expenses were $21.76 billion.
+* In 2020, expenses were $38.08 billion.
+
+So, the percentage increase is (38.08 - 21.76) / 21.76 \* 100% = 78.7%."
+Economy_of_Ecuador,What was the percentage increase in Ecuador's gdp from 2011 to 2017?,48.2%,47.6% increase.
+Economy_of_Ecuador,What was the percentage decrease in Ecuador's debt from 2011 to 2019?,7.4%,"The percentage decrease in Ecuador's debt from 2011 to 2019 was approximately 1.5%. This was calculated by subtracting the debt-to-GDP ratio in 2019 (18.7%) from the debt-to-GDP ratio in 2011 (20.2%), and then dividing that number by the 2011 debt-to-GDP ratio and multiplying by 100 to get a percentage. However, it's important to note that Ecuador's debt-to-GDP ratio increased significantly from 2019 to 2020, jumping from 18.7% to 44.6%."
+Economy_of_Ecuador,"Did the debt increase, decrease, or remain the same from 2019 to 2020?",increased,Debt increased from 2019 to 2020.
+Economy_of_Ecuador,"Did the gdp increase, decrease, or remain the same from 2019 to 2020?",increased,GDP increased from 2019 to 2020.
+Economy_of_Ecuador,List all the years in which revenue was higher than expenses.,"2019, 2017, 2011, 2020",The years in which revenue was higher than expenses are 2011 and 2020.
+Economy_of_Ecuador,List all the years in which revenue was lower than expenses.,"2019, 2017, 2011, 2020","2017, 2019, 2020"

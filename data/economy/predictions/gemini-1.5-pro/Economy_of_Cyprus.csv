@@ -1,0 +1,27 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Cyprus,Tell me the lowest gdp figures Cyprus achieved during the year when the timeline shows the highest revenue figures.,$25 billion,"$26.705 billion 
+"
+Economy_of_Cyprus,What was Cyprus's highest inflation during the year when its expenses was at its lowest?,5.8% ,"The provided data does not show the inflation rate for the year where expenses were lowest. 
+"
+Economy_of_Cyprus,What was Cyprus's lowest debt during the year when its inflation was at its lowest?,19.775 billion,"18.725 billion 
+"
+Economy_of_Cyprus,During which years did Cyprus experience its lowest inflation?,2017,"2014 and 2017 
+"
+Economy_of_Cyprus,In which years was the Cyprus's gdp the highest?,2023,"2023 
+"
+Economy_of_Cyprus,In which years was the Cyprus's gdp the lowest?,2017,"2017 and 2014 
+"
+Economy_of_Cyprus,What was the percentage increase in Cyprus's inflation from 2014 to 2021?,720.0%,"1620% 
+"
+Economy_of_Cyprus,What was the percentage decrease in Cyprus's gdp from 2014 to 2017?,9.2%,"11.4% 
+"
+Economy_of_Cyprus,What was the percentage increase in Cyprus's gdp from 2014 to 2021?,21.6%,"22% 
+"
+Economy_of_Cyprus,"Did the inflation increase, decrease, or remain the same from 2022 to 2023?",decreased,"Decrease 
+"
+Economy_of_Cyprus,"Did the debt increase, decrease, or remain the same from 2017 to 2018?",decreased,"decrease 
+"
+Economy_of_Cyprus,List all the years in which revenue was higher than expenses.,"2021, 2022, 2014, 2013","2013, 2018, 2020, 2022, 2023 
+"
+Economy_of_Cyprus,List all the years in which revenue was lower than expenses.,"2021, 2022, 2014, 2013","2013, 2014, 2021 
+"

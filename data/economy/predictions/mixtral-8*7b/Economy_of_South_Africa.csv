@@ -1,0 +1,24 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_South_Africa,What was South Africa's lowest gdp during the year when its inflation was at its lowest?,$415.32 billion,"The timeline does not include a year where both the GDP and inflation are at their lowest points simultaneously. However, the lowest GDP was in 2017 at $280.37 billion, and the lowest inflation was in 2019 and 2020 at 4.956% and 4.620% respectively."
+Economy_of_South_Africa,Tell me the highest inflation figures South Africa achieved during the year when the timeline shows the lowest gdp figures.,4.4% ,Inflation was 5.4% when GDP was lowest in 2018.
+Economy_of_South_Africa,Tell me the lowest poverty figures South Africa achieved during the year when the timeline shows the lowest inflation figures.,55.5% ,"Poverty was lowest (31.3%) in 2014, when inflation was 5%."
+Economy_of_South_Africa,In which years was the South Africa's inflation the highest?,2018,The years with the highest inflation rate for South Africa are 2018-12-31T02:01:41Z (5.4%) and 2021-12-31T13:30:33Z (3.3%).
+Economy_of_South_Africa,During which years did South Africa experience its highest exports?,"2019, 2020, 2021","2018-12-31T02:01:41Z, 2019-12-31T16:02:50Z"
+Economy_of_South_Africa,What was the percentage increase in South Africa's exports from 2014 to 2020?,6.7%,60.6% increase.
+Economy_of_South_Africa,What was the percentage increase in South Africa's gdp from 2011 to 2021?,16.2%,16.5% increase.
+Economy_of_South_Africa,What was the percentage decrease in South Africa's imports from 2017 to 2019?,32.8%,"There was a 40.5% decrease.
+
+This answer is derived by taking the ratio of the difference between the imports value in 2017 ($121.940 billion) and 2019 ($81.9 billion) to the 2017 imports value, and then multiplying by 100 to get a percentage: (($121.940 - $81.9) / $121.940) \* 100 = 40.5%."
+Economy_of_South_Africa,"Did the imports increase, decrease, or remain the same from 2016 to 2017?",remained same,Imports increased from 2016 to 2017.
+Economy_of_South_Africa,"Did the imports increase, decrease, or remain the same from 2019 to 2020?",remained same,Imports decreased from 2019 to 2020.
+Economy_of_South_Africa,List all the years in which imports were lower than exports.,"2019, 2020, 2021","2011, 2018, 2019, 2020, 2021"
+Economy_of_South_Africa,List all the years in which imports were higher than exports.,"2019, 2020, 2021","2014-12-31T22:36:13Z, 2016-12-31T20:42:32Z, 2017-12-31T00:20:07Z, 2019-12-31T16:02:50Z, 2020-12-31T14:53:06Z, 2021-12-31T13:30:33Z
+
+Explanation:
+- In the provided timeline, the entity's imports were higher than its exports in these years.
+- The 'exports' and 'imports' numbers can be directly compared to find the years with higher imports.
+- All the listed years have higher import numbers than their corresponding export numbers."
+Economy_of_South_Africa,List all the years in which revenue was higher than expenses.,"2019, 2017, 2011, 2014, 2018, 2016, 2020, 2021","The years in which revenue was higher than expenses are:
+
+2018-12-31T02:01:41Z, 2019-12-31T16:02:50Z."
+Economy_of_South_Africa,List all the years in which revenue was lower than expenses.,"2019, 2017, 2011, 2014, 2018, 2016, 2020, 2021","2016, 2017, 2019, 2020, 2021"

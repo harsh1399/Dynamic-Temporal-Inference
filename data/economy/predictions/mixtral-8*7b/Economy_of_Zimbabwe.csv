@@ -1,0 +1,39 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Zimbabwe,Tell me the highest debt figures Zimbabwe achieved during the year when the timeline shows the lowest inflation figures.,$1 Billion,"82.3% of GDP (2019)
+
+The highest debt figure for Zimbabwe was observed in 2019, at 82.3% of GDP. This occurred when inflation was at its lowest point in the provided timeline."
+Economy_of_Zimbabwe,What was Zimbabwe's highest gdp during the year when its gini was at its highest?,$7.366 billion,$26.127 billion (2019)
+Economy_of_Zimbabwe,Tell me the lowest gdp figures Zimbabwe achieved during the year when the timeline shows the highest revenue figures.,$3.5 billion,"GDP: $7.36 billion, Year: 2016"
+Economy_of_Zimbabwe,In which years was the Zimbabwe's gdp the highest?,2019,"2019-12-31T18:01:42Z, 2018-12-31T17:46:48Z"
+Economy_of_Zimbabwe,During which years did Zimbabwe experience its lowest gdp?,2011,"2011, 2014-2016
+
+The lowest GDP figures in the timeline are seen in the entry for 2011 and the entries for 2014-2016, all of which are at $7.366 billion."
+Economy_of_Zimbabwe,What was the percentage increase in Zimbabwe's inflation from 2016 to 2019?,29.4%,The percentage increase in Zimbabwe's inflation from 2016 to 2019 is 715.87%.
+Economy_of_Zimbabwe,What was the percentage increase in Zimbabwe's revenue from 2018 to 2019?,32.1%,"The percentage increase in Zimbabwe's revenue from 2018 to 2019 was approximately -34.5%.
+
+Explanation:
+Revenue in 2018 was $2.876 billion, while revenue in 2019 was $3.8 billion.
+The percentage increase can be calculated by (new - old) / old \* 100%.
+In this case, the calculation would be ($3.8 billion - $2.876 billion) / $2.876 billion \* 100% which equals approximately -34.5%. Therefore, revenue decreased by around 34.5% from 2018 to 2019."
+Economy_of_Zimbabwe,What was the percentage decrease in Zimbabwe's inflation from 2016 to 2017?,92.1%,The percentage decrease in Zimbabwe's inflation from 2016 to 2017 was 86.5%.
+Economy_of_Zimbabwe,What was the percentage increase in Zimbabwe's poverty from 2017 to 2018?,33.3%,The percentage increase in Zimbabwe's poverty from 2017 to 2018 was 12.5%.
+Economy_of_Zimbabwe,"Did the gini increase, decrease, or remain the same from 2018 to 2019?",decreased,The gini increased from 2018 to 2019.
+Economy_of_Zimbabwe,"Did the inflation increase, decrease, or remain the same from 2016 to 2017?",decreased,Inflation decreased from 2016 to 2017.
+Economy_of_Zimbabwe,"Did the exports increase, decrease, or remain the same from 2016 to 2017?",remained same,Exports decreased from 2016 to 2017.
+Economy_of_Zimbabwe,List all the years in which imports were lower than exports.,2011,"2011-12-31T17:24:17Z, 2018-12-31T17:46:48Z"
+Economy_of_Zimbabwe,List all the years in which imports were higher than exports.,2011,"2014-12-31T03:09:12Z, 2016-12-31T09:22:35Z, 2017-12-31T01:28:35Z, 2018-12-31T17:46:48Z, 2019-12-31T18:01:42Z
+
+Explanation:
+
+* In the provided timeline, there are six years: 2011, 2014, 2016, 2017, 2018, and 2019.
+* For each year, the given data includes the export and import values.
+* By comparing these values for each year, we can identify the specific years where imports were greater than exports.
+* These years are:
+  - In 2014: Imports ($4.569 billion) were higher than exports ($3.314 billion).
+  - In 2016: Imports ($5.135 billion) were higher than exports ($3.263 billion).
+  - In 2017: Imports ($5.135 billion) were higher than exports ($3.263 billion).
+  - In 2018: Imports ($5.2 billion) were higher than exports ($2.83 billion).
+  - In 2019: Imports ($5.472 billion) were higher than exports ($4.353 billion).
+* Thus, the answer is the list of these years."
+Economy_of_Zimbabwe,List all the years in which revenue was lower than expenses.,"2019, 2017, 2011, 2014, 2018, 2016","2011, 2014, 2016, 2017, 2018"
+Economy_of_Zimbabwe,List all the years in which revenue was higher than expenses.,"2019, 2017, 2011, 2014, 2018, 2016","2011, 2014, 2016, 2017, 2018"

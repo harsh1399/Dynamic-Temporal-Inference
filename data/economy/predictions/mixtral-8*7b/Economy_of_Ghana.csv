@@ -1,0 +1,14 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Ghana,Tell me the lowest debt figures Ghana achieved during the year when the timeline shows the lowest inflation figures.,67.5% of GDP,Debt was $59.3% of GDP in 2023 with 9.7% inflation.
+Economy_of_Ghana,Tell me the lowest inflation figures Ghana achieved during the year when the timeline shows the highest revenue figures.,9.7% ,Inflation was 8.1% in 2012 with highest revenue in 2015.
+Economy_of_Ghana,During which years did Ghana experience its lowest revenue?,"2012, 2011, 2014, 2013","The years with the lowest revenue for Ghana are 2011, 2012, and 2023, with a revenue of $4.547 billion. Note that the revenue figure does not change across these years in the provided timeline."
+Economy_of_Ghana,In which years was the Ghana's gdp the highest?,2015,"2015-12-31T18:23:14Z, 2016-12-31T19:10:38Z, 2018-12-31T13:39:09Z, 2023-12-31T12:29:58Z"
+Economy_of_Ghana,In which years was the Ghana's poverty the highest?,2011,The poverty was the highest in 2023 and 2019.
+Economy_of_Ghana,What was the percentage decrease in Ghana's poverty from 2012 to 2013?,88.9%,The percentage decrease in Ghana's poverty from 2012 to 2013 was 87%.
+Economy_of_Ghana,What was the percentage increase in Ghana's gdp from 2013 to 2016?,29.6%,The percentage increase in Ghana's GDP from 2013 to 2016 was 0.5%.
+Economy_of_Ghana,What was the percentage increase in Ghana's inflation from 2013 to 2016?,39.4%,The percentage increase in Ghana's inflation from 2013 to 2016 was 32.9%.
+Economy_of_Ghana,"Did the per capita increase, decrease, or remain the same from 2012 to 2013?",increased,Per capita increased from 2012 to 2013.
+Economy_of_Ghana,"Did the expenses increase, decrease, or remain the same from 2011 to 2012?",remained same,Expenses remained the same from 2011 to 2012.
+Economy_of_Ghana,"Did the debt increase, decrease, or remain the same from 2011 to 2012?",remained same,Debt remained the same from 2011 to 2012.
+Economy_of_Ghana,List all the years in which revenue was higher than expenses.,"2015, 2023, 2019, 2011, 2014, 2016, 2018, 2013, 2012","2011, 2015, 2019, 2023"
+Economy_of_Ghana,List all the years in which revenue was lower than expenses.,"2015, 2023, 2019, 2011, 2014, 2016, 2018, 2013, 2012","2014, 2015, 2016, 2018, 2019, 2023"

@@ -1,0 +1,19 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Andhra_Pradesh,In which years was the Andhra Pradesh's debt the lowest?,"2019, 2020","2019 and 2020 
+"
+Economy_of_Andhra_Pradesh,In which years was the Andhra Pradesh's debt the highest?,2022,"2022, 2018 
+"
+Economy_of_Andhra_Pradesh,What was the percentage increase in Andhra Pradesh's debt from 2016 to 2017?,0.7%,"1.7% increase 
+"
+Economy_of_Andhra_Pradesh,What was the percentage decrease in Andhra Pradesh's debt from 2018 to 2020?,5.9%,"2.4% decrease 
+"
+Economy_of_Andhra_Pradesh,"Did the expenses increase, decrease, or remain the same from 2016 to 2017?",increased,"Increased 
+"
+Economy_of_Andhra_Pradesh,"Did the debt increase, decrease, or remain the same from 2017 to 2018?",increased,"Increased 
+"
+Economy_of_Andhra_Pradesh,"Did the debt increase, decrease, or remain the same from 2016 to 2017?",increased,"Increased 
+"
+Economy_of_Andhra_Pradesh,List all the years in which revenue was lower than expenses.,"2019, 2017, 2016, 2018, 2020, 2022","2016, 2017, 2018, 2019, 2022 
+"
+Economy_of_Andhra_Pradesh,List all the years in which revenue was higher than expenses.,"2019, 2017, 2016, 2018, 2020, 2022","2016, 2017, 2018 
+"

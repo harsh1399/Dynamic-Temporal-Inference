@@ -1,0 +1,14 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Australia,What was Australia's highest expenses during the year when its gdp was at its lowest?,$446.4 billion,"$484 billion in 2018, when GDP was $1.390 trillion."
+Economy_of_Australia,What was Australia's lowest exports during the year when its revenue was at its highest?,$438.1 billion,$190.2 billion in 2017-2018.
+Economy_of_Australia,What was Australia's highest revenue during the year when its expenses was at its lowest?,$420.5 billion,"Australia's highest revenue was $485.2 billion when its expenses were at its lowest, $446.4 billion in 2018."
+Economy_of_Australia,In which years was the Australia's imports the lowest?,"2017, 2018",2021 and 2023 ($420.4 billion).
+Economy_of_Australia,During which years did Australia experience its lowest debt?,"2019, 2020, 2021",2019 and 2020.
+Economy_of_Australia,What was the percentage increase in Australia's revenue from 2017 to 2018?,9.6%,15.6%.
+Economy_of_Australia,What was the percentage increase in Australia's exports from 2017 to 2020?,147.2%,45.7%
+Economy_of_Australia,"Did the imports increase, decrease, or remain the same from 2019 to 2020?",increased,Decreased from $414.9 billion to $421.4 billion.
+Economy_of_Australia,"Did the imports increase, decrease, or remain the same from 2020 to 2021?",decreased,Decreased.
+Economy_of_Australia,List all the years in which imports were higher than exports.,"2019, 2023, 2020, 2021",2017 and 2018.
+Economy_of_Australia,List all the years in which imports were lower than exports.,"2019, 2023, 2020, 2021","2019, 2020, 2021, 2023."
+Economy_of_Australia,List all the years in which revenue was lower than expenses.,"2017, 2018","2017, 2018, 2019, 2020."
+Economy_of_Australia,List all the years in which revenue was higher than expenses.,"2017, 2018","2019, 2020, 2021, 2023"

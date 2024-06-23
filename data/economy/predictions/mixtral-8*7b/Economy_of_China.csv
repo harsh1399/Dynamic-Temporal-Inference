@@ -1,0 +1,38 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_China,What was China's highest expenses during the year when its exports was at its highest?,$2.3 trillion,China's highest expenses were $2.3 trillion in 2017.
+Economy_of_China,Tell me the highest gdp figures China achieved during the year when the timeline shows the highest expenses figures.,$11.4 trillion,$11.4 trillion (2016)
+Economy_of_China,What was China's lowest debt during the year when its expenses was at its lowest?,17.5% of GDP,Debt at lowest was 16.7% of GDP in 2017.
+Economy_of_China,In which years was the China's expenses the lowest?,2011,"The years with the lowest expenses for China were 2011 and 2017, with expenses of $1.27 trillion and $2.1 trillion, respectively."
+Economy_of_China,During which years did China experience its lowest imports?,2011,"2017-12-31T17:55:24Z (lowest dollar value),
+ 2016-12-31T09:26:40Z (lowest as percentage of GDP)."
+Economy_of_China,What was the percentage increase in China's imports from 2011 to 2013?,34.1%,"The percentage increase in China's imports from 2011 to 2013 was approximately 28.8%.
+This was calculated as [(1327 - 1581) / 1581] \* 100%."
+Economy_of_China,What was the percentage increase in China's gdp from 2013 to 2016?,36.4%,"The percentage increase in China's GDP from 2013 to 2016 was approximately 37.4%. Here's the calculation:
+
+(GDP in 2016 - GDP in 2013) / GDP in 2013 * 100%
+= ($11.4 trillion - $8.358 trillion) / $8.358 trillion * 100%
+= 37.4%
+
+Please note that the timestamps associated with the data do not seem to follow a consistent format, but I have used the provided values to answer the question."
+Economy_of_China,What was the percentage increase in China's exports from 2011 to 2017?,45.5%,"46.6% increase in exports.
+
+Explanation: The exports value in 2011 was $1.581 trillion and in 2017 was $2.3 trillion. The percentage increase can be calculated as [(2.3 - 1.581) / 1.581] \* 100 = 46.6%."
+Economy_of_China,What was the percentage increase in China's expenses from 2013 to 2017?,13.2%,1.64% increase in expenses.
+Economy_of_China,"Did the expenses increase, decrease, or remain the same from 2016 to 2017?",remained same,Expenses remained the same from 2016 to 2017.
+Economy_of_China,"Did the revenue increase, decrease, or remain the same from 2016 to 2017?",remained same,Remained the same.
+Economy_of_China,List all the years in which imports were higher than exports.,"2017, 2011, 2016, 2013","2013-12-31T12:46:35Z, 2016-12-31T09:26:40Z"
+Economy_of_China,List all the years in which imports were lower than exports.,"2017, 2011, 2016, 2013","2011, 2013, 2016, 2017
+
+Explanation:
+According to the provided timeline, China's imports were lower than exports in the following years:
+
+- In 2011: Imports were US$1.327 trillion while exports were US$1.581 trillion.
+- In 2013: Imports were US$1.78 trillion while exports were US$2.021 trillion.
+- In 2016: Imports were US$1.7 trillion while exports were US$2.3 trillion.
+- In 2017: Imports were US$1.7 trillion while exports were US$2.3 trillion.
+
+Thus, the answer is 2011, 2013, 2016, and 2017."
+Economy_of_China,List all the years in which revenue was lower than expenses.,"2017, 2011, 2016, 2013","2013, 2016, 2017
+
+The revenue was lower than expenses in the years 2013, 2016, and 2017."
+Economy_of_China,List all the years in which revenue was higher than expenses.,"2017, 2011, 2016, 2013","2011-12-31T03:48:25Z, 2013-12-31T12:46:35Z"

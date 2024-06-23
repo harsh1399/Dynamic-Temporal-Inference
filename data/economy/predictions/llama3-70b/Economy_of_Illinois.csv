@@ -1,0 +1,6 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Illinois,What was the percentage increase in Illinois's gdp from 2011 to 2022?,79.1%,79% increase in Illinois's GDP from 2011 to 2022.
+Economy_of_Illinois,What was the percentage increase in Illinois's gdp from 2016 to 2018?,6.1%,6.1% increase.
+Economy_of_Illinois,What was the percentage increase in Illinois's gdp from 2011 to 2019?,63.9%,63.3% increase.
+Economy_of_Illinois,"Did the per capita increase, decrease, or remain the same from 2018 to 2019?",increased,Increased.
+Economy_of_Illinois,"Did the gdp increase, decrease, or remain the same from 2018 to 2019?",decreased,Increased.

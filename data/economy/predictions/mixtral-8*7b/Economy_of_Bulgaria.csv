@@ -1,0 +1,33 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Bulgaria,What was Bulgaria's lowest imports during the year when its gdp was at its highest?,$28.47 billion,$28.47 billion (2018)
+Economy_of_Bulgaria,What was Bulgaria's lowest revenue during the year when its debt was at its highest?, 29.43 billion,"Revenue: $38.4 billion, Debt: $86 billion (20.4% of GDP) in 2022."
+Economy_of_Bulgaria,What was Bulgaria's highest poverty during the year when its inflation was at its lowest?,21% ,Poverty was 22.0% in 2020 when inflation was 1.0%.
+Economy_of_Bulgaria,During which years did Bulgaria experience its highest debt?,"2015, 2016","2015, 2016, 2017, 2018, 2019, 2020, 2021
+
+The debt level remains constant at 24.0% of GDP from 2017 to 2019 and then slightly decreases to 20.4% of GDP in 2020. It remains the same through 2022. As the question asks for the years when Bulgaria experienced its highest debt, I have provided the entire timeline as the answer."
+Economy_of_Bulgaria,In which years was the Bulgaria's inflation the highest?,"2017, 2018","The years with the highest inflation in Bulgaria were 2017, 2018, and 2022 with an inflation rate of 9%."
+Economy_of_Bulgaria,In which years was the Bulgaria's poverty the highest?,"2019, 2022, 2020, 2021","The poverty was the highest in 2015 and 2019-2022.
+
+Explanation:
+The timeline shows that the poverty rate in Bulgaria was 21% in 2015, and it increased to 22% in 2019, remaining at that level until 2022. Therefore, the poverty rate was the highest in 2015 and 2019-2022."
+Economy_of_Bulgaria,What was the percentage decrease in Bulgaria's imports from 2020 to 2022?,6.2%,"There was a 1.3% decrease in Bulgaria's imports from 2020 to 2022.
+
+The import value in 2020 was $36.290 billion, and in 2022 it was $34.041 billion. To find the percentage change, use the formula:
+
+((New value - Old value) / |Old value|) \* 100%
+
+So, the calculation here is:
+
+((34.041 - 36.290) / |36.290|) \* 100% = -1.3%
+
+Therefore, there was a 1.3% decrease in Bulgaria's imports from 2020 to 2022."
+Economy_of_Bulgaria,What was the percentage decrease in Bulgaria's gdp from 2018 to 2021?,57.2%,"There was a 10.4% decrease in Bulgaria's GDP from 2018 to 2021.
+
+The GDP of Bulgaria in 2018 was $159 billion, and in 2021 it was $68 billion. The percentage decrease can be calculated as follows: (159 - 68) / 159 = 10.4."
+Economy_of_Bulgaria,"Did the per capita increase, decrease, or remain the same from 2015 to 2016?",remained same,Remained the same.
+Economy_of_Bulgaria,"Did the debt increase, decrease, or remain the same from 2016 to 2017?",decreased,The debt decreased from 2016 to 2017.
+Economy_of_Bulgaria,List all the years in which revenue was lower than expenses.,"2015, 2017, 2016, 2018, 2022","2019-12-31T13:37:43Z, 2020-12-31T21:00:11Z, 2021-12-31T16:11:16Z, 2022-12-31T12:08:45Z"
+Economy_of_Bulgaria,List all the years in which revenue was higher than expenses.,"2015, 2017, 2016, 2018, 2022","2022
+
+Explanation:
+Out of the given timeline, only the data for the year 2022 shows that revenue was higher than expenses. The revenue was 47.59 billion, while the expenses were 52.48 billion, showing a positive balance of 4.887 billion. This is the only instance in the given data where revenue was higher than expenses."

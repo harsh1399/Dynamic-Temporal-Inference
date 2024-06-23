@@ -1,0 +1,18 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Algeria,What was Algeria's highest imports during the year when its exports was at its highest?,$48.27 billion,Imports were $56.5 billion in 2023.
+Economy_of_Algeria,What was Algeria's lowest gdp during the year when its debt was at its lowest?,2012%,$151.459 billion in 2021.
+Economy_of_Algeria,In which years was the Algeria's debt the highest?,2023,"2023-12-31T03:52:11Z, as a percentage of GDP.
+
+Explanation:
+The debt of Algeria as a percentage of GDP was the highest in the year 2023-12-31T03:52:11Z. Although the actual debt value was higher in 2021, as a percentage of GDP, it was the highest in 2023."
+Economy_of_Algeria,During which years did Algeria experience its lowest inflation?,2017,"2011-12-31, 2022-12-31 (5.7%, 4.1%)"
+Economy_of_Algeria,In which years was the Algeria's inflation the highest?,2023,"2023-12-31T03:52:11Z, 2011-12-31T18:26:16Z"
+Economy_of_Algeria,What was the percentage decrease in Algeria's revenue from 2017 to 2019?,31.7%,21.5% decrease.
+Economy_of_Algeria,What was the percentage decrease in Algeria's imports from 2011 to 2023?,12.3%,42% decrease.
+Economy_of_Algeria,What was the percentage increase in Algeria's revenue from 2019 to 2023?,6.6%,5.7% increase in revenue.
+Economy_of_Algeria,"Did the revenue increase, decrease, or remain the same from 2021 to 2022?",remained same,Remained the same.
+Economy_of_Algeria,"Did the inflation increase, decrease, or remain the same from 2021 to 2022?",remained same,Inflation increased from 2021 to 2022.
+Economy_of_Algeria,List all the years in which imports were higher than exports.,"2023, 2017, 2011","2021-12-31T14:52:57Z, 2022-12-31T19:53:15Z"
+Economy_of_Algeria,List all the years in which imports were lower than exports.,"2023, 2017, 2011","2011, 2022, 2023"
+Economy_of_Algeria,List all the years in which revenue was higher than expenses.,"2023, 2019, 2017, 2011, 2022, 2021","2017-12-31T15:58:04Z, 2023-12-31T03:52:11Z"
+Economy_of_Algeria,List all the years in which revenue was lower than expenses.,"2023, 2019, 2017, 2011, 2022, 2021","2019, 2021, 2023"

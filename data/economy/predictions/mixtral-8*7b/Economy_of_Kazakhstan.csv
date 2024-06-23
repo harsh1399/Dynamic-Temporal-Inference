@@ -1,0 +1,27 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Kazakhstan,What was Kazakhstan's lowest gdp during the year when its revenue was at its lowest?,$177.835 billion,$170.539 billion (2019)
+Economy_of_Kazakhstan,What was Kazakhstan's highest revenue during the year when its gdp was at its lowest?,35.48 billion,"Revenue was $43.08 billion.
+
+The year with the lowest GDP was 2019, and the highest revenue of $43.08 billion was observed in 2017."
+Economy_of_Kazakhstan,Tell me the lowest revenue figures Kazakhstan achieved during the year when the timeline shows the highest gdp figures.,$43 billion,"Revenue: $35.48 billion, Year: 2019"
+Economy_of_Kazakhstan,In which years was the Kazakhstan's poverty the lowest?,"2019, 2020, 2022","2019-12-31T18:21:53Z, 2020-12-31T10:49:59Z, 2022-12-31T10:31:53Z. The poverty rate in these years was 2.5%."
+Economy_of_Kazakhstan,During which years did Kazakhstan experience its lowest expenses?,2011,"The years with the lowest expenses for Kazakhstan are 2019 and 2020, with expenses of 38.3 billion dollars."
+Economy_of_Kazakhstan,In which years was the Kazakhstan's debt the highest?,"2019, 2020, 2022","2019-12-31, 2020-12-31, 2022-12-31"
+Economy_of_Kazakhstan,What was the percentage decrease in Kazakhstan's gdp from 2017 to 2020?,59.7%,"There was a 5.2% decrease in Kazakhstan's GDP from 2017 to 2020. 
+
+This conclusion is drawn from comparing the GDP figure provided for Kazakhstan at the end of 2017 ($429.1 billion) and at the end of 2020 ($172.941 billion). The percentage decrease can be calculated as (429.1 - 172.941) / 429.1 = 0.052 or 5.2%.
+
+(Note: I'm assuming that the ""gdp"" values provided in the timeline are in billions of the local currency of Kazakhstan, and that the percentage changes in the GDP shown in the timeline reflect the same currency. If the ""gdp"" values are already expressed in a common currency, such as US dollars, then the calculation above directly provides the percentage change in Kazakhstan's GDP from 2017 to 2020 when measured in US dollars.)"
+Economy_of_Kazakhstan,What was the percentage increase in Kazakhstan's debt from 2017 to 2019?,73.3%,0% increase in debt from 2017 to 2019.
+Economy_of_Kazakhstan,"Did the debt increase, decrease, or remain the same from 2017 to 2018?",remained same,The debt remained the same from 2017 to 2018.
+Economy_of_Kazakhstan,"Did the revenue increase, decrease, or remain the same from 2018 to 2019?",decreased,Decreased from 2018 to 2019.
+Economy_of_Kazakhstan,"Did the expenses increase, decrease, or remain the same from 2018 to 2019?",decreased,Expenses increased from 2018 to 2019.
+Economy_of_Kazakhstan,List all the years in which revenue was higher than expenses.,"2019, 2017, 2011, 2018, 2020, 2022","2011, 2017, 2018, 2019, 2020"
+Economy_of_Kazakhstan,List all the years in which revenue was lower than expenses.,"2019, 2017, 2011, 2018, 2020, 2022","2019, 2020, 2022
+
+Explanation:
+The revenue was lower than expenses in the years 2019, 2020, and 2022, as shown in the timeline. You can verify this by comparing the ""revenue"" and ""expenses"" values for those years.
+
+[2019-12-31T18:21:53Z]: Revenue: $35.48 billion, Expenses: $38.3 billion
+[2020-12-31T10:49:59Z]: Revenue: $35.48 billion, Expenses: $38.3 billion
+[2022-12-31T10:31:53Z]: Revenue: $35.48 billion, Expenses: $38.3 billion"

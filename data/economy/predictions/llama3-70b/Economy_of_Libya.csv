@@ -1,0 +1,15 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Libya,What was Libya's lowest revenue during the year when its expenses was at its lowest?,$25.34 billion,$15.47 billion in 2010.
+Economy_of_Libya,Tell me the highest revenue figures Libya achieved during the year when the timeline shows the lowest expenses figures.,$25.34 billion,$25.34 billion in 2010-2011.
+Economy_of_Libya,Tell me the lowest debt figures Libya achieved during the year when the timeline shows the highest inflation figures.,$4.267 billion,4.267 billion.
+Economy_of_Libya,During which years did Libya experience its highest revenue?,"2017, 2018",2011 and 2012.
+Economy_of_Libya,In which years was the Libya's revenue the lowest?,2019,2017 and 2018.
+Economy_of_Libya,In which years was the Libya's inflation the lowest?,"2011, 2010",2010 and 2011.
+Economy_of_Libya,What was the percentage increase in Libya's inflation from 2012 to 2018?,1212.0%,"From 2.5% to 32.8%, an increase of 1212%."
+Economy_of_Libya,What was the percentage increase in Libya's inflation from 2011 to 2019?,2208.9%,2151.89%
+Economy_of_Libya,What was the percentage increase in Libya's revenue from 2012 to 2018?,63.9%,63.4%
+Economy_of_Libya,"Did the per capita increase, decrease, or remain the same from 2011 to 2012?",decreased,Decreased.
+Economy_of_Libya,"Did the revenue increase, decrease, or remain the same from 2018 to 2019?",decreased,Decreased.
+Economy_of_Libya,"Did the debt increase, decrease, or remain the same from 2011 to 2012?",remained same,Remained the same.
+Economy_of_Libya,List all the years in which revenue was lower than expenses.,"2019, 2017, 2018","2017, 2018, 2019"
+Economy_of_Libya,List all the years in which revenue was higher than expenses.,"2019, 2017, 2018","2010, 2011, 2017."

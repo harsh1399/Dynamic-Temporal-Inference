@@ -1,0 +1,23 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Egypt,What was Egypt's lowest poverty during the year when its debt was at its lowest?,27.8% ,"26% 
+"
+Economy_of_Egypt,Tell me the highest exports figures Egypt achieved during the year when the timeline shows the lowest poverty figures.,$27.15 billion,"$27.15 billion 
+"
+Economy_of_Egypt,In which years was the Egypt's imports the lowest?,2018,"2018, 2019 
+"
+Economy_of_Egypt,During which years did Egypt experience its lowest inflation?,2021,"2020, 2021 
+"
+Economy_of_Egypt,What was the percentage increase in Egypt's gdp from 2019 to 2021?,58.0%,"58.0% increase 
+"
+Economy_of_Egypt,What was the percentage decrease in Egypt's expenses from 2015 to 2021?,5.0%,"18.8% decrease 
+"
+Economy_of_Egypt,What was the percentage increase in Egypt's revenue from 2017 to 2020?,18.4%,"15.3% 
+"
+Economy_of_Egypt,"Did the imports increase, decrease, or remain the same from 2017 to 2018?",decreased,"Decreased 
+"
+Economy_of_Egypt,"Did the poverty increase, decrease, or remain the same from 2018 to 2019?",remained same,"Increased. 
+"
+Economy_of_Egypt,List all the years in which revenue was higher than expenses.,"2015, 2019, 2017, 2018, 2020, 2021","None. 
+"
+Economy_of_Egypt,List all the years in which revenue was lower than expenses.,"2015, 2019, 2017, 2018, 2020, 2021","2015, 2017, 2018, 2019, 2020, 2021 
+"

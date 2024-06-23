@@ -1,0 +1,10 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Albania,Tell me the highest gdp figures Albania achieved during the year when the timeline shows the lowest poverty figures.,$13.4 billion,$50 billion in 2017.
+Economy_of_Albania,What was Albania's lowest expenses during the year when its gdp was at its lowest?,$2.377 billion,Albania's lowest expenses were $2.75 billion in 2018.
+Economy_of_Albania,During which years did Albania experience its highest poverty?,"2019, 2023, 2020, 2022",The highest poverty rate of 14.3% was observed in the years 2019-2023. Note that the poverty rate did not change during this period.
+Economy_of_Albania,During which years did Albania experience its lowest poverty?,"2012, 2011","2017-12-31T03:41:06Z, 2018-12-31T16:34:32Z, 2019-12-31T10:40:34Z, 2020-12-31T10:45:33Z"
+Economy_of_Albania,What was the percentage increase in Albania's inflation from 2022 to 2023?,165.0%,The percentage increase in Albania's inflation from 2022 to 2023 was 3.3%.
+Economy_of_Albania,What was the percentage increase in Albania's gdp from 2011 to 2019?,19.1%,17.74% increase.
+Economy_of_Albania,What was the percentage decrease in Albania's inflation from 2011 to 2018?,38.2%,The percentage decrease in Albania's inflation from 2011 to 2018 was approximately 1.4%.
+Economy_of_Albania,"Did the gdp increase, decrease, or remain the same from 2011 to 2012?",remained same,GDP remained the same from 2011 to 2012.
+Economy_of_Albania,"Did the per capita increase, decrease, or remain the same from 2017 to 2018?",increased,Per capita increased from 2017 to 2018.

@@ -1,0 +1,46 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Telangana,Tell me the lowest debt figures Telangana achieved during the year when the timeline shows the lowest inflation figures.,21.4% ,Debt was 20.7% when inflation was 7.46%.
+Economy_of_Telangana,Tell me the highest debt figures Telangana achieved during the year when the timeline shows the lowest inflation figures.,21.4% ,"25.29%, in Dec 2022"
+Economy_of_Telangana,What was Telangana's highest debt during the year when its inflation was at its highest?,25.29% ,Debt was 25.29% in Dec 2022.
+Economy_of_Telangana,In which years was the Telangana's debt the highest?,2022,2022.
+Economy_of_Telangana,In which years was the Telangana's debt the lowest?,"2020, 2021","2019-12-31, 2020-12-31."
+Economy_of_Telangana,During which years did Telangana experience its lowest inflation?,2019,"The lowest inflation was experienced in 2019 and 2020, at 4.3% and 7.46% respectively."
+Economy_of_Telangana,What was the percentage increase in Telangana's debt from 2019 to 2022?,18.2%,"The percentage increase in Telangana's debt from 2019 to 2022 was 17.6%.
+
+Explanation:
+To find the percentage increase in debt from 2019 to 2022, we can use the following formula:
+
+Percentage Increase = ((Final Value - Initial Value) / |Initial Value|) \* 100%
+
+In this case, the initial value (debt in 2019) is 21.4%, and the final value (debt in 2022) is 25.29%. Plugging these values into the formula, we get:
+
+Percentage Increase = ((25.29 - 21.4) / |21.4|) \* 100%
+Percentage Increase = (3.89 / 21.4) \* 100%
+Percentage Increase = 0.182% \* 100%
+Percentage Increase = 18.2% (rounded to the nearest whole number)
+
+Therefore, Telangana's debt increased by 18.2% from 2019 to 2022."
+Economy_of_Telangana,What was the percentage decrease in Telangana's debt from 2019 to 2021?,3.3%,"0.32% decrease
+
+The debt of Telangana was 21.4% in 2019 and 20.7% in 2021, which is a 0.32% decrease."
+Economy_of_Telangana,What was the percentage increase in Telangana's inflation from 2019 to 2021?,73.5%,Inflation increased by 79.5%.
+Economy_of_Telangana,What was the percentage increase in Telangana's inflation from 2019 to 2022?,73.5%,7.46% to 7.46%: no change.
+Economy_of_Telangana,"Did the inflation increase, decrease, or remain the same from 2020 to 2021?",remained same,Remained the same.
+Economy_of_Telangana,"Did the revenue increase, decrease, or remain the same from 2020 to 2021?",remained same,Remained the same.
+Economy_of_Telangana,"Did the inflation increase, decrease, or remain the same from 2021 to 2022?",remained same,"Inflation remained the same from 2021 to 2022.
+This conclusion is based on the data provided in the timeline, which shows the inflation rate for Telangana as 7.46% in both 2021 and 2022."
+Economy_of_Telangana,List all the years in which revenue was lower than expenses.,"2019, 2022, 2020, 2021","2019, 2020, 2021"
+Economy_of_Telangana,List all the years in which revenue was higher than expenses.,"2019, 2022, 2020, 2021","2022
+
+Explanation:
+Based on the provided timeline, we can find the years in which revenue was higher than expenses by comparing the ""revenue"" and ""expenses"" values for each year.
+
+In 2019, revenue was 1.41 and expenses were 1.74, indicating that expenses were higher than revenue.
+
+In 2020, revenue was 1.43 and expenses were 1.83, again showing that expenses were higher than revenue.
+
+In 2021, revenue was 1.43 and expenses were 1.83, with expenses being higher than revenue once more.
+
+Finally, in 2022, revenue was 1.93 and expenses were 2.45. In this case, revenue is higher than expenses.
+
+Therefore, the answer is 2022."

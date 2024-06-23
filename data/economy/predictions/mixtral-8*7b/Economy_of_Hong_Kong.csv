@@ -1,0 +1,30 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Hong_Kong,Tell me the highest expenses figures Hong Kong achieved during the year when the timeline shows the lowest imports figures.,$38.89 billion,"$62.9 billion (2017)
+
+Reference(s):
+entity timeline (2017-12-31T05:22:57Z): {""gdp"": ""$444.6 billion"", ""growth"": ""4.3% "", ""per capita"": ""$339,531"", ""inflation"": ""3.6% "", ""edbr"": "" 5"", ""gini"": ""53.9 "", ""unemployment"": ""3.1% "", ""exports"": ""$460.6 billion"", ""imports"": ""$514.5 billion"", ""debt"": ""$1.5 billion"", ""revenue"": ""$65 billion"", ""expenses"": ""$62.9 billion"", ""reserves"": ""US$422 billion"", ""country"": ""Hong""}"
+Economy_of_Hong_Kong,Tell me the highest debt figures Hong Kong achieved during the year when the timeline shows the highest expenses figures.,$1.5 billion,"Debt was $80.93 billion in 2019.
+
+Explanation:
+In 2019, expenses were at their highest, at $61.64 billion. Checking the timeline, the corresponding debt figure in 2019 is listed as ""0.1% of GDP,"" which equates to around $80.93 billion.
+
+Confidence: 99%."
+Economy_of_Hong_Kong,Tell me the highest imports figures Hong Kong achieved during the year when the timeline shows the highest gdp figures.,$514.5 billion,Imports: $561.8 billion (2019)
+Economy_of_Hong_Kong,In which years was the Hong Kong's inflation the lowest?,2010,"2010-12-31, 2011-12-31 (inflation: 2.0%, 2.4%)"
+Economy_of_Hong_Kong,In which years was the Hong Kong's revenue the highest?,"2019, 2020","2019-12-31T12:01:46Z, 2020-12-31T10:06:34Z.
+
+Revenue was highest in these two years, each with ""revenue"": ""79.34 billion""."
+Economy_of_Hong_Kong,In which years was the Hong Kong's gdp the highest?,2017,"2019-12-31T12:01:46Z, 2020-12-31T10:06:34Z"
+Economy_of_Hong_Kong,What was the percentage increase in Hong Kong's imports from 2017 to 2020?,9.2%,0% increase. Imports in 2017 and 2020 are the same.
+Economy_of_Hong_Kong,What was the percentage decrease in Hong Kong's gdp from 2017 to 2019?,18.3%,"6.5% decrease. 
+
+Explanation:
+The GDP of Hong Kong in 2017 was $444.6 billion, while in 2019 it was $363.031 billion.
+Therefore, the percentage decrease in GDP from 2017 to 2019 can be calculated as follows:
+(444.6 - 363.031) / 444.6 * 100% = 6.5% approximately."
+Economy_of_Hong_Kong,What was the percentage increase in Hong Kong's expenses from 2011 to 2017?,61.7%,64.09% increase.
+Economy_of_Hong_Kong,What was the percentage increase in Hong Kong's expenses from 2010 to 2017?,61.7%,62.7% increase.
+Economy_of_Hong_Kong,"Did the inflation increase, decrease, or remain the same from 2010 to 2011?",increased,Inflation increased from 2010 to 2011.
+Economy_of_Hong_Kong,"Did the debt increase, decrease, or remain the same from 2016 to 2017?",remained same,Increased from $1.5 billion to $65 billion.
+Economy_of_Hong_Kong,List all the years in which revenue was lower than expenses.,"2011, 2010, 2013","2011, 2013, 2016, 2017, 2019, 2020"
+Economy_of_Hong_Kong,List all the years in which revenue was higher than expenses.,"2011, 2010, 2013","2011, 2017, 2020"

@@ -1,0 +1,15 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Syria,Tell me the lowest revenue figures Syria achieved during the year when the timeline shows the highest expenses figures.,$1.033 billion,"Syria's lowest revenue ($839.6 million) was in 2017, when the highest expenses ($10 billion) were recorded in 2018 and 2019."
+Economy_of_Syria,Tell me the lowest poverty figures Syria achieved during the year when the timeline shows the highest revenue figures.,75.0% ,11.9% poverty in 2008 and 2014.
+Economy_of_Syria,During which years did Syria experience its highest expenses?,"2019, 2018",2018 and 2019.
+Economy_of_Syria,During which years did Syria experience its highest inflation?,2014,"2014, 2015."
+Economy_of_Syria,What was the percentage decrease in Syria's inflation from 2015 to 2021?,3.8%,1.1% decrease (from 29.2% to 28.1%).
+Economy_of_Syria,What was the percentage increase in Syria's revenue from 2018 to 2021?,161.4%,159%
+Economy_of_Syria,What was the percentage decrease in Syria's expenses from 2019 to 2021?,79.0%,52.1%
+Economy_of_Syria,"Did the per capita increase, decrease, or remain the same from 2014 to 2015?",remained same,Remained the same.
+Economy_of_Syria,"Did the revenue increase, decrease, or remain the same from 2017 to 2018?",decreased,Decreased.
+Economy_of_Syria,"Did the per capita increase, decrease, or remain the same from 2017 to 2018?",decreased,Decreased.
+Economy_of_Syria,List all the years in which revenue was lower than expenses.,"2015, 2019, 2008, 2014, 2018","Here are the years in which revenue was lower than expenses:
+
+2008, 2014, 2015, 2017, 2018, 2019"
+Economy_of_Syria,List all the years in which revenue was higher than expenses.,"2015, 2019, 2008, 2014, 2018","2021, 2022."

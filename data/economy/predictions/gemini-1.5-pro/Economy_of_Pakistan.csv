@@ -1,0 +1,23 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Pakistan,Tell me the lowest expenses figures Pakistan achieved during the year when the timeline shows the highest inflation figures.,$35.67 billion,"$35.67 billion 
+"
+Economy_of_Pakistan,What was Pakistan's highest expenses during the year when its revenue was at its highest?,$35.67 billion,"$35.67 billion 
+"
+Economy_of_Pakistan,During which years did Pakistan experience its lowest poverty?,2011,"2011-2012 
+"
+Economy_of_Pakistan,In which years was the Pakistan's inflation the highest?,2011,"2011 
+"
+Economy_of_Pakistan,What was the percentage increase in Pakistan's poverty from 2011 to 2017?,62.5%,"62.5% 
+"
+Economy_of_Pakistan,What was the percentage increase in Pakistan's imports from 2011 to 2017?,18.3%,"18.3% 
+"
+Economy_of_Pakistan,What was the percentage decrease in Pakistan's exports from 2011 to 2017?,12.2%,"12.25%  decrease 
+"
+Economy_of_Pakistan,"Did the poverty increase, decrease, or remain the same from 2017 to 2018?",remained same,"Remained the same. 
+"
+Economy_of_Pakistan,"Did the expenses increase, decrease, or remain the same from 2017 to 2018?",remained same,"Remained the same 
+"
+Economy_of_Pakistan,List all the years in which revenue was lower than expenses.,"2017, 2011, 2018","2011, 2017, 2018 
+"
+Economy_of_Pakistan,List all the years in which revenue was higher than expenses.,"2017, 2011, 2018","No years listed. 
+"

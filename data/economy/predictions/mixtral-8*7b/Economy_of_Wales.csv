@@ -1,0 +1,24 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Wales,Tell me the lowest poverty figures Wales achieved during the year when the timeline shows the highest gdp figures.,23% ,Poverty remained at 23%.
+Economy_of_Wales,Tell me the highest poverty figures Wales achieved during the year when the timeline shows the highest gdp figures.,23% ,"Poverty remained at 23%.
+
+Explanation:
+According to the timeline, the highest GDP figure for Wales was achieved in the year 2021-12-31T13:00:10Z with a GDP of 77.5 billion. During that time, the poverty figure was at 23%. Therefore, the highest poverty figures Wales achieved during the year when the timeline shows the highest GDP figures was 23%."
+Economy_of_Wales,Tell me the lowest gdp figures Wales achieved during the year when the timeline shows the lowest poverty figures.,70.6 billion,GDP was 70.6 billion with lowest poverty of 23%.
+Economy_of_Wales,During which years did Wales experience its highest poverty?,"2019, 2020, 2021",Poverty remained at 23% in all years.
+Economy_of_Wales,In which years was the Wales's poverty the lowest?,"2019, 2020, 2021","2019, 2020, 2021; poverty rate remained constant at 23%."
+Economy_of_Wales,What was the percentage increase in Wales's gdp from 2020 to 2021?,6.0%,"The percentage increase in Wales's GDP from 2020 to 2021 is approximately 6.84%.
+
+Calculation:
+= ((77.5 - 73.1) / 73.1) \* 100%
+≈ 6.84%"
+Economy_of_Wales,What was the percentage increase in Wales's gdp from 2019 to 2020?,3.5%,"GDP increased by 4.28% from 2019 to 2020.
+
+Here's the calculation:
+(73 - 70.6) / 70.6 \* 100 = 4.28%"
+Economy_of_Wales,What was the percentage increase in Wales's gdp from 2019 to 2021?,9.8%,"8.5% increase in GDP.
+
+The GDP of Wales was $70.6 billion in 2019, which increased to $77.5 billion in 2021. To calculate the percentage increase, we subtract the initial value from the final value ($77.5b - $70.6b = $6.9b), divide this result by the initial value ($6.9b / $70.6b) and multiply it by 100 to get the percentage increase. Therefore, there was an 8.5% increase in Wales's GDP from 2019 to 2021."
+Economy_of_Wales,"Did the per capita increase, decrease, or remain the same from 2020 to 2021?",increased,Per capita increased in 2021.
+Economy_of_Wales,"Did the poverty increase, decrease, or remain the same from 2020 to 2021?",remained same,Poverty remained the same from 2020 to 2021.
+Economy_of_Wales,"Did the gdp increase, decrease, or remain the same from 2019 to 2020?",increased,GDP increased from 2019 to 2020.

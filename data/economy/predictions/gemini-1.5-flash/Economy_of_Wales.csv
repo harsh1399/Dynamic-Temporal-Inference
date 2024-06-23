@@ -1,0 +1,23 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Wales,Tell me the lowest poverty figures Wales achieved during the year when the timeline shows the highest gdp figures.,23% ,"23% 
+"
+Economy_of_Wales,Tell me the highest poverty figures Wales achieved during the year when the timeline shows the highest gdp figures.,23% ,"23% 
+"
+Economy_of_Wales,Tell me the lowest gdp figures Wales achieved during the year when the timeline shows the lowest poverty figures.,70.6 billion,"73 billion 
+"
+Economy_of_Wales,During which years did Wales experience its highest poverty?,"2019, 2020, 2021","2019, 2020, 2021 
+"
+Economy_of_Wales,In which years was the Wales's poverty the lowest?,"2019, 2020, 2021","The poverty rate remained constant. 
+"
+Economy_of_Wales,What was the percentage increase in Wales's gdp from 2020 to 2021?,6.0%,"6.2% 
+"
+Economy_of_Wales,What was the percentage increase in Wales's gdp from 2019 to 2020?,3.5%,"3.5% 
+"
+Economy_of_Wales,What was the percentage increase in Wales's gdp from 2019 to 2021?,9.8%,"10.1% 
+"
+Economy_of_Wales,"Did the per capita increase, decrease, or remain the same from 2020 to 2021?",increased,"Increased 
+"
+Economy_of_Wales,"Did the poverty increase, decrease, or remain the same from 2020 to 2021?",remained same,"Remained the same. 
+"
+Economy_of_Wales,"Did the gdp increase, decrease, or remain the same from 2019 to 2020?",increased,"Increased 
+"

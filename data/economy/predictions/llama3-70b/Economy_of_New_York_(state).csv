@@ -1,0 +1,12 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_New_York_(state),Tell me the lowest poverty figures New York (state) achieved during the year when the timeline shows the lowest gdp figures.,13.6%,"The question is based on incorrect information. The ""country"" field in the timeline indicates that the entity is a country called ""New"", not New York (state). 
+
+However, based on the given timeline, the lowest GDP figure is $1.405 trillion in 2017. During this year, the poverty rate is 13.6%."
+Economy_of_New_York_(state),What was New York (state)'s lowest revenue during the year when its poverty was at its lowest?,$63.5 billion,"Error: The provided information does not mention New York (state), but rather ""New"" as the country name."
+Economy_of_New_York_(state),In which years was the New York (state)'s gdp the highest?,2022,2022.
+Economy_of_New_York_(state),In which years was the New York (state)'s poverty the highest?,"2017, 2022, 2018, 2021","All years, 13.6% poverty rate."
+Economy_of_New_York_(state),In which years was the New York (state)'s poverty the lowest?,"2017, 2022, 2018, 2021",There is no New York (state) in the provided timeline.
+Economy_of_New_York_(state),What was the percentage increase in New York (state)'s gdp from 2018 to 2022?,29.3%,29.4% increase in GDP from 2018 to 2022.
+Economy_of_New_York_(state),What was the percentage increase in New York (state)'s gdp from 2017 to 2022?,42.3%,42.8% increase in GDP from 2017 to 2022.
+Economy_of_New_York_(state),"Did the revenue increase, decrease, or remain the same from 2021 to 2022?",remained same,Remained the same.
+Economy_of_New_York_(state),"Did the poverty increase, decrease, or remain the same from 2021 to 2022?",remained same,Remain the same.

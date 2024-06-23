@@ -1,0 +1,31 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Telangana,Tell me the lowest debt figures Telangana achieved during the year when the timeline shows the lowest inflation figures.,21.4% ,"The timeline doesn't contain information about the lowest inflation figures to answer your question. 
+"
+Economy_of_Telangana,Tell me the highest debt figures Telangana achieved during the year when the timeline shows the lowest inflation figures.,21.4% ,"The timeline doesn't contain information about lowest inflation figures, hence the answer is **Not found**. 
+"
+Economy_of_Telangana,What was Telangana's highest debt during the year when its inflation was at its highest?,25.29% ,"25.29% 
+"
+Economy_of_Telangana,In which years was the Telangana's debt the highest?,2022,"2022 
+"
+Economy_of_Telangana,In which years was the Telangana's debt the lowest?,"2020, 2021","2020, 2021 
+"
+Economy_of_Telangana,During which years did Telangana experience its lowest inflation?,2019,"The timeline provided does not contain information on years with lower inflation rates than the listed values. 
+"
+Economy_of_Telangana,What was the percentage increase in Telangana's debt from 2019 to 2022?,18.2%,"18.22% 
+"
+Economy_of_Telangana,What was the percentage decrease in Telangana's debt from 2019 to 2021?,3.3%,"0.7% decrease 
+"
+Economy_of_Telangana,What was the percentage increase in Telangana's inflation from 2019 to 2021?,73.5%,"71.6% 
+"
+Economy_of_Telangana,What was the percentage increase in Telangana's inflation from 2019 to 2022?,73.5%,"71.4% 
+"
+Economy_of_Telangana,"Did the inflation increase, decrease, or remain the same from 2020 to 2021?",remained same,"Remain the same 
+"
+Economy_of_Telangana,"Did the revenue increase, decrease, or remain the same from 2020 to 2021?",remained same,"Remained the same. 
+"
+Economy_of_Telangana,"Did the inflation increase, decrease, or remain the same from 2021 to 2022?",remained same,"Remained the same 
+"
+Economy_of_Telangana,List all the years in which revenue was lower than expenses.,"2019, 2022, 2020, 2021","2019, 2020, 2021, 2022 
+"
+Economy_of_Telangana,List all the years in which revenue was higher than expenses.,"2019, 2022, 2020, 2021","None 
+"

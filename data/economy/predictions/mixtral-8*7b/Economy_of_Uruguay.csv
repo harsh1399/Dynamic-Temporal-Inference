@@ -1,0 +1,13 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Uruguay,What was Uruguay's lowest expenses during the year when its gdp was at its lowest?,$9.666 billion,"Based on the provided timeline, Uruguay's lowest expenses during the year when its GDP was at its lowest occurred in 2010, with expenses of $9.666 billion and a GDP of $44.52 billion. However, I noticed a mistake in the timeline, as there is no data for 2010. If we consider the GDP value of $47.8 billion in 2011 as the lowest, then the answer remains the same, with expenses of $9.666 billion. Nonetheless, it's essential to correct the given timeline for accuracy."
+Economy_of_Uruguay,What was Uruguay's lowest debt during the year when its poverty was at its lowest?,65.7% of GDP,Debt was $52.7 billion in 2011.
+Economy_of_Uruguay,In which years was the Uruguay's inflation the highest?,2017,"2010, 2018, 2019 (inflation was highest in these years)"
+Economy_of_Uruguay,In which years was the Uruguay's poverty the lowest?,2020,"2019, 2020, with a poverty rate of 8.1%."
+Economy_of_Uruguay,During which years did Uruguay experience its lowest gdp?,2010,"2020-12-31T13:00:10Z, 2019-12-31T00:32:03Z"
+Economy_of_Uruguay,What was the percentage increase in Uruguay's expenses from 2010 to 2018?,80.4%,99.3% increase.
+Economy_of_Uruguay,What was the percentage increase in Uruguay's debt from 2011 to 2018?,8.5%,0.9% increase in debt from 2011 to 2018.
+Economy_of_Uruguay,"Did the per capita increase, decrease, or remain the same from 2019 to 2020?",decreased,Per capita decreased from 2019 to 2020.
+Economy_of_Uruguay,"Did the expenses increase, decrease, or remain the same from 2019 to 2020?",remained same,Expenses increased from 2019 to 2020.
+Economy_of_Uruguay,List all the years in which revenue was higher than expenses.,"2010, 2019, 2017, 2011, 2018, 2020","2010-12-31T20:53:04Z, 
+2011-12-31T00:21:52Z"
+Economy_of_Uruguay,List all the years in which revenue was lower than expenses.,"2010, 2019, 2017, 2011, 2018, 2020","2011, 2017-2020"

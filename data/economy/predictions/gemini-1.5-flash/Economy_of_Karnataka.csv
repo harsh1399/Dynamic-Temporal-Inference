@@ -1,0 +1,21 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Karnataka,During which years did Karnataka experience its lowest debt?,2019,"2019, 2020, 2021 
+"
+Economy_of_Karnataka,During which years did Karnataka experience its highest debt?,2022,"2022 
+"
+Economy_of_Karnataka,What was the percentage increase in Karnataka's debt from 2019 to 2021?,2.1%,"No change 
+"
+Economy_of_Karnataka,What was the percentage increase in Karnataka's debt from 2020 to 2022?,41.0%,"43.5% 
+"
+Economy_of_Karnataka,What was the percentage increase in Karnataka's debt from 2021 to 2022?,41.0%,"42.5% 
+"
+Economy_of_Karnataka,"Did the debt increase, decrease, or remain the same from 2019 to 2020?",increased,"Increased 
+"
+Economy_of_Karnataka,"Did the per capita increase, decrease, or remain the same from 2020 to 2021?",increased,"Increased 
+"
+Economy_of_Karnataka,"Did the revenue increase, decrease, or remain the same from 2019 to 2020?",decreased,"Decreased 
+"
+Economy_of_Karnataka,List all the years in which revenue was lower than expenses.,"2019, 2022, 2020, 2021","2020, 2021, 2022 
+"
+Economy_of_Karnataka,List all the years in which revenue was higher than expenses.,"2019, 2022, 2020, 2021","2019, 2022 
+"

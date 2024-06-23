@@ -1,0 +1,11 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Cuba,Tell me the highest revenue figures Cuba achieved during the year when the timeline shows the highest expenses figures.,$54.52 billion,$54.52 billion (2019)
+Economy_of_Cuba,What was Cuba's highest imports during the year when its expenses was at its highest?,$8.963 billion,Imports were $15.2 billion in 2019.
+Economy_of_Cuba,In which years was the Cuba's expenses the lowest?,2016,"2018-12-31T01:41:40Z, 2017-12-31T19:20:32Z"
+Economy_of_Cuba,In which years was the Cuba's exports the highest?,"2019, 2017, 2016, 2018",The exports were the highest in the year 2019.
+Economy_of_Cuba,What was the percentage decrease in Cuba's revenue from 2013 to 2017?,91.4%,91.43% decrease
+Economy_of_Cuba,What was the percentage increase in Cuba's expenses from 2016 to 2018?,208.3%,194.2% increase in expenses from 2016 to 2018.
+Economy_of_Cuba,"Did the imports increase, decrease, or remain the same from 2016 to 2017?",decreased,Imports increased from 2016 to 2017.
+Economy_of_Cuba,"Did the revenue increase, decrease, or remain the same from 2018 to 2019?",increased,Revenue increased from 2018 to 2019.
+Economy_of_Cuba,List all the years in which revenue was lower than expenses.,"2019, 2016, 2018, 2013","The years in which revenue was lower than expenses are 2016, 2017, 2018, and 2019. This information can be obtained by comparing the ""revenue"" and ""expenses"" values for each year in the timeline."
+Economy_of_Cuba,List all the years in which revenue was higher than expenses.,"2019, 2016, 2018, 2013",2019-12-31T21:16:42Z

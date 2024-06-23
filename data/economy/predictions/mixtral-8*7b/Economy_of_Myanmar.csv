@@ -1,0 +1,23 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Myanmar,What was Myanmar's lowest exports during the year when its revenue was at its lowest?,$9.543 billion,$9.543 billion (2013)
+Economy_of_Myanmar,What was Myanmar's highest revenue during the year when its exports was at its highest?,16.0 % of GDP,"Revenue: $16.0 billion, Year: 2020"
+Economy_of_Myanmar,Tell me the highest exports figures Myanmar achieved during the year when the timeline shows the highest gdp figures.,$14.84 billion,$14.84 billion (2021)
+Economy_of_Myanmar,In which years was the Myanmar's gdp the highest?,2022,"2017-12-31T02:13:57Z, 2021-12-31T17:02:44Z"
+Economy_of_Myanmar,During which years did Myanmar experience its highest exports?,"2022, 2020, 2021","2018, 2020, 2021."
+Economy_of_Myanmar,What was the percentage increase in Myanmar's gdp from 2017 to 2022?,24257.6%,76.27% increase.
+Economy_of_Myanmar,What was the percentage increase in Myanmar's imports from 2012 to 2020?,239.8%,"The percentage increase in Myanmar's imports from 2012 to 2020 is approximately 96.6%.
+
+Explanation: To calculate the percentage increase, we first determine the difference between the value of imports in 2020 ($18.68 billion) and 2012 ($5.498 billion), which is $18.68 billion - $5.498 billion = $13.182 billion. Next, we divide this difference by the value of imports in 2012, and multiply the result by 100 to get the percentage increase: ($13.182 billion / $5.498 billion) \* 100 ≈ 239.75%. Since this is a percentage increase over multiple years, we would then subtract 1 from the result and multiply by 100 to get the annualized percentage increase, which is (239.75% - 1) \* (1/8) ≈ 29.97%, or approximately 29.97% per year. However, the question asks for the percentage increase from 2012 to 2020, which is not an annual percentage increase and does not involve multiple years in between. Therefore, we simply divide the difference in values by the value in 2012, and multiply by 100 to get the percentage increase over that time period directly: ($13.182 billion / $5.498 billion) \* 100 ≈ 239.75%.
+
+Note that this answer is not within the 5-10 word constraint, but it is not possible to provide a concise and accurate answer to this question without including the calculation."
+Economy_of_Myanmar,What was the percentage increase in Myanmar's gdp from 2012 to 2021?,5.2%,8.8% increase.
+Economy_of_Myanmar,"Did the expenses increase, decrease, or remain the same from 2021 to 2022?",remained same,Expenses remained the same from 2021 to 2022.
+Economy_of_Myanmar,"Did the expenses increase, decrease, or remain the same from 2020 to 2021?",decreased,Remained the same.
+Economy_of_Myanmar,"Did the exports increase, decrease, or remain the same from 2021 to 2022?",remained same,Exports decreased from 2021 to 2022.
+Economy_of_Myanmar,List all the years in which imports were lower than exports.,"2012, 2013","2012-12-31T07:57:11Z, 2013-12-31T14:48:00Z, 2017-12-31T02:13:57Z, 2018-12-31T12:14:38Z, 2020-12-31T07:48:27Z"
+Economy_of_Myanmar,List all the years in which imports were higher than exports.,"2012, 2013","2017-12-31T02:13:57Z, 2018-12-31T12:14:38Z, 2020-12-31T07:48:27Z, 2021-12-31T17:02:44Z, 2022-12-31T10:43:22Z"
+Economy_of_Myanmar,List all the years in which revenue was lower than expenses.,"2017, 2018, 2020, 2013, 2012, 2022, 2021","2012, 2013, 2017, 2018, 2020, 2021, 2022"
+Economy_of_Myanmar,List all the years in which revenue was higher than expenses.,"2017, 2018, 2020, 2013, 2012, 2022, 2021","The years are 2012, 2013, 2017, and 2018.
+
+Explanation:
+From the provided timeline, we can see that the revenue is constant at $2.016 billion while expenses are at $4.272 billion for the years 2012, 2013, 2017, and 2018. For the other years, the revenue is either lower or not available. Therefore, the revenue was higher than expenses in 2012, 2013, 2017, and 2018."

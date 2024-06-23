@@ -1,0 +1,25 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Laos,Tell me the highest expenses figures Laos achieved during the year when the timeline shows the lowest exports figures.,$1.129 billion,"$4.098 billion 
+"
+Economy_of_Laos,What was Laos's highest poverty during the year when its expenses was at its highest?,22% ,"26% 
+"
+Economy_of_Laos,In which years was the Laos's gdp the highest?,2017,"2017, 2020 
+"
+Economy_of_Laos,In which years was the Laos's imports the highest?,2019,"2019, 2020 
+"
+Economy_of_Laos,In which years was the Laos's inflation the lowest?,2012,"2019, 2020 
+"
+Economy_of_Laos,What was the percentage decrease in Laos's revenue from 2019 to 2020?,1.4%,"13.8% 
+"
+Economy_of_Laos,What was the percentage increase in Laos's exports from 2012 to 2013?,93.0%,"92% increase 
+"
+Economy_of_Laos,"Did the per capita increase, decrease, or remain the same from 2019 to 2020?",increased,"Increased slightly. 
+"
+Economy_of_Laos,"Did the expenses increase, decrease, or remain the same from 2012 to 2013?",increased,"Increased 
+"
+Economy_of_Laos,"Did the debt increase, decrease, or remain the same from 2012 to 2013?",remained same,"Remained the same. 
+"
+Economy_of_Laos,List all the years in which revenue was higher than expenses.,"2019, 2020, 2013","2012, 2013, 2019 
+"
+Economy_of_Laos,List all the years in which revenue was lower than expenses.,"2019, 2020, 2013","2012, 2013, 2019, 2020 
+"

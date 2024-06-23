@@ -1,0 +1,16 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Kuwait,Tell me the highest revenue figures Kuwait achieved during the year when the timeline shows the lowest gdp figures.,$41.7 billion,$113.3 billion (in 2010 and 2011).
+Economy_of_Kuwait,What was Kuwait's highest imports during the year when its gdp was at its highest?,$29.36 billion,Kuwait's highest imports were $36.54 billion in 2017.
+Economy_of_Kuwait,What was Kuwait's highest exports during the year when its inflation was at its lowest?,$54.09 billion,$115.46 billion in 2017.
+Economy_of_Kuwait,In which years was the Kuwait's revenue the lowest?,2020,2020
+Economy_of_Kuwait,During which years did Kuwait experience its highest exports?,2017,2011 and 2017.
+Economy_of_Kuwait,What was the percentage increase in Kuwait's expenses from 2019 to 2020?,12.9%,12.8%
+Economy_of_Kuwait,What was the percentage increase in Kuwait's expenses from 2011 to 2020?,9.1%,9.2% increase in expenses from 2011 to 2020.
+Economy_of_Kuwait,What was the percentage increase in Kuwait's expenses from 2010 to 2020?,9.1%,9.2% increase.
+Economy_of_Kuwait,What was the percentage increase in Kuwait's gdp from 2017 to 2018?,45.7%,45.8%
+Economy_of_Kuwait,"Did the exports increase, decrease, or remain the same from 2019 to 2020?",remained same,Remain the same.
+Economy_of_Kuwait,"Did the expenses increase, decrease, or remain the same from 2018 to 2019?",remained same,Expenses increased from $61.39 billion to $61.39 billion.
+Economy_of_Kuwait,List all the years in which imports were higher than exports.,"2010, 2019, 2017, 2011, 2018, 2020","2018, 2019, 2020."
+Economy_of_Kuwait,List all the years in which imports were lower than exports.,"2010, 2019, 2017, 2011, 2018, 2020","2010, 2011, 2017."
+Economy_of_Kuwait,List all the years in which revenue was lower than expenses.,"2019, 2018, 2020","2018, 2019, 2020."
+Economy_of_Kuwait,List all the years in which revenue was higher than expenses.,"2019, 2018, 2020","2010, 2011, 2017."

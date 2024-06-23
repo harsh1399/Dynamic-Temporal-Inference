@@ -1,0 +1,28 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Rajasthan,In which years was the Rajasthan's debt the highest?,"2023, 2022","2022-12-31T10:23:43Z, 2023-12-31T18:46:50Z"
+Economy_of_Rajasthan,In which years was the Rajasthan's debt the lowest?,"2019, 2020, 2021",The debt was lowest in the year 2017-12-31T14:27:02Z with a debt of 33.2%.
+Economy_of_Rajasthan,What was the percentage increase in Rajasthan's debt from 2020 to 2023?,20.2%,64.3% increase in debt from 2020 to 2023.
+Economy_of_Rajasthan,What was the percentage increase in Rajasthan's debt from 2017 to 2022?,19.9%,"The percentage increase in Rajasthan's debt from 2017 to 2022 is 19.2%.
+
+Here's the calculation:
+
+2022 debt: 39.80%
+2017 debt: 33.2%
+
+Percentage increase = ((39.80 - 33.2) / 33.2) \* 100 = 19.2%"
+Economy_of_Rajasthan,What was the percentage increase in Rajasthan's debt from 2021 to 2023?,20.2%,Debt increased by 30.4% from 2021 to 2023.
+Economy_of_Rajasthan,"Did the revenue increase, decrease, or remain the same from 2019 to 2020?",decreased,Decreased from 1.88 to 1.80.
+Economy_of_Rajasthan,"Did the revenue increase, decrease, or remain the same from 2022 to 2023?",remained same,Remained the same.
+Economy_of_Rajasthan,List all the years in which revenue was lower than expenses.,"2023, 2019, 2017, 2020, 2022, 2021","Based solely on the information presented in the timeline, the years in which revenue was lower than expenses are:
+
+2017-12-31T14:27:02Z,
+2019-12-31T03:42:30Z,
+2020-12-31T08:42:04Z,
+2021-12-31T21:18:56Z,
+2022-12-31T10:23:43Z,
+2023-12-31T18:46:50Z.
+
+In all these years, the revenue value is less than the expenses value."
+Economy_of_Rajasthan,List all the years in which revenue was higher than expenses.,"2023, 2019, 2017, 2020, 2022, 2021","2019-12-31T03:42:30Z, 2020-12-31T08:42:04Z, 2021-12-31T21:18:56Z, 2022-12-31T10:23:43Z, 2023-12-31T18:46:50Z
+
+ Explanation: The revenue is higher than expenses in all the provided years except for 2017-12-31T14:27:02Z."

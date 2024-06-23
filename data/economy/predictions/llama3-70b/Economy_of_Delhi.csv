@@ -1,0 +1,5 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Delhi,"Did the revenue increase, decrease, or remain the same from 2021 to 2022?",increased,Revenue increased.
+Economy_of_Delhi,"Did the per capita increase, decrease, or remain the same from 2021 to 2022?",increased,Increased.
+Economy_of_Delhi,List all the years in which revenue was higher than expenses.,"2017, 2022, 2021","2017, 2021, 2022."
+Economy_of_Delhi,List all the years in which revenue was lower than expenses.,"2017, 2022, 2021","2017, 2021, 2022."

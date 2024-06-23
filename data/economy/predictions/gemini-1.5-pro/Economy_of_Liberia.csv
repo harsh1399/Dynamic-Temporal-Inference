@@ -1,0 +1,25 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Liberia,What was Liberia's lowest gdp during the year when its inflation was at its highest?,$1.532 billion,"$977 million 
+"
+Economy_of_Liberia,Tell me the highest inflation figures Liberia achieved during the year when the timeline shows the lowest gdp figures.,11.2% ,"7.4% 
+"
+Economy_of_Liberia,What was Liberia's highest inflation during the year when its gdp was at its highest?,7.4% ,"6.9% 
+"
+Economy_of_Liberia,In which years was the Liberia's inflation the lowest?,"2018, 2014, 2020","2014, 2018, 2020 
+"
+Economy_of_Liberia,During which years did Liberia experience its highest inflation?,2010,"2010, 2011, 2014, 2018, 2020 
+"
+Economy_of_Liberia,What was the percentage decrease in Liberia's inflation from 2011 to 2014?,6.8%,"0.5% 
+"
+Economy_of_Liberia,What was the percentage decrease in Liberia's inflation from 2010 to 2018?,38.4%,"38.39% 
+"
+Economy_of_Liberia,What was the percentage increase in Liberia's gdp from 2010 to 2014?,77.5%,"110% 
+"
+Economy_of_Liberia,What was the percentage decrease in Liberia's inflation from 2011 to 2020?,6.8%,"0.7% 
+"
+Economy_of_Liberia,"Did the inflation increase, decrease, or remain the same from 2010 to 2011?",decreased,"Decrease 
+"
+Economy_of_Liberia,"Did the per capita increase, decrease, or remain the same from 2010 to 2011?",decreased,"decrease 
+"
+Economy_of_Liberia,"Did the gdp increase, decrease, or remain the same from 2010 to 2011?",increased,"decrease 
+"

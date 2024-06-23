@@ -1,0 +1,11 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Paraguay,Tell me the lowest expenses figures Paraguay achieved during the year when the timeline shows the highest inflation figures.,$5.651 billion,$2.444 billion in 2010.
+Economy_of_Paraguay,Tell me the lowest revenue figures Paraguay achieved during the year when the timeline shows the highest debt figures.,$2.323 billion,Paraguay's lowest revenue was $2.323 billion in 2010 and 2011.
+Economy_of_Paraguay,During which years did Paraguay experience its highest debt?,"2011, 2010","2010 and 2011, 24% of GDP."
+Economy_of_Paraguay,In which years was the Paraguay's revenue the lowest?,"2011, 2010","2010, 2011."
+Economy_of_Paraguay,What was the percentage increase in Paraguay's expenses from 2011 to 2017?,131.2%,143% increase in expenses.
+Economy_of_Paraguay,What was the percentage increase in Paraguay's revenue from 2010 to 2019?,137.8%,The answer is: 139%.
+Economy_of_Paraguay,"Did the debt increase, decrease, or remain the same from 2018 to 2019?",increased,Debt increased from 2018 to 2019.
+Economy_of_Paraguay,"Did the revenue increase, decrease, or remain the same from 2017 to 2018?",remained same,Remained the same.
+Economy_of_Paraguay,List all the years in which revenue was lower than expenses.,"2010, 2019, 2017, 2011, 2018","2010, 2011, 2017, 2018."
+Economy_of_Paraguay,List all the years in which revenue was higher than expenses.,"2010, 2019, 2017, 2011, 2018",2019.

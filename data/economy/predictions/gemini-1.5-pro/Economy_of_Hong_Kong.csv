@@ -1,0 +1,29 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Hong_Kong,Tell me the highest expenses figures Hong Kong achieved during the year when the timeline shows the lowest imports figures.,$38.89 billion,"$38.89 billion 
+"
+Economy_of_Hong_Kong,Tell me the highest debt figures Hong Kong achieved during the year when the timeline shows the highest expenses figures.,$1.5 billion,"$38.89 billion 
+"
+Economy_of_Hong_Kong,Tell me the highest imports figures Hong Kong achieved during the year when the timeline shows the highest gdp figures.,$514.5 billion,"$561.8 billion 
+"
+Economy_of_Hong_Kong,In which years was the Hong Kong's inflation the lowest?,2010,"2010, 2019 
+"
+Economy_of_Hong_Kong,In which years was the Hong Kong's revenue the highest?,"2019, 2020","2019, 2020 
+"
+Economy_of_Hong_Kong,In which years was the Hong Kong's gdp the highest?,2017,"2017, 2016 
+"
+Economy_of_Hong_Kong,What was the percentage increase in Hong Kong's imports from 2017 to 2020?,9.2%,"The provided timeline does not contain information on the value of imports in 2020. 
+"
+Economy_of_Hong_Kong,What was the percentage decrease in Hong Kong's gdp from 2017 to 2019?,18.3%,"18.8% decrease 
+"
+Economy_of_Hong_Kong,What was the percentage increase in Hong Kong's expenses from 2011 to 2017?,61.7%,"There is no increase, expenses remained the same. 
+"
+Economy_of_Hong_Kong,What was the percentage increase in Hong Kong's expenses from 2010 to 2017?,61.7%,"This question cannot be answered from the given information. 
+"
+Economy_of_Hong_Kong,"Did the inflation increase, decrease, or remain the same from 2010 to 2011?",increased,"Increase 
+"
+Economy_of_Hong_Kong,"Did the debt increase, decrease, or remain the same from 2016 to 2017?",remained same,"Remained the same 
+"
+Economy_of_Hong_Kong,List all the years in which revenue was lower than expenses.,"2011, 2010, 2013","2010, 2011, 2013. 
+"
+Economy_of_Hong_Kong,List all the years in which revenue was higher than expenses.,"2011, 2010, 2013","2016, 2017, 2019, 2020 
+"

@@ -1,0 +1,29 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Denmark,Tell me the highest inflation figures Denmark achieved during the year when the timeline shows the highest debt figures.,1.3% ,"1.3% 
+"
+Economy_of_Denmark,Tell me the highest gdp figures Denmark achieved during the year when the timeline shows the highest debt figures.,$313.825 billion,"$313.825 billion 
+"
+Economy_of_Denmark,Tell me the lowest imports figures Denmark achieved during the year when the timeline shows the lowest exports figures.,$84.74 billion,"$84.74 billion 
+"
+Economy_of_Denmark,In which years was the Denmark's debt the highest?,2014,"2014, 2016, 2017 
+"
+Economy_of_Denmark,In which years was the Denmark's inflation the lowest?,"2017, 2016","2016, 2017, 2020 
+"
+Economy_of_Denmark,In which years was the Denmark's debt the lowest?,2018,"2018, 2019 
+"
+Economy_of_Denmark,What was the percentage increase in Denmark's exports from 2014 to 2017?,2.3%,"24.2% 
+"
+Economy_of_Denmark,What was the percentage decrease in Denmark's debt from 2014 to 2017?,1.8%,"10.8% 
+"
+Economy_of_Denmark,"Did the revenue increase, decrease, or remain the same from 2019 to 2020?",decreased,"Increase 
+"
+Economy_of_Denmark,"Did the gdp increase, decrease, or remain the same from 2016 to 2017?",increased,"Increase 
+"
+Economy_of_Denmark,List all the years in which imports were higher than exports.,"2019, 2017, 2011, 2014, 2020","This question cannot be answered from the given information. 
+"
+Economy_of_Denmark,List all the years in which imports were lower than exports.,"2019, 2017, 2011, 2014, 2020","2017, 2018, 2019, 2020 
+"
+Economy_of_Denmark,List all the years in which revenue was higher than expenses.,"2011, 2014","2018, 2019, 2020 
+"
+Economy_of_Denmark,List all the years in which revenue was lower than expenses.,"2011, 2014","2011, 2014. 
+"

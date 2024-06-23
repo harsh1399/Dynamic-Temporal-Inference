@@ -1,0 +1,18 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Indonesia,Tell me the lowest exports figures Indonesia achieved during the year when the timeline shows the highest poverty figures.,$141 billion,Exports were $141 billion when poverty was highest at 17.8%.
+Economy_of_Indonesia,What was Indonesia's lowest poverty during the year when its expenses was at its lowest?,17.8% ,"2.5% poverty, $131.7 billion expenses (2021)"
+Economy_of_Indonesia,What was Indonesia's lowest poverty during the year when its gdp was at its lowest?,9.8% ,"Poverty was 2.5% in 2021 when GDP was at its lowest.
+
+(Refer to the GDP and poverty values for Indonesia in the provided timeline.)"
+Economy_of_Indonesia,In which years was the Indonesia's inflation the lowest?,2021,"2017-12-31T01:30:22Z, 2021-12-31T05:40:56Z"
+Economy_of_Indonesia,In which years was the Indonesia's expenses the highest?,2023,"2023, 2022, 2021. Expenses are highest in these years at $207.8 billion, $207.4 billion, and $159.6 billion respectively."
+Economy_of_Indonesia,In which years was the Indonesia's revenue the highest?,2023,"2022, 2023 (revenue: $151.3 billion, $176.6 billion)"
+Economy_of_Indonesia,What was the percentage increase in Indonesia's expenses from 2021 to 2022?,29.9%,The percentage increase in Indonesia's expenses from 2021 to 2022 was 30.0%.
+Economy_of_Indonesia,What was the percentage decrease in Indonesia's inflation from 2010 to 2017?,72.7%,72.54% decrease in inflation.
+Economy_of_Indonesia,What was the percentage increase in Indonesia's gdp from 2019 to 2023?,25.2%,27.2% increase.
+Economy_of_Indonesia,What was the percentage increase in Indonesia's inflation from 2019 to 2022?,62.1%,112.15% increase.
+Economy_of_Indonesia,"Did the per capita increase, decrease, or remain the same from 2022 to 2023?",remained same,Remained the same.
+Economy_of_Indonesia,"Did the gdp increase, decrease, or remain the same from 2022 to 2023?",decreased,GDP increased from 2022 to 2023.
+Economy_of_Indonesia,"Did the expenses increase, decrease, or remain the same from 2019 to 2020?",remained same,Expenses increased from 2019 to 2020.
+Economy_of_Indonesia,List all the years in which revenue was lower than expenses.,"2023, 2010, 2019, 2017, 2020, 2022, 2021","2017, 2019-2023"
+Economy_of_Indonesia,List all the years in which revenue was higher than expenses.,"2023, 2010, 2019, 2017, 2020, 2022, 2021","2022-12-31T16:03:12Z, 2023-12-31T15:47:28Z"

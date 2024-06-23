@@ -1,0 +1,27 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Ghana,Tell me the lowest debt figures Ghana achieved during the year when the timeline shows the lowest inflation figures.,67.5% of GDP,"61% of GDP 
+"
+Economy_of_Ghana,Tell me the lowest inflation figures Ghana achieved during the year when the timeline shows the highest revenue figures.,9.7% ,"9.7% 
+"
+Economy_of_Ghana,During which years did Ghana experience its lowest revenue?,"2012, 2011, 2014, 2013","2011, 2012, 2013, 2014 
+"
+Economy_of_Ghana,In which years was the Ghana's gdp the highest?,2015,"2015, 2016, 2018 
+"
+Economy_of_Ghana,In which years was the Ghana's poverty the highest?,2011,"2011 and 2019 
+"
+Economy_of_Ghana,What was the percentage decrease in Ghana's poverty from 2012 to 2013?,88.9%,"85.2% 
+"
+Economy_of_Ghana,What was the percentage increase in Ghana's gdp from 2013 to 2016?,29.6%,"187% 
+"
+Economy_of_Ghana,What was the percentage increase in Ghana's inflation from 2013 to 2016?,39.4%,"4.1% increase 
+"
+Economy_of_Ghana,"Did the per capita increase, decrease, or remain the same from 2012 to 2013?",increased,"Increased 
+"
+Economy_of_Ghana,"Did the expenses increase, decrease, or remain the same from 2011 to 2012?",remained same,"Remained the same. 
+"
+Economy_of_Ghana,"Did the debt increase, decrease, or remain the same from 2011 to 2012?",remained same,"Remained the same. 
+"
+Economy_of_Ghana,List all the years in which revenue was higher than expenses.,"2015, 2023, 2019, 2011, 2014, 2016, 2018, 2013, 2012","2015, 2016, 2018 
+"
+Economy_of_Ghana,List all the years in which revenue was lower than expenses.,"2015, 2023, 2019, 2011, 2014, 2016, 2018, 2013, 2012","2011, 2012, 2013, 2014 
+"

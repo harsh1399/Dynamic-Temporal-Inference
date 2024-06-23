@@ -1,0 +1,18 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Indonesia,Tell me the lowest exports figures Indonesia achieved during the year when the timeline shows the highest poverty figures.,$141 billion,$141 billion in 2010.
+Economy_of_Indonesia,What was Indonesia's lowest poverty during the year when its expenses was at its lowest?,17.8% ,Indonesia's lowest poverty was 2.5% in 2021 when its expenses were at $137.7 billion.
+Economy_of_Indonesia,What was Indonesia's lowest poverty during the year when its gdp was at its lowest?,9.8% ,2.5% in 2021.
+Economy_of_Indonesia,In which years was the Indonesia's inflation the lowest?,2021,"2021: 1.56%, 2017: 3.02%."
+Economy_of_Indonesia,In which years was the Indonesia's expenses the highest?,2023,The answer is: 2022 and 2023.
+Economy_of_Indonesia,In which years was the Indonesia's revenue the highest?,2023,2023.
+Economy_of_Indonesia,What was the percentage increase in Indonesia's expenses from 2021 to 2022?,29.9%,25.7%
+Economy_of_Indonesia,What was the percentage decrease in Indonesia's inflation from 2010 to 2017?,72.7%,5.06%
+Economy_of_Indonesia,What was the percentage increase in Indonesia's gdp from 2019 to 2023?,25.2%,"GDP increased from $1.022 trillion to $1.28 trillion, a 25.2% increase."
+Economy_of_Indonesia,What was the percentage increase in Indonesia's inflation from 2019 to 2022?,62.1%,2.07 times.
+Economy_of_Indonesia,"Did the per capita increase, decrease, or remain the same from 2022 to 2023?",remained same,Remained the same.
+Economy_of_Indonesia,"Did the gdp increase, decrease, or remain the same from 2022 to 2023?",decreased, Decreased from $1.29 trillion to $1.28 trillion.
+Economy_of_Indonesia,"Did the expenses increase, decrease, or remain the same from 2019 to 2020?",remained same,Remained the same.
+Economy_of_Indonesia,List all the years in which revenue was lower than expenses.,"2023, 2010, 2019, 2017, 2020, 2022, 2021","Here are the years in which revenue was lower than expenses:
+
+2010, 2017, 2019, 2020, 2021, 2022, 2023."
+Economy_of_Indonesia,List all the years in which revenue was higher than expenses.,"2023, 2010, 2019, 2017, 2020, 2022, 2021","2010, 2019, 2022."

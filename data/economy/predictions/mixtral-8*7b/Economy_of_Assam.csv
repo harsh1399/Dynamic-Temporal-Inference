@@ -1,0 +1,22 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Assam,What was the percentage increase in Assam's debt from 2018 to 2020?,10.8%,"The percentage increase in Assam's debt from 2018 to 2020 was 1.15%.
+
+Explanation:
+In 2018, the debt-to-GDP ratio was 17.6%, and in 2020, it was 19.5%.
+To find the percentage increase, we can use the following formula:
+(new value - old value) / old value \* 100%
+
+So, the calculation would be: (19.5 - 17.6) / 17.6 \* 100% = 1.15%
+
+It's important to note that the revenue, expenses, and balance for 2021 seem to have incorrect values in the provided timeline, but the answer to the question only depends on the debt-to-GDP ratio for 2018 and 2020."
+Economy_of_Assam,What was the percentage increase in Assam's debt from 2019 to 2021?,10.8%,12.6% increase in debt from 2019 to 2021.
+Economy_of_Assam,What was the percentage increase in Assam's debt from 2019 to 2020?,10.8%,The percentage increase in Assam's debt from 2019 to 2020 was 10.3%. This is calculated as ((17.6 - 19.5) / 19.5) \* 100%.
+Economy_of_Assam,What was the percentage increase in Assam's debt from 2018 to 2021?,10.8%,1.6% increase in debt from 2018 to 2021.
+Economy_of_Assam,"Did the expenses increase, decrease, or remain the same from 2020 to 2021?",remained same,"Expenses decreased from 2020 to 2021.
+
+The value for ""expenses"" in the data for the year 2021 is 1.03, while for the year 2020 it is 9383. This indicates that expenses have decreased from 2020 to 2021."
+Economy_of_Assam,"Did the debt increase, decrease, or remain the same from 2018 to 2019?",remained same,The debt remained the same from 2018 to 2019.
+Economy_of_Assam,List all the years in which revenue was higher than expenses.,"2019, 2017, 2018","2019, 2020, 2021"
+Economy_of_Assam,List all the years in which revenue was lower than expenses.,"2019, 2017, 2018","2020, 2021
+
+Explanation: In the provided timeline, the revenue was lower than expenses in the years 2020 and 2021, as indicated by the ""balance"" being a positive value. In 2020, the revenue was 92231 while expenses were 103000, and in 2021, the revenue was 92231 while expenses were 103000."

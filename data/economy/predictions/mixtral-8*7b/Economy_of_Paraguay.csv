@@ -1,0 +1,23 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Paraguay,Tell me the lowest expenses figures Paraguay achieved during the year when the timeline shows the highest inflation figures.,$5.651 billion,"""5.222 billion"" in 2018."
+Economy_of_Paraguay,Tell me the lowest revenue figures Paraguay achieved during the year when the timeline shows the highest debt figures.,$2.323 billion,"Revenue: $5.222 billion, Debt: 19.5% of GDP (in 2019)"
+Economy_of_Paraguay,During which years did Paraguay experience its highest debt?,"2011, 2010",2018-2019.
+Economy_of_Paraguay,In which years was the Paraguay's revenue the lowest?,"2011, 2010","2010-12-31T20:43:33Z, 2011-12-31T00:03:45Z, 2017-12-31T02:15:29Z"
+Economy_of_Paraguay,What was the percentage increase in Paraguay's expenses from 2011 to 2017?,131.2%,"140.91% increase. 
+
+The expenses for Paraguay in 2011 were $2.444 billion and in 2017, they were $5.651 billion. To find the percentage increase, we subtract the original value from the new value, divide the result by the absolute value of the original value, then multiply by 100.
+
+Percentage Increase = ((New Value - Original Value) / Absolute Value of Original Value) * 100
+= (($5.651 billion - $2.444 billion) / $2.444 billion) * 100
+= (($3.207 billion) / $2.444 billion) * 100
+= 1.3125 * 100
+= 140.91%"
+Economy_of_Paraguay,What was the percentage increase in Paraguay's revenue from 2010 to 2019?,137.8%,Revenue increased by 138.3%.
+Economy_of_Paraguay,"Did the debt increase, decrease, or remain the same from 2018 to 2019?",increased,The debt increased from 2018 to 2019.
+Economy_of_Paraguay,"Did the revenue increase, decrease, or remain the same from 2017 to 2018?",remained same,Remained the same.
+Economy_of_Paraguay,List all the years in which revenue was lower than expenses.,"2010, 2019, 2017, 2011, 2018","2010-12-31T20:43:33Z,
+ 2011-12-31T00:03:45Z,
+ 2017-12-31T02:15:29Z,
+ 2018-12-31T13:28:40Z,
+ 2019-12-31T03:01:57Z"
+Economy_of_Paraguay,List all the years in which revenue was higher than expenses.,"2010, 2019, 2017, 2011, 2018","2010-12-31T20:43:33Z, 2011-12-31T00:03:45Z"

@@ -1,0 +1,14 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Guatemala,Tell me the lowest inflation figures Guatemala achieved during the year when the timeline shows the lowest imports figures.,5.5% ,2.4% (in 2017)
+Economy_of_Guatemala,Tell me the highest imports figures Guatemala achieved during the year when the timeline shows the lowest exports figures.,US$ 140.7 billion,US$140.7 billion in 2010.
+Economy_of_Guatemala,In which years was the Guatemala's gdp the highest?,2017,2017.
+Economy_of_Guatemala,In which years was the Guatemala's debt the highest?,2011,"2011, 2014, 2017, and 2020."
+Economy_of_Guatemala,In which years was the Guatemala's exports the lowest?,2010,2010 and 2011.
+Economy_of_Guatemala,What was the percentage increase in Guatemala's poverty from 2011 to 2020?,104.5%,30.3% increase.
+Economy_of_Guatemala,What was the percentage increase in Guatemala's debt from 2010 to 2011?,10066229.6%,222.45%.
+Economy_of_Guatemala,What was the percentage decrease in Guatemala's inflation from 2014 to 2017?,40.0%, Guilarte's inflation decreased by 1.6%.
+Economy_of_Guatemala,"Did the per capita increase, decrease, or remain the same from 2010 to 2011?",increased,Decreased.
+Economy_of_Guatemala,"Did the debt increase, decrease, or remain the same from 2010 to 2011?",increased,Increased.
+Economy_of_Guatemala,"Did the gdp increase, decrease, or remain the same from 2010 to 2011?",decreased,Decreased.
+Economy_of_Guatemala,List all the years in which revenue was lower than expenses.,"2017, 2014, 2020","2014, 2017, 2020."
+Economy_of_Guatemala,List all the years in which revenue was higher than expenses.,"2017, 2014, 2020",None.

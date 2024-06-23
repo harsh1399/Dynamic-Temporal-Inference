@@ -1,0 +1,17 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Bhutan,Tell me the lowest inflation figures Bhutan achieved during the year when the timeline shows the lowest imports figures.,3.518% ,3.518% in 2020.
+Economy_of_Bhutan,What was Bhutan's highest exports during the year when its gdp was at its lowest?,$650.3 million,$650.3 million in 2017.
+Economy_of_Bhutan,During which years did Bhutan experience its lowest expenses?,"2013, 2007",2013 and 2007.
+Economy_of_Bhutan,In which years was the Bhutan's poverty the highest?,"2013, 2007",2007 and 2013.
+Economy_of_Bhutan,In which years was the Bhutan's expenses the highest?,"2019, 2020","2015, 2016, 2017, 2019, and 2020."
+Economy_of_Bhutan,What was the percentage increase in Bhutan's debt from 2007 to 2020?,30.6%,24.9% increase in debt.
+Economy_of_Bhutan,What was the percentage decrease in Bhutan's inflation from 2019 to 2020?,11.8%,3.469% decrease.
+Economy_of_Bhutan,What was the percentage decrease in Bhutan's poverty from 2013 to 2015?,62.1%,Poverty decreased by 19.7%.
+Economy_of_Bhutan,"Did the revenue increase, decrease, or remain the same from 2015 to 2016?",remained same,Increased.
+Economy_of_Bhutan,"Did the gdp increase, decrease, or remain the same from 2015 to 2016?",increased,Remained the same.
+Economy_of_Bhutan,List all the years in which imports were lower than exports.,"2019, 2020, 2013",2007 and 2013.
+Economy_of_Bhutan,List all the years in which imports were higher than exports.,"2019, 2020, 2013","Here are the years in which imports were higher than exports:
+
+2007, 2013, 2015, 2016, 2017, 2019, 2020"
+Economy_of_Bhutan,List all the years in which revenue was higher than expenses.,"2015, 2019, 2017, 2016, 2020, 2013, 2007",2019.
+Economy_of_Bhutan,List all the years in which revenue was lower than expenses.,"2015, 2019, 2017, 2016, 2020, 2013, 2007","The years are: 2007, 2013, 2015, 2016, and 2019."

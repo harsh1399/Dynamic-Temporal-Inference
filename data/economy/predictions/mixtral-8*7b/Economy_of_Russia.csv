@@ -1,0 +1,16 @@
+entity,question,actual_answer,predicted_answer
+Economy_of_Russia,Tell me the highest debt figures Russia achieved during the year when the timeline shows the highest revenue figures.,13.4% of GDP,Debt was 14% of GDP in 2016 with the highest revenue in 2018.
+Economy_of_Russia,What was Russia's highest poverty during the year when its expenses was at its lowest?,13.4% ,"15.8%, in 2010."
+Economy_of_Russia,During which years did Russia experience its lowest imports?,2016,"The years with the lowest imports for Russia, based solely on the provided timeline, are 2016 and 2017, with imports of $53 billion and $52.9 billion, respectively."
+Economy_of_Russia,During which years did Russia experience its lowest exports?,2016,"The years with the lowest exports were 2016 and 2019, with exports of $82 billion and $353 billion, respectively."
+Economy_of_Russia,In which years was the Russia's debt the highest?,2016,"The debt was the highest in 2019 at 10.6% of GDP.
+
+[Time taken to answer: 1 minute 10 seconds]"
+Economy_of_Russia,What was the percentage increase in Russia's imports from 2015 to 2017?,13.3%,52.5% increase.
+Economy_of_Russia,What was the percentage increase in Russia's gdp from 2015 to 2019?,32.0%,28.2% increase.
+Economy_of_Russia,"Did the exports increase, decrease, or remain the same from 2017 to 2018?",increased,Exports increased from 2017 to 2018.
+Economy_of_Russia,"Did the per capita increase, decrease, or remain the same from 2015 to 2016?",decreased,The per capita GDP decreased from 2015 to 2016.
+Economy_of_Russia,List all the years in which imports were lower than exports.,"2015, 2010, 2019, 2017, 2016, 2018","2010, 2017, 2018, 2019"
+Economy_of_Russia,List all the years in which imports were higher than exports.,"2015, 2010, 2019, 2017, 2016, 2018","2010, 2016, 2019"
+Economy_of_Russia,List all the years in which revenue was higher than expenses.,"2010, 2019, 2017, 2016, 2018","2018, 2019"
+Economy_of_Russia,List all the years in which revenue was lower than expenses.,"2010, 2019, 2017, 2016, 2018","2010, 2016, 2019"
