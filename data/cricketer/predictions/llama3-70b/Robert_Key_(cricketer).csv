@@ -1,0 +1,12 @@
+entity,question,actual_answer,predicted_answer
+Robert_Key_(cricketer),How many matches did Robert Key played in LA in 2009?,19,183.
+Robert_Key_(cricketer),How many matches did Robert Key played in FC in 2009?,26,198.
+Robert_Key_(cricketer),How many 100s did Robert Key score in LA from 2009 to 2016?,3,3
+Robert_Key_(cricketer),How many 100s did Robert Key score in FC from 2009 to 2016?,13,13.
+Robert_Key_(cricketer),How many 50s did Robert Key score in LA from 2009 to 2016?,5,5.
+Robert_Key_(cricketer),How many 50s did Robert Key score in FC from 2009 to 2016?,21,13
+Robert_Key_(cricketer),How many 50s did Robert Key score in LA from 2008 to 2016?,7,37.
+Robert_Key_(cricketer),How many 50s did Robert Key score in FC in 2009?,8,49.
+Robert_Key_(cricketer),How many 50s did Robert Key score in LA in 2009?,2,32
+Robert_Key_(cricketer),How many 100s did Robert Key score in FC in 2009?,4,37.
+Robert_Key_(cricketer),How many 100s did Robert Key score in LA in 2009?,1,5

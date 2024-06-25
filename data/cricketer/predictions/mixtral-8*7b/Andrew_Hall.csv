@@ -1,0 +1,17 @@
+entity,question,actual_answer,predicted_answer
+Andrew_Hall,How many wickets did Andrew Hall took in FC in 2009?,30,412 wickets
+Andrew_Hall,How many runs did Andrew Hall scored in FC in 2009?,422,5775 runs
+Andrew_Hall,How many 100s did Andrew Hall score in FC from 2009 to 2011?,2,8 100s in FC from 2009 to 2011.
+Andrew_Hall,How many 100s did Andrew Hall score in FC from 2008 to 2011?,3,Six hundreds (6/38) in FC from 2008 to 2011.
+Andrew_Hall,How many 100s did Andrew Hall score in FC from 2011 to 2017?,7,8 100s in FC from 2011 to 2017.
+Andrew_Hall,How many 50s did Andrew Hall score in FC from 2009 to 2014?,24,38 50s in FC (2009-2014).
+Andrew_Hall,How many 50s did Andrew Hall score in FC from 2011 to 2017?,20,46 50s in FC (2011-2017).
+Andrew_Hall,How many 50s did Andrew Hall score in FC from 2008 to 2014?,26,38 50s in FC (2008-2014).
+Andrew_Hall,How many 50s did Andrew Hall score in FC in 2009?,2,"6 fifties.
+
+Reference(s):
+timeline: {""2009-04-24T21:23:36Z"": {""FC"": {""matches"": ""138"", ""runs"": ""5775"", ""bat avg"": ""34.17"", ""100s/50s"": ""6/38"", ""top score"": ""163"", ""deliveries"": ""22450"", ""wickets"": ""412"", ""bowl avg"": ""25.83"", ""fivefor"": ""14"", ""tenfor"": ""1"", ""best bowling"": ""6/77"", ""catches/stumpings"": ""112/-""}, ""LA"": {""matches"": ""251"", ""runs"": ""4795"", ""bat avg"": ""29.78"", ""100s/50s"": ""5/26"", ""deliveries"": ""10232"", ""wickets"": ""289"", ""bowl avg"": ""26.87"", ""fivefor"": ""1"", ""tenfor"": ""0"", ""best bowling"": ""5/18"", ""catches/stumpings"": ""71/-""}, ""name"": ""Andrew Hall""}
+
+Explanation:
+The timeline entry for 2009-04-24T21:23:36Z contains the FC data for Andrew Hall up to that point. The ""100s/50s"" field indicates that Hall scored 6 centuries (100s) and 38 fifties (50s) in FC matches."
+Andrew_Hall,How many 100s did Andrew Hall score in FC in 2009?,1,6 100s in FC in 2009.

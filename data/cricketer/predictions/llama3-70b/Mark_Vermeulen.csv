@@ -1,0 +1,6 @@
+entity,question,actual_answer,predicted_answer
+Mark_Vermeulen,How many matches did Mark Vermeulen played in Test in 2014?,1,9
+Mark_Vermeulen,How many runs did Mark Vermeulen scored in Tests and ODIs combined in 2014?,35,449 (Test) + 868 (ODI) = 1307 runs.
+Mark_Vermeulen,How many runs did Mark Vermeulen scored in Test in 2014?,35,35 runs.
+Mark_Vermeulen,How many matches did Mark Vermeulen played in Tests and ODIs combined from 2009 to 2014?,1,51 matches.
+Mark_Vermeulen,How many runs did Mark Vermeulen scored in Tests and ODIs combined from 2009 to 2014?,35,"Mark Vermeulen scored 1,282 runs."

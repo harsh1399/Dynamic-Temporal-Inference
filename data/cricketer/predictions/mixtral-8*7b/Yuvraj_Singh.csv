@@ -1,0 +1,12 @@
+entity,question,actual_answer,predicted_answer
+Yuvraj_Singh,How many wickets did Yuvraj Singh took in Test in 2011?,1,9 wickets
+Yuvraj_Singh,How many matches did Yuvraj Singh played in Test in 2011?,2,4 matches in 2011.
+Yuvraj_Singh,How many 100s did Yuvraj Singh score in FC from 2008 to 2011?,2,16 centuries (100s) in FC from 2008 to 2011.
+Yuvraj_Singh,How many 50s did Yuvraj Singh score in FC from 2008 to 2011?,9,"50s scored in FC from 2008 to 2011: 22.
+
+Explanation:
+From the provided timeline, we can see the FC (First Class) statistics for Yuvraj Singh from November 14, 2008 to December 31, 2011. During this period, he scored 50s a total of 22 times. Specifically, he scored 18 centuries (100s) and 22 half-centuries (50s), with a top score of 209. Therefore, the answer is 22."
+Yuvraj_Singh,How many 50s did Yuvraj Singh score in FC from 2008 to 2010?,4,21 fifties in FC (2008-2010).
+Yuvraj_Singh,How many 50s did Yuvraj Singh score in Test in 2011?,2,9 50s in Test in 2011.
+Yuvraj_Singh,How many 50s did Yuvraj Singh score in FC in 2011?,5,20 50s in FC in 2011.
+Yuvraj_Singh,How many 100s did Yuvraj Singh score in FC in 2011?,2,2 100s in FC in 2011.

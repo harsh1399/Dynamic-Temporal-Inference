@@ -1,0 +1,16 @@
+entity,question,actual_answer,predicted_answer
+Mohammad_Yousuf_(cricketer),How many matches did Mohammad Yousuf played in LA in 2010?,2,317 matches.
+Mohammad_Yousuf_(cricketer),How many matches did Mohammad Yousuf played in Test in 2010?,4,87
+Mohammad_Yousuf_(cricketer),How many matches did Mohammad Yousuf played in Tests and ODIs combined from 2010 to 2012?,6,"2 Test matches, 6 ODI matches."
+Mohammad_Yousuf_(cricketer),How many matches did Mohammad Yousuf played in Tests and ODIs combined from 2010 to 2018?,6,No matches played in Tests and ODIs combined from 2010 to 2018.
+Mohammad_Yousuf_(cricketer),How many 100s did Mohammad Yousuf score in FC from 2008 to 2012?,1,2.
+Mohammad_Yousuf_(cricketer),How many 100s did Mohammad Yousuf score in FC from 2008 to 2018?,2,"From the tables, we can see that in 2008, Mohammad Yousuf had 27 hundreds in FC, and in 2018, he had 30 hundreds in FC. So, the increase in hundreds in FC from 2008 to 2018 is 30 - 27 = 3.
+
+Answer: 3"
+Mohammad_Yousuf_(cricketer),How many 100s did Mohammad Yousuf score in FC from 2009 to 2018?,1,2
+Mohammad_Yousuf_(cricketer),How many 50s did Mohammad Yousuf score in FC from 2008 to 2010?,5,49
+Mohammad_Yousuf_(cricketer),How many 50s did Mohammad Yousuf score in ODI from 2009 to 2012?,1,1
+Mohammad_Yousuf_(cricketer),How many 50s did Mohammad Yousuf score in LA in 2009?,1,67.
+Mohammad_Yousuf_(cricketer),How many 50s did Mohammad Yousuf score in Test in 2010?,1,32
+Mohammad_Yousuf_(cricketer),How many 50s did Mohammad Yousuf score in ODI in 2010?,1,64
+Mohammad_Yousuf_(cricketer),How many 100s did Mohammad Yousuf score in FC in 2009?,1,28

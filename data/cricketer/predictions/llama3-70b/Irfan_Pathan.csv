@@ -1,0 +1,8 @@
+entity,question,actual_answer,predicted_answer
+Irfan_Pathan,How many matches did Irfan Pathan played in FC in 2012?,5,Irfan Pathan played 87 FC matches in 2012.
+Irfan_Pathan,How many fivefor did Irfan Pathan took in FC in 2011?,1,14
+Irfan_Pathan,How many matches did Irfan Pathan played in Tests and ODIs combined in 2012?,13,"Irfan Pathan played 29 Test matches and 107 ODI matches in 2012. In total, he played 136 matches."
+Irfan_Pathan,How many wickets did Irfan Pathan took in Tests and ODIs combined from 2010 to 2015?,21,"From 2010 to 2015, Irfan Pathan took 0 wickets in Tests (no change in Test wickets) and 21 wickets in ODIs (152 - 131). Therefore, he took a total of 0 + 21 = 21 wickets in Tests and ODIs combined."
+Irfan_Pathan,How many matches did Irfan Pathan played in Tests and ODIs combined from 2008 to 2011?,2,"From 2008 to 2011, Irfan Pathan played 29 Test matches and 107 ODI matches. Therefore, the answer is 136."
+Irfan_Pathan,How many 50s did Irfan Pathan score in FC from 2008 to 2012?,4,Irfan Pathan scored 18 50s in FC from 2008 to 2012.
+Irfan_Pathan,How many 50s did Irfan Pathan score in FC from 2008 to 2015?,4,18.

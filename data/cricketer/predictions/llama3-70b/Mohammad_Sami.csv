@@ -1,0 +1,24 @@
+entity,question,actual_answer,predicted_answer
+Mohammad_Sami,How many wickets did Mohammad Sami took in FC in 2016?,96,558
+Mohammad_Sami,How many wickets did Mohammad Sami took in T20 in 2016?,87,"In 2016, Mohammad Sami took 101 wickets in T20."
+Mohammad_Sami,How many matches did Mohammad Sami played in Tests and ODIs combined from 2012 to 2016?,2,"According to the timeline, from 2012 to 2016, Mohammad Sami played:
+
+* Test matches: 36 (didn't change during this period)
+* ODI matches: 87 (increased from 83 to 87 during this period)
+
+So, in total, he played 36 + 87 = 123 matches in Tests and ODIs combined from 2012 to 2016."
+Mohammad_Sami,How many deliveries did Mohammad Sami bowled in Tests and ODIs combined from 2012 to 2015?,96,"From 2012 to 2015, Mohammad Sami bowled 
+
+7499 deliveries in Tests and 
+4188 deliveries in ODIs 
+
+So combined, he bowled 7499 + 4188 = 11687 deliveries in Tests and ODIs."
+Mohammad_Sami,How many matches did Mohammad Sami played in Tests and ODIs combined from 2012 to 2015?,2,"Based on the provided timeline, we can answer the question as follows:
+
+In Tests, Mohammad Sami played 36 matches from 2012 to 2015 (no change in the number of Test matches played during this period).
+
+In ODIs, Mohammad Sami played 85 matches as of 2012-06-08 and 87 matches as of 2015-01-09, so he played 2 additional ODI matches between 2012 and 2015.
+
+In total, Mohammad Sami played 36 (Tests) + 87 (ODIs) = 123 matches in Tests and ODIs combined as of 2015-01-09."
+Mohammad_Sami,How many 50s did Mohammad Sami score in FC from 2012 to 2016?,3,2
+Mohammad_Sami,How many 50s did Mohammad Sami score in FC in 2016?,3,5

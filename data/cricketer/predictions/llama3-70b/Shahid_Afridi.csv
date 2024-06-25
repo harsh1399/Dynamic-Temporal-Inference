@@ -1,0 +1,16 @@
+entity,question,actual_answer,predicted_answer
+Shahid_Afridi,How many wickets did Shahid Afridi took in ODI in 2009?,4,243
+Shahid_Afridi,How many wickets did Shahid Afridi took in ODI in 2010?,32,36 wickets.
+Shahid_Afridi,How many matches did Shahid Afridi played in Tests and ODIs combined in 2010?,22,"288 Test matches, 293 ODI matches in 2010."
+Shahid_Afridi,How many wickets did Shahid Afridi took in Tests and ODIs combined from 2008 to 2010?,36,"Based on the provided entity timeline, here is the answer to the question:
+
+Shahid Afridi took a total of 47 wickets in Tests and 275 wickets in ODIs between 2008 and 2010. Therefore, the combined total of wickets taken in Tests and ODIs is:
+
+47 (Test wickets) + 275 (ODI wickets) = 322 wickets"
+Shahid_Afridi,How many matches did Shahid Afridi played in Tests and ODIs combined from 2008 to 2010?,28,299 Test and ODI matches.
+Shahid_Afridi,How many fivefor did Shahid Afridi took in Tests and ODIs combined from 2008 to 2010?,1,4
+Shahid_Afridi,How many 50s did Shahid Afridi score in ODI from 2008 to 2010?,1,29
+Shahid_Afridi,How many 50s did Shahid Afridi score in Tests and ODIs combined from 2008 to 2010?,1,8 in Tests and 29 in ODIs.
+Shahid_Afridi,How many 50s did Shahid Afridi score in Tests and ODIs combined in 2010?,1,6
+Shahid_Afridi,How many 50s did Shahid Afridi score in ODI in 2010?,1,0
+Shahid_Afridi,How many 50s did Shahid Afridi score in LA in 2010?,3,49.

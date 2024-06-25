@@ -1,0 +1,32 @@
+entity,question,actual_answer,predicted_answer
+Ajit_Agarkar,How many matches did Ajit Agarkar played in FC in 2011?,24,102 matches
+Ajit_Agarkar,How many fivefor did Ajit Agarkar took in FC in 2011?,2,Two five-fors in FC in 2011.
+Ajit_Agarkar,How many wickets did Ajit Agarkar took in FC in 2011?,49,282 wickets in FC in 2011.
+Ajit_Agarkar,How many 100s did Ajit Agarkar score in FC from 2008 to 2011?,1,3 centuries in FC from 2008 to 2011.
+Ajit_Agarkar,How many 100s did Ajit Agarkar score in FC from 2010 to 2013?,1,"One hundred scored in FC from 2010 to 2013.
+
+Here's the reasoning:
+
+* The timeline includes information about Ajit Agarkar's FC career from December 31, 2010, 03:20:05Z to December 31, 2013, 06:43:25Z.
+* During this period, Ajit Agarkar played a total of 31 matches in the FC category.
+* In these matches, he scored a total of 3104 runs with a batting average of 28.21.
+* However, the number of centuries (100s) he scored during this period is not explicitly stated.
+* Based on the information provided, we can only conclude that he scored at least one century since the timeline mentions that he had a total of 3 centuries in his entire FC career."
+Ajit_Agarkar,How many 50s did Ajit Agarkar score in FC from 2010 to 2013?,5,"50s in FC from 2010 to 2013: 7
+
+Explanation:
+In the provided timeline, we can find the FC (First Class) data for Ajit Agarkar at the following points in time:
+- ""2010-12-31T03:20:05Z"": ""50s"" in FC is not explicitly given, but can be calculated as ""100s/2"" = 2/2 = 1.
+- ""2011-12-31T17:13:57Z"": ""50s"" in FC increased to 3 (from 1), as ""100s/2"" = 3/2 = 1.5, rounded up.
+- ""2013-12-31T06:43:25Z"": ""50s"" in FC further increased to 4 (from 3), as ""100s/2"" = 3/2 = 1.5, rounded up.
+- ""2022-12-31T20:37:01Z"": No change in FC data compared to ""2013-12-31T06:43:25Z"".
+
+Therefore, the answer is 7 (1+1.5+1.5+3) for the period from 2010 to 2013 (inclusive)."
+Ajit_Agarkar,How many 50s did Ajit Agarkar score in FC from 2008 to 2011?,5,"50s in FC from 2008 to 2011: 8
+
+Explanation: In the FC (First-Class) section of the timeline, the number of 50s scored by Ajit Agarkar from 2008 to 2011 can be found. Specifically, on December 31, 2011, the FC section shows that Agarkar scored 3/15 50s in 102 matches. This means that he scored a total of 8 fifties in FC cricket during the specified time period."
+Ajit_Agarkar,How many 50s did Ajit Agarkar score in FC in 2011?,5,3 fifties in FC in 2011.
+Ajit_Agarkar,How many 100s did Ajit Agarkar score in FC in 2011?,1,"3 hundreds in FC in 2011.
+
+Explanation:
+According to the provided timeline, in the entry for ""2011-12-31T17:13:57Z"", the value for ""100s"" under the ""FC"" category is 3, indicating that Ajit Agarkar scored 3 centuries in first-class (FC) cricket in the year 2011."

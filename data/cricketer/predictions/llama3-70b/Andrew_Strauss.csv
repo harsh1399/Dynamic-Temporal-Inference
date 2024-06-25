@@ -1,0 +1,49 @@
+entity,question,actual_answer,predicted_answer
+Andrew_Strauss,How many matches did Andrew Strauss played in FC in 2012?,23,"In 2012, Andrew Strauss played in 241 FC matches."
+Andrew_Strauss,How many matches did Andrew Strauss played in Tests and ODIs combined in 2012?,11,"In 2012, Andrew Strauss played a total of 7 Test matches and 0 ODI matches."
+Andrew_Strauss,How many matches did Andrew Strauss played in Tests and ODIs combined in 2011?,25,"According to the provided timeline, in 2011, Andrew Strauss played:
+
+* In Tests: 82 matches (as of 2011-02-02) and 85 matches (as of 2011-08-03), so he played 3 new Test matches in 2011.
+* In ODIs: 118 matches (as of 2011-02-02) and 127 matches (as of 2011-08-03), so he played 9 new ODI matches in 2011.
+
+In total, Andrew Strauss played 3 (Tests) + 9 (ODIs) = 12 new matches in 2011.
+
+To find the total number of matches played in Tests and ODIs combined in 2011, add the number of matches played in Tests and ODIs as of 2011-02-02: 
+
+82 (Tests) + 118 (ODIs) = 200 matches
+
+Now, add the new matches played in 2011:
+
+200 + 12 = 212 matches"
+Andrew_Strauss,How many matches did Andrew Strauss played in Tests and ODIs combined from 2009 to 2012?,59,"From 2009 to 2012, Andrew Strauss played a total of 94 Test matches and 127 ODI matches, which adds up to 221 matches."
+Andrew_Strauss,How many matches did Andrew Strauss played in Tests and ODIs combined from 2010 to 2012?,36,"To answer this question, we need to extract the number of Test and ODI matches played by Andrew Strauss from 2010 to 2012.
+
+From the timeline, we can see that:
+
+* As of 2010-01-08T00:59:06Z, Andrew Strauss had played 70 Test matches and 99 ODI matches. (Total: 169)
+* As of 2012-05-20T11:57:48Z, Andrew Strauss had played 94 Test matches and 127 ODI matches. (Total: 221)
+
+To find the number of matches played from 2010 to 2012, we subtract the initial total from the final total: 221 - 169 = 52
+
+Therefore, Andrew Strauss played 52 Test and ODI matches combined from 2010 to 2012."
+Andrew_Strauss,How many matches did Andrew Strauss played in Tests and ODIs combined from 2009 to 2011?,48,"From 2009 to 2011, Andrew Strauss played 77 Test matches (67 in 2009, 70 in 2010, and 82 in 2011) and 112 ODI matches (91 in 2009, 99 in 2010, and 118 in 2011). 
+
+So, the combined total is 77 + 112 = 189 matches."
+Andrew_Strauss,How many 100s did Andrew Strauss score in FC from 2009 to 2011?,6,7
+Andrew_Strauss,How many 100s did Andrew Strauss score in ODI from 2009 to 2012?,3,"From 2009 to 2012, Andrew Strauss scored 3 ODI 100s."
+Andrew_Strauss,How many 50s did Andrew Strauss score in ODI from 2010 to 2012?,3,5
+Andrew_Strauss,How many 50s did Andrew Strauss score in Test from 2010 to 2012?,6,4
+Andrew_Strauss,How many 50s did Andrew Strauss score in FC from 2009 to 2011?,12,"From 2009 to 2011, Andrew Strauss scored 17 50s in FC."
+Andrew_Strauss,How many 50s did Andrew Strauss score in Tests and ODIs combined in 2012?,2,"Based on the provided timeline, let's analyze Andrew Strauss's performance in 2012:
+
+In Tests:
+From ""2012-01-31T01:42:28Z"" to ""2012-12-31T11:08:50Z"", Strauss scored 2 50s.
+
+In ODIs:
+There is no update in the ODI statistics for Andrew Strauss in 2012.
+
+Therefore, Andrew Strauss scored a total of 2 50s in Tests and ODIs combined in 2012."
+Andrew_Strauss,How many 50s did Andrew Strauss score in Test in 2012?,2,0
+Andrew_Strauss,How many 100s did Andrew Strauss score in LA in 2010?,2,7
+Andrew_Strauss,How many 100s did Andrew Strauss score in Tests and ODIs combined in 2011?,1,"According to the timeline, in 2011, Andrew Strauss scored 2 100s in Tests and 1 100 in ODIs. So, the total number of 100s in Tests and ODIs combined is 3."
+Andrew_Strauss,How many 100s did Andrew Strauss score in Test in 2010?,1,"Based on the provided timeline, Andrew Strauss scored 1 hundred in Test matches in 2010."

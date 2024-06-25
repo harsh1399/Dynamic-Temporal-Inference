@@ -1,0 +1,36 @@
+entity,question,actual_answer,predicted_answer
+Tatenda_Taibu,How many matches did Tatenda Taibu played in LA in 2012?,12,228
+Tatenda_Taibu,How many matches did Tatenda Taibu played in FC in 2012?,4,113 matches.
+Tatenda_Taibu,How many matches did Tatenda Taibu played in Tests and ODIs combined in 2010?,8,113 ODI + 24 Test matches = 137 matches.
+Tatenda_Taibu,How many matches did Tatenda Taibu played in Tests and ODIs combined from 2009 to 2011?,24,136 matches.
+Tatenda_Taibu,How many matches did Tatenda Taibu played in Tests and ODIs combined from 2011 to 2017?,18,"From 2011 to 2017, Tatenda Taibu played 3 Test matches and 13 ODI matches."
+Tatenda_Taibu,How many matches did Tatenda Taibu played in Tests and ODIs combined from 2009 to 2012?,38,"To answer this question, we need to extract the number of Test and ODI matches played by Tatenda Taibu from 2009 to 2012.
+
+From the timeline, we can see the following data points:
+
+* 2009-10-31T10:50:30Z: Test matches = 24, ODI matches = 110
+* 2010-03-05T01:13:03Z: Test matches = 24, ODI matches = 113
+* 2010-12-31T00:33:47Z: Test matches = 24, ODI matches = 120
+* 2011-12-31T14:10:38Z: Test matches = 24, ODI matches = 136
+* 2012-12-31T20:52:49Z: Test matches = 27, ODI matches = 147
+
+To find the total number of matches played from 2009 to 2012, we can subtract the number of matches played in 2009 from the number of matches played in 2012:
+
+Test matches: 27 (2012) - 24 (2009) = 3
+ODI matches: 147 (2012) - 110 (2009) = 37
+
+Adding these together, we get:
+
+3 (Test matches) + 37 (ODI matches) = 40
+
+Therefore, Tatenda Taibu played a total of 40 Test and ODI matches combined from 2009 to 2012."
+Tatenda_Taibu,How many 100s did Tatenda Taibu score in FC from 2009 to 2017?,1,3
+Tatenda_Taibu,How many 100s did Tatenda Taibu score in LA from 2008 to 2017?,2,5
+Tatenda_Taibu,How many 50s did Tatenda Taibu score in LA from 2009 to 2017?,13,Tatenda Taibu scored 35 fifties in List A cricket from 2009 to 2017.
+Tatenda_Taibu,How many 50s did Tatenda Taibu score in Test from 2010 to 2017?,3,0
+Tatenda_Taibu,How many 50s did Tatenda Taibu score in Tests and ODIs combined from 2012 to 2017?,1,12
+Tatenda_Taibu,How many 50s did Tatenda Taibu score in LA in 2011?,6,"Based on the timeline, in 2011, Tatenda Taibu had 25 fifties in LA."
+Tatenda_Taibu,How many 50s did Tatenda Taibu score in Tests and ODIs combined in 2012?,6,12 50s.
+Tatenda_Taibu,How many 50s did Tatenda Taibu score in LA in 2012?,3,31
+Tatenda_Taibu,How many 100s did Tatenda Taibu score in ODI in 2009?,1,1
+Tatenda_Taibu,How many 100s did Tatenda Taibu score in LA in 2012?,1,4

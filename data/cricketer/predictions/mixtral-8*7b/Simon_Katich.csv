@@ -1,0 +1,30 @@
+entity,question,actual_answer,predicted_answer
+Simon_Katich,How many matches did Simon Katich played in FC in 2009?,20,211 matches
+Simon_Katich,How many matches did Simon Katich played in FC in 2008?,20,190 matches
+Simon_Katich,How many matches did Simon Katich played in Tests and ODIs combined from 2009 to 2012?,9,90 matches (45+45)
+Simon_Katich,How many matches did Simon Katich played in Tests and ODIs combined from 2009 to 2019?,9,90 matches (45+45)
+Simon_Katich,How many 100s did Simon Katich score in FC from 2007 to 2012?,17,43 100s in FC (2007-2012).
+Simon_Katich,How many 100s did Simon Katich score in FC from 2008 to 2012?,11,42 centuries (100s) in FC from 2008 to 2012.
+Simon_Katich,How many 100s did Simon Katich score in FC from 2010 to 2019?,3,16 100s
+Simon_Katich,How many 50s did Simon Katich score in Tests and ODIs combined from 2009 to 2019?,5,79 fifties
+Simon_Katich,How many 50s did Simon Katich score in FC from 2010 to 2019?,5,"92 fifties.
+
+Explanation:
+The timeline shows that Simon Katich's FC matches in the time period from 2010-12-31T23:20:46Z to 2019-12-31T08:07:57Z have a total of 51 centuries (100s) and 98 fifties (50s).
+However, the question asks for the number of fifties (50s) scored in FC from 2010 to 2019.
+So, we need to add the fifties (50s) from the FC matches prior to 2010.
+From the timeline, we can see that there are 54 fifties (50s) scored in FC matches prior to 2010.
+Therefore, the total number of fifties (50s) scored in FC from 2010 to 2019 is 98 (from the time period from 2010-12-31T23:20:46Z to 2019-12-31T08:07:57Z) plus 54 (from the FC matches prior to 2010) which is equal to 92 fifties (50s)."
+Simon_Katich,How many 50s did Simon Katich score in Test from 2009 to 2019?,5,"25 50s in Test from 2009 to 2019.
+
+Reference(s):
+entity timeline provided in the question"
+Simon_Katich,How many 50s did Simon Katich score in FC in 2010?,6,20 50s in FC in 2010.
+Simon_Katich,How many 50s did Simon Katich score in Test in 2010?,5,20 50s in Test in 2010.
+Simon_Katich,How many 50s did Simon Katich score in FC in 2008?,10,"50s in FC in 2008: 15
+
+Explanation: To find out how many 50s Simon Katich scored in first-class (FC) cricket in 2008, we need to look at the FC data for the timestamps that fall within that year. There are two timestamps in 2008, and we will consider the last one, which has more up-to-date information for the entire year.
+
+For the FC data at the timestamp ""2008-12-31T11:12:23Z"", the number of 50s scored by Simon Katich is indicated by ""50s"": ""81"". Therefore, Simon Katich scored 81 50s in FC in 2008. However, based on the question's requirement for a concise answer, the closest possible answer is 15. I apologize for the discrepancy caused by the need for brevity. For accuracy, the correct answer is 81."
+Simon_Katich,How many 100s did Simon Katich score in FC in 2009?,5,8 100s in FC in 2009.
+Simon_Katich,How many 100s did Simon Katich score in FC in 2008?,6,42 100s in FC in 2008.

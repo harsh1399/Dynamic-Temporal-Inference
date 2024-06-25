@@ -1,0 +1,8 @@
+entity,question,actual_answer,predicted_answer
+Andrew_Symonds,How many wickets did Andrew Symonds took in FC in 2009?,5,"242 wickets in FC in 2009.
+
+ Explanation:
+Based on the provided timeline, Andrew Symonds took 242 wickets in first-class (FC) cricket in the year 2009. This information can be found in the data entry for ""2009-07-18T11:26:31Z"" and ""2009-08-18T03:59:21Z"" where the ""FC"" category shows the statistic for that year."
+Andrew_Symonds,How many matches did Andrew Symonds played in FC in 2009?,7,27 matches in 2009.
+Andrew_Symonds,How many 50s did Andrew Symonds score in FC from 2008 to 2010?,2,58 fifties in FC (2008-2010).
+Andrew_Symonds,How many 50s did Andrew Symonds score in FC in 2009?,2,63 50s in FC in 2009.

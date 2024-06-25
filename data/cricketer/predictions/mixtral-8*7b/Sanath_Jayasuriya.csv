@@ -1,0 +1,50 @@
+entity,question,actual_answer,predicted_answer
+Sanath_Jayasuriya,How many matches did Sanath Jayasuriya played in Tests and ODIs combined in 2009?,20,"559 matches (Test: 110, ODI: 441) in 2009."
+Sanath_Jayasuriya,How many fivefor did Sanath Jayasuriya took in ODI in 2010?,21,"25 five-wicket hauls.
+
+Reference(s):
+2010-12-31T10:38:04Z: {""Test"": {""fivefor"": ""39""}, ""ODI"": {""fivefor"": ""25""}, ""name"": ""Sanath Jayasuriya""}"
+Sanath_Jayasuriya,How many matches did Sanath Jayasuriya played in ODI in 2009?,20,440 matches
+Sanath_Jayasuriya,How many fivefor did Sanath Jayasuriya took in Tests and ODIs combined from 2008 to 2010?,58,"31 five-fors (2 in Tests, 25 in ODIs, and 4 not specified)"
+Sanath_Jayasuriya,How many wickets did Sanath Jayasuriya took in Tests and ODIs combined from 2008 to 2010?,616,"418 wickets (Test: 98, ODI: 320)"
+Sanath_Jayasuriya,How many 100s did Sanath Jayasuriya score in ODI from 2008 to 2010?,21,"48 centuries.
+
+The timeline provided contains the ODI statistics for Sanath Jayasuriya as of several dates from 2008 to 2010. According to the data, Jayasuriya scored a total of 48 centuries (100s) in ODI matches during this time period."
+Sanath_Jayasuriya,How many 100s did Sanath Jayasuriya score in Tests and ODIs combined from 2008 to 2010?,41,"82 hundreds (44 in ODIs, 38 in Tests)"
+Sanath_Jayasuriya,How many 50s did Sanath Jayasuriya score in Tests and ODIs combined from 2008 to 2010?,52,"89 fifties (50s) in Tests and ODIs combined.
+
+Explanation:
+From the timeline provided, we can see the statistical summary of Sanath Jayasuriya's Test and ODI career at different points in time. Focusing on the time frame of 2008 to 2010, we need to add up the number of 50s he scored in both formats.
+
+In Test matches from Dec 31, 2008, to Dec 31, 2010, Jayasuriya scored 31 fifties (100s/50s = 14/31).
+
+In ODI matches from Dec 31, 2008, to Dec 31, 2010, Jayasuriya scored 58 fifties (100s/50s = 28/68).
+
+Therefore, Sanath Jayasuriya scored a total of 89 fifties (50s) in Tests and ODIs combined from 2008 to 2010.
+```yaml
+
+Test 50s from 2008-2010: 31 (100s/50s = 14/31)
+ODI 50s from 2008-2010: 58 (100s/50s = 28/68)
+Total 50s from 2008-2010: 89 fifties (50s)
+```"
+Sanath_Jayasuriya,How many 50s did Sanath Jayasuriya score in ODI from 2008 to 2010?,32,"50s in ODI (2008-2010): 68.
+
+(The timeline shows that from Dec 31, 2008 to Dec 31, 2010, Sanath Jayasuriya scored 68 fifties in ODI matches.)"
+Sanath_Jayasuriya,How many 50s did Sanath Jayasuriya score in Tests and ODIs combined in 2010?,50,"14 50s (11 in Tests, 3 in ODIs)"
+Sanath_Jayasuriya,How many 50s did Sanath Jayasuriya score in Test in 2010?,20,"51 50s in Tests in 2010.
+
+Explanation:
+The timeline entry for ""2010-12-31T10:38:04Z"" shows that Sanath Jayasuriya had scored ""51"" 50s in Test cricket by the end of 2010. This information can be found in the ""100s/50s"" field under the ""Test"" category, which lists ""34/51"". This means that Jayasuriya had scored 34 centuries and 51 fifties in Test cricket at that point in time."
+Sanath_Jayasuriya,How many 50s did Sanath Jayasuriya score in ODI in 2010?,30,"98 50s in ODI in 2010.
+
+The timeline provided does not have data for Sanath Jayasuriya's ODI performance in 2010 except for his career totals up to December 31, 2009. Therefore, based on the information presented, we cannot provide the exact number of 50s that Sanath Jayasuriya scored in ODI in 2010. However, according to the career totals provided, he had scored a total of 98 50s in ODI up to December 31, 2009."
+Sanath_Jayasuriya,How many 100s did Sanath Jayasuriya score in ODI in 2009?,1,28 hundreds in ODI in 2009.
+Sanath_Jayasuriya,How many 100s did Sanath Jayasuriya score in FC in 2010?,36,"10 hundreds in FC for Sanath Jayasuriya in 2010.
+
+Explanation:
+According to the data provided in the timeline, on December 31, 2010, Sanath Jayasuriya had scored a total of 10,973 runs in Test matches, 18,877 runs in ODI matches, and 21,282 runs in First-Class (FC) matches. In FC, he had scored a total of 65 centuries (100s), with a batting average of 55.4. However, the data does not specify the number of centuries scored by Sanath Jayasuriya in FC matches during 2010 specifically.
+
+Based solely on the information presented in the timeline, it is not possible to accurately determine the number of 100s that Sanath Jayasuriya scored in FC during 2010.
+
+Note: FC refers to First-Class matches in cricket."
+Sanath_Jayasuriya,How many 100s did Sanath Jayasuriya score in Tests and ODIs combined in 2009?,1,28 100s (14+14) in Tests and ODIs combined in 2009.

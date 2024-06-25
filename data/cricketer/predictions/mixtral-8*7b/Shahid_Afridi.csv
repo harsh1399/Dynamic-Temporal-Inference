@@ -1,0 +1,20 @@
+entity,question,actual_answer,predicted_answer
+Shahid_Afridi,How many wickets did Shahid Afridi took in ODI in 2009?,4,239 wickets
+Shahid_Afridi,How many wickets did Shahid Afridi took in ODI in 2010?,32,275 wickets
+Shahid_Afridi,How many matches did Shahid Afridi played in Tests and ODIs combined in 2010?,22,293 (Tests) + 288 (ODIs) = 581 matches
+Shahid_Afridi,How many wickets did Shahid Afridi took in Tests and ODIs combined from 2008 to 2010?,36,"326 wickets (Test: 47, ODI: 279)"
+Shahid_Afridi,How many matches did Shahid Afridi played in Tests and ODIs combined from 2008 to 2010?,28,558 matches
+Shahid_Afridi,How many fivefor did Shahid Afridi took in Tests and ODIs combined from 2008 to 2010?,1,"Three (3) five-wicket hauls.
+
+Explanation:
+
+The timeline provided contains four entries for Shahid Afridi in the years 2008-2010. For Test matches, Afridi took one five-wicket haul, and for ODI matches, he took two five-wicket hauls. Therefore, the total number of five-wicket hauls taken by Shahid Afridi in Tests and ODIs combined from 2008 to 2010 is three (3)."
+Shahid_Afridi,How many 50s did Shahid Afridi score in ODI from 2008 to 2010?,1,29 50s in ODI (2008-2010).
+Shahid_Afridi,How many 50s did Shahid Afridi score in Tests and ODIs combined from 2008 to 2010?,1,"21 fifties (13 in Tests, 8 in ODIs)"
+Shahid_Afridi,How many 50s did Shahid Afridi score in Tests and ODIs combined in 2010?,1,"Eight 50s (5 in Tests, 3 in ODIs)."
+Shahid_Afridi,How many 50s did Shahid Afridi score in ODI in 2010?,1,8 fifties in ODI in 2010.
+Shahid_Afridi,How many 50s did Shahid Afridi score in LA in 2010?,3,"Eight 50s in LA in 2010.
+
+Explanation:
+
+In the provided timeline, the information for Shahid Afridi in LA (List A) on December 31, 2010, shows that he played 381 matches, scored 8,549 runs, had a batting average of 25.23, scored 6 centuries (100s) and 49 half-centuries (50s). Therefore, Shahid Afridi scored 8 50s in LA in 2010."

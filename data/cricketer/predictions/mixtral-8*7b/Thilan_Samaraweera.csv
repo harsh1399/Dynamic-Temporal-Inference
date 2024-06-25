@@ -1,0 +1,25 @@
+entity,question,actual_answer,predicted_answer
+Thilan_Samaraweera,How many wickets did Thilan Samaraweera took in FC in 2011?,1,"348 wickets.
+
+Explanation:
+According to the provided timeline, the FC data for Thilan Samaraweera on ""2011-12-31T10:35:54Z"" shows that he took 348 wickets in FC cricket in the year 2011."
+Thilan_Samaraweera,How many wickets did Thilan Samaraweera took in Test in 2012?,1,15 wickets
+Thilan_Samaraweera,How many matches did Thilan Samaraweera played in Test in 2012?,17,14 Test matches in 2012.
+Thilan_Samaraweera,How many 100s did Thilan Samaraweera score in FC from 2008 to 2013?,20,35 100s in FC from 2008 to 2013.
+Thilan_Samaraweera,How many 100s did Thilan Samaraweera score in Test from 2011 to 2013?,2,14 centuries (100s) in Test from 2011 to 2013.
+Thilan_Samaraweera,How many 50s did Thilan Samaraweera score in FC from 2008 to 2010?,6,52 50s in FC from 2008 to 2010.
+Thilan_Samaraweera,How many 50s did Thilan Samaraweera score in FC from 2011 to 2013?,13,58 50s in FC from 2011 to 2013.
+Thilan_Samaraweera,How many 50s did Thilan Samaraweera score in Test from 2011 to 2013?,5,25 fifties in Test from 2011 to 2013.
+Thilan_Samaraweera,How many 50s did Thilan Samaraweera score in FC in 2013?,10,13 fiftys in FC in 2013.
+Thilan_Samaraweera,How many 50s did Thilan Samaraweera score in FC in 2011?,4,25 50s in FC in 2011.
+Thilan_Samaraweera,How many 50s did Thilan Samaraweera score in Test in 2011?,4,"25 fifties.
+
+The timeline shows that Thilan Samaraweera scored 25 fifties in Test matches in the year 2011. This can be determined by comparing the ""matches"" field of the ""Test"" category under the timestamps ""2011-12-31T10:35:54Z"" and ""2012-01-07T00:01:54Z"". Both timestamps show that Samaraweera played 63 Test matches, and his ""100s/50s"" field shows ""12/25"", indicating that he scored 25 fifties (50s) in Test matches in 2011."
+Thilan_Samaraweera,How many 100s did Thilan Samaraweera score in FC in 2013?,7,"75 100s in FC in 2013.
+
+Explanation:
+In the provided timeline, the FC data for Thilan Samaraweera on ""2013-12-31T12:28:55Z"" indicates that he played 267 first-class (FC) matches and scored 42 centuries (100s) by the end of 2013.
+
+Therefore, Thilan Samaraweera scored 42 100s in FC by the end of 2013."
+Thilan_Samaraweera,How many 100s did Thilan Samaraweera score in Test in 2012?,2,2 100s in Test in 2012.
+Thilan_Samaraweera,How many 100s did Thilan Samaraweera score in Test in 2011?,1,2 hundreds (100s) in Test in 2011.

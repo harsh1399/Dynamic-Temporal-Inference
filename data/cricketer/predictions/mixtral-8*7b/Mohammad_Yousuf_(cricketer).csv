@@ -1,0 +1,41 @@
+entity,question,actual_answer,predicted_answer
+Mohammad_Yousuf_(cricketer),How many matches did Mohammad Yousuf played in LA in 2010?,2,319 matches
+Mohammad_Yousuf_(cricketer),How many matches did Mohammad Yousuf played in Test in 2010?,4,14 matches
+Mohammad_Yousuf_(cricketer),How many matches did Mohammad Yousuf played in Tests and ODIs combined from 2010 to 2012?,6,"170 matches (Test: 10, ODI: 160)"
+Mohammad_Yousuf_(cricketer),How many matches did Mohammad Yousuf played in Tests and ODIs combined from 2010 to 2018?,6,"570 matches (Test: 90, ODI: 480)"
+Mohammad_Yousuf_(cricketer),How many 100s did Mohammad Yousuf score in FC from 2008 to 2012?,1,"29 centuries.
+
+Explanation:
+From the timeline, we can see that Mohammad Yousuf played a total of 134 first-class (FC) matches from 2008 to 2012. During this period, he scored a total of 29 centuries (100s) in FC matches.
+
+Source:
+The information is derived solely from the provided timeline, specifically the FC data from 2008-01-31T06:33:26Z to 2012-12-31T03:41:32Z:
+
+* 2008-01-31T06:33:26Z: 27 centuries
+* 2009-07-23T17:12:45Z: 28 centuries
+* 2009-12-15T12:19:37Z: 29 centuries
+* 2010-01-06T08:50:07Z: 29 centuries
+* 2010-06-24T08:20:01Z: 29 centuries
+* 2010-12-31T18:22:54Z: 29 centuries
+* 2012-12-31T03:41:32Z: 29 centuries
+
+Therefore, the answer is 29 centuries."
+Mohammad_Yousuf_(cricketer),How many 100s did Mohammad Yousuf score in FC from 2008 to 2018?,2,29 centuries (100s) in FC for Mohammad Yousuf from 2008 to 2018.
+Mohammad_Yousuf_(cricketer),How many 100s did Mohammad Yousuf score in FC from 2009 to 2018?,1,30 100s in FC from 2009 to 2018.
+Mohammad_Yousuf_(cricketer),How many 50s did Mohammad Yousuf score in FC from 2008 to 2010?,5,44 50s in FC from 2008 to 2010.
+Mohammad_Yousuf_(cricketer),How many 50s did Mohammad Yousuf score in ODI from 2009 to 2012?,1,50 fifties (50s) in ODI from 2009 to 2012.
+Mohammad_Yousuf_(cricketer),How many 50s did Mohammad Yousuf score in LA in 2009?,1,"45 50s in LA in 2009.
+
+Explanation:
+According to the provided timeline, Mohammad Yousuf played LA matches from 2008-01-31 to 2012-12-31, and then from 2018-02-11 to 2018-12-31. However, the specific dates in 2009 are not provided. Therefore, I assumed that the ""LA"" data for 2009 should be the same as the closest available data, which is from 2008-12-31 to 2009-07-23, and from 2009-12-15 to 2009-12-31. By adding up the ""50s"" from these two periods, we get a total of 45 50s.
+
+Note: The ""LA"" abbreviation is not clear from the provided timeline, but based on the context, I assumed it stands for ""List A"" cricket matches."
+Mohammad_Yousuf_(cricketer),How many 50s did Mohammad Yousuf score in Test in 2010?,1,"32 50s.
+
+Explanation:
+According to the provided timeline, Mohammad Yousuf played 87 Test matches before the end of 2009 and scored 24 centuries and 32 fifties. There are no updates of his Test cricket performance in 2010, so we have to assume that his records for the format didn't change in 2010. Thus, Mohammad Yousuf scored 32 50s in Test cricket in 2010."
+Mohammad_Yousuf_(cricketer),How many 50s did Mohammad Yousuf score in ODI in 2010?,1,64 50s
+Mohammad_Yousuf_(cricketer),How many 100s did Mohammad Yousuf score in FC in 2009?,1,"28 100s in FC in 2009.
+
+Reference(s):
+- ""2009-12-31T10:36:01Z"": {""FC"": {""matches"": ""122"", ""runs"": ""9,354"", ""bat avg"": ""51.39"", ""100s/50s"": ""28/44"", ...}"

@@ -1,0 +1,11 @@
+entity,question,actual_answer,predicted_answer
+Brad_Hogg,How many matches did Brad Hogg played in FC in 2008?,3,98
+Brad_Hogg,How many wickets did Brad Hogg took in LA in 2008?,8,248.
+Brad_Hogg,How many matches did Brad Hogg played in LA in 2008?,5,225 and 223 matches.
+Brad_Hogg,How many runs did Brad Hogg scored in Tests and ODIs combined from 2013 to 2015?,824,"From 2013 to 2015, Brad Hogg scored 186 runs in Tests and 1614 - 790 = 824 runs in ODIs, for a total of 186 + 824 = 1010 runs in Tests and ODIs combined. 
+
+Answer: 1010"
+Brad_Hogg,How many runs did Brad Hogg scored in Tests and ODIs combined from 2013 to 2016?,824,790 + 1614 = 2404
+Brad_Hogg,How many 50s did Brad Hogg score in FC from 2007 to 2016?,1,27
+Brad_Hogg,How many 50s did Brad Hogg score in FC from 2007 to 2013?,1,27.
+Brad_Hogg,How many 50s did Brad Hogg score in FC in 2008?,1,27.

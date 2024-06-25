@@ -1,0 +1,99 @@
+entity,question,actual_answer,predicted_answer
+Shoaib_Malik,How many matches did Shoaib Malik played in LA in 2018?,23,"According to the timeline, in 2018, Shoaib Malik played 384 matches in LA as of 2018-09-19T06:59:40Z."
+Shoaib_Malik,How many matches did Shoaib Malik played in Tests and ODIs combined in 2018?,19,"Based on the timeline provided, in 2018, Shoaib Malik played:
+
+* Test matches: 35 (no change throughout 2018)
+* ODI matches: 
+  - 252 (up to 2017-10-10T19:01:28Z)
+  - 267 (up to 2018-09-19T06:59:40Z)
+  - 271 (up to 2018-12-31T10:47:09Z)
+
+So, the total number of Test and ODI matches played by Shoaib Malik in 2018 is:
+35 (Test) + (267 - 252) = 35 + 15 = 50"
+Shoaib_Malik,How many wickets did Shoaib Malik took in FC in 2016?,29,"According to the timeline, in 2016-04-02T12:13:35Z, Shoaib Malik took 255 wickets in FC."
+Shoaib_Malik,How many wickets did Shoaib Malik took in Tests and ODIs combined from 2016 to 2018?,5,"To find the answer, we need to extract the number of wickets taken by Shoaib Malik in Tests and ODIs from 2016 to 2018.
+
+From the timeline, we can see that in 2016-04-02T12:13:35Z, Shoaib Malik had taken 32 wickets in Tests and 151 wickets in ODIs.
+
+In 2018-09-19T06:59:40Z, Shoaib Malik had taken 32 wickets in Tests and 156 wickets in ODIs.
+
+Since the number of wickets taken in Tests did not change, we only need to calculate the difference in ODI wickets.
+
+156 (2018) - 151 (2016) = 5
+
+So, Shoaib Malik took 5 ODI wickets from 2016 to 2018. Since the number of Test wickets did not change, the total number of wickets taken by Shoaib Malik in Tests and ODIs from 2016 to 2018 is:
+
+5 (ODI wickets) = 5
+
+Answer: 5"
+Shoaib_Malik,How many matches did Shoaib Malik played in Tests and ODIs combined from 2015 to 2019?,57,"Let's count the number of Test and ODI matches played by Shoaib Malik from 2015 to 2019.
+
+From the timeline, we can see that:
+
+* As of 2015-10-14T12:03:44Z, Shoaib Malik had played 33 Test matches and 224 ODI matches.
+* As of 2019-12-31T11:18:46Z, Shoaib Malik had played 35 Test matches and 282 ODI matches.
+
+So, from 2015 to 2019, Shoaib Malik played:
+
+* 35 - 33 = 2 additional Test matches
+* 282 - 224 = 58 additional ODI matches
+
+In total, Shoaib Malik played 2 (Test) + 58 (ODI) = 60 matches from 2015 to 2019."
+Shoaib_Malik,How many matches did Shoaib Malik played in Tests and ODIs combined from 2015 to 2017?,27,"Let's find the number of Test and ODI matches played by Shoaib Malik from 2015 to 2017.
+
+From the timeline, we have:
+
+* 2015-10-14T12:03:44Z: Test matches = 32, ODI matches = 224
+* 2016-02-05T11:18:20Z: Test matches = 33, ODI matches = 231
+* 2016-04-02T12:13:35Z: Test matches = 35, ODI matches = 232
+* 2016-12-31T12:57:05Z: Test matches = 35, ODI matches = 232
+* 2017-02-10T17:40:55Z: Test matches = 35, ODI matches = 244
+* 2017-10-10T19:01:28Z: Test matches = 35, ODI matches = 252
+
+Now, let's calculate the total number of Test and ODI matches played by Shoaib Malik from 2015 to 2017:
+
+Test matches: 35 (no change)
+ODI matches: 252 - 224 = 28 ( increase in ODI matches from 2015 to 2017)
+
+So, Shoaib Malik played 35 (Test) + 28 (ODI) = 63 matches in Tests and ODIs combined from 2015 to 2017."
+Shoaib_Malik,How many 100s did Shoaib Malik score in Tests and ODIs combined from 2016 to 2019?,1,"From the timeline, we can see that in 2016, Shoaib Malik had 3 centuries in Tests and 8 centuries in ODIs. In 2019, he had 3 centuries in Tests and 9 centuries in ODIs. 
+
+So, the number of centuries scored in Tests and ODIs combined from 2016 to 2019 is: (9 - 8) + (3 - 3) = 1."
+Shoaib_Malik,How many 100s did Shoaib Malik score in ODI from 2016 to 2019?,1,"Based on the provided timeline, Shoaib Malik scored 1 ODI hundred from 2016 to 2019."
+Shoaib_Malik,How many 100s did Shoaib Malik score in LA from 2016 to 2018?,1,"According to the timeline, from 2016 to 2018, Shoaib Malik scored 15 100s in LA."
+Shoaib_Malik,How many 50s did Shoaib Malik score in Tests and ODIs combined from 2015 to 2019?,10,"From the timeline, we can see the number of 50s Shoaib Malik scored in Tests and ODIs from 2015 to 2019.
+
+In Tests, the number of 50s remained constant at 8.
+
+In ODIs, the number of 50s increased from 34 (in 2015-10-14) to 44 (in 2019-03-22).
+
+So, in total, Shoaib Malik scored 8 (Tests) + 44 (ODIs) = 52 50s from 2015 to 2019."
+Shoaib_Malik,How many 50s did Shoaib Malik score in ODI from 2015 to 2019?,10,"Based on the provided timeline, I can help you with that.
+
+From 2015 to 2019, Shoaib Malik's ODI stats are as follows:
+
+* In 2015-10-14T12:03:44Z, ODI 100s/50s: 8/33
+* In 2019-12-31T11:18:46Z, ODI 100s/50s: 9/44
+
+To find the number of 50s scored by Shoaib Malik in ODI from 2015 to 2019, we need to subtract the initial number of 50s from the final number of 50s:
+
+44 (final 50s) - 33 (initial 50s) = 11
+
+So, Shoaib Malik scored 11 additional 50s in ODI from 2015 to 2019."
+Shoaib_Malik,How many 50s did Shoaib Malik score in ODI from 2015 to 2018?,9,"From 2015 to 2018, Shoaib Malik scored 43 ODI 50s."
+Shoaib_Malik,How many 50s did Shoaib Malik score in Tests and ODIs combined in 2017?,4,"According to the timeline, in 2017, Shoaib Malik scored:
+
+* In Tests: no 50s (no update in the number of 50s)
+* In ODIs: 39 50s (increased from 38 to 39 between ""2017-02-10T17:40:55Z"" and ""2017-10-10T19:01:28Z"")
+
+So, in total, Shoaib Malik scored 0 + 1 = 1 fifty in Tests and ODIs combined in 2017."
+Shoaib_Malik,How many 50s did Shoaib Malik score in FC in 2017?,1,"According to the timeline data, in 2017, Shoaib Malik scored 30 50s in FC."
+Shoaib_Malik,How many 50s did Shoaib Malik score in ODI in 2018?,4,"According to the timeline, in 2018, Shoaib Malik's ODI statistics were:
+
+* As of 2018-07-13T07:04:28Z, he had 9/39 100s/50s in ODI.
+* As of 2018-09-19T06:59:40Z, he had 9/41 100s/50s in ODI.
+* As of 2018-12-31T10:47:09Z, he had 9/43 100s/50s in ODI.
+
+So, in 2018, Shoaib Malik scored 4 ODI 50s."
+Shoaib_Malik,How many 100s did Shoaib Malik score in LA in 2016?,1,"According to the provided timeline, in 2016, Shoaib Malik scored 15 100s in LA."
+Shoaib_Malik,How many 100s did Shoaib Malik score in FC in 2016?,1,"According to the timeline, in 2016, Shoaib Malik scored 16 100s in FC."

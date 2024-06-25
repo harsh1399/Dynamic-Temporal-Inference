@@ -25,14 +25,14 @@ def generate_response(model,prompt):
     )
     return response
 
-with open('data/economy/economy_questions.json','r') as f:
+with open('data/cricketer/cricketer_questions.json','r') as f:
     entities = json.load(f)
 total_questions = 0
 for entity in entities:
     folder_question = 0
     entity_name = entity.split(" ")
     entity_name = "_".join(entity_name)
-    with open(f'data/economy/{entity_name}.json','r') as f:
+    with open(f'data/cricketer/{entity_name}.json','r') as f:
         timeline = json.load(f)
     if len(timeline)>20:
         continue
@@ -70,5 +70,5 @@ for entity in entities:
     total_questions += folder_question
     print(f"{entity} -- {folder_question}")
     dataframe = pd.DataFrame(df)
-    dataframe.to_csv(f"data/economy/predictions/mixtral-8*7b/{entity}.csv", index=False)
+    dataframe.to_csv(f"data/cricketer/predictions/mixtral-8*7b/{entity}.csv", index=False)
 print(f"total - {total_questions}")

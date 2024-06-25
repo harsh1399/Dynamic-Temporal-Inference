@@ -1,0 +1,40 @@
+entity,question,actual_answer,predicted_answer
+Shane_Watson,How many matches did Shane Watson played in FC in 2012?,5,25 matches
+Shane_Watson,How many matches did Shane Watson played in Test in 2011?,10,22 matches
+Shane_Watson,How many wickets did Shane Watson took in FC in 2012?,4,69 wickets
+Shane_Watson,How many fivefor did Shane Watson took in Tests and ODIs combined from 2010 to 2012?,1,"Five (3 in Tests, 2 in ODIs)."
+Shane_Watson,How many fivefor did Shane Watson took in Tests and ODIs combined from 2010 to 2015?,1,Five (5) five-wicket hauls.
+Shane_Watson,How many matches did Shane Watson played in Tests and ODIs combined from 2010 to 2015?,110,371 matches
+Shane_Watson,How many 100s did Shane Watson score in FC from 2012 to 2015?,3,7 100s in FC from 2012 to 2015.
+Shane_Watson,How many 100s did Shane Watson score in Tests and ODIs combined from 2010 to 2015?,7,"23 hundreds (10 in Tests, 13 in ODIs) from 2010 to 2015.
+
+Explanation:
+
+From the timeline provided, we can see that Shane Watson played Tests and ODIs from 2010 to 2015. To find out how many centuries he scored during this period, we can add up the number of centuries he scored in Tests and ODIs for each year from 2010 to 2015.
+
+In Tests, Watson scored a total of 10 centuries from 2010 to 2015:
+
+* 2010: 1 century
+* 2011: 0 centuries
+* 2012: 0 centuries
+* 2013: 0 centuries
+* 2014: 0 centuries
+* 2015: 7 centuries
+
+In ODIs, Watson scored a total of 13 centuries from 2010 to 2015:
+
+* 2010: 4 centuries
+* 2011: 2 centuries
+* 2012: 0 centuries
+* 2013: 0 centuries
+* 2014: 1 century
+* 2015: 6 centuries
+
+Therefore, Shane Watson scored a total of 23 centuries (10 in Tests and 13 in ODIs) from 2010 to 2015."
+Shane_Watson,How many 50s did Shane Watson score in Test from 2010 to 2012?,7,15 fifties in Test (2010-2012).
+Shane_Watson,How many 50s did Shane Watson score in FC from 2008 to 2010?,13,30 50s in FC from 2008 to 2010.
+Shane_Watson,How many 50s did Shane Watson score in FC from 2008 to 2015?,30,51 50s in FC (2008-2015).
+Shane_Watson,How many 50s did Shane Watson score in FC in 2012?,2,14 fifties in FC in 2012.
+Shane_Watson,How many 50s did Shane Watson score in Test in 2011?,5,15 fifties in Test in 2011.
+Shane_Watson,How many 100s did Shane Watson score in Tests and ODIs combined in 2011?,2,7 100s
+Shane_Watson,How many 100s did Shane Watson score in ODI in 2011?,2,6 centuries in ODI in 2011.

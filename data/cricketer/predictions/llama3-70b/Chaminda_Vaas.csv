@@ -1,0 +1,8 @@
+entity,question,actual_answer,predicted_answer
+Chaminda_Vaas,How many matches did Chaminda Vaas played in FC in 2008?,14,185
+Chaminda_Vaas,How many wickets did Chaminda Vaas took in LA in 2009?,1,"In 2009, Chaminda Vaas took 477 wickets in LA."
+Chaminda_Vaas,How many 50s did Chaminda Vaas score in LA from 2008 to 2010?,3,3
+Chaminda_Vaas,How many 50s did Chaminda Vaas score in LA from 2009 to 2012?,5,5
+Chaminda_Vaas,How many 50s did Chaminda Vaas score in FC in 2008?,3,23
+Chaminda_Vaas,How many 50s did Chaminda Vaas score in LA in 2010?,3,6
+Chaminda_Vaas,How many 50s did Chaminda Vaas score in FC in 2009?,1,23.

@@ -1,0 +1,22 @@
+entity,question,actual_answer,predicted_answer
+Mohammad_Ashraful,How many matches did Mohammad Ashraful played in Tests and ODIs combined in 2011?,13,310 matches
+Mohammad_Ashraful,How many matches did Mohammad Ashraful played in Test in 2010?,5,55 matches
+Mohammad_Ashraful,How many wickets did Mohammad Ashraful took in Tests and ODIs combined from 2008 to 2013?,14,"59 wickets (Test: 20, ODI: 39)"
+Mohammad_Ashraful,How many wickets did Mohammad Ashraful took in Tests and ODIs combined from 2009 to 2020?,7,52 wickets in Tests and ODIs combined from 2009 to 2020.
+Mohammad_Ashraful,How many 100s did Mohammad Ashraful score in FC from 2011 to 2013?,3,5 100s in FC from 2011-2013.
+Mohammad_Ashraful,How many 100s did Mohammad Ashraful score in FC from 2013 to 2020?,3,5 100s in FC from 2013 to 2020.
+Mohammad_Ashraful,How many 50s did Mohammad Ashraful score in FC from 2007 to 2019?,17,"50s scored in FC from 2007 to 2019: 35. 
+
+Explanation:
+To find out how many 50s Mohammad Ashraful scored in FC (first-class) cricket between 2007 and 2019, we need to look at the FC data in the timeline for the years in question. From 2007 to 2019, there are three entries for FC (2007, 2008, and 2019), each containing the number of 50s scored by Ashraful.
+
+2007: 18 50s
+2008 to 2019: 17 50s
+
+Total 50s scored in FC from 2007 to 2019: 35 50s"
+Mohammad_Ashraful,How many 50s did Mohammad Ashraful score in FC from 2010 to 2020?,13,27 50s in FC from 2010 to 2020.
+Mohammad_Ashraful,How many 50s did Mohammad Ashraful score in FC in 2013?,1,16 50s in FC in 2013.
+Mohammad_Ashraful,How many 50s did Mohammad Ashraful score in FC in 2009?,1,18 fifties in FC in 2009.
+Mohammad_Ashraful,How many 50s did Mohammad Ashraful score in FC in 2008?,3,18 fifties in FC in 2008.
+Mohammad_Ashraful,How many 100s did Mohammad Ashraful score in Tests and ODIs combined in 2009?,2,"8 100s (5 in Tests, 3 in ODIs) in 2009."
+Mohammad_Ashraful,How many 100s did Mohammad Ashraful score in FC in 2020?,1,Mohammad Ashraful did not score any 100s in FC in 2020.

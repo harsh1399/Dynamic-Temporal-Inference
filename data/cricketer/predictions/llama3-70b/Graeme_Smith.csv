@@ -1,0 +1,37 @@
+entity,question,actual_answer,predicted_answer
+Graeme_Smith,How many matches did Graeme Smith played in Test in 2014?,4,"According to the timeline, as of 2014-01-01T12:45:47Z, Graeme Smith played 114 Test matches. As of 2014-03-04T07:14:20Z, he played 116 Test matches. As of 2014-12-31T14:24:14Z, he played 117 Test matches. So, the answer is 117."
+Graeme_Smith,How many matches did Graeme Smith played in Test in 2012?,14,"Based on the provided timeline, in 2012, Graeme Smith played:
+
+* 102 Test matches as of 2012-10-11T14:08:04Z
+* 105 Test matches as of 2012-12-31T07:05:58Z
+
+So, the answer is between 102 and 105 Test matches in 2012."
+Graeme_Smith,How many matches did Graeme Smith played in FC in 2014?,4,"According to the timeline, in 2014, Graeme Smith played 159 matches in FC (source: ""2014-03-04T07:14:20Z"" entry)."
+Graeme_Smith,How many 100s did Graeme Smith score in Test from 2012 to 2019?,1,"According to the data, Graeme Smith scored 27 hundreds in Test matches throughout his career. From 2012 to 2019, he didn't play any Test matches, as he retired in 2014. So, he didn't score any hundreds in Test matches during that period."
+Graeme_Smith,How many 100s did Graeme Smith score in FC from 2011 to 2019?,5,"According to the data, Graeme Smith scored 7 additional 100s in FC from 2011 to 2019."
+Graeme_Smith,How many 100s did Graeme Smith score in LA from 2008 to 2012?,2,"From 2008 to 2012, Graeme Smith scored 12 100s in LA."
+Graeme_Smith,How many 50s did Graeme Smith score in LA from 2008 to 2011?,6,"From the timeline, I can see that in 2008-07-13 and 2011-02-06, Graeme Smith's 50s in LA are 54 and 62, respectively. Therefore, he scored at least 8 more 50s in LA from 2008 to 2011.
+
+Answer: At least 8."
+Graeme_Smith,How many 50s did Graeme Smith score in FC from 2010 to 2019?,14,"From 2010 to 2019, Graeme Smith scored 50s in FC as follows:
+
+* As of 2010-01-17T11:57:21Z, he had 36 FC 50s.
+* As of 2011-02-06T03:58:41Z, he had 39 FC 50s.
+* As of 2011-12-31T13:08:31Z, he had 42 FC 50s.
+* As of 2012-03-17T05:48:15Z, he had 42 FC 50s.
+* As of 2012-10-11T14:08:04Z, he had 44 FC 50s.
+* As of 2013-02-24T10:51:02Z, he had 48 FC 50s.
+* As of 2014-01-01T12:45:47Z, he had 49 FC 50s.
+* As of 2014-03-04T07:14:20Z, he had 50 FC 50s.
+* As of 2014-12-31T14:24:14Z, he had 50 FC 50s.
+* As of 2019-01-14T06:43:55Z, he had 50 FC 50s.
+* As of 2019-02-09T15:27:59Z, he had 50 FC 50s.
+* As of 2019-12-31T11:19:27Z, he had 50 FC 50s.
+
+So, Graeme Smith scored 14 more 50s in FC from 2010 to 2019."
+Graeme_Smith,How many 50s did Graeme Smith score in FC from 2013 to 2019?,1,"According to the timeline, in 2013-11-15T13:57:22Z, Graeme Smith had 49 50s in FC. In 2014-12-31T14:24:14Z, he had 50 50s in FC. Since we don't have data for 2019, we can assume his 50s in FC were 50. The answer is 1."
+Graeme_Smith,How many 50s did Graeme Smith score in LA in 2013?,2,"According to the timeline, in 2013, Graeme Smith scored 67 fifties in LA."
+Graeme_Smith,How many 50s did Graeme Smith score in Test in 2013?,2,"In 2013, Graeme Smith scored 37 fifties in Test matches. 
+(Answer based on the data provided in the timeline)"
+Graeme_Smith,How many 100s did Graeme Smith score in Test in 2012?,4,"According to the timeline, in 2012, Graeme Smith scored 26 hundreds in Test cricket."
+Graeme_Smith,How many 100s did Graeme Smith score in Test in 2013?,1,"Based on the provided timeline, in 2013, Graeme Smith scored 27 hundreds in Tests."

@@ -1,0 +1,11 @@
+entity,question,actual_answer,predicted_answer
+Rangana_Herath,How many wickets did Rangana Herath took in FC in 2010?,8,642.
+Rangana_Herath,How many wickets did Rangana Herath took in FC in 2012?,110,745 and 785.
+Rangana_Herath,How many matches did Rangana Herath played in FC in 2012?,22,202.
+Rangana_Herath,How many matches did Rangana Herath played in Tests and ODIs combined from 2016 to 2018?,15,12 Test matches and 0 ODIs.
+Rangana_Herath,How many fivefor did Rangana Herath took in Tests and ODIs combined from 2016 to 2018?,5,"From 2016 to 2018, Rangana Herath took 33 fivefor in Tests and 0 fivefor in ODIs. Therefore, the answer is 33."
+Rangana_Herath,How many wickets did Rangana Herath took in Tests and ODIs combined from 2016 to 2018?,69,"Rangana Herath took 69 Test wickets and 0 ODI wickets from 2016 to 2018. So, the answer is 69."
+Rangana_Herath,How many 50s did Rangana Herath score in FC from 2009 to 2015?,2,Two.
+Rangana_Herath,How many 50s did Rangana Herath score in FC from 2009 to 2012?,2,2
+Rangana_Herath,How many 50s did Rangana Herath score in FC in 2012?,2,12
+Rangana_Herath,How many 50s did Rangana Herath score in FC in 2009?,2,9

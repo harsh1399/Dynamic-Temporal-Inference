@@ -1,0 +1,15 @@
+entity,question,actual_answer,predicted_answer
+Geraint_Jones,How many matches did Geraint Jones played in ODI in 2015?,1,51 matches
+Geraint_Jones,How many matches did Geraint Jones played in Tests and ODIs combined in 2015?,1,51 matches
+Geraint_Jones,How many matches did Geraint Jones played in Tests and ODIs combined from 2014 to 2016?,1,82 matches (51 ODI + 31 Test)
+Geraint_Jones,How many 50s did Geraint Jones score in LA from 2012 to 2016?,6,11 fifties in LA from 2012 to 2016.
+Geraint_Jones,How many 50s did Geraint Jones score in FC from 2012 to 2014?,10,"22 50s in FC from 2012 to 2014.
+
+The timeline provided includes FC data for Geraint Jones as of 2012-12-31, 2014-02-24, 2014-10-28, and 2014-12-31. From 2012 to 2014, Geraint Jones scored a total of 22 50s in FC."
+Geraint_Jones,How many 50s did Geraint Jones score in FC from 2012 to 2015?,14,22 50s in FC from 2012 to 2015.
+Geraint_Jones,How many 50s did Geraint Jones score in FC in 2015?,4,"50 FC fifties in 2015: 50
+
+The provided timeline shows that Geraint Jones scored 15 centuries (100s) and 50 fifties (50s) in first-class (FC) cricket as of December 31, 2015. Therefore, he scored a total of 65 fifties in FC cricket from December 31, 2014 to December 31, 2015. However, the question asks for the number of 50s scored specifically in 2015, and since the timeline only provides two data points for FC cricket in 2014 and 2015, it is not possible to determine the exact number of 50s scored in 2015.
+
+Therefore, I assume that the answer to the question is the total number of 50s scored in FC cricket as of December 31, 2015, which is 50."
+Geraint_Jones,How many 50s did Geraint Jones score in LA in 2016?,3,0 fifties.

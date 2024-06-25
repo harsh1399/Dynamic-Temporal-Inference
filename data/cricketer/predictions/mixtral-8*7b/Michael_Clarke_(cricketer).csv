@@ -1,0 +1,41 @@
+entity,question,actual_answer,predicted_answer
+Michael_Clarke_(cricketer),How many matches did Michael Clarke played in FC in 2010?,9,26 matches
+Michael_Clarke_(cricketer),How many matches did Michael Clarke played in Test in 2010?,8,12 matches
+Michael_Clarke_(cricketer),How many wickets did Michael Clarke took in Test in 2010?,2,19 wickets
+Michael_Clarke_(cricketer),How many wickets did Michael Clarke took in Tests and ODIs combined from 2009 to 2012?,14,131 wickets
+Michael_Clarke_(cricketer),How many matches did Michael Clarke played in Tests and ODIs combined from 2009 to 2012?,87,442 matches
+Michael_Clarke_(cricketer),How many 100s did Michael Clarke score in Test from 2010 to 2012?,7,"14 100s in Test from 2010 to 2012.
+
+Explanation:
+According to the provided timeline, Michael Clarke scored a total of 14 centuries (100s) in Test matches between the years 2010 and 2012. This information can be found in the ""Test"" section of the timeline, specifically in the entries for the dates ""2010-01-18T06:20:39Z"" through ""2012-12-31T23:31:23Z"". These entries show that Clarke's 100s in Test matches during this time period were scored as follows:
+- ""2010-01-18T06:20:39Z"": 13 100s
+- ""2010-03-21T11:07:44Z"": 14 100s
+- ""2010-12-31T02:13:11Z"": 14 100s
+- ""2012-04-27T15:24:11Z"": not applicable (only ODI data is available for this entry)
+- ""2012-09-11T06:01:00Z"": 19 100s
+- ""2012-12-31T23:31:23Z"": 21 100s
+
+Thus, the total number of 100s that Clarke scored in Test matches between 2010 and 2012 is 14."
+Michael_Clarke_(cricketer),How many 100s did Michael Clarke score in ODI from 2009 to 2012?,3,7 hundreds (100s) in ODI from 2009 to 2012.
+Michael_Clarke_(cricketer),How many 50s did Michael Clarke score in Test from 2010 to 2012?,3,17 50s in Tests from 2010-2012.
+Michael_Clarke_(cricketer),How many 50s did Michael Clarke score in FC from 2009 to 2012?,7,"52 50s.
+
+The table with key ""FC"" in the timeline contains the First Class (FC) career information for Michael Clarke. From the entry with key ""2009-04-04T09:01:18Z"" to the entry with key ""2012-12-31T23:31:23Z"", there are a total of 52 instances where ""100s/50s"" contains a ""50"" for Michael Clarke's FC career. Additional verification of this can be done by summing the FC 50s over each entry in the specified time range, resulting in the same sum of 52."
+Michael_Clarke_(cricketer),How many 50s did Michael Clarke score in Tests and ODIs combined from 2010 to 2012?,15,"54 fifties (17 in Tests, 37 in ODIs)"
+Michael_Clarke_(cricketer),How many 50s did Michael Clarke score in ODI in 2010?,4,19 50s in ODI in 2010.
+Michael_Clarke_(cricketer),How many 50s did Michael Clarke score in Tests and ODIs combined in 2010?,6,22 fifties (14+8)
+Michael_Clarke_(cricketer),How many 50s did Michael Clarke score in FC in 2010?,2,20 50s in FC in 2010.
+Michael_Clarke_(cricketer),How many 100s did Michael Clarke score in Tests and ODIs combined in 2010?,2,"14 100s in Tests and ODIs combined in 2010.
+
+Here's the breakdown:
+- Tests: 4 100s in 2010 (from matches 58 to 64)
+- ODIs: 10 100s in 2010 (from matches 163 to 178)
+
+To get this answer, I reviewed the ""100s/50s"" fields for the Test and ODI entries in the 2010 timeline:
+- 2010-01-18T06:20:39Z: 13/17 (Test) + 4/38 (ODI) = 17 100s/50s
+- 2010-03-21T11:07:44Z: 14/17 (Test) + 4/38 (ODI) = 18 100s/50s
+- 2010-12-31T02:13:11Z: 14/19 (Test) + 4/42 (ODI) = 18 100s/50s
+- 2012-04-27T15:24:11Z: 14/22 (Test) + 7/54 (ODI) = 21 100s/50s
+
+After each update, I found no change in the number of 100s in Test and ODI matches in 2010. Adding the 100s for Tests and ODIs in the 2010 timeline, we get 14 100s in total."
+Michael_Clarke_(cricketer),How many 100s did Michael Clarke score in FC in 2010?,2,8 100s in FC in 2010.

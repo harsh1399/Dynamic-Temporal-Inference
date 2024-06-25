@@ -1,0 +1,27 @@
+entity,question,actual_answer,predicted_answer
+Mark_Boucher,How many matches did Mark Boucher played in LA in 2012?,7,"365 
+"
+Mark_Boucher,How many matches did Mark Boucher played in ODI in 2012?,3,"295 
+"
+Mark_Boucher,How many matches did Mark Boucher played in Tests and ODIs combined from 2011 to 2017?,11,"437 
+"
+Mark_Boucher,How many matches did Mark Boucher played in Tests and ODIs combined from 2009 to 2011?,15,"431 
+"
+Mark_Boucher,How many matches did Mark Boucher played in Tests and ODIs combined from 2009 to 2017?,26,"442 
+"
+Mark_Boucher,How many 100s did Mark Boucher score in FC from 2009 to 2012?,1,"One 
+"
+Mark_Boucher,How many 100s did Mark Boucher score in FC from 2009 to 2017?,1,"Ten 
+"
+Mark_Boucher,How many 50s did Mark Boucher score in FC from 2011 to 2017?,1,"52 
+"
+Mark_Boucher,How many 50s did Mark Boucher score in Test from 2009 to 2012?,5,"35 
+"
+Mark_Boucher,How many 50s did Mark Boucher score in Tests and ODIs combined from 2009 to 2012?,5,"59 
+"
+Mark_Boucher,How many 50s did Mark Boucher score in FC in 2012?,1,"No change 
+"
+Mark_Boucher,How many 50s did Mark Boucher score in Tests and ODIs combined in 2012?,1,"59 
+"
+Mark_Boucher,How many 100s did Mark Boucher score in FC in 2012?,1,"One 
+"

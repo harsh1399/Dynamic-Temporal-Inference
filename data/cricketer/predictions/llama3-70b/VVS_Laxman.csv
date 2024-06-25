@@ -1,0 +1,25 @@
+entity,question,actual_answer,predicted_answer
+VVS_Laxman,How many matches did VVS Laxman played in Tests and ODIs combined in 2010?,8,113 (Test matches) + 86 (ODI matches) = 199 matches.
+VVS_Laxman,How many matches did VVS Laxman played in Test in 2010?,8,"According to the timeline, in 2010-10-05T12:12:30Z, VVS Laxman played 113 Test matches."
+VVS_Laxman,How many wickets did VVS Laxman took in FC in 2009?,1,21
+VVS_Laxman,How many matches did VVS Laxman played in Tests and ODIs combined from 2009 to 2011?,20,"In 2009, VVS Laxman played 105 Test matches and 86 ODI matches. In 2011, he played 119 Test matches and 86 ODI matches. 
+
+So the total matches played in Tests and ODIs combined from 2009 to 2011 is: 105 + 119 + 86 + 86 = 386."
+VVS_Laxman,How many matches did VVS Laxman played in Tests and ODIs combined from 2010 to 2012?,16,"19 Tests, 0 ODIs."
+VVS_Laxman,How many matches did VVS Laxman played in Tests and ODIs combined from 2009 to 2012?,24,46 Tests + 0 ODIs = 46.
+VVS_Laxman,How many 100s did VVS Laxman score in Tests and ODIs combined from 2009 to 2011?,2,8
+VVS_Laxman,How many 100s did VVS Laxman score in Test from 2010 to 2012?,1,One.
+VVS_Laxman,How many 100s did VVS Laxman score in FC from 2009 to 2012?,3,"In 2009, he had 46 FC 100s, and in 2012, he had 54 FC 100s. So, he scored 54 - 46 = 8 FC 100s from 2009 to 2012."
+VVS_Laxman,How many 50s did VVS Laxman score in FC from 2007 to 2009?,17,"From 2007 to 2009, VVS Laxman scored 73 fifties in FC."
+VVS_Laxman,How many 50s did VVS Laxman score in FC from 2008 to 2012?,25,25
+VVS_Laxman,How many 50s did VVS Laxman score in FC from 2007 to 2010?,24,"From 2007 to 2010, VVS Laxman scored 71 50s in FC."
+VVS_Laxman,How many 50s did VVS Laxman score in FC in 2010?,7,82
+VVS_Laxman,How many 50s did VVS Laxman score in FC in 2009?,11,73.
+VVS_Laxman,How many 50s did VVS Laxman score in Tests and ODIs combined in 2010?,6,"Based on the provided timeline, in 2010, VVS Laxman scored:
+
+* In Tests: 45 (from 2010-10-05T12:12:30Z) - 42 (from 2009-07-11T09:18:34Z) = 3 50s
+* In ODIs: 10 (no change throughout the timeline) 
+
+So, in total, VVS Laxman scored 3 + 10 = 13 50s in Tests and ODIs combined in 2010."
+VVS_Laxman,How many 100s did VVS Laxman score in FC in 2008?,2,44.
+VVS_Laxman,How many 100s did VVS Laxman score in Tests and ODIs combined in 2012?,1,1

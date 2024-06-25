@@ -1,0 +1,19 @@
+entity,question,actual_answer,predicted_answer
+Abdul_Razzaq_(cricketer),How many wickets did Abdul Razzaq took in Tests and ODIs combined in 2010?,13,"In 2010, Abdul Razzaq took 100 wickets in Tests and 259 wickets in ODIs, so in total, he took 359 wickets."
+Abdul_Razzaq_(cricketer),How many matches did Abdul Razzaq played in ODI in 2010?,14,243
+Abdul_Razzaq_(cricketer),How many wickets did Abdul Razzaq took in ODI in 2010?,13,258
+Abdul_Razzaq_(cricketer),How many matches did Abdul Razzaq played in Tests and ODIs combined from 2010 to 2012?,20,"From the timeline, we can see that in 2010, Abdul Razzaq played 46 Test matches and 245 ODI matches. In 2012, he played 46 Test matches and 265 ODI matches. 
+
+Therefore, the total number of Test and ODI matches played by Abdul Razzaq from 2010 to 2012 is: 46 (Test) + 245 (ODI) + 0 (Additional Test matches) + 20 (Additional ODI matches) = 311."
+Abdul_Razzaq_(cricketer),How many wickets did Abdul Razzaq took in Tests and ODIs combined from 2010 to 2016?,10,"From 2010 to 2016, Abdul Razzaq took 0 wickets in Tests (no Test matches played) and 10 wickets in ODIs."
+Abdul_Razzaq_(cricketer),How many wickets did Abdul Razzaq took in Tests and ODIs combined from 2010 to 2012?,10,"From 2010 to 2012, Abdul Razzaq took 159 wickets in Tests and ODIs combined."
+Abdul_Razzaq_(cricketer),How many 100s did Abdul Razzaq score in ODI from 2009 to 2012?,1,1
+Abdul_Razzaq_(cricketer),How many 100s did Abdul Razzaq score in ODI from 2008 to 2011?,1,Abdul Razzaq scored 1 ODI hundred from 2008 to 2011.
+Abdul_Razzaq_(cricketer),How many 50s did Abdul Razzaq score in Tests and ODIs combined from 2009 to 2013?,1,7
+Abdul_Razzaq_(cricketer),How many 50s did Abdul Razzaq score in ODI from 2010 to 2016?,1,1
+Abdul_Razzaq_(cricketer),How many 50s did Abdul Razzaq score in FC from 2009 to 2016?,2,"From 2009 to 2016, Abdul Razzaq scored 26 50s in FC."
+Abdul_Razzaq_(cricketer),How many 50s did Abdul Razzaq score in ODI in 2011?,1,The answer is 23.
+Abdul_Razzaq_(cricketer),How many 50s did Abdul Razzaq score in Tests and ODIs combined in 2011?,1,7
+Abdul_Razzaq_(cricketer),How many 50s did Abdul Razzaq score in FC in 2009?,1,25
+Abdul_Razzaq_(cricketer),How many 100s did Abdul Razzaq score in ODI in 2010?,1,2
+Abdul_Razzaq_(cricketer),How many 100s did Abdul Razzaq score in Tests and ODIs combined in 2010?,1,3

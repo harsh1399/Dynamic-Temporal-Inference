@@ -1,0 +1,28 @@
+entity,question,actual_answer,predicted_answer
+Kevin_Pietersen,How many matches did Kevin Pietersen played in ODI in 2010?,9,98 matches
+Kevin_Pietersen,How many wickets did Kevin Pietersen took in Tests and ODIs combined in 2010?,4,17 wickets
+Kevin_Pietersen,How many wickets did Kevin Pietersen took in Tests and ODIs combined from 2009 to 2012?,8,28 wickets
+Kevin_Pietersen,How many matches did Kevin Pietersen played in Tests and ODIs combined from 2009 to 2012?,55,232 matches
+Kevin_Pietersen,How many matches did Kevin Pietersen played in Tests and ODIs combined from 2010 to 2012?,38,"231 matches (Test: 81, ODI: 150)"
+Kevin_Pietersen,How many 100s did Kevin Pietersen score in Tests and ODIs combined from 2010 to 2012?,4,"25 hundreds (19 in Tests, 6 in ODIs)"
+Kevin_Pietersen,How many 100s did Kevin Pietersen score in FC from 2009 to 2012?,3,39 100s in FC from 2009 to 2012.
+Kevin_Pietersen,How many 100s did Kevin Pietersen score in Test from 2009 to 2012?,3,16 hundreds in Test from 2009 to 2012.
+Kevin_Pietersen,How many 50s did Kevin Pietersen score in Test from 2010 to 2012?,6,25 50s in Test from 2010 to 2012.
+Kevin_Pietersen,How many 50s did Kevin Pietersen score in Tests and ODIs combined from 2010 to 2012?,9,45 fifties
+Kevin_Pietersen,How many 50s did Kevin Pietersen score in Test from 2009 to 2012?,10,"44 fifties in Test from 2009 to 2012.
+
+ Explanation:
+
+The timeline provided contains various data points about Kevin Pietersen's performance in different cricket formats from 2009 to 2012. To find out how many fifties (50 runs or more) he scored in Test matches during this period, we need to look at the Test section of each data point and add up the number of 50s he scored.
+
+From the data point on 2009-03-21T10:12:15Z to 2012-12-31T06:23:04Z, Kevin Pietersen played 81 Test matches, scoring 6,428 runs at an average of 48.69. He scored 19 centuries (100+ runs) and 25 fifties, giving us a total of 44 fifties in Test matches from 2009 to 2012."
+Kevin_Pietersen,How many 50s did Kevin Pietersen score in Test in 2010?,4,"18 fifties in Test in 2010.
+
+Reference(s):
+timeline: {""2010-03-28T19:33:16Z"": {""Test"": {""matches"": ""60"", ""runs"": ""5,074"", ""bat avg"": ""49.26"", ""100s/50s"": ""16/18"", ""top score"": ""226"", ...
+
+The timeline indicates that Kevin Pietersen scored 18 fifties (50s) in Test cricket during the year 2010."
+Kevin_Pietersen,How many 50s did Kevin Pietersen score in Tests and ODIs combined in 2010?,4,26 fifties (18 in Tests and 8 in ODIs)
+Kevin_Pietersen,How many 100s did Kevin Pietersen score in FC in 2010?,1,"4 100s in FC in 2010.
+
+Kevin Pietersen scored 4 centuries (100s) in first-class (FC) cricket matches in the year 2010. This information can be determined by examining the FC section of the timeline entries for March 28, 2010 (with 38 100s and 47 50s in 146 matches) and July 14, 2010 (with 16 100s and 19 50s in 148 matches). These are the only two entries in the timeline that fall within the year 2010, and the number of 100s scored in FC cricket increased from 38 to 16 between these two entries, indicating that 4 100s were scored in FC cricket in 2010."

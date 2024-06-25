@@ -1,0 +1,29 @@
+entity,question,actual_answer,predicted_answer
+Neil_McKenzie,How many wickets did Neil McKenzie took in FC in 2010?,3,10 wickets
+Neil_McKenzie,How many matches did Neil McKenzie played in FC in 2010?,28,213 matches
+Neil_McKenzie,How many 100s did Neil McKenzie score in FC from 2009 to 2013?,18,36 centuries (100s) in FC from 2009 to 2013.
+Neil_McKenzie,How many 100s did Neil McKenzie score in LA from 2010 to 2013?,2,10 hundreds in LA from 2010 to 2013.
+Neil_McKenzie,How many 100s did Neil McKenzie score in LA from 2009 to 2013?,3,8 100s in LA (2009-2013).
+Neil_McKenzie,How many 50s did Neil McKenzie score in FC from 2009 to 2013?,22,61 fifties in FC (2009-2013)
+Neil_McKenzie,How many 50s did Neil McKenzie score in FC from 2010 to 2013?,13,61 50s in FC from 2010 to 2013.
+Neil_McKenzie,How many 50s did Neil McKenzie score in LA from 2010 to 2021?,10,54 fifties in LA (2010-2021).
+Neil_McKenzie,How many 50s did Neil McKenzie score in LA in 2010?,6,"59 fifties in LA in 2010.
+
+Explanation:
+The timeline provides information about Neil McKenzie's performance in the ""LA"" format for the year 2010. According to the data on December 31, 2010, McKenzie had played 211 matches in the LA format and scored 5,794 runs with a batting average of 35.98. He had scored 7 centuries and 40 half-centuries (referred to as 50s) in these matches.
+
+However, the question asks specifically about the number of 50s scored in LA in 2010, and the information provided for December 31, 2010, includes matches played throughout the year. Since the number of 50s scored in LA in 2010 is not explicitly stated in the timeline, we must infer it from the given data.
+
+To do this, we can use the information about the total number of centuries and half-centuries scored in LA in 2010, as well as McKenzie's batting average for the year. McKenzie's batting average of 35.98 suggests that he scored more 50s than centuries in 2010, since his average is higher than 50. Moreover, the total number of centuries and half-centuries scored is 47 (7 centuries and 40 half-centuries).
+
+Therefore, since McKenzie scored 47 centuries and half-centuries in LA in 2010 and his batting average was 35.98, it is reasonable to infer that he scored 32 half-centuries and 15 centuries, for a total of 59 fifties in LA in 2010."
+Neil_McKenzie,How many 50s did Neil McKenzie score in FC in 2010?,9,"61 50s in FC in 2010.
+
+Here's the explanation for the answer:
+
+- In the timeline, the FC data for Neil McKenzie in 2010 is available in two entries:
+  - ""2010-01-29T17:23:56Z""
+  - ""2010-12-31T23:31:53Z""
+- In both entries, the number of 50s scored by Neil McKenzie in FC in 2010 is 61."
+Neil_McKenzie,How many 100s did Neil McKenzie score in LA in 2010?,1,8 100s in LA in 2010.
+Neil_McKenzie,How many 100s did Neil McKenzie score in FC in 2010?,6,6 out of 61 100s in FC were scored in 2010 by Neil McKenzie.

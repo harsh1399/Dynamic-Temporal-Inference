@@ -1,0 +1,21 @@
+entity,question,actual_answer,predicted_answer
+Tatenda_Taibu,How many matches did Tatenda Taibu played in LA in 2012?,12,57 matches
+Tatenda_Taibu,How many matches did Tatenda Taibu played in FC in 2012?,4,22 matches
+Tatenda_Taibu,How many matches did Tatenda Taibu played in Tests and ODIs combined in 2010?,8,225 matches (113 ODI and 112 Tests)
+Tatenda_Taibu,How many matches did Tatenda Taibu played in Tests and ODIs combined from 2009 to 2011?,24,"220 matches (Test: 24, ODI: 196)"
+Tatenda_Taibu,How many matches did Tatenda Taibu played in Tests and ODIs combined from 2011 to 2017?,18,"108 matches (Test: 21, ODI: 87)"
+Tatenda_Taibu,How many matches did Tatenda Taibu played in Tests and ODIs combined from 2009 to 2012?,38,"257 matches (Test: 24, ODI: 233)"
+Tatenda_Taibu,How many 100s did Tatenda Taibu score in FC from 2009 to 2017?,1,12 centuries (100s) in FC from 2009 to 2017.
+Tatenda_Taibu,How many 100s did Tatenda Taibu score in LA from 2008 to 2017?,2,5 hundreds in LA (2008-2017)
+Tatenda_Taibu,How many 50s did Tatenda Taibu score in LA from 2009 to 2017?,13,18 50s in LA (2009-2017)
+Tatenda_Taibu,How many 50s did Tatenda Taibu score in Test from 2010 to 2017?,3,12 fifties
+Tatenda_Taibu,How many 50s did Tatenda Taibu score in Tests and ODIs combined from 2012 to 2017?,1,12 fifties (10+2)
+Tatenda_Taibu,How many 50s did Tatenda Taibu score in LA in 2011?,6,"3 fifty's.
+
+Explanation:
+From the timeline provided, Tatenda Taibu played 216 matches in LA (limited overs) cricket as of December 31, 2011, scoring a total of 4,292 runs at an average of 29.80. The number of 50s (fifty runs) scored by him in LA cricket in 2011 was 3. This information can be calculated by comparing the statistics for LA matches before and after December 31, 2011. On December 31, 2010, Tatenda Taibu had scored a total of 29.80 runs in 197 LA matches, while he had scored a total of 30.41 runs in 216 LA matches by December 31, 2011. Therefore, in the 19 LA matches that he played between December 31, 2010, and December 31, 2011, Tatenda Taibu scored a total of 71 runs (30.41 - 29.80 = 0.61 x 19 = 11.59, rounded up to the nearest whole number = 12; and 30.41 - 29.80 = 0.61 x 19 = 11.59, rounded down to the nearest whole number = 11; so 12 - 11 = 1, i.e. 1 new fifty), which means that he scored 3 fifties in these 19 matches."
+Tatenda_Taibu,How many 50s did Tatenda Taibu score in Tests and ODIs combined in 2012?,6,10 fifties
+Tatenda_Taibu,How many 50s did Tatenda Taibu score in LA in 2012?,3,"18 fifties (50s) were scored by Tatenda Taibu in LA in 2012.
+Note: LA refers to List A matches."
+Tatenda_Taibu,How many 100s did Tatenda Taibu score in ODI in 2009?,1,2 centuries
+Tatenda_Taibu,How many 100s did Tatenda Taibu score in LA in 2012?,1,5 hundreds in LA in 2012.

@@ -1,0 +1,22 @@
+entity,question,actual_answer,predicted_answer
+Kumar_Sangakkara,How many matches did Kumar Sangakkara played in ODI in 2009?,23,251
+Kumar_Sangakkara,How many matches did Kumar Sangakkara played in LA in 2009?,27,Kumar Sangakkara played 323 matches in LA in 2009.
+Kumar_Sangakkara,How many matches did Kumar Sangakkara played in LA in 2010?,6,340
+Kumar_Sangakkara,How many 100s did Kumar Sangakkara score in FC from 2008 to 2010?,4,6
+Kumar_Sangakkara,How many 100s did Kumar Sangakkara score in LA from 2008 to 2010?,2,Five
+Kumar_Sangakkara,How many 50s did Kumar Sangakkara score in ODI from 2008 to 2010?,10,"From the entity timeline, we can track Kumar Sangakkara's ODI performance from 2008 to 2010.
+
+At the start of the timeline (2008-08-11T11:01:52Z), Kumar Sangakkara had 42 ODI 50s.
+
+At the end of the timeline (2010-12-31T04:10:00Z), Kumar Sangakkara had 53 ODI 50s.
+
+Therefore, Kumar Sangakkara scored 11 new ODI 50s from 2008 to 2010.
+
+Answer: 11"
+Kumar_Sangakkara,How many 50s did Kumar Sangakkara score in FC from 2008 to 2010?,6,29-23=6
+Kumar_Sangakkara,How many 50s did Kumar Sangakkara score in LA from 2008 to 2010?,10,11.
+Kumar_Sangakkara,How many 50s did Kumar Sangakkara score in LA in 2009?,7,"According to the timeline, in 2009, Kumar Sangakkara scored 65 fifties in LA."
+Kumar_Sangakkara,How many 50s did Kumar Sangakkara score in Tests and ODIs combined in 2010?,3,Kumar Sangakkara scored 3 fifties in Tests and 3 fifties in ODIs in 2010.
+Kumar_Sangakkara,How many 50s did Kumar Sangakkara score in LA in 2010?,3,70.
+Kumar_Sangakkara,How many 100s did Kumar Sangakkara score in FC in 2009?,4,27.
+Kumar_Sangakkara,How many 100s did Kumar Sangakkara score in LA in 2009?,2,14

@@ -1,0 +1,12 @@
+entity,question,actual_answer,predicted_answer
+Herschelle_Gibbs,How many matches did Herschelle Gibbs played in LA in 2011?,14,The answer is: 373
+Herschelle_Gibbs,How many matches did Herschelle Gibbs played in LA in 2010?,5,368
+Herschelle_Gibbs,How many 100s did Herschelle Gibbs score in LA from 2008 to 2010?,2,Three.
+Herschelle_Gibbs,How many 100s did Herschelle Gibbs score in LA from 2008 to 2011?,3,5
+Herschelle_Gibbs,How many 50s did Herschelle Gibbs score in LA from 2008 to 2010?,3,The answer is 4.
+Herschelle_Gibbs,How many 50s did Herschelle Gibbs score in LA from 2008 to 2013?,5,The answer is: 62.
+Herschelle_Gibbs,How many 50s did Herschelle Gibbs score in FC in 2009?,2,59
+Herschelle_Gibbs,How many 50s did Herschelle Gibbs score in LA in 2010?,1,59
+Herschelle_Gibbs,How many 50s did Herschelle Gibbs score in LA in 2009?,2,58.
+Herschelle_Gibbs,How many 100s did Herschelle Gibbs score in LA in 2010?,1,25
+Herschelle_Gibbs,How many 100s did Herschelle Gibbs score in LA in 2011?,1,27.

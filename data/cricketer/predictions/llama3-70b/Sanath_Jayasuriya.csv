@@ -1,0 +1,16 @@
+entity,question,actual_answer,predicted_answer
+Sanath_Jayasuriya,How many matches did Sanath Jayasuriya played in Tests and ODIs combined in 2009?,20,110 Test matches + 440 ODI matches = 550 matches
+Sanath_Jayasuriya,How many fivefor did Sanath Jayasuriya took in ODI in 2010?,21,25
+Sanath_Jayasuriya,How many matches did Sanath Jayasuriya played in ODI in 2009?,20,428 and 440.
+Sanath_Jayasuriya,How many fivefor did Sanath Jayasuriya took in Tests and ODIs combined from 2008 to 2010?,58,2 + 4 = 6
+Sanath_Jayasuriya,How many wickets did Sanath Jayasuriya took in Tests and ODIs combined from 2008 to 2010?,616,"398 (98 in Tests + 310 in ODI at the end of 2009, then additional 4 wickets in ODI at the end of 2010)"
+Sanath_Jayasuriya,How many 100s did Sanath Jayasuriya score in ODI from 2008 to 2010?,21,28
+Sanath_Jayasuriya,How many 100s did Sanath Jayasuriya score in Tests and ODIs combined from 2008 to 2010?,41,48 (14 in Tests + 34 in ODIs).
+Sanath_Jayasuriya,How many 50s did Sanath Jayasuriya score in Tests and ODIs combined from 2008 to 2010?,52,31 (Test) + 68 (ODI) = 99.
+Sanath_Jayasuriya,How many 50s did Sanath Jayasuriya score in ODI from 2008 to 2010?,32,"41/68 to 48/98, so 17 ODI 50s."
+Sanath_Jayasuriya,How many 50s did Sanath Jayasuriya score in Tests and ODIs combined in 2010?,50,0.
+Sanath_Jayasuriya,How many 50s did Sanath Jayasuriya score in Test in 2010?,20,17.
+Sanath_Jayasuriya,How many 50s did Sanath Jayasuriya score in ODI in 2010?,30,30
+Sanath_Jayasuriya,How many 100s did Sanath Jayasuriya score in ODI in 2009?,1,28.
+Sanath_Jayasuriya,How many 100s did Sanath Jayasuriya score in FC in 2010?,36,35
+Sanath_Jayasuriya,How many 100s did Sanath Jayasuriya score in Tests and ODIs combined in 2009?,1,28

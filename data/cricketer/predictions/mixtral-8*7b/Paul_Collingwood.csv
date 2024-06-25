@@ -1,0 +1,15 @@
+entity,question,actual_answer,predicted_answer
+Paul_Collingwood,How many matches did Paul Collingwood played in LA in 2010?,18,346 matches
+Paul_Collingwood,How many wickets did Paul Collingwood took in LA in 2011?,5,25 wickets
+Paul_Collingwood,How many matches did Paul Collingwood played in LA in 2011?,6,362 matches
+Paul_Collingwood,How many 100s did Paul Collingwood score in LA from 2007 to 2009?,1,6 100s in LA (2007-2009).
+Paul_Collingwood,How many 100s did Paul Collingwood score in LA from 2007 to 2011?,2,8 centuries (100s) in LA from 2007 to 2011.
+Paul_Collingwood,How many 100s did Paul Collingwood score in FC from 2009 to 2011?,1,24 centuries (100s) in FC for Paul Collingwood from 2009 to 2011.
+Paul_Collingwood,How many 50s did Paul Collingwood score in FC from 2007 to 2011?,18,56 50s in FC (2007-2011).
+Paul_Collingwood,How many 50s did Paul Collingwood score in LA from 2007 to 2009?,9,41 50s in LA from 2007 to 2009.
+Paul_Collingwood,How many 50s did Paul Collingwood score in FC from 2007 to 2010?,16,40 50s in FC (2007-2010).
+Paul_Collingwood,How many 50s did Paul Collingwood score in LA in 2010?,2,25 50s in LA in 2010.
+Paul_Collingwood,How many 50s did Paul Collingwood score in FC in 2010?,3,54 50s in FC in 2010.
+Paul_Collingwood,How many 50s did Paul Collingwood score in FC in 2011?,2,57 50s in FC in 2011.
+Paul_Collingwood,How many 100s did Paul Collingwood score in FC in 2010?,1,5 100s in FC in 2010.
+Paul_Collingwood,How many 100s did Paul Collingwood score in LA in 2010?,1,8 100s in LA in 2010.

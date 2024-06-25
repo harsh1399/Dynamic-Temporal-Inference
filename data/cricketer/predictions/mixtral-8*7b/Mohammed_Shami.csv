@@ -1,0 +1,11 @@
+entity,question,actual_answer,predicted_answer
+Mohammed_Shami,How many matches did Mohammed Shami played in Test in 2014?,8,10 matches
+Mohammed_Shami,How many matches did Mohammed Shami played in Test in 2015?,2,11 matches
+Mohammed_Shami,How many fivefor did Mohammed Shami took in FC in 2015?,1,Four five-fors.
+Mohammed_Shami,How many wickets did Mohammed Shami took in Tests and ODIs combined from 2015 to 2018?,102,239 wickets
+Mohammed_Shami,How many fivefor did Mohammed Shami took in Tests and ODIs combined from 2013 to 2019?,3,"Four in Tests, zero in ODIs."
+Mohammed_Shami,How many fivefor did Mohammed Shami took in Tests and ODIs combined from 2015 to 2018?,2,0 five-fors
+Mohammed_Shami,How many 50s did Mohammed Shami score in Test from 2013 to 2019?,1,Zero fifties.
+Mohammed_Shami,How many 50s did Mohammed Shami score in Test from 2013 to 2018?,1,Zero 50s in Test from 2013-2018.
+Mohammed_Shami,How many 50s did Mohammed Shami score in Test in 2014?,1,1 fifty in Test in 2014.
+Mohammed_Shami,How many 50s did Mohammed Shami score in FC in 2014?,1,0 fifties in FC in 2014.

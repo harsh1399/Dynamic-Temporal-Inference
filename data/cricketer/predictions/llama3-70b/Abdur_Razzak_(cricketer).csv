@@ -1,0 +1,29 @@
+entity,question,actual_answer,predicted_answer
+Abdur_Razzak_(cricketer),How many matches did Abdur Razzak played in ODI in 2013?,9,147 matches.
+Abdur_Razzak_(cricketer),How many wickets did Abdur Razzak took in ODI in 2015?,1,207
+Abdur_Razzak_(cricketer),How many matches did Abdur Razzak played in Tests and ODIs combined in 2015?,3,"Based on the entity timeline, in 2015, Abdur Razzak played 12 Test matches and 153 ODI matches. Therefore, the combined number of matches is:
+
+12 (Test) + 153 (ODI) = 165"
+Abdur_Razzak_(cricketer),How many matches did Abdur Razzak played in Tests and ODIs combined from 2013 to 2018?,8,"From 2013 to 2018, Abdur Razzak played 2 Test matches and 0 ODI matches. Therefore, the answer is 2."
+Abdur_Razzak_(cricketer),How many wickets did Abdur Razzak took in Tests and ODIs combined from 2012 to 2014?,16,"From 2012 to 2014, Abdur Razzak took 36 wickets in Tests and 91 wickets in ODIs, for a total of 127 wickets."
+Abdur_Razzak_(cricketer),How many wickets did Abdur Razzak took in Tests and ODIs combined from 2010 to 2015?,65,"To answer this question, we need to find the number of wickets Abdur Razzak took in Tests and ODIs combined from 2010 to 2015.
+
+Let's break it down:
+
+* In 2010, he had 16 wickets in Tests and 149 wickets in ODIs, for a total of 165 wickets.
+* In 2012, he had 18 wickets in Tests and 175 wickets in ODIs, for a total of 193 wickets.
+* In 2013, he had 23 wickets in Tests and 204 wickets in ODIs, for a total of 227 wickets.
+* In 2014, he had 23 wickets in Tests and 206 wickets in ODIs, for a total of 229 wickets.
+* In 2015, he had 23 wickets in Tests and 207 wickets in ODIs, for a total of 230 wickets.
+
+To find the total number of wickets, we need to subtract the wickets taken in 2010 from the wickets taken in 2015:
+
+230 (2015) - 165 (2010) = 65
+
+So, Abdur Razzak took 65 wickets in Tests and ODIs combined from 2010 to 2015.
+
+Answer: 65"
+Abdur_Razzak_(cricketer),How many 50s did Abdur Razzak score in FC from 2010 to 2012?,1,2
+Abdur_Razzak_(cricketer),How many 50s did Abdur Razzak score in ODI from 2010 to 2018?,1,1
+Abdur_Razzak_(cricketer),How many 50s did Abdur Razzak score in Tests and ODIs combined in 2013?,1,"According to the timeline, in 2013, Abdur Razza scored 0/1 fifties in ODIs and 0/0 fifties in Tests, so in total, he scored 1 fifty."
+Abdur_Razzak_(cricketer),How many 50s did Abdur Razzak score in ODI in 2013?,1,1.

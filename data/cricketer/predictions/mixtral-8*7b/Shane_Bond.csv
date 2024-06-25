@@ -1,0 +1,6 @@
+entity,question,actual_answer,predicted_answer
+Shane_Bond,How many wickets did Shane Bond took in ODI in 2010?,11,147 wickets
+Shane_Bond,How many wickets did Shane Bond took in Tests and ODIs combined in 2009?,11,136 wickets
+Shane_Bond,How many matches did Shane Bond played in ODI in 2009?,8,72 matches
+Shane_Bond,How many runs did Shane Bond scored in Tests and ODIs combined from 2008 to 2010?,121,"710 runs (Test: 307, ODI: 403)"
+Shane_Bond,How many matches did Shane Bond played in Tests and ODIs combined from 2008 to 2010?,16,157 matches (82 ODI & 75 Test)

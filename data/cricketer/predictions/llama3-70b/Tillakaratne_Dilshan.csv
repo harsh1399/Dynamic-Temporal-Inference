@@ -1,0 +1,66 @@
+entity,question,actual_answer,predicted_answer
+Tillakaratne_Dilshan,How many wickets did Tillakaratne Dilshan took in Tests and ODIs combined in 2013?,14,"According to the timeline, in 2013, Tillakaratne Dilshan took:
+
+* 39 wickets in Tests
+* 68 wickets in ODIs
+
+So, in 2013, Tillakaratne Dilshan took a total of 39 + 68 = 107 wickets in Tests and ODIs combined."
+Tillakaratne_Dilshan,How many matches did Tillakaratne Dilshan played in Test in 2012?,11,"According to the data, in 2012, Tillakaratne Dilshan played 84 Test matches (as of 2012-12-31T09:31:28Z)."
+Tillakaratne_Dilshan,How many wickets did Tillakaratne Dilshan took in Tests and ODIs combined from 2011 to 2014?,39,"From the data, let's extract the wicket counts for Tests and ODIs for Tillakaratne Dilshan from 2011 to 2014:
+
+2011-04-05T07:14:16Z:
+Test: 20 wickets
+ODI: 62 wickets
+
+2011-06-28T22:47:59Z:
+Test: 20 wickets
+ODI: 62 wickets
+
+2011-12-31T19:52:35Z:
+Test: 27 wickets
+ODI: 63 wickets
+
+2012-07-24T20:19:"
+Tillakaratne_Dilshan,How many matches did Tillakaratne Dilshan played in Tests and ODIs combined from 2009 to 2011?,59,"Let's analyze the data:
+
+**Tests:**
+* In 2009, Dilshan played 60 Tests.
+* In 2011, Dilshan played 66 Tests.
+
+**ODIs:**
+* In 2009, Dilshan played 168 ODIs.
+* In 2011, Dilshan played 203 ODIs.
+
+Now, let's calculate the total matches played in Tests and ODIs combined from 2009 to 2011:
+
+Tests: 60 + 66 = 126
+ODIs: 168 + 203 = 371
+Total matches: 126 + 371 = 497"
+Tillakaratne_Dilshan,How many wickets did Tillakaratne Dilshan took in Tests and ODIs combined from 2009 to 2013?,55,"Based on the provided entity timeline, here are the wickets taken by Tillakaratne Dilshan in Tests and ODIs from 2009 to 2013:
+
+**Tests:**
+- In 2009, he took 13 wickets (from ""2009-12-31T03:00:59Z"" data)
+- In 2010, he took 5 wickets (from ""2010-12-31T03:00:59Z"" data)
+- In 2011, he took 5 wickets (from ""2011-06-28T22:47:59Z"" data"
+Tillakaratne_Dilshan,How many 100s did Tillakaratne Dilshan score in FC from 2008 to 2011?,9,"From the timeline, we can see that in 2008-09-27T12:06:16Z, Tillakaratne Dilshan had 23 centuries in FC. In 2011-04-05T07:14:16Z, he had 30 centuries in FC. So, from 2008 to 2011, he scored 7 more centuries in FC.
+
+Answer: 7."
+Tillakaratne_Dilshan,How many 100s did Tillakaratne Dilshan score in Tests and ODIs combined from 2009 to 2014?,17,"Based on the provided timeline, let's extract the relevant information:
+
+**Tests:**
+* 2009-12-31: 11/13 (100s/50s)
+* 2011-04-05: 11/16 (100s/50s)
+* 2012-07-24: 12/20 (100s/50s)
+* 2012-08-07: 14/21 (100s/50s)
+* 2013-04-10: 16/23 (100s/50s)
+
+**ODIs:**
+* 2009-01-"
+Tillakaratne_Dilshan,How many 50s did Tillakaratne Dilshan score in LA from 2009 to 2014?,33,"From the given timeline, we can see that in 2011-04-05T07:14:16Z, Tillakaratne Dilshan scored 42 50s in LA. In 2014-11-29T07:24:06Z, he scored 63 50s in LA. 
+
+So, from 2009 to 2014, Tillakaratne Dilshan scored 63 - 42 = 21 new 50s in LA. Hence, the answer is 21."
+Tillakaratne_Dilshan,How many 50s did Tillakaratne Dilshan score in LA from 2007 to 2011?,18,"Based on the provided timeline, from 2007 to 2011, Tillakaratne Dilshan scored 30, 25, 31, 32, 40, and 42 fifties in LA."
+Tillakaratne_Dilshan,How many 50s did Tillakaratne Dilshan score in ODI in 2008?,4,"According to the timeline, in 2008-09-27T12:06:16Z, Tillakaratne Dilshan had 14 50s in ODI."
+Tillakaratne_Dilshan,How many 50s did Tillakaratne Dilshan score in FC in 2014?,2,"According to the data, Tillakaratne Dilshan scored 59 50s in FC as of 2014-11-29T07:24:06Z and 65 50s as of 2014-12-31T05:26:17Z. Therefore, he scored 6 additional 50s in FC in 2014."
+Tillakaratne_Dilshan,How many 100s did Tillakaratne Dilshan score in Test in 2012?,3,"According to the data, in 2012, Tillakaratne Dilshan scored 14 Test centuries (100s)."
+Tillakaratne_Dilshan,How many 100s did Tillakaratne Dilshan score in FC in 2012?,3,"According to the entity timeline, in 2012, Tillakaratne Dilshan scored 35 100s in FC."

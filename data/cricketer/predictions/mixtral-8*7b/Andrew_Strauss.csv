@@ -1,0 +1,22 @@
+entity,question,actual_answer,predicted_answer
+Andrew_Strauss,How many matches did Andrew Strauss played in FC in 2012?,23,241 matches
+Andrew_Strauss,How many matches did Andrew Strauss played in Tests and ODIs combined in 2012?,11,251 matches
+Andrew_Strauss,How many matches did Andrew Strauss played in Tests and ODIs combined in 2011?,25,238 matches
+Andrew_Strauss,How many matches did Andrew Strauss played in Tests and ODIs combined from 2009 to 2012?,59,218 matches (99 ODIs and 119 Tests)
+Andrew_Strauss,How many matches did Andrew Strauss played in Tests and ODIs combined from 2010 to 2012?,36,"216 matches (Test: 78, ODI: 138)"
+Andrew_Strauss,How many matches did Andrew Strauss played in Tests and ODIs combined from 2009 to 2011?,48,210 matches
+Andrew_Strauss,How many 100s did Andrew Strauss score in FC from 2009 to 2011?,6,"23 100s
+
+The timeline shows that Andrew Strauss scored 23 centuries (100s) in first-class (FC) cricket between 2009 and 2011. This information can be found by looking at the FC section of the timeline for the dates 2009-09-19T09:10:56Z to 2011-12-31T11:08:50Z and adding up the number of 100s scored."
+Andrew_Strauss,How many 100s did Andrew Strauss score in ODI from 2009 to 2012?,3,6 100s in ODI (2009-2012)
+Andrew_Strauss,How many 50s did Andrew Strauss score in ODI from 2010 to 2012?,3,18 fifties in ODI (2010-2012)
+Andrew_Strauss,How many 50s did Andrew Strauss score in Test from 2010 to 2012?,6,24 50s in Tests (2010-2012).
+Andrew_Strauss,How many 50s did Andrew Strauss score in FC from 2009 to 2011?,12,29 50s in FC from 2009 to 2011.
+Andrew_Strauss,How many 50s did Andrew Strauss score in Tests and ODIs combined in 2012?,2,21 fifties
+Andrew_Strauss,How many 50s did Andrew Strauss score in Test in 2012?,2,11 50s in Tests in 2012.
+Andrew_Strauss,How many 100s did Andrew Strauss score in LA in 2010?,2,"4 hundreds (100s) in LA in 2010.
+
+Reference(s):
+- ""LA"": {""matches"": ""222"", ""runs"": ""6245"", ""bat avg"": ""31.06"", ""100s/50s"": ""7/40"", ""top score"": ""163"", ""deliveries"": ""6"", ""wickets"": ""-"", ""bowl avg"": ""-"", ""fivefor"": ""-"", ""tenfor"": ""-"", ""best bowling"": ""-"", ""catches/stumpings"": ""71/-""} (timeline value for 2010-01-08T00:59:06Z)"
+Andrew_Strauss,How many 100s did Andrew Strauss score in Tests and ODIs combined in 2011?,1,11 100s
+Andrew_Strauss,How many 100s did Andrew Strauss score in Test in 2010?,1,5 100s in Tests in 2010.
