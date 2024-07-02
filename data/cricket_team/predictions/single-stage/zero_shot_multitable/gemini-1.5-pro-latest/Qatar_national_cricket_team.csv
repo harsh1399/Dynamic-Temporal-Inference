@@ -1,0 +1,56 @@
+entity,question,actual_answer,predicted_answer
+Qatar_national_cricket_team,Name the person(s) who served as the t20i captain when Shahid Mahboob was the coach of the Qatar national cricket team.,"Shakeel Ansar, Tamoor Sajjad","Tamoor Sajjad 
+"
+Qatar_national_cricket_team,Name the person(s) who served as the coach when Inam-ul-Haq (cricketer) was the t20i captain of the Qatar national cricket team.,Abdul Rehman Chohan,"Abdul Rehman Chohan 
+"
+Qatar_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Tamoor Sajjad as the t20i captain of the Qatar national cricket team?,Shahid Mahboob,"Shahid Mahboob 
+"
+Qatar_national_cricket_team,Name the person(s) who served as the coach when Shakeel Ansar was the t20i captain of the Qatar national cricket team.,Shahid Mahboob,"Shahid Mahboob 
+"
+Qatar_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Rizlan Iqbar as the t20i captain of the Qatar national cricket team?,Asadullah Khan,"Asadullah Khan 
+"
+Qatar_national_cricket_team,Name the person(s) who served as the t20i captain when Abdul Rehman Chohan was the coach of the Qatar national cricket team.,Inam-ul-Haq (cricketer),"Inam-ul-Haq (cricketer) 
+"
+Qatar_national_cricket_team,Name the person(s) who served as the t20i captain when Asadullah Khan was the coach of the Qatar national cricket team.,Rizlan Iqbar,
+Qatar_national_cricket_team,Does the Qatar national cricket team have the best win percentage in the t20i format in 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2019 
+"
+Qatar_national_cricket_team,"What was the duration of Inam-ul-Haq (cricketer)'s tenure as the t20i captain of Qatar national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",181 days,"192 
+"
+Qatar_national_cricket_team,"What was the duration of Tamoor Sajjad's tenure as the t20i captain of Qatar national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",898 days,"296 
+"
+Qatar_national_cricket_team,"What was the duration of Shakeel Ansar's tenure as the t20i captain of Qatar national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",361 days,"361 
+"
+Qatar_national_cricket_team,"What was the duration of Abdul Rehman Chohan's tenure as the coach of Qatar national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",181 days,"173 
+"
+Qatar_national_cricket_team,"What was the duration of Shahid Mahboob's tenure as the coach of Qatar national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1259 days,"1292 
+"
+Qatar_national_cricket_team,"Which person had the longest tenure as the t20i captain of the Qatar national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Tamoor Sajjad,"Tamoor Sajjad 
+"
+Qatar_national_cricket_team,"Which person had the longest tenure as the coach of the Qatar national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Shahid Mahboob,"Shahid Mahboob 
+"
+Qatar_national_cricket_team,"Who had the shortest stint as the t20i captain of the Qatar national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Rizlan Iqbar,
+Qatar_national_cricket_team,"Which person had the shortest tenure as the coach of the Qatar national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Asadullah Khan,"Asadullah Khan 
+"
+Qatar_national_cricket_team,How many people served as the t20i captain of the Qatar national cricket team?,4,"Three 
+"
+Qatar_national_cricket_team,How many people served as the coach of the Qatar national cricket team?,3,"4 
+"
+Qatar_national_cricket_team,Who was the t20i captain of the Qatar national cricket team before Tamoor Sajjad?,Inam-ul-Haq (cricketer),"Inam-ul-Haq (cricketer) 
+"
+Qatar_national_cricket_team,Who served as the t20i captain of the Qatar national cricket team prior to Shakeel Ansar?,Tamoor Sajjad,"Tamoor Sajjad 
+"
+Qatar_national_cricket_team,Who served as the t20i captain of the Qatar national cricket team prior to Rizlan Iqbar?,Shakeel Ansar,
+Qatar_national_cricket_team,Who was the coach of the Qatar national cricket team before Shahid Mahboob?,Abdul Rehman Chohan,"Abdul Rehman Chohan 
+"
+Qatar_national_cricket_team,Who was the coach of the Qatar national cricket team before Asadullah Khan?,Shahid Mahboob,"Shahid Mahboob 
+"
+Qatar_national_cricket_team,Who was the t20i captain of Qatar national cricket team after Inam-ul-Haq (cricketer)?,Tamoor Sajjad,"Tamoor Sajjad 
+"
+Qatar_national_cricket_team,Who assumed the role of t20i captain for the Qatar national cricket team following Tamoor Sajjad?,Shakeel Ansar,
+Qatar_national_cricket_team,Who was the t20i captain of Qatar national cricket team after Shakeel Ansar?,Rizlan Iqbar,
+Qatar_national_cricket_team,Who assumed the role of coach for the Qatar national cricket team following Abdul Rehman Chohan?,Shahid Mahboob,"Shahid Mahboob 
+"
+Qatar_national_cricket_team,Who assumed the role of coach for the Qatar national cricket team following Shahid Mahboob?,Asadullah Khan,"Asadullah Khan 
+"
+Qatar_national_cricket_team,What is the ratio of wins to losses for the Qatar national cricket team in the t20i format for 2019?(Answer in decimal form.),1.5,"0.75 
+"

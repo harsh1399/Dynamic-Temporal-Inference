@@ -1,0 +1,169 @@
+entity,question,actual_answer,predicted_answer
+Pakistan_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Sarfraz Ahmed as the test captain of the Pakistan national cricket team?,"Misbah-ul-Haq, Mickey Arthur","Mickey Arthur 
+"
+Pakistan_national_cricket_team,Name the person(s) who served as the coach when Babar Azam was the test captain of the Pakistan national cricket team.,"Misbah-ul-Haq, Saqlain Mushtaq","Misbah-ul-Haq, Saqlain Mushtaq 
+"
+Pakistan_national_cricket_team,Name the person(s) who served as the coach when Sarfraz Ahmed was the od captain of the Pakistan national cricket team.,"Misbah-ul-Haq, Mickey Arthur","Mickey Arthur 
+"
+Pakistan_national_cricket_team,Name the person(s) who served as the coach when Babar Azam was the od captain of the Pakistan national cricket team.,"Misbah-ul-Haq, Saqlain Mushtaq","Misbah-ul-Haq, Saqlain Mushtaq 
+"
+Pakistan_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Sarfraz Ahmed as the t20i captain of the Pakistan national cricket team?,"Misbah-ul-Haq, Mickey Arthur","Mickey Arthur 
+"
+Pakistan_national_cricket_team,Name the person(s) who served as the coach when Babar Azam was the t20i captain of the Pakistan national cricket team.,"Misbah-ul-Haq, Saqlain Mushtaq","Misbah-ul-Haq, Saqlain Mushtaq 
+"
+Pakistan_national_cricket_team,Who were the individual(s) serving as the test captain during the tenure of Misbah-ul-Haq as the coach of the Pakistan national cricket team?,"Babar Azam, Sarfraz Ahmed, Azhar Ali","Sarfraz Ahmed, Azhar Ali, Babar Azam 
+"
+Pakistan_national_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Misbah-ul-Haq as the coach of the Pakistan national cricket team?,"Babar Azam, Sarfraz Ahmed","Sarfraz Ahmed, Babar Azam 
+"
+Pakistan_national_cricket_team,Name the person(s) who served as the t20i captain when Misbah-ul-Haq was the coach of the Pakistan national cricket team.,"Babar Azam, Sarfraz Ahmed","Sarfraz Ahmed, Babar Azam 
+"
+Pakistan_national_cricket_team,Name the person(s) who served as the coach when Azhar Ali was the test captain of the Pakistan national cricket team.,Misbah-ul-Haq,"Misbah-ul-Haq 
+"
+Pakistan_national_cricket_team,Name the person(s) who served as the test captain when Mickey Arthur was the coach of the Pakistan national cricket team.,Sarfraz Ahmed,"Sarfraz Ahmed 
+"
+Pakistan_national_cricket_team,Who were the individual(s) serving as the test captain during the tenure of Saqlain Mushtaq as the coach of the Pakistan national cricket team?,Babar Azam,"Babar Azam 
+"
+Pakistan_national_cricket_team,Name the person(s) who served as the od captain when Mickey Arthur was the coach of the Pakistan national cricket team.,Sarfraz Ahmed,"Sarfraz Ahmed 
+"
+Pakistan_national_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Saqlain Mushtaq as the coach of the Pakistan national cricket team?,Babar Azam,"Babar Azam 
+"
+Pakistan_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Azhar Ali as the test captain of the Pakistan national cricket team?,Babar Azam,"Sarfraz Ahmed, Babar Azam 
+"
+Pakistan_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Mickey Arthur as the coach of the Pakistan national cricket team?,Sarfraz Ahmed,"Sarfraz Ahmed 
+"
+Pakistan_national_cricket_team,Name the person(s) who served as the t20i captain when Saqlain Mushtaq was the coach of the Pakistan national cricket team.,Babar Azam,"Babar Azam 
+"
+Pakistan_national_cricket_team,Does the Pakistan national cricket team have the best win percentage in the test format in 2017 or 2018?(Answer in year)(Include no results/ties/draws in total number of matches.),2018,"2018 
+"
+Pakistan_national_cricket_team,Does the Pakistan national cricket team have the best win percentage in the test format in 2017 or 2019?(Answer in year)(Include no results/ties/draws in total number of matches.),2017,"2017 
+"
+Pakistan_national_cricket_team,Does the Pakistan national cricket team have the best win percentage in the test format in 2017 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2021 
+"
+Pakistan_national_cricket_team,Does the Pakistan national cricket team have the best win percentage in the test format in 2018 or 2019?(Answer in year)(Include no results/ties/draws in total number of matches.),2018,"2018 
+"
+Pakistan_national_cricket_team,Was the Pakistan national cricket team's win percentage the highest in the test format in either 2018 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2021 
+"
+Pakistan_national_cricket_team,Does the Pakistan national cricket team have the best win percentage in the test format in 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2021 
+"
+Pakistan_national_cricket_team,Was the Pakistan national cricket team's win percentage the highest in the odi format in either 2017 or 2018?(Answer in year)(Include no results/ties/draws in total number of matches.),2017,"2017 
+"
+Pakistan_national_cricket_team,Was the Pakistan national cricket team's win percentage the highest in the odi format in either 2017 or 2019?(Answer in year)(Include no results/ties/draws in total number of matches.),2017,"2019 
+"
+Pakistan_national_cricket_team,Was the Pakistan national cricket team's win percentage the highest in the odi format in either 2017 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2017,"2017 
+"
+Pakistan_national_cricket_team,Was the Pakistan national cricket team's win percentage the highest in the odi format in either 2018 or 2019?(Answer in year)(Include no results/ties/draws in total number of matches.),2018,"2018 
+"
+Pakistan_national_cricket_team,Was the Pakistan national cricket team's win percentage the highest in the odi format in either 2018 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2018,"2018 
+"
+Pakistan_national_cricket_team,Was the Pakistan national cricket team's win percentage the highest in the odi format in either 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2021 
+"
+Pakistan_national_cricket_team,Does the Pakistan national cricket team have the best win percentage in the t20i format in 2017 or 2018?(Answer in year)(Include no results/ties/draws in total number of matches.),2018,"2018 
+"
+Pakistan_national_cricket_team,Does the Pakistan national cricket team have the best win percentage in the t20i format in 2017 or 2019?(Answer in year)(Include no results/ties/draws in total number of matches.),2017,"2017 
+"
+Pakistan_national_cricket_team,Was the Pakistan national cricket team's win percentage the highest in the t20i format in either 2017 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2017,"2017 
+"
+Pakistan_national_cricket_team,Was the Pakistan national cricket team's win percentage the highest in the t20i format in either 2018 or 2019?(Answer in year)(Include no results/ties/draws in total number of matches.),2018,"2018 
+"
+Pakistan_national_cricket_team,Was the Pakistan national cricket team's win percentage the highest in the t20i format in either 2018 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2018,"2018 
+"
+Pakistan_national_cricket_team,Does the Pakistan national cricket team have the best win percentage in the t20i format in 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2019 
+"
+Pakistan_national_cricket_team,"Name the person(s) who served as the coach during the tenure of Babar Azam and Azhar Ali as the t20i captain and test captain, respectively, of the Pakistan national cricket team.",Misbah-ul-Haq,"Misbah-ul-Haq 
+"
+Pakistan_national_cricket_team,Who was the t20i captain when test captain was Azhar Ali and coach was Misbah-ul-Haq of the Pakistan national cricket team?,Babar Azam,"Babar Azam 
+"
+Pakistan_national_cricket_team,In which year did Misbah-ul-Haq become the coach of the Pakistan national cricket team for the first time?,2019,"2019 
+"
+Pakistan_national_cricket_team,In which year did Azhar Ali become the test_captain of the Pakistan national cricket team for the first time?,2019,"2019 
+"
+Pakistan_national_cricket_team,In which year did Babar Azam become the t20i_captain of the Pakistan national cricket team for the first time?,2019,"2019 
+"
+Pakistan_national_cricket_team,"What was the duration of Mickey Arthur's tenure as the coach of Pakistan national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",704 days,"1130 days 
+"
+Pakistan_national_cricket_team,"What was the duration of Misbah-ul-Haq's tenure as the coach of Pakistan national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",823 days,"1099 days 
+"
+Pakistan_national_cricket_team,"Who had the longest stint as the coach of the Pakistan national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Misbah-ul-Haq,"Mickey Arthur 
+"
+Pakistan_national_cricket_team,"Which person had the shortest tenure as the coach of the Pakistan national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Saqlain Mushtaq,"Saqlain Mushtaq 
+"
+Pakistan_national_cricket_team,How many individuals took on the role of coach of the Pakistan national cricket team?,3,"3 
+"
+Pakistan_national_cricket_team,Who served as the coach of the Pakistan national cricket team prior to Misbah-ul-Haq?,Mickey Arthur,"Mickey Arthur 
+"
+Pakistan_national_cricket_team,Who was the coach of the Pakistan national cricket team before Saqlain Mushtaq?,Misbah-ul-Haq,"Misbah-ul-Haq 
+"
+Pakistan_national_cricket_team,Who assumed the role of coach for the Pakistan national cricket team following Mickey Arthur?,Misbah-ul-Haq,"Misbah-ul-Haq 
+"
+Pakistan_national_cricket_team,Who was the coach of Pakistan national cricket team after Misbah-ul-Haq?,Saqlain Mushtaq,"Saqlain Mushtaq 
+"
+Pakistan_national_cricket_team,"How many total(including ODIs,Tests,T20Is) matches did the Pakistan national cricket team play between 2018 and 2019? (including both the years)",86,"231 
+"
+Pakistan_national_cricket_team,"How many total(including ODIs,Tests,T20Is) matches did the Pakistan national cricket team play between 2018 and 2021? (including both the years)",136,"300 matches 
+"
+Pakistan_national_cricket_team,"How many total(including ODIs,Tests,T20Is) matches did the Pakistan national cricket team play between 2019 and 2021? (including both the years)",91,"30 matches 
+"
+Pakistan_national_cricket_team,How many test matches did the Pakistan national cricket team play between 2018 and 2019? (including both the years),15,"10 
+"
+Pakistan_national_cricket_team,How many test matches did the Pakistan national cricket team play between 2018 and 2021? (including both the years),27,"21 
+"
+Pakistan_national_cricket_team,How many test matches did the Pakistan national cricket team play between 2019 and 2021? (including both the years),18,"16 
+"
+Pakistan_national_cricket_team,How many odi matches did the Pakistan national cricket team play between 2018 and 2019? (including both the years),43,"143 
+"
+Pakistan_national_cricket_team,How many odi matches did the Pakistan national cricket team play between 2018 and 2021? (including both the years),52,"148 
+"
+Pakistan_national_cricket_team,How many odi matches did the Pakistan national cricket team play between 2019 and 2021? (including both the years),34,"18 
+"
+Pakistan_national_cricket_team,How many t20 matches did the Pakistan national cricket team play between 2018 and 2019? (including both the years),28,"20 matches 
+"
+Pakistan_national_cricket_team,How many t20 matches did the Pakistan national cricket team play between 2018 and 2021? (including both the years),57,"60 
+"
+Pakistan_national_cricket_team,How many t20 matches did the Pakistan national cricket team play between 2019 and 2021? (including both the years),39,"39
+"
+Pakistan_national_cricket_team,Who were the individual(s) who held the position of the coach for the Pakistan national cricket team from 2018 and 2019? (including both the years),"Misbah-ul-Haq, Mickey Arthur","Mickey Arthur 
+"
+Pakistan_national_cricket_team,Name the people who serve as coach of Pakistan national cricket team between 2018 and 2021. (including both the years),"Misbah-ul-Haq, Mickey Arthur, Saqlain Mushtaq","Mickey Arthur, Misbah-ul-Haq 
+"
+Pakistan_national_cricket_team,Name the people who serve as coach of Pakistan national cricket team between 2019 and 2021. (including both the years),"Misbah-ul-Haq, Mickey Arthur, Saqlain Mushtaq","Mickey Arthur, Misbah-ul-Haq 
+"
+Pakistan_national_cricket_team,Name the person(s) who served as the coach of the Pakistan national cricket team in 2018.,Mickey Arthur,"Mickey Arthur 
+"
+Pakistan_national_cricket_team,Who were the individual(s) who acted as the coach of the Pakistan national cricket team in 2019?,"Misbah-ul-Haq, Mickey Arthur","Mickey Arthur, Misbah-ul-Haq 
+"
+Pakistan_national_cricket_team,what was the best test rank of the Pakistan national cricket team in 2018?,6,"6th 
+"
+Pakistan_national_cricket_team,what was the best test rank of the Pakistan national cricket team in 2019?,6,"7th 
+"
+Pakistan_national_cricket_team,what was the best odi rank of the Pakistan national cricket team in 2018?,5,"5th 
+"
+Pakistan_national_cricket_team,what was the best odi rank of the Pakistan national cricket team in 2019?,5,"5th 
+"
+Pakistan_national_cricket_team,What was the highest ranking achieved by the Pakistan national cricket team in the t20i format in 2018?,1,"1st 
+"
+Pakistan_national_cricket_team,What was the highest ranking achieved by the Pakistan national cricket team in the t20i format in 2019?,1,"1st 
+"
+Pakistan_national_cricket_team,What is the ratio of wins to losses for the Pakistan national cricket team in the test format for 2017?(Answer in decimal form.),0.5,"0.5 
+"
+Pakistan_national_cricket_team,What is the ratio of wins to losses for the Pakistan national cricket team in the test format for 2018?(Answer in decimal form.),1.0,"1.0 
+"
+Pakistan_national_cricket_team,What is the ratio of wins to losses for the Pakistan national cricket team in the test format for 2019?(Answer in decimal form.),0.25,"0.25 
+"
+Pakistan_national_cricket_team,What is the ratio of wins to losses for the Pakistan national cricket team in the test format for 2021?(Answer in decimal form.),2.5,"2.5 
+"
+Pakistan_national_cricket_team,What is the win to loss ratio of Pakistan national cricket team in odi format in 2017?(Answer in decimal form.),2.0,"2.0 
+"
+Pakistan_national_cricket_team,What is the ratio of wins to losses for the Pakistan national cricket team in the odi format for 2018?(Answer in decimal form.),0.89,"0.89 
+"
+Pakistan_national_cricket_team,What is the win to loss ratio of Pakistan national cricket team in odi format in 2019?(Answer in decimal form.),0.6,"0.5625 
+"
+Pakistan_national_cricket_team,What is the ratio of wins to losses for the Pakistan national cricket team in the odi format for 2021?(Answer in decimal form.),0.5,"0.5 
+"
+Pakistan_national_cricket_team,What is the ratio of wins to losses for the Pakistan national cricket team in the t20i format for 2017?(Answer in decimal form.),4.0,"1.67 
+"
+Pakistan_national_cricket_team,What is the win to loss ratio of Pakistan national cricket team in t20i format in 2018?(Answer in decimal form.),8.5,"1.75 
+"
+Pakistan_national_cricket_team,What is the win to loss ratio of Pakistan national cricket team in t20i format in 2019?(Answer in decimal form.),0.12,"1.66 
+"
+Pakistan_national_cricket_team,What is the ratio of wins to losses for the Pakistan national cricket team in the t20i format for 2021?(Answer in decimal form.),2.0,"1.72 
+"

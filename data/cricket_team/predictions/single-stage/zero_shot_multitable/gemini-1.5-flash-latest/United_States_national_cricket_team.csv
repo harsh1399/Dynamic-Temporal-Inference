@@ -1,0 +1,71 @@
+entity,question,actual_answer,predicted_answer
+United_States_national_cricket_team,Name the person(s) who served as the coach when Saurabh Netravalkar was the od captain of the United States national cricket team.,"Kiran More, Pubudu Dassanayake, James Pamment",
+United_States_national_cricket_team,Name the person(s) who served as the coach when Saurabh Netravalkar was the t20i captain of the United States national cricket team.,"Kiran More, Pubudu Dassanayake, James Pamment",
+United_States_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Monank Patel as the od captain of the United States national cricket team?,Kevin Darlington (interim),
+United_States_national_cricket_team,Name the person(s) who served as the coach when Monank Patel was the t20i captain of the United States national cricket team.,Kevin Darlington (interim),
+United_States_national_cricket_team,Name the person(s) who served as the od captain when Pubudu Dassanayake was the coach of the United States national cricket team.,Saurabh Netravalkar,"Saurabh Netravalkar 
+"
+United_States_national_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Kiran More as the coach of the United States national cricket team?,Saurabh Netravalkar,"Saurabh Netravalkar 
+"
+United_States_national_cricket_team,Who were the individual(s) serving as the od captain during the tenure of James Pamment as the coach of the United States national cricket team?,Saurabh Netravalkar,"Saurabh Netravalkar 
+"
+United_States_national_cricket_team,Name the person(s) who served as the od captain when Kevin Darlington (interim) was the coach of the United States national cricket team.,Monank Patel,"Monank Patel 
+"
+United_States_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Pubudu Dassanayake as the coach of the United States national cricket team?,Saurabh Netravalkar,"Saurabh Netravalkar 
+"
+United_States_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Kiran More as the coach of the United States national cricket team?,Saurabh Netravalkar,"Saurabh Netravalkar 
+"
+United_States_national_cricket_team,Name the person(s) who served as the t20i captain when James Pamment was the coach of the United States national cricket team.,Saurabh Netravalkar,"Saurabh Netravalkar 
+"
+United_States_national_cricket_team,Name the person(s) who served as the t20i captain when Kevin Darlington (interim) was the coach of the United States national cricket team.,Monank Patel,"Monank Patel 
+"
+United_States_national_cricket_team,Was the United States national cricket team's win percentage the highest in the odi format in either 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2022 
+"
+United_States_national_cricket_team,Was the United States national cricket team's win percentage the highest in the odi format in either 2019 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2023,"2023 
+"
+United_States_national_cricket_team,Was the United States national cricket team's win percentage the highest in the odi format in either 2022 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2023,"2023 
+"
+United_States_national_cricket_team,Was the United States national cricket team's win percentage the highest in the t20i format in either 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2022 
+"
+United_States_national_cricket_team,In which year did Kevin Darlington (interim) first assume the role of coach for the United States national cricket team?,2023,"2023 
+"
+United_States_national_cricket_team,"What was the duration of Saurabh Netravalkar's tenure as the od captain of United States national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",976 days,"1095 days 
+"
+United_States_national_cricket_team,"What was the duration of Monank Patel's tenure as the od captain of United States national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",727 days,"1023 days 
+"
+United_States_national_cricket_team,"How long did Saurabh Netravalkar serve as the t20i captain of United States national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",976 days,"1,101 days 
+"
+United_States_national_cricket_team,"What was the duration of Monank Patel's tenure as the t20i captain of United States national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",727 days,"1032 days 
+"
+United_States_national_cricket_team,"Which person had the longest tenure as the od captain of the United States national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Saurabh Netravalkar,"Monank Patel 
+"
+United_States_national_cricket_team,"Who had the longest stint as the t20i captain of the United States national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Saurabh Netravalkar,"Monank Patel 
+"
+United_States_national_cricket_team,"Which person had the shortest tenure as the od captain of the United States national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Monank Patel,
+United_States_national_cricket_team,"Who had the shortest stint as the t20i captain of the United States national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Monank Patel,
+United_States_national_cricket_team,How many people served as the od captain of the United States national cricket team?,2,"Two people. 
+"
+United_States_national_cricket_team,How many individuals took on the role of t20i captain of the United States national cricket team?,2,"Two individuals. 
+"
+United_States_national_cricket_team,Who served as the od captain of the United States national cricket team prior to Monank Patel?,Saurabh Netravalkar,"Saurabh Netravalkar 
+"
+United_States_national_cricket_team,Who served as the t20i captain of the United States national cricket team prior to Monank Patel?,Saurabh Netravalkar,"Saurabh Netravalkar 
+"
+United_States_national_cricket_team,Who was the od captain of United States national cricket team after Saurabh Netravalkar?,Monank Patel,"Monank Patel 
+"
+United_States_national_cricket_team,Who was the t20i captain of United States national cricket team after Saurabh Netravalkar?,Monank Patel,"Monank Patel 
+"
+United_States_national_cricket_team,What was the highest ranking achieved by the United States national cricket team in the odi format in 2023?,18,"18th 
+"
+United_States_national_cricket_team,What was the highest ranking achieved by the United States national cricket team in the t20i format in 2023?,25,"25th 
+"
+United_States_national_cricket_team,What is the ratio of wins to losses for the United States national cricket team in the odi format for 2019?(Answer in decimal form.),2.0,"1.5 
+"
+United_States_national_cricket_team,What is the win to loss ratio of United States national cricket team in odi format in 2022?(Answer in decimal form.),1.12,"1.43 
+"
+United_States_national_cricket_team,What is the ratio of wins to losses for the United States national cricket team in the odi format for 2023?(Answer in decimal form.),4.0,"1.25 
+"
+United_States_national_cricket_team,What is the ratio of wins to losses for the United States national cricket team in the t20i format for 2019?(Answer in decimal form.),0.4,"0.4
+"
+United_States_national_cricket_team,What is the win to loss ratio of United States national cricket team in t20i format in 2022?(Answer in decimal form.),0.67,"0.83 
+"

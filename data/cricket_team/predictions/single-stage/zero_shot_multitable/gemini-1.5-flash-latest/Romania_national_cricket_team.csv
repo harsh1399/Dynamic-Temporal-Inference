@@ -1,0 +1,24 @@
+entity,question,actual_answer,predicted_answer
+Romania_national_cricket_team,Name the person(s) who served as the coach when Ramesh Satheesan was the t20i captain of the Romania national cricket team.,Andrew Begg,"Andrew Begg 
+"
+Romania_national_cricket_team,Name the person(s) who served as the t20i captain when Andrew Begg was the coach of the Romania national cricket team.,Ramesh Satheesan,
+Romania_national_cricket_team,Was the Romania national cricket team's win percentage the highest in the t20i format in either 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2022 
+"
+Romania_national_cricket_team,"How long did Ramesh Satheesan serve as the t20i captain of Romania national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1220 days,"1,095 days 
+"
+Romania_national_cricket_team,"What was the duration of Andrew Begg's tenure as the coach of Romania national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1220 days,"1155 days 
+"
+Romania_national_cricket_team,"Which person had the longest tenure as the t20i captain of the Romania national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Ramesh Satheesan,
+Romania_national_cricket_team,"Which person had the longest tenure as the coach of the Romania national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Andrew Begg,"Andrew Begg 
+"
+Romania_national_cricket_team,"Which person had the shortest tenure as the t20i captain of the Romania national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Ramesh Satheesan,
+Romania_national_cricket_team,"Which person had the shortest tenure as the coach of the Romania national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Andrew Begg,"Andrew Begg 
+"
+Romania_national_cricket_team,How many individuals took on the role of t20i captain of the Romania national cricket team?,1,"One individual. 
+"
+Romania_national_cricket_team,How many individuals took on the role of coach of the Romania national cricket team?,1,"One coach 
+"
+Romania_national_cricket_team,What is the win to loss ratio of Romania national cricket team in t20i format in 2019?(Answer in decimal form.),3.0,"3.00 
+"
+Romania_national_cricket_team,What is the win to loss ratio of Romania national cricket team in t20i format in 2022?(Answer in decimal form.),1.67,"3.8 
+"

@@ -1,0 +1,122 @@
+entity,question,actual_answer,predicted_answer
+England_cricket_team,Who were the individual(s) serving as the coach during the tenure of Joe Root as the test captain of the England cricket team?,"Chris Silverwood, Trevor Bayliss",Chris Silverwood and Paul Collingwood.
+England_cricket_team,Name the person(s) who served as the coach when Eoin Morgan was the od captain of the England cricket team.,"Chris Silverwood, Trevor Bayliss",Chris Silverwood.
+England_cricket_team,Name the person(s) who served as the coach when Eoin Morgan was the t20i captain of the England cricket team.,"Chris Silverwood, Trevor Bayliss",The question cannot be answered based on the provided table.
+England_cricket_team,Name the person(s) who served as the test captain when Eoin Morgan was the od captain of the England cricket team.,"Joe Root, Ben Stokes",Not mentioned in the table.
+England_cricket_team,Who were the individual(s) serving as the test captain during the tenure of Eoin Morgan as the t20i captain of the England cricket team?,"Joe Root, Ben Stokes","None, as Eoin Morgan was not present in the table."
+England_cricket_team,Name the person(s) who served as the od captain when Ben Stokes was the test captain of the England cricket team.,"Jos Buttler, Eoin Morgan",Jos Buttler.
+England_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Brendon McCullum as the test coach of the England cricket team?,"Jos Buttler, Eoin Morgan",Jos Buttler.
+England_cricket_team,Name the person(s) who served as the od captain when Matthew Mott was the od coach of the England cricket team.,"Jos Buttler, Eoin Morgan",Jos Buttler.
+England_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Ben Stokes as the test captain of the England cricket team?,"Jos Buttler, Eoin Morgan",Jos Buttler served as the t20i captain.
+England_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Brendon McCullum as the test coach of the England cricket team?,"Jos Buttler, Eoin Morgan",Jos Buttler.
+England_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Matthew Mott as the od coach of the England cricket team?,"Jos Buttler, Eoin Morgan",Jos Buttler.
+England_cricket_team,Name the person(s) who served as the test coach when Ben Stokes was the test captain of the England cricket team.,Brendon McCullum,Brendon McCullum.
+England_cricket_team,Name the person(s) who served as the test coach when Eoin Morgan was the od captain of the England cricket team.,Brendon McCullum,"Unknown, as Eoin Morgan is not the current OD captain."
+England_cricket_team,Who were the individual(s) serving as the test coach during the tenure of Jos Buttler as the od captain of the England cricket team?,Brendon McCullum,Matthew Mott.
+England_cricket_team,Name the person(s) who served as the test coach when Eoin Morgan was the t20i captain of the England cricket team.,Brendon McCullum,The question requires information not present in the table.
+England_cricket_team,Who were the individual(s) serving as the test coach during the tenure of Jos Buttler as the t20i captain of the England cricket team?,Brendon McCullum,Coaching staff not specified for specific captain tenure.
+England_cricket_team,Name the person(s) who served as the test coach when Matthew Mott was the od coach of the England cricket team.,Brendon McCullum,Brendon McCullum served as test coach.
+England_cricket_team,Who were the individual(s) serving as the od coach during the tenure of Ben Stokes as the test captain of the England cricket team?,Matthew Mott,Matthew Mott.
+England_cricket_team,Name the person(s) who served as the od coach when Eoin Morgan was the od captain of the England cricket team.,Matthew Mott,Matthew Mott was not the coach during Eoin Morgan's tenure.
+England_cricket_team,Name the person(s) who served as the od coach when Jos Buttler was the od captain of the England cricket team.,Matthew Mott,Matthew Mott.
+England_cricket_team,Name the person(s) who served as the od coach when Eoin Morgan was the t20i captain of the England cricket team.,Matthew Mott,Not specified in the provided table.
+England_cricket_team,Who were the individual(s) serving as the od coach during the tenure of Jos Buttler as the t20i captain of the England cricket team?,Matthew Mott,Matthew Mott.
+England_cricket_team,Who were the individual(s) serving as the od coach during the tenure of Brendon McCullum as the test coach of the England cricket team?,Matthew Mott,Matthew Mott.
+England_cricket_team,Who were the individual(s) serving as the test captain during the tenure of Jos Buttler as the od captain of the England cricket team?,Ben Stokes,Ben Stokes.
+England_cricket_team,Who were the individual(s) serving as the test captain during the tenure of Jos Buttler as the t20i captain of the England cricket team?,Ben Stokes,Ben Stokes.
+England_cricket_team,Who were the individual(s) serving as the test captain during the tenure of Trevor Bayliss as the coach of the England cricket team?,Joe Root,Not mentioned in the provided table.
+England_cricket_team,Name the person(s) who served as the test captain when Chris Silverwood was the coach of the England cricket team.,Joe Root,Not available in the table.
+England_cricket_team,Who were the individual(s) serving as the test captain during the tenure of Brendon McCullum as the test coach of the England cricket team?,Ben Stokes,Ben Stokes.
+England_cricket_team,Name the person(s) who served as the test captain when Matthew Mott was the od coach of the England cricket team.,Ben Stokes,"None, since Matthew Mott was never the Test coach."
+England_cricket_team,Name the person(s) who served as the od captain when Joe Root was the test captain of the England cricket team.,Eoin Morgan,Eoin Morgan.
+England_cricket_team,Name the person(s) who served as the od captain when Trevor Bayliss was the coach of the England cricket team.,Eoin Morgan,Eoin Morgan.
+England_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Chris Silverwood as the coach of the England cricket team?,Eoin Morgan,Eoin Morgan (not mentioned in the table).
+England_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Joe Root as the test captain of the England cricket team?,Eoin Morgan,Eoin Morgan.
+England_cricket_team,Name the person(s) who served as the t20i captain when Trevor Bayliss was the coach of the England cricket team.,Eoin Morgan,Not mentioned in the table.
+England_cricket_team,Name the person(s) who served as the t20i captain when Chris Silverwood was the coach of the England cricket team.,Eoin Morgan,The table does not provide information about Chris Silverwood.
+England_cricket_team,Was the England cricket team's win percentage the highest in the test format in either 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,No information provided for 2019 or 2021.
+England_cricket_team,Was the England cricket team's win percentage the highest in the test format in either 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,No.
+England_cricket_team,Was the England cricket team's win percentage the highest in the test format in either 2021 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2021: No, 2022: No."
+England_cricket_team,Was the England cricket team's win percentage the highest in the odi format in either 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"Not applicable, as the table does not provide win percentages or data for 2019 or 2021 specifically."
+England_cricket_team,Does the England cricket team have the best win percentage in the odi format in 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"The question is asking about 2019 or 2022, but the provided table only has data for ""this year"", which is 2023. There is no information about 2019 or 2022."
+England_cricket_team,Was the England cricket team's win percentage the highest in the odi format in either 2021 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,2022.
+England_cricket_team,Was the England cricket team's win percentage the highest in the t20i format in either 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"No, the answer is not provided in the table."
+England_cricket_team,Was the England cricket team's win percentage the highest in the t20i format in either 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,No.
+England_cricket_team,Does the England cricket team have the best win percentage in the t20i format in 2021 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,No information about 2021 or 2022 in the table.
+England_cricket_team,"Name the person(s) who served as the coach during the tenure of Eoin Morgan and Joe Root as the t20i captain and test captain, respectively, of the England cricket team.","Chris Silverwood, Trevor Bayliss",Chris Silverwood (t20i and test coach).
+England_cricket_team,"Name the person(s) who served as the od captain during the tenure of Ben Stokes and Brendon McCullum as the test captain and test coach, respectively, of the England cricket team.","Jos Buttler, Eoin Morgan",Jos Buttler.
+England_cricket_team,Who was the od captain when test captain was Ben Stokes and od coach was Matthew Mott of the England cricket team?,"Jos Buttler, Eoin Morgan",Jos Buttler.
+England_cricket_team,Who was the od captain when test coach was Brendon McCullum and od coach was Matthew Mott of the England cricket team?,"Jos Buttler, Eoin Morgan",Jos Buttler.
+England_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Ben Stokes and Brendon McCullum as the test captain and test coach, respectively, of the England cricket team.","Jos Buttler, Eoin Morgan",Jos Buttler served as the t20i captain.
+England_cricket_team,Who was the t20i captain when test captain was Ben Stokes and od coach was Matthew Mott of the England cricket team?,"Jos Buttler, Eoin Morgan",Jos Buttler.
+England_cricket_team,Who was the t20i captain when test coach was Brendon McCullum and od coach was Matthew Mott of the England cricket team?,"Jos Buttler, Eoin Morgan",Jos Buttler.
+England_cricket_team,Who was the test coach when t20i captain was Eoin Morgan and od coach was Matthew Mott of the England cricket team?,Brendon McCullum,The question contains incorrect information.
+England_cricket_team,Who was the test coach when t20i captain was Jos Buttler and od coach was Matthew Mott of the England cricket team?,Brendon McCullum,The answer is Brendon McCullum.
+England_cricket_team,Who was the test coach when t20i captain was Eoin Morgan and test captain was Ben Stokes of the England cricket team?,Brendon McCullum,The table does not provide the required information.
+England_cricket_team,Who was the test coach when t20i captain was Jos Buttler and test captain was Ben Stokes of the England cricket team?,Brendon McCullum,Brendon McCullum.
+England_cricket_team,Who was the test coach when test captain was Ben Stokes and od coach was Matthew Mott of the England cricket team?,Brendon McCullum,Brendon McCullum.
+England_cricket_team,"Name the person(s) who served as the od coach during the tenure of Eoin Morgan and Brendon McCullum as the t20i captain and test coach, respectively, of the England cricket team.",Matthew Mott,Matthew Mott.
+England_cricket_team,"Name the person(s) who served as the od coach during the tenure of Jos Buttler and Brendon McCullum as the t20i captain and test coach, respectively, of the England cricket team.",Matthew Mott,Matthew Mott.
+England_cricket_team,"Name the person(s) who served as the od coach during the tenure of Eoin Morgan and Ben Stokes as the t20i captain and test captain, respectively, of the England cricket team.",Matthew Mott,Matthew Mott.
+England_cricket_team,Who was the od coach when t20i captain was Jos Buttler and test captain was Ben Stokes of the England cricket team?,Matthew Mott,Matthew Mott.
+England_cricket_team,Who was the od coach when test captain was Ben Stokes and test coach was Brendon McCullum of the England cricket team?,Matthew Mott,Matthew Mott.
+England_cricket_team,"Name the person(s) who served as the test captain during the tenure of Eoin Morgan and Trevor Bayliss as the t20i captain and coach, respectively, of the England cricket team.",Joe Root,There is no data for Eoin Morgan and Trevor Bayliss in the table.
+England_cricket_team,"Name the person(s) who served as the test captain during the tenure of Eoin Morgan and Chris Silverwood as the t20i captain and coach, respectively, of the England cricket team.",Joe Root,"None, as the table doesn't mention Eoin Morgan and Chris Silverwood as T20I captain and coach, respectively."
+England_cricket_team,"Name the person(s) who served as the test captain during the tenure of Eoin Morgan and Brendon McCullum as the t20i captain and test coach, respectively, of the England cricket team.",Ben Stokes,Ben Stokes.
+England_cricket_team,"Name the person(s) who served as the test captain during the tenure of Jos Buttler and Brendon McCullum as the t20i captain and test coach, respectively, of the England cricket team.",Ben Stokes,Ben Stokes.
+England_cricket_team,Who was the test captain when t20i captain was Eoin Morgan and od coach was Matthew Mott of the England cricket team?,Ben Stokes,Not possible based on provided table data.
+England_cricket_team,"Name the person(s) who served as the test captain during the tenure of Jos Buttler and Matthew Mott as the t20i captain and od coach, respectively, of the England cricket team.",Ben Stokes,Jos Buttler was not the Test captain.
+England_cricket_team,Who was the test captain when test coach was Brendon McCullum and od coach was Matthew Mott of the England cricket team?,Ben Stokes,Ben Stokes.
+England_cricket_team,Who was the od captain when test captain was Joe Root and coach was Trevor Bayliss of the England cricket team?,Eoin Morgan,Eoin Morgan.
+England_cricket_team,Who was the od captain when test captain was Joe Root and coach was Chris Silverwood of the England cricket team?,Eoin Morgan,Jos Buttler.
+England_cricket_team,Who was the t20i captain when test captain was Joe Root and coach was Trevor Bayliss of the England cricket team?,Eoin Morgan,Eoin Morgan.
+England_cricket_team,Who was the t20i captain when test captain was Joe Root and coach was Chris Silverwood of the England cricket team?,Eoin Morgan,Eoin Morgan.
+England_cricket_team,In which year did Brendon McCullum become the test_coach of the England cricket team for the first time?,2022,The information is not provided in the table.
+England_cricket_team,In which year did Matthew Mott become the od_coach of the England cricket team for the first time?,2022,The table doesn't provide the answer.
+England_cricket_team,In which year did Ben Stokes become the test_captain of the England cricket team for the first time?,2022,The table does not provide that information.
+England_cricket_team,In which year did Jos Buttler first assume the role of od_captain for the England cricket team?,2022,Not mentioned in the table.
+England_cricket_team,In which year did Jos Buttler first assume the role of t20i_captain for the England cricket team?,2022,The table does not provide the answer.
+England_cricket_team,"What was the duration of Joe Root's tenure as the test captain of England cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1201 days,Not mentioned in the table.
+England_cricket_team,"What was the duration of Ben Stokes's tenure as the test captain of England cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",312 days,The answer cannot be determined from the provided table.
+England_cricket_team,"How long did Eoin Morgan serve as the od captain of England cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1324 days,Not provided in the table.
+England_cricket_team,"What was the duration of Jos Buttler's tenure as the od captain of England cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",189 days,There is no information about the duration of Jos Buttler's tenure as OD captain.
+England_cricket_team,"What was the duration of Eoin Morgan's tenure as the t20i captain of England cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1324 days,Not specified in the table.
+England_cricket_team,"What was the duration of Jos Buttler's tenure as the t20i captain of England cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",189 days,Not possible to determine from the provided table.
+England_cricket_team,"Who had the longest stint as the test captain of the England cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Joe Root,Not available in the provided table.
+England_cricket_team,"Who had the longest stint as the od captain of the England cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Eoin Morgan,Not available in the provided table.
+England_cricket_team,"Which person had the longest tenure as the t20i captain of the England cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Eoin Morgan,"The question is invalid, as there is no data about past captains."
+England_cricket_team,"Who had the shortest stint as the test captain of the England cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Ben Stokes,Not enough information provided.
+England_cricket_team,"Which person had the shortest tenure as the od captain of the England cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Jos Buttler,The question is not answerable from the table.
+England_cricket_team,"Which person had the shortest tenure as the t20i captain of the England cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Jos Buttler,Not enough information provided.
+England_cricket_team,How many individuals took on the role of test captain of the England cricket team?,2,"Only one, Ben Stokes."
+England_cricket_team,How many individuals took on the role of od captain of the England cricket team?,2,"Only one, Jos Buttler."
+England_cricket_team,How many individuals took on the role of t20i captain of the England cricket team?,2,One individual: Jos Buttler.
+England_cricket_team,Who was the test captain of the England cricket team before Ben Stokes?,Joe Root,Not specified in the table.
+England_cricket_team,Who was the od captain of the England cricket team before Jos Buttler?,Eoin Morgan,Not specified in the table.
+England_cricket_team,Who served as the t20i captain of the England cricket team prior to Jos Buttler?,Eoin Morgan,There is no previous T20I captain mentioned.
+England_cricket_team,Who assumed the role of test captain for the England cricket team following Joe Root?,Ben Stokes,Ben Stokes.
+England_cricket_team,Who assumed the role of od captain for the England cricket team following Eoin Morgan?,Jos Buttler,Jos Buttler.
+England_cricket_team,Who was the t20i captain of England cricket team after Eoin Morgan?,Jos Buttler,Jos Buttler.
+England_cricket_team,Name the person(s) who served as the coach of the England cricket team in 2022.,Chris Silverwood,Brendon McCullum (test) and Matthew Mott (od).
+England_cricket_team,What was the highest ranking achieved by the England cricket team in the test format in 2022?,3,The table does not provide ranking data for 2022.
+England_cricket_team,what was the best odi rank of the England cricket team in 2022?,1,The table does not provide ODI rank data for 2022.
+England_cricket_team,What was the highest ranking achieved by the England cricket team in the t20i format in 2022?,1,The question is not answerable from the provided table.
+England_cricket_team,What is the win to loss ratio of England cricket team in test format in 2019?(Answer in decimal form.),0.8,Not available in the provided table.
+England_cricket_team,What is the ratio of wins to losses for the England cricket team in the test format for 2021?(Answer in decimal form.),0.67,"The question asks for the ratio of wins to losses in the test format for 2021, but the provided table does not have a specific record for 2021. However, it provides the 'test_record_this_year' which is '1/1 (0 draws)'. 
+
+So, the answer would be 1.00 (1 win / 1 loss)."
+England_cricket_team,What is the win to loss ratio of England cricket team in test format in 2022?(Answer in decimal form.),3.0,1.
+England_cricket_team,What is the ratio of wins to losses for the England cricket team in the odi format for 2019?(Answer in decimal form.),2.8,"I think there's a mistake. The table doesn't provide data specific to 2019. It only provides overall records and records for ""this year"" (which is not specified as 2019). Therefore, it's not possible to provide a ratio of wins to losses for the England cricket team in the ODI format for 2019.
+
+However, if you meant to ask about the overall ODI record, the ratio of wins to losses can be calculated as:
+
+ Wins: 392
+ Losses: 348
+ Ratio: 392/348 ≈ 1.13"
+England_cricket_team,What is the ratio of wins to losses for the England cricket team in the odi format for 2021?(Answer in decimal form.),3.0,"The ratio of wins to losses is 3/3, which is 1."
+England_cricket_team,What is the win to loss ratio of England cricket team in odi format in 2022?(Answer in decimal form.),0.83,The answer is 1.000.
+England_cricket_team,What is the ratio of wins to losses for the England cricket team in the t20i format for 2019?(Answer in decimal form.),3.0,There is no information about 2019 in the table.
+England_cricket_team,What is the ratio of wins to losses for the England cricket team in the t20i format for 2021?(Answer in decimal form.),1.83,"There is no information about 2021 in the table, but about ""this year"" which is 2023 according to the date_time. 
+
+The ratio of wins to losses for the England cricket team in the t20i format for ""this year"" is 0/3, which is 0."
+England_cricket_team,What is the ratio of wins to losses for the England cricket team in the t20i format for 2022?(Answer in decimal form.),1.36,"0:3, as there are 0 wins and 3 losses."

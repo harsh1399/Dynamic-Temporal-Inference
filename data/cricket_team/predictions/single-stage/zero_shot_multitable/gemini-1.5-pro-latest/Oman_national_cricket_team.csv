@@ -1,0 +1,136 @@
+entity,question,actual_answer,predicted_answer
+Oman_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Zeeshan Maqsood as the od captain of the Oman national cricket team?,Duleep Mendis,
+Oman_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Zeeshan Maqsood as the t20i captain of the Oman national cricket team?,Duleep Mendis,
+Oman_national_cricket_team,Name the person(s) who served as the od captain when Duleep Mendis was the coach of the Oman national cricket team.,Zeeshan Maqsood,"Zeeshan Maqsood 
+"
+Oman_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Duleep Mendis as the coach of the Oman national cricket team?,Zeeshan Maqsood,"Zeeshan Maqsood 
+"
+Oman_national_cricket_team,Was the Oman national cricket team's win percentage the highest in the odi format in either 2019 or 2020?(Answer in year)(Include no results/ties/draws in total number of matches.),2020,"2019 
+"
+Oman_national_cricket_team,Was the Oman national cricket team's win percentage the highest in the odi format in either 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2019 
+"
+Oman_national_cricket_team,Does the Oman national cricket team have the best win percentage in the odi format in 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2019 
+"
+Oman_national_cricket_team,Was the Oman national cricket team's win percentage the highest in the odi format in either 2019 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2019 
+"
+Oman_national_cricket_team,Was the Oman national cricket team's win percentage the highest in the odi format in either 2020 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2020,"2020 
+"
+Oman_national_cricket_team,Was the Oman national cricket team's win percentage the highest in the odi format in either 2020 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2020,"2020 
+"
+Oman_national_cricket_team,Does the Oman national cricket team have the best win percentage in the odi format in 2020 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2020,"2020 
+"
+Oman_national_cricket_team,Was the Oman national cricket team's win percentage the highest in the odi format in either 2021 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2021 
+"
+Oman_national_cricket_team,Does the Oman national cricket team have the best win percentage in the odi format in 2021 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2021 
+"
+Oman_national_cricket_team,Does the Oman national cricket team have the best win percentage in the odi format in 2022 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2022 
+"
+Oman_national_cricket_team,Was the Oman national cricket team's win percentage the highest in the t20i format in either 2019 or 2020?(Answer in year)(Include no results/ties/draws in total number of matches.),2020,"2019 
+"
+Oman_national_cricket_team,Was the Oman national cricket team's win percentage the highest in the t20i format in either 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2019 
+"
+Oman_national_cricket_team,Was the Oman national cricket team's win percentage the highest in the t20i format in either 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2019 
+"
+Oman_national_cricket_team,Was the Oman national cricket team's win percentage the highest in the t20i format in either 2020 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2020,"2020 
+"
+Oman_national_cricket_team,Was the Oman national cricket team's win percentage the highest in the t20i format in either 2020 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2020,"2020 
+"
+Oman_national_cricket_team,Does the Oman national cricket team have the best win percentage in the t20i format in 2021 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2021 
+"
+Oman_national_cricket_team,In which year did Duleep Mendis become the coach of the Oman national cricket team for the first time?,2022,"2022 
+"
+Oman_national_cricket_team,"What was the duration of Zeeshan Maqsood's tenure as the t20i captain of Oman national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1620 days,"1460 days 
+"
+Oman_national_cricket_team,"What was the duration of Ajay Lalcheta's tenure as the t20i captain of Oman national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",205 days,"89 days 
+"
+Oman_national_cricket_team,"Who had the longest stint as the t20i captain of the Oman national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Zeeshan Maqsood,"Zeeshan Maqsood 
+"
+Oman_national_cricket_team,"Who had the shortest stint as the t20i captain of the Oman national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Ajay Lalcheta,"Ajay Lalcheta 
+"
+Oman_national_cricket_team,How many people served as the t20i captain of the Oman national cricket team?,2,"Two 
+"
+Oman_national_cricket_team,Who was the t20i captain of the Oman national cricket team before Zeeshan Maqsood?,Ajay Lalcheta,"Ajay Lalcheta 
+"
+Oman_national_cricket_team,Who was the t20i captain of the Oman national cricket team before Ajay Lalcheta?,Zeeshan Maqsood,"Zeeshan Maqsood 
+"
+Oman_national_cricket_team,Who was the t20i captain of Oman national cricket team after Zeeshan Maqsood?,Ajay Lalcheta,"The provided data does not show that Zeeshan Maqsood was replaced as the t20i captain. 
+"
+Oman_national_cricket_team,Who was the t20i captain of Oman national cricket team after Ajay Lalcheta?,Zeeshan Maqsood,"Zeeshan Maqsood 
+"
+Oman_national_cricket_team,How many odi matches did the Oman national cricket team play between 2020 and 2021? (including both the years),15,"Nine 
+"
+Oman_national_cricket_team,How many odi matches did the Oman national cricket team play between 2020 and 2022? (including both the years),32,"26 
+"
+Oman_national_cricket_team,How many odi matches did the Oman national cricket team play between 2020 and 2023? (including both the years),37,"21 
+"
+Oman_national_cricket_team,How many odi matches did the Oman national cricket team play between 2021 and 2022? (including both the years),26,"16 
+"
+Oman_national_cricket_team,How many odi matches did the Oman national cricket team play between 2021 and 2023? (including both the years),31,"21 
+"
+Oman_national_cricket_team,How many odi matches did the Oman national cricket team play between 2022 and 2023? (including both the years),22,"Five 
+"
+Oman_national_cricket_team,How many t20 matches did the Oman national cricket team play between 2020 and 2021? (including both the years),6,"3 
+"
+Oman_national_cricket_team,How many t20 matches did the Oman national cricket team play between 2020 and 2022? (including both the years),21,"13 T20 matches 
+"
+Oman_national_cricket_team,How many t20 matches did the Oman national cricket team play between 2020 and 2023? (including both the years),21,"18 
+"
+Oman_national_cricket_team,How many t20 matches did the Oman national cricket team play between 2021 and 2022? (including both the years),18,"7 
+"
+Oman_national_cricket_team,How many t20 matches did the Oman national cricket team play between 2021 and 2023? (including both the years),18,"Three 
+"
+Oman_national_cricket_team,How many t20 matches did the Oman national cricket team play between 2022 and 2023? (including both the years),15,"7 
+"
+Oman_national_cricket_team,Who were the individual(s) who held the position of the t20i_captain for the Oman national cricket team from 2019 and 2020? (including both the years),"Zeeshan Maqsood, Ajay Lalcheta",
+Oman_national_cricket_team,Name the people who serve as t20i_captain of Oman national cricket team between 2019 and 2021. (including both the years),"Zeeshan Maqsood, Ajay Lalcheta",
+Oman_national_cricket_team,Name the people who serve as t20i_captain of Oman national cricket team between 2019 and 2022. (including both the years),"Zeeshan Maqsood, Ajay Lalcheta",
+Oman_national_cricket_team,Name the people who serve as t20i_captain of Oman national cricket team between 2019 and 2023. (including both the years),"Zeeshan Maqsood, Ajay Lalcheta",
+Oman_national_cricket_team,Who were the individual(s) who held the position of the t20i_captain for the Oman national cricket team from 2020 and 2021? (including both the years),Zeeshan Maqsood,"Zeeshan Maqsood 
+"
+Oman_national_cricket_team,Name the people who serve as t20i_captain of Oman national cricket team between 2020 and 2022. (including both the years),Zeeshan Maqsood,"Zeeshan Maqsood 
+"
+Oman_national_cricket_team,Who were the individual(s) who held the position of the t20i_captain for the Oman national cricket team from 2020 and 2023? (including both the years),Zeeshan Maqsood,"Zeeshan Maqsood 
+"
+Oman_national_cricket_team,Name the people who serve as t20i_captain of Oman national cricket team between 2021 and 2022. (including both the years),Zeeshan Maqsood,"Zeeshan Maqsood 
+"
+Oman_national_cricket_team,Name the people who serve as t20i_captain of Oman national cricket team between 2021 and 2023. (including both the years),Zeeshan Maqsood,"Zeeshan Maqsood 
+"
+Oman_national_cricket_team,Who were the individual(s) who held the position of the t20i_captain for the Oman national cricket team from 2022 and 2023? (including both the years),Zeeshan Maqsood,"Zeeshan Maqsood 
+"
+Oman_national_cricket_team,Who were the individual(s) who acted as the coach of the Oman national cricket team in 2023?,Duleep Mendis,
+Oman_national_cricket_team,what was the best odi rank of the Oman national cricket team in 2020?,14,"14th 
+"
+Oman_national_cricket_team,what was the best odi rank of the Oman national cricket team in 2021?,13,"13th 
+"
+Oman_national_cricket_team,What was the highest ranking achieved by the Oman national cricket team in the odi format in 2022?,13,"16th 
+"
+Oman_national_cricket_team,What was the highest ranking achieved by the Oman national cricket team in the odi format in 2023?,16,"16th 
+"
+Oman_national_cricket_team,What was the highest ranking achieved by the Oman national cricket team in the t20i format in 2019?,14,"14th 
+"
+Oman_national_cricket_team,What was the highest ranking achieved by the Oman national cricket team in the t20i format in 2020?,14,"17th 
+"
+Oman_national_cricket_team,What was the highest ranking achieved by the Oman national cricket team in the t20i format in 2021?,17,"17th 
+"
+Oman_national_cricket_team,What was the highest ranking achieved by the Oman national cricket team in the t20i format in 2022?,17,"17th 
+"
+Oman_national_cricket_team,what was the best t20i rank of the Oman national cricket team in 2023?,18,"18th 
+"
+Oman_national_cricket_team,What is the win to loss ratio of Oman national cricket team in odi format in 2019?(Answer in decimal form.),1.5,"1.5 
+"
+Oman_national_cricket_team,What is the ratio of wins to losses for the Oman national cricket team in the odi format for 2020?(Answer in decimal form.),5.0,"0.833 
+"
+Oman_national_cricket_team,What is the win to loss ratio of Oman national cricket team in odi format in 2021?(Answer in decimal form.),1.67,"1.67 
+"
+Oman_national_cricket_team,What is the ratio of wins to losses for the Oman national cricket team in the odi format for 2022?(Answer in decimal form.),0.88,"0.4375 
+"
+Oman_national_cricket_team,What is the ratio of wins to losses for the Oman national cricket team in the odi format for 2023?(Answer in decimal form.),0.67,"0.571 
+"
+Oman_national_cricket_team,What is the win to loss ratio of Oman national cricket team in t20i format in 2019?(Answer in decimal form.),1.29,"0.583 
+"
+Oman_national_cricket_team,What is the win to loss ratio of Oman national cricket team in t20i format in 2020?(Answer in decimal form.),2.0,"0.571 
+"
+Oman_national_cricket_team,What is the win to loss ratio of Oman national cricket team in t20i format in 2021?(Answer in decimal form.),0.5,"0.81 
+"
+Oman_national_cricket_team,What is the win to loss ratio of Oman national cricket team in t20i format in 2022?(Answer in decimal form.),0.67,"0.75 
+"

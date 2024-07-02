@@ -1,0 +1,41 @@
+entity,question,actual_answer,predicted_answer
+Papua_New_Guinea_national_cricket_team,Does the Papua New Guinea national cricket team have the best win percentage in the odi format in 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2019 
+"
+Papua_New_Guinea_national_cricket_team,Was the Papua New Guinea national cricket team's win percentage the highest in the odi format in either 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2022 
+"
+Papua_New_Guinea_national_cricket_team,Was the Papua New Guinea national cricket team's win percentage the highest in the odi format in either 2021 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2022 
+"
+Papua_New_Guinea_national_cricket_team,Was the Papua New Guinea national cricket team's win percentage the highest in the t20i format in either 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2019
+"
+Papua_New_Guinea_national_cricket_team,Does the Papua New Guinea national cricket team have the best win percentage in the t20i format in 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2022 
+"
+Papua_New_Guinea_national_cricket_team,Was the Papua New Guinea national cricket team's win percentage the highest in the t20i format in either 2021 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2022 
+"
+Papua_New_Guinea_national_cricket_team,"How long did Assad Vala serve as the od captain of Papua New Guinea national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1460 days,"1469 days 
+"
+Papua_New_Guinea_national_cricket_team,"What was the duration of Assad Vala's tenure as the t20i captain of Papua New Guinea national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1460 days,"1,209 days 
+"
+Papua_New_Guinea_national_cricket_team,"Which person had the longest tenure as the od captain of the Papua New Guinea national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Assad Vala,
+Papua_New_Guinea_national_cricket_team,"Which person had the longest tenure as the t20i captain of the Papua New Guinea national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Assad Vala,
+Papua_New_Guinea_national_cricket_team,"Which person had the shortest tenure as the od captain of the Papua New Guinea national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Assad Vala,
+Papua_New_Guinea_national_cricket_team,"Which person had the shortest tenure as the t20i captain of the Papua New Guinea national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Assad Vala,
+Papua_New_Guinea_national_cricket_team,How many people served as the od captain of the Papua New Guinea national cricket team?,1,"One. 
+"
+Papua_New_Guinea_national_cricket_team,How many people served as the t20i captain of the Papua New Guinea national cricket team?,1,"One 
+"
+Papua_New_Guinea_national_cricket_team,what was the best odi rank of the Papua New Guinea national cricket team in 2022?,20,"20th 
+"
+Papua_New_Guinea_national_cricket_team,What was the highest ranking achieved by the Papua New Guinea national cricket team in the t20i format in 2022?,18,"19th 
+"
+Papua_New_Guinea_national_cricket_team,What is the ratio of wins to losses for the Papua New Guinea national cricket team in the odi format for 2019?(Answer in decimal form.),0.12,"0.125 
+"
+Papua_New_Guinea_national_cricket_team,What is the ratio of wins to losses for the Papua New Guinea national cricket team in the odi format for 2021?(Answer in decimal form.),0.0,"0.125 
+"
+Papua_New_Guinea_national_cricket_team,What is the win to loss ratio of Papua New Guinea national cricket team in odi format in 2022?(Answer in decimal form.),0.43,"0.308 
+"
+Papua_New_Guinea_national_cricket_team,What is the win to loss ratio of Papua New Guinea national cricket team in t20i format in 2019?(Answer in decimal form.),7.0,"3.00 
+"
+Papua_New_Guinea_national_cricket_team,What is the ratio of wins to losses for the Papua New Guinea national cricket team in the t20i format for 2021?(Answer in decimal form.),0.0,"1.75 
+"
+Papua_New_Guinea_national_cricket_team,What is the ratio of wins to losses for the Papua New Guinea national cricket team in the t20i format for 2022?(Answer in decimal form.),0.5,"1.43 
+"

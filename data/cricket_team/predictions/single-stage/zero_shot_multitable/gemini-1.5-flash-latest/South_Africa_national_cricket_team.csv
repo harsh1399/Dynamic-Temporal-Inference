@@ -1,0 +1,144 @@
+entity,question,actual_answer,predicted_answer
+South_Africa_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Faf du Plessis as the test captain of the South Africa national cricket team?,"Ottis Gibson, Mark Boucher, Enoch Nkwe",
+South_Africa_national_cricket_team,Name the person(s) who served as the coach when Dean Elgar was the test captain of the South Africa national cricket team.,"Mark Boucher, Shukri Conrad","Mark Boucher 
+"
+South_Africa_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Faf du Plessis as the od captain of the South Africa national cricket team?,"Ottis Gibson, Mark Boucher, Enoch Nkwe",
+South_Africa_national_cricket_team,Name the person(s) who served as the coach when Temba Bavuma was the od captain of the South Africa national cricket team.,"Mark Boucher, Shukri Conrad","Mark Boucher, Shukri Conrad 
+"
+South_Africa_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Quinton de Kock as the t20i captain of the South Africa national cricket team?,"Mark Boucher, Enoch Nkwe","Enoch Nkwe and Mark Boucher 
+"
+South_Africa_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Temba Bavuma as the t20i captain of the South Africa national cricket team?,"Mark Boucher, Shukri Conrad","Mark Boucher, Shukri Conrad 
+"
+South_Africa_national_cricket_team,Name the person(s) who served as the test captain when Mark Boucher was the coach of the South Africa national cricket team.,"Dean Elgar, Faf du Plessis, Quinton de Kock","Faf du Plessis, Quinton de Kock, Dean Elgar 
+"
+South_Africa_national_cricket_team,Who were the individual(s) serving as the test captain during the tenure of Shukri Conrad as the coach of the South Africa national cricket team?,"Dean Elgar, Temba Bavuma",
+South_Africa_national_cricket_team,Name the person(s) who served as the od captain when Mark Boucher was the coach of the South Africa national cricket team.,"Temba Bavuma, Faf du Plessis, Quinton de Kock","Faf du Plessis, Quinton de Kock, Temba Bavuma 
+"
+South_Africa_national_cricket_team,Name the person(s) who served as the t20i captain when Mark Boucher was the coach of the South Africa national cricket team.,"Temba Bavuma, Quinton de Kock",
+South_Africa_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Quinton de Kock as the test captain of the South Africa national cricket team?,Mark Boucher,"Mark Boucher 
+"
+South_Africa_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Temba Bavuma as the test captain of the South Africa national cricket team?,Shukri Conrad,"Mark Boucher, Shukri Conrad 
+"
+South_Africa_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Quinton de Kock as the od captain of the South Africa national cricket team?,Mark Boucher,"Enoch Nkwe, Mark Boucher 
+"
+South_Africa_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Faf du Plessis as the t20i captain of the South Africa national cricket team?,Ottis Gibson,
+South_Africa_national_cricket_team,Who were the individual(s) serving as the test captain during the tenure of Ottis Gibson as the coach of the South Africa national cricket team?,Faf du Plessis,
+South_Africa_national_cricket_team,Who were the individual(s) serving as the test captain during the tenure of Enoch Nkwe as the coach of the South Africa national cricket team?,Faf du Plessis,
+South_Africa_national_cricket_team,Name the person(s) who served as the od captain when Dean Elgar was the test captain of the South Africa national cricket team.,Temba Bavuma,
+South_Africa_national_cricket_team,Name the person(s) who served as the od captain when Ottis Gibson was the coach of the South Africa national cricket team.,Faf du Plessis,
+South_Africa_national_cricket_team,Name the person(s) who served as the od captain when Enoch Nkwe was the coach of the South Africa national cricket team.,Faf du Plessis,
+South_Africa_national_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Shukri Conrad as the coach of the South Africa national cricket team?,Temba Bavuma,
+South_Africa_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Dean Elgar as the test captain of the South Africa national cricket team?,Temba Bavuma,
+South_Africa_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Ottis Gibson as the coach of the South Africa national cricket team?,Faf du Plessis,
+South_Africa_national_cricket_team,Name the person(s) who served as the t20i captain when Enoch Nkwe was the coach of the South Africa national cricket team.,Quinton de Kock,"Quinton de Kock 
+"
+South_Africa_national_cricket_team,Name the person(s) who served as the t20i captain when Shukri Conrad was the coach of the South Africa national cricket team.,Temba Bavuma,
+South_Africa_national_cricket_team,Does the South Africa national cricket team have the best win percentage in the test format in 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2019 
+"
+South_Africa_national_cricket_team,Was the South Africa national cricket team's win percentage the highest in the odi format in either 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2019 
+"
+South_Africa_national_cricket_team,Was the South Africa national cricket team's win percentage the highest in the t20i format in either 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2021 
+"
+South_Africa_national_cricket_team,"Name the person(s) who served as the coach during the tenure of Quinton de Kock and Faf du Plessis as the t20i captain and od captain, respectively, of the South Africa national cricket team.","Mark Boucher, Enoch Nkwe","Enoch Nkwe, Mark Boucher 
+"
+South_Africa_national_cricket_team,Who was the coach when t20i captain was Temba Bavuma and test captain was Dean Elgar of the South Africa national cricket team?,"Mark Boucher, Shukri Conrad","Mark Boucher 
+"
+South_Africa_national_cricket_team,Who was the test captain when t20i captain was Quinton de Kock and coach was Enoch Nkwe of the South Africa national cricket team?,Faf du Plessis,
+South_Africa_national_cricket_team,Who was the test captain when t20i captain was Temba Bavuma and coach was Mark Boucher of the South Africa national cricket team?,Dean Elgar,"Dean Elgar 
+"
+South_Africa_national_cricket_team,Who was the od captain when t20i captain was Quinton de Kock and coach was Enoch Nkwe of the South Africa national cricket team?,Faf du Plessis,
+South_Africa_national_cricket_team,"Name the person(s) who served as the od captain during the tenure of Dean Elgar and Mark Boucher as the test captain and coach, respectively, of the South Africa national cricket team.",Temba Bavuma,
+South_Africa_national_cricket_team,Who was the od captain when test captain was Dean Elgar and coach was Shukri Conrad of the South Africa national cricket team?,Temba Bavuma,
+South_Africa_national_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Faf du Plessis and Enoch Nkwe as the od captain and coach, respectively, of the South Africa national cricket team.",Quinton de Kock,"Quinton de Kock 
+"
+South_Africa_national_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Faf du Plessis and Mark Boucher as the od captain and coach, respectively, of the South Africa national cricket team.",Quinton de Kock,"Quinton de Kock 
+"
+South_Africa_national_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Dean Elgar and Mark Boucher as the test captain and coach, respectively, of the South Africa national cricket team.",Temba Bavuma,
+South_Africa_national_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Dean Elgar and Shukri Conrad as the test captain and coach, respectively, of the South Africa national cricket team.",Temba Bavuma,
+South_Africa_national_cricket_team,"What was the duration of Faf du Plessis's tenure as the test captain of South Africa national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",746 days,"1107 days 
+"
+South_Africa_national_cricket_team,"What was the duration of Quinton de Kock's tenure as the test captain of South Africa national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",71 days,"257 days 
+"
+South_Africa_national_cricket_team,"How long did Dean Elgar serve as the test captain of South Africa national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",678 days,"769 days 
+"
+South_Africa_national_cricket_team,"How long did Faf du Plessis serve as the od captain of South Africa national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",746 days,"1,074 days 
+"
+South_Africa_national_cricket_team,"How long did Quinton de Kock serve as the od captain of South Africa national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",71 days,"304 days 
+"
+South_Africa_national_cricket_team,"What was the duration of Temba Bavuma's tenure as the od captain of South Africa national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",678 days,"579 days 
+"
+South_Africa_national_cricket_team,"How long did Faf du Plessis serve as the t20i captain of South Africa national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",256 days,"1112 days 
+"
+South_Africa_national_cricket_team,"How long did Quinton de Kock serve as the t20i captain of South Africa national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",561 days,"586 days 
+"
+South_Africa_national_cricket_team,"How long did Temba Bavuma serve as the t20i captain of South Africa national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",678 days,"688 days 
+"
+South_Africa_national_cricket_team,"How long did Ottis Gibson serve as the coach of South Africa national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",256 days,"320 days 
+"
+South_Africa_national_cricket_team,"What was the duration of Enoch Nkwe's tenure as the coach of South Africa national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",95 days,"101 days 
+"
+South_Africa_national_cricket_team,"What was the duration of Mark Boucher's tenure as the coach of South Africa national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1126 days,"742 days 
+"
+South_Africa_national_cricket_team,"How long did Shukri Conrad serve as the coach of South Africa national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",18 days,"192 days 
+"
+South_Africa_national_cricket_team,"Which person had the longest tenure as the test captain of the South Africa national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Faf du Plessis,
+South_Africa_national_cricket_team,"Which person had the longest tenure as the od captain of the South Africa national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Faf du Plessis,
+South_Africa_national_cricket_team,"Which person had the longest tenure as the t20i captain of the South Africa national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Temba Bavuma,"Quinton de Kock 
+"
+South_Africa_national_cricket_team,"Who had the longest stint as the coach of the South Africa national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Mark Boucher,"Mark Boucher 
+"
+South_Africa_national_cricket_team,"Which person had the shortest tenure as the test captain of the South Africa national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Temba Bavuma,"Quinton de Kock 
+"
+South_Africa_national_cricket_team,"Who had the shortest stint as the od captain of the South Africa national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Quinton de Kock,
+South_Africa_national_cricket_team,"Who had the shortest stint as the t20i captain of the South Africa national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Faf du Plessis,"Quinton de Kock 
+"
+South_Africa_national_cricket_team,"Who had the shortest stint as the coach of the South Africa national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Shukri Conrad,
+South_Africa_national_cricket_team,How many individuals took on the role of test captain of the South Africa national cricket team?,4,"Two individuals. 
+"
+South_Africa_national_cricket_team,How many people served as the od captain of the South Africa national cricket team?,3,"Three 
+"
+South_Africa_national_cricket_team,How many individuals took on the role of t20i captain of the South Africa national cricket team?,3,"Two individuals. 
+"
+South_Africa_national_cricket_team,How many individuals took on the role of coach of the South Africa national cricket team?,4,"Three individuals. 
+"
+South_Africa_national_cricket_team,Who served as the test captain of the South Africa national cricket team prior to Quinton de Kock?,Faf du Plessis,
+South_Africa_national_cricket_team,Who was the test captain of the South Africa national cricket team before Dean Elgar?,Quinton de Kock,
+South_Africa_national_cricket_team,Who served as the test captain of the South Africa national cricket team prior to Temba Bavuma?,Dean Elgar,"Dean Elgar 
+"
+South_Africa_national_cricket_team,Who served as the od captain of the South Africa national cricket team prior to Quinton de Kock?,Faf du Plessis,
+South_Africa_national_cricket_team,Who served as the od captain of the South Africa national cricket team prior to Temba Bavuma?,Quinton de Kock,
+South_Africa_national_cricket_team,Who served as the t20i captain of the South Africa national cricket team prior to Quinton de Kock?,Faf du Plessis,
+South_Africa_national_cricket_team,Who was the t20i captain of the South Africa national cricket team before Temba Bavuma?,Quinton de Kock,"Quinton de Kock 
+"
+South_Africa_national_cricket_team,Who served as the coach of the South Africa national cricket team prior to Enoch Nkwe?,Ottis Gibson,
+South_Africa_national_cricket_team,Who served as the coach of the South Africa national cricket team prior to Mark Boucher?,Enoch Nkwe,
+South_Africa_national_cricket_team,Who was the coach of the South Africa national cricket team before Shukri Conrad?,Mark Boucher,"Mark Boucher 
+"
+South_Africa_national_cricket_team,Who was the test captain of South Africa national cricket team after Faf du Plessis?,Quinton de Kock,"Quinton de Kock 
+"
+South_Africa_national_cricket_team,Who was the test captain of South Africa national cricket team after Quinton de Kock?,Dean Elgar,"Dean Elgar 
+"
+South_Africa_national_cricket_team,Who assumed the role of test captain for the South Africa national cricket team following Dean Elgar?,Temba Bavuma,
+South_Africa_national_cricket_team,Who assumed the role of od captain for the South Africa national cricket team following Faf du Plessis?,Quinton de Kock,"Quinton de Kock 
+"
+South_Africa_national_cricket_team,Who assumed the role of od captain for the South Africa national cricket team following Quinton de Kock?,Temba Bavuma,
+South_Africa_national_cricket_team,Who was the t20i captain of South Africa national cricket team after Faf du Plessis?,Quinton de Kock,"Quinton de Kock 
+"
+South_Africa_national_cricket_team,Who was the t20i captain of South Africa national cricket team after Quinton de Kock?,Temba Bavuma,
+South_Africa_national_cricket_team,Who was the coach of South Africa national cricket team after Ottis Gibson?,Enoch Nkwe,
+South_Africa_national_cricket_team,Who assumed the role of coach for the South Africa national cricket team following Enoch Nkwe?,Mark Boucher,"Mark Boucher 
+"
+South_Africa_national_cricket_team,Who was the coach of South Africa national cricket team after Mark Boucher?,Shukri Conrad,"Shukri Conrad 
+"
+South_Africa_national_cricket_team,What is the win to loss ratio of South Africa national cricket team in test format in 2019?(Answer in decimal form.),0.6,"1.83 
+"
+South_Africa_national_cricket_team,What is the ratio of wins to losses for the South Africa national cricket team in the test format for 2021?(Answer in decimal form.),1.0,"1.75 
+"
+South_Africa_national_cricket_team,What is the ratio of wins to losses for the South Africa national cricket team in the odi format for 2019?(Answer in decimal form.),1.57,"2.91 
+"
+South_Africa_national_cricket_team,What is the win to loss ratio of South Africa national cricket team in odi format in 2021?(Answer in decimal form.),0.6,"2.68 
+"
+South_Africa_national_cricket_team,What is the ratio of wins to losses for the South Africa national cricket team in the t20i format for 2019?(Answer in decimal form.),2.5,"1.47 
+"
+South_Africa_national_cricket_team,What is the ratio of wins to losses for the South Africa national cricket team in the t20i format for 2021?(Answer in decimal form.),1.88,"1.54 
+"

@@ -1,0 +1,21 @@
+entity,question,actual_answer,predicted_answer
+Tanzania_national_cricket_team,Name the person(s) who served as the coach when Abhik Patwa was the t20i captain of the Tanzania national cricket team.,Steve Tikolo,
+Tanzania_national_cricket_team,Name the person(s) who served as the t20i captain when Steve Tikolo was the coach of the Tanzania national cricket team.,Abhik Patwa,"Abhik Patwa 
+"
+Tanzania_national_cricket_team,Was the Tanzania national cricket team's win percentage the highest in the t20i format in either 2021 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2022 
+"
+Tanzania_national_cricket_team,"What was the duration of Abhik Patwa's tenure as the t20i captain of Tanzania national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",409 days,"775 days 
+"
+Tanzania_national_cricket_team,"Who had the longest stint as the t20i captain of the Tanzania national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Abhik Patwa,"Abhik Patwa 
+"
+Tanzania_national_cricket_team,"Who had the shortest stint as the t20i captain of the Tanzania national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Abhik Patwa,"This question cannot be answered from the given information. 
+"
+Tanzania_national_cricket_team,How many individuals took on the role of t20i captain of the Tanzania national cricket team?,1,"One 
+"
+Tanzania_national_cricket_team,Name the person(s) who served as the coach of the Tanzania national cricket team in 2022.,Steve Tikolo,
+Tanzania_national_cricket_team,what was the best t20i rank of the Tanzania national cricket team in 2022?,30,"30th 
+"
+Tanzania_national_cricket_team,What is the ratio of wins to losses for the Tanzania national cricket team in the t20i format for 2021?(Answer in decimal form.),3.0,"0.75 
+"
+Tanzania_national_cricket_team,What is the ratio of wins to losses for the Tanzania national cricket team in the t20i format for 2022?(Answer in decimal form.),5.0,"0.833 
+"

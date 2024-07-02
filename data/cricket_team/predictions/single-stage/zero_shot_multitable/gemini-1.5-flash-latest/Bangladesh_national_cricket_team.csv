@@ -1,0 +1,506 @@
+entity,question,actual_answer,predicted_answer
+Bangladesh_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Shakib Al Hasan as the test captain of the Bangladesh national cricket team?,"Sridharan Sriram, Richard Halsall, Chandika Hathurusingha, Russell Domingo, Steve Rhodes","Chandika Hathurusingha, Vacant, Richard Halsall, Steve Rhodes, Russell Domingo, Jamie Siddons, Chandika Hathurusingha. 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the coach when Mashrafe Mortaza was the od captain of the Bangladesh national cricket team.,"Richard Halsall, Chandika Hathurusingha, Russell Domingo, Steve Rhodes","Chandika Hathurusingha, Steve Rhodes, Russell Domingo 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the coach when Tamim Iqbal was the od captain of the Bangladesh national cricket team.,"Russell Domingo, Sridharan Sriram, Chandika Hathurusingha","Russell Domingo, Chandika Hathurusingha 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Shakib Al Hasan as the t20i captain of the Bangladesh national cricket team?,"Sridharan Sriram, Richard Halsall, Chandika Hathurusingha, Russell Domingo, Steve Rhodes","Chandika Hathurusingha, Vacant, Richard Halsall, Steve Rhodes, Russell Domingo, Sridharan Sriram, Chandika Hathurusingha 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the test captain when Mashrafe Mortaza was the od captain of the Bangladesh national cricket team.,"Mominul Haque, Shakib Al Hasan, Mushfiqur Rahim","Shakib Al Hasan, Mominul Haque 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the test captain when Tamim Iqbal was the od captain of the Bangladesh national cricket team.,"Mominul Haque, Shakib Al Hasan","Mominul Haque, Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) serving as the test captain during the tenure of Chandika Hathurusingha as the coach of the Bangladesh national cricket team?,"Shakib Al Hasan, Mushfiqur Rahim","Mushfiqur Rahim, Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the test captain when Russell Domingo was the coach of the Bangladesh national cricket team.,"Mominul Haque, Shakib Al Hasan","Shakib Al Hasan, Mominul Haque 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Shakib Al Hasan as the test captain of the Bangladesh national cricket team?,"Mashrafe Mortaza, Tamim Iqbal","Mashrafe Mortaza, Tamim Iqbal 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the od captain when Mominul Haque was the test captain of the Bangladesh national cricket team.,"Mashrafe Mortaza, Tamim Iqbal","Mashrafe Mortaza, Tamim Iqbal 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Shakib Al Hasan as the t20i captain of the Bangladesh national cricket team?,"Mashrafe Mortaza, Tamim Iqbal","Mashrafe Mortaza, Tamim Iqbal 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the od captain when Mahmudullah was the t20i captain of the Bangladesh national cricket team.,"Mashrafe Mortaza, Tamim Iqbal","Mashrafe Mortaza, Tamim Iqbal 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Chandika Hathurusingha as the coach of the Bangladesh national cricket team?,"Mashrafe Mortaza, Tamim Iqbal","Mashrafe Mortaza 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the od captain when Russell Domingo was the coach of the Bangladesh national cricket team.,"Mashrafe Mortaza, Tamim Iqbal","Mashrafe Mortaza 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Mashrafe Mortaza as the od captain of the Bangladesh national cricket team?,"Mahmudullah, Shakib Al Hasan","Shakib Al Hasan, Mahmudullah 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the t20i captain when Tamim Iqbal was the od captain of the Bangladesh national cricket team.,"Mahmudullah, Shakib Al Hasan","Mahmudullah, Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Russell Domingo as the coach of the Bangladesh national cricket team?,"Mahmudullah, Shakib Al Hasan","Mahmudullah, Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the coach when Mushfiqur Rahim was the test captain of the Bangladesh national cricket team.,Chandika Hathurusingha,"Chandika Hathurusingha 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Mominul Haque as the test captain of the Bangladesh national cricket team?,Russell Domingo,"Russell Domingo 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Mahmudullah as the t20i captain of the Bangladesh national cricket team?,Russell Domingo,"Russell Domingo 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Jamie Siddons as the test coach of the Bangladesh national cricket team?,Sridharan Sriram,"Chandika Hathurusingha, Sridharan Sriram 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Jamie Siddons as the od coach of the Bangladesh national cricket team?,Sridharan Sriram,"Chandika Hathurusingha, Sridharan Sriram 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the test coach when Shakib Al Hasan was the test captain of the Bangladesh national cricket team.,Jamie Siddons,"Chandika Hathurusingha, Richard Halsall, Steve Rhodes, Russell Domingo 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the test coach when Tamim Iqbal was the od captain of the Bangladesh national cricket team.,Jamie Siddons,"Russell Domingo, Jamie Siddons 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the test coach when Shakib Al Hasan was the t20i captain of the Bangladesh national cricket team.,Jamie Siddons,"Richard Halsall, Steve Rhodes, Russell Domingo 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the test coach when Sridharan Sriram was the coach of the Bangladesh national cricket team.,Jamie Siddons,
+Bangladesh_national_cricket_team,Who were the individual(s) serving as the od coach during the tenure of Shakib Al Hasan as the test captain of the Bangladesh national cricket team?,Jamie Siddons,"Richard Halsall, Steve Rhodes, Russell Domingo, Jamie Siddons, Chandika Hathurusingha 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) serving as the od coach during the tenure of Tamim Iqbal as the od captain of the Bangladesh national cricket team?,Jamie Siddons,"Russell Domingo and Jamie Siddons 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the od coach when Shakib Al Hasan was the t20i captain of the Bangladesh national cricket team.,Jamie Siddons,"Chandika Hathurusingha, Jamie Siddons, Russell Domingo 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the od coach when Sridharan Sriram was the coach of the Bangladesh national cricket team.,Jamie Siddons,
+Bangladesh_national_cricket_team,Name the person(s) who served as the test captain when Mahmudullah was the t20i captain of the Bangladesh national cricket team.,Mominul Haque,"Mominul Haque 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) serving as the test captain during the tenure of Richard Halsall as the coach of the Bangladesh national cricket team?,Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the test captain when Steve Rhodes was the coach of the Bangladesh national cricket team.,Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) serving as the test captain during the tenure of Sridharan Sriram as the coach of the Bangladesh national cricket team?,Shakib Al Hasan,"Shakib Al Hasan. 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) serving as the test captain during the tenure of Jamie Siddons as the test coach of the Bangladesh national cricket team?,Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the test captain when Jamie Siddons was the od coach of the Bangladesh national cricket team.,Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the od captain when Mushfiqur Rahim was the test captain of the Bangladesh national cricket team.,Mashrafe Mortaza,"Mashrafe Mortaza 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the od captain when Richard Halsall was the coach of the Bangladesh national cricket team.,Mashrafe Mortaza,"Mashrafe Mortaza 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the od captain when Steve Rhodes was the coach of the Bangladesh national cricket team.,Mashrafe Mortaza,"Mashrafe Mortaza 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the od captain when Sridharan Sriram was the coach of the Bangladesh national cricket team.,Tamim Iqbal,"Tamim Iqbal 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Jamie Siddons as the test coach of the Bangladesh national cricket team?,Tamim Iqbal,"Tamim Iqbal 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Jamie Siddons as the od coach of the Bangladesh national cricket team?,Tamim Iqbal,"Tamim Iqbal 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Mushfiqur Rahim as the test captain of the Bangladesh national cricket team?,Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the t20i captain when Mominul Haque was the test captain of the Bangladesh national cricket team.,Mahmudullah,
+Bangladesh_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Chandika Hathurusingha as the coach of the Bangladesh national cricket team?,Shakib Al Hasan,"Shakib Al Hasan, Mahmudullah 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the t20i captain when Richard Halsall was the coach of the Bangladesh national cricket team.,Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Steve Rhodes as the coach of the Bangladesh national cricket team?,Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Sridharan Sriram as the coach of the Bangladesh national cricket team?,Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the t20i captain when Jamie Siddons was the test coach of the Bangladesh national cricket team.,Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the t20i captain when Jamie Siddons was the od coach of the Bangladesh national cricket team.,Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Does the Bangladesh national cricket team have the best win percentage in the test format in 2017 or 2018?(Answer in year)(Include no results/ties/draws in total number of matches.),2018,"2018 
+"
+Bangladesh_national_cricket_team,Was the Bangladesh national cricket team's win percentage the highest in the test format in either 2017 or 2019?(Answer in year)(Include no results/ties/draws in total number of matches.),2017,"2019
+"
+Bangladesh_national_cricket_team,Was the Bangladesh national cricket team's win percentage the highest in the test format in either 2017 or 2020?(Answer in year)(Include no results/ties/draws in total number of matches.),2020,"2017 
+"
+Bangladesh_national_cricket_team,Was the Bangladesh national cricket team's win percentage the highest in the test format in either 2017 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2017,"2021 
+"
+Bangladesh_national_cricket_team,Was the Bangladesh national cricket team's win percentage the highest in the test format in either 2018 or 2019?(Answer in year)(Include no results/ties/draws in total number of matches.),2018,"2019 
+"
+Bangladesh_national_cricket_team,Does the Bangladesh national cricket team have the best win percentage in the test format in 2018 or 2020?(Answer in year)(Include no results/ties/draws in total number of matches.),2020,"2020
+"
+Bangladesh_national_cricket_team,Was the Bangladesh national cricket team's win percentage the highest in the test format in either 2018 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2018,"2021 
+"
+Bangladesh_national_cricket_team,Was the Bangladesh national cricket team's win percentage the highest in the test format in either 2019 or 2020?(Answer in year)(Include no results/ties/draws in total number of matches.),2020,"2020 
+"
+Bangladesh_national_cricket_team,Was the Bangladesh national cricket team's win percentage the highest in the test format in either 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2021
+"
+Bangladesh_national_cricket_team,Does the Bangladesh national cricket team have the best win percentage in the test format in 2020 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2020,"2021 
+"
+Bangladesh_national_cricket_team,Does the Bangladesh national cricket team have the best win percentage in the odi format in 2017 or 2018?(Answer in year)(Include no results/ties/draws in total number of matches.),2018,"2018 
+"
+Bangladesh_national_cricket_team,Was the Bangladesh national cricket team's win percentage the highest in the odi format in either 2017 or 2019?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2019 
+"
+Bangladesh_national_cricket_team,Was the Bangladesh national cricket team's win percentage the highest in the odi format in either 2017 or 2020?(Answer in year)(Include no results/ties/draws in total number of matches.),2020,"2020 
+"
+Bangladesh_national_cricket_team,Was the Bangladesh national cricket team's win percentage the highest in the odi format in either 2017 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2017 
+"
+Bangladesh_national_cricket_team,Does the Bangladesh national cricket team have the best win percentage in the odi format in 2018 or 2019?(Answer in year)(Include no results/ties/draws in total number of matches.),2018,"2019
+"
+Bangladesh_national_cricket_team,Does the Bangladesh national cricket team have the best win percentage in the odi format in 2018 or 2020?(Answer in year)(Include no results/ties/draws in total number of matches.),2020,"2018 
+"
+Bangladesh_national_cricket_team,Does the Bangladesh national cricket team have the best win percentage in the odi format in 2018 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2021
+"
+Bangladesh_national_cricket_team,Was the Bangladesh national cricket team's win percentage the highest in the odi format in either 2019 or 2020?(Answer in year)(Include no results/ties/draws in total number of matches.),2020,"2019
+"
+Bangladesh_national_cricket_team,Does the Bangladesh national cricket team have the best win percentage in the odi format in 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2021 
+"
+Bangladesh_national_cricket_team,Was the Bangladesh national cricket team's win percentage the highest in the odi format in either 2020 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2020,"2021
+"
+Bangladesh_national_cricket_team,Was the Bangladesh national cricket team's win percentage the highest in the t20i format in either 2017 or 2018?(Answer in year)(Include no results/ties/draws in total number of matches.),2018,"2018 
+"
+Bangladesh_national_cricket_team,Does the Bangladesh national cricket team have the best win percentage in the t20i format in 2017 or 2019?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2019
+"
+Bangladesh_national_cricket_team,Was the Bangladesh national cricket team's win percentage the highest in the t20i format in either 2017 or 2020?(Answer in year)(Include no results/ties/draws in total number of matches.),2020,"2020
+"
+Bangladesh_national_cricket_team,Was the Bangladesh national cricket team's win percentage the highest in the t20i format in either 2017 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2021 
+"
+Bangladesh_national_cricket_team,Does the Bangladesh national cricket team have the best win percentage in the t20i format in 2018 or 2019?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2018
+"
+Bangladesh_national_cricket_team,Does the Bangladesh national cricket team have the best win percentage in the t20i format in 2018 or 2020?(Answer in year)(Include no results/ties/draws in total number of matches.),2020,"2020 
+"
+Bangladesh_national_cricket_team,Was the Bangladesh national cricket team's win percentage the highest in the t20i format in either 2018 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2021 
+"
+Bangladesh_national_cricket_team,Was the Bangladesh national cricket team's win percentage the highest in the t20i format in either 2019 or 2020?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2020
+"
+Bangladesh_national_cricket_team,Does the Bangladesh national cricket team have the best win percentage in the t20i format in 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2021 
+"
+Bangladesh_national_cricket_team,Does the Bangladesh national cricket team have the best win percentage in the t20i format in 2020 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2020,"2021 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the coach during the tenure of Shakib Al Hasan and Mashrafe Mortaza as the t20i captain and od captain, respectively, of the Bangladesh national cricket team.","Richard Halsall, Chandika Hathurusingha, Russell Domingo, Steve Rhodes","Chandika Hathurusingha, Steve Rhodes 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the coach during the tenure of Shakib Al Hasan and Tamim Iqbal as the t20i captain and od captain, respectively, of the Bangladesh national cricket team.","Sridharan Sriram, Chandika Hathurusingha","Chandika Hathurusingha 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the test captain during the tenure of Mashrafe Mortaza and Russell Domingo as the od captain and coach, respectively, of the Bangladesh national cricket team.","Mominul Haque, Shakib Al Hasan","Shakib Al Hasan, Mominul Haque 
+"
+Bangladesh_national_cricket_team,Who was the od captain when t20i captain was Shakib Al Hasan and coach was Chandika Hathurusingha of the Bangladesh national cricket team?,"Mashrafe Mortaza, Tamim Iqbal","Mashrafe Mortaza 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the od captain during the tenure of Mahmudullah and Russell Domingo as the t20i captain and coach, respectively, of the Bangladesh national cricket team.","Mashrafe Mortaza, Tamim Iqbal","Tamim Iqbal 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the od captain during the tenure of Mahmudullah and Mominul Haque as the t20i captain and test captain, respectively, of the Bangladesh national cricket team.","Mashrafe Mortaza, Tamim Iqbal","Tamim Iqbal 
+"
+Bangladesh_national_cricket_team,Who was the od captain when test captain was Mominul Haque and coach was Russell Domingo of the Bangladesh national cricket team?,"Mashrafe Mortaza, Tamim Iqbal","Tamim Iqbal 
+"
+Bangladesh_national_cricket_team,Who was the t20i captain when od captain was Mashrafe Mortaza and coach was Russell Domingo of the Bangladesh national cricket team?,"Mahmudullah, Shakib Al Hasan",
+Bangladesh_national_cricket_team,"Name the person(s) who served as the coach during the tenure of Shakib Al Hasan and Jamie Siddons as the t20i captain and test coach, respectively, of the Bangladesh national cricket team.",Sridharan Sriram,"Chandika Hathurusingha 
+"
+Bangladesh_national_cricket_team,Who was the coach when t20i captain was Mahmudullah and od captain was Mashrafe Mortaza of the Bangladesh national cricket team?,Russell Domingo,"Russell Domingo 
+"
+Bangladesh_national_cricket_team,Who was the coach when t20i captain was Mahmudullah and od captain was Tamim Iqbal of the Bangladesh national cricket team?,Russell Domingo,"Russell Domingo 
+"
+Bangladesh_national_cricket_team,Who was the coach when t20i captain was Shakib Al Hasan and test captain was Mushfiqur Rahim of the Bangladesh national cricket team?,Chandika Hathurusingha,"Chandika Hathurusingha 
+"
+Bangladesh_national_cricket_team,Who was the coach when t20i captain was Mahmudullah and test captain was Mominul Haque of the Bangladesh national cricket team?,Russell Domingo,"Russell Domingo 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the coach during the tenure of Tamim Iqbal and Jamie Siddons as the od captain and test coach, respectively, of the Bangladesh national cricket team.",Sridharan Sriram,"Chandika Hathurusingha 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the coach during the tenure of Mashrafe Mortaza and Mushfiqur Rahim as the od captain and test captain, respectively, of the Bangladesh national cricket team.",Chandika Hathurusingha,"Chandika Hathurusingha 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the coach during the tenure of Mashrafe Mortaza and Mominul Haque as the od captain and test captain, respectively, of the Bangladesh national cricket team.",Russell Domingo,"Russell Domingo 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the coach during the tenure of Tamim Iqbal and Mominul Haque as the od captain and test captain, respectively, of the Bangladesh national cricket team.",Russell Domingo,"Russell Domingo 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the test coach during the tenure of Shakib Al Hasan and Sridharan Sriram as the t20i captain and coach, respectively, of the Bangladesh national cricket team.",Jamie Siddons,
+Bangladesh_national_cricket_team,Who was the test coach when t20i captain was Shakib Al Hasan and od captain was Tamim Iqbal of the Bangladesh national cricket team?,Jamie Siddons,
+Bangladesh_national_cricket_team,"Name the person(s) who served as the test coach during the tenure of Tamim Iqbal and Sridharan Sriram as the od captain and coach, respectively, of the Bangladesh national cricket team.",Jamie Siddons,
+Bangladesh_national_cricket_team,"Name the person(s) who served as the od coach during the tenure of Shakib Al Hasan and Sridharan Sriram as the t20i captain and coach, respectively, of the Bangladesh national cricket team.",Jamie Siddons,
+Bangladesh_national_cricket_team,Who was the od coach when t20i captain was Shakib Al Hasan and od captain was Tamim Iqbal of the Bangladesh national cricket team?,Jamie Siddons,
+Bangladesh_national_cricket_team,"Name the person(s) who served as the od coach during the tenure of Tamim Iqbal and Sridharan Sriram as the od captain and coach, respectively, of the Bangladesh national cricket team.",Jamie Siddons,
+Bangladesh_national_cricket_team,Who was the test captain when t20i captain was Mahmudullah and coach was Russell Domingo of the Bangladesh national cricket team?,Mominul Haque,"Mominul Haque 
+"
+Bangladesh_national_cricket_team,Who was the test captain when t20i captain was Mahmudullah and od captain was Mashrafe Mortaza of the Bangladesh national cricket team?,Mominul Haque,"Mominul Haque 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the test captain during the tenure of Mahmudullah and Tamim Iqbal as the t20i captain and od captain, respectively, of the Bangladesh national cricket team.",Mominul Haque,"Mominul Haque 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the test captain during the tenure of Mashrafe Mortaza and Chandika Hathurusingha as the od captain and coach, respectively, of the Bangladesh national cricket team.",Mushfiqur Rahim,"Mushfiqur Rahim, Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the test captain during the tenure of Mashrafe Mortaza and Richard Halsall as the od captain and coach, respectively, of the Bangladesh national cricket team.",Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the test captain during the tenure of Mashrafe Mortaza and Steve Rhodes as the od captain and coach, respectively, of the Bangladesh national cricket team.",Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the test captain during the tenure of Tamim Iqbal and Russell Domingo as the od captain and coach, respectively, of the Bangladesh national cricket team.",Mominul Haque,"Mominul Haque 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the test captain during the tenure of Tamim Iqbal and Sridharan Sriram as the od captain and coach, respectively, of the Bangladesh national cricket team.",Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Who was the test captain when od captain was Tamim Iqbal and coach was Chandika Hathurusingha of the Bangladesh national cricket team?,Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Who was the test captain when od captain was Tamim Iqbal and test coach was Jamie Siddons of the Bangladesh national cricket team?,Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the test captain during the tenure of Sridharan Sriram and Jamie Siddons as the coach and test coach, respectively, of the Bangladesh national cricket team.",Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the od captain during the tenure of Shakib Al Hasan and Richard Halsall as the t20i captain and coach, respectively, of the Bangladesh national cricket team.",Mashrafe Mortaza,"Mashrafe Mortaza 
+"
+Bangladesh_national_cricket_team,Who was the od captain when t20i captain was Shakib Al Hasan and coach was Steve Rhodes of the Bangladesh national cricket team?,Mashrafe Mortaza,"Mashrafe Mortaza 
+"
+Bangladesh_national_cricket_team,Who was the od captain when t20i captain was Shakib Al Hasan and coach was Russell Domingo of the Bangladesh national cricket team?,Mashrafe Mortaza,"Mashrafe Mortaza 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the od captain during the tenure of Shakib Al Hasan and Sridharan Sriram as the t20i captain and coach, respectively, of the Bangladesh national cricket team.",Tamim Iqbal,"Tamim Iqbal 
+"
+Bangladesh_national_cricket_team,Who was the od captain when t20i captain was Shakib Al Hasan and test coach was Jamie Siddons of the Bangladesh national cricket team?,Tamim Iqbal,"Tamim Iqbal 
+"
+Bangladesh_national_cricket_team,Who was the od captain when t20i captain was Shakib Al Hasan and test captain was Mushfiqur Rahim of the Bangladesh national cricket team?,Mashrafe Mortaza,"Mashrafe Mortaza 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the od captain during the tenure of Mushfiqur Rahim and Chandika Hathurusingha as the test captain and coach, respectively, of the Bangladesh national cricket team.",Mashrafe Mortaza,"Mashrafe Mortaza 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the od captain during the tenure of Sridharan Sriram and Jamie Siddons as the coach and test coach, respectively, of the Bangladesh national cricket team.",Tamim Iqbal,"Tamim Iqbal 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Mashrafe Mortaza and Chandika Hathurusingha as the od captain and coach, respectively, of the Bangladesh national cricket team.",Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Mashrafe Mortaza and Richard Halsall as the od captain and coach, respectively, of the Bangladesh national cricket team.",Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Mashrafe Mortaza and Steve Rhodes as the od captain and coach, respectively, of the Bangladesh national cricket team.",Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Who was the t20i captain when od captain was Tamim Iqbal and coach was Russell Domingo of the Bangladesh national cricket team?,Mahmudullah,
+Bangladesh_national_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Tamim Iqbal and Sridharan Sriram as the od captain and coach, respectively, of the Bangladesh national cricket team.",Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Who was the t20i captain when od captain was Tamim Iqbal and coach was Chandika Hathurusingha of the Bangladesh national cricket team?,Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Tamim Iqbal and Jamie Siddons as the od captain and test coach, respectively, of the Bangladesh national cricket team.",Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Mashrafe Mortaza and Mushfiqur Rahim as the od captain and test captain, respectively, of the Bangladesh national cricket team.",Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Mashrafe Mortaza and Mominul Haque as the od captain and test captain, respectively, of the Bangladesh national cricket team.",Mahmudullah,"Shakib Al Hasan, Mahmudullah 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Tamim Iqbal and Mominul Haque as the od captain and test captain, respectively, of the Bangladesh national cricket team.",Mahmudullah,
+Bangladesh_national_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Mushfiqur Rahim and Chandika Hathurusingha as the test captain and coach, respectively, of the Bangladesh national cricket team.",Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Mominul Haque and Russell Domingo as the test captain and coach, respectively, of the Bangladesh national cricket team.",Mahmudullah,
+Bangladesh_national_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Sridharan Sriram and Jamie Siddons as the coach and test coach, respectively, of the Bangladesh national cricket team.",Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,In which year did Richard Halsall become the coach of the Bangladesh national cricket team for the first time?,2018,"2018 
+"
+Bangladesh_national_cricket_team,In which year did Steve Rhodes first assume the role of coach for the Bangladesh national cricket team?,2018,"2018 
+"
+Bangladesh_national_cricket_team,In which year did Russell Domingo first assume the role of coach for the Bangladesh national cricket team?,2019,"2019 
+"
+Bangladesh_national_cricket_team,In which year did Mominul Haque first assume the role of test_captain for the Bangladesh national cricket team?,2019,"2019 
+"
+Bangladesh_national_cricket_team,In which year did Tamim Iqbal first assume the role of od_captain for the Bangladesh national cricket team?,2020,"2020 
+"
+Bangladesh_national_cricket_team,In which year did Mahmudullah first assume the role of t20i_captain for the Bangladesh national cricket team?,2019,"2019 
+"
+Bangladesh_national_cricket_team,"What was the duration of Mushfiqur Rahim's tenure as the test captain of Bangladesh national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",74 days,"16 days 
+"
+Bangladesh_national_cricket_team,"How long did Shakib Al Hasan serve as the test captain of Bangladesh national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",884 days,"1,985 days 
+"
+Bangladesh_national_cricket_team,"What was the duration of Mominul Haque's tenure as the test captain of Bangladesh national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1106 days,"1273 days 
+"
+Bangladesh_national_cricket_team,"How long did Mashrafe Mortaza serve as the od captain of Bangladesh national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",945 days,"1,783 days 
+"
+Bangladesh_national_cricket_team,"How long did Tamim Iqbal serve as the od captain of Bangladesh national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1119 days,"957 days 
+"
+Bangladesh_national_cricket_team,"What was the duration of Shakib Al Hasan's tenure as the t20i captain of Bangladesh national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",958 days,"1,986 days 
+"
+Bangladesh_national_cricket_team,"How long did Mahmudullah serve as the t20i captain of Bangladesh national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1106 days,"635 days 
+"
+Bangladesh_national_cricket_team,"What was the duration of Chandika Hathurusingha's tenure as the coach of Bangladesh national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",152 days,"565 days 
+"
+Bangladesh_national_cricket_team,"How long did Richard Halsall serve as the coach of Bangladesh national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",131 days,"69 days 
+"
+Bangladesh_national_cricket_team,"What was the duration of Steve Rhodes's tenure as the coach of Bangladesh national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",463 days,"692 days 
+"
+Bangladesh_national_cricket_team,"What was the duration of Russell Domingo's tenure as the coach of Bangladesh national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1215 days,"1,123 days 
+"
+Bangladesh_national_cricket_team,"What was the duration of Sridharan Sriram's tenure as the coach of Bangladesh national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",76 days,"175 days 
+"
+Bangladesh_national_cricket_team,"Which person had the longest tenure as the test captain of the Bangladesh national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Mominul Haque,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,"Who had the longest stint as the od captain of the Bangladesh national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Tamim Iqbal,"Mashrafe Mortaza 
+"
+Bangladesh_national_cricket_team,"Which person had the longest tenure as the t20i captain of the Bangladesh national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Mahmudullah,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,"Which person had the longest tenure as the coach of the Bangladesh national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Russell Domingo,"Russell Domingo 
+"
+Bangladesh_national_cricket_team,"Who had the shortest stint as the test captain of the Bangladesh national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Mushfiqur Rahim,"Mushfiqur Rahim 
+"
+Bangladesh_national_cricket_team,"Which person had the shortest tenure as the od captain of the Bangladesh national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Mashrafe Mortaza,"Mashrafe Mortaza 
+"
+Bangladesh_national_cricket_team,"Which person had the shortest tenure as the t20i captain of the Bangladesh national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Shakib Al Hasan,
+Bangladesh_national_cricket_team,How many people served as the test captain of the Bangladesh national cricket team?,3,"Four people 
+"
+Bangladesh_national_cricket_team,How many individuals took on the role of od captain of the Bangladesh national cricket team?,2,"Two individuals. 
+"
+Bangladesh_national_cricket_team,How many people served as the t20i captain of the Bangladesh national cricket team?,2,"Four 
+"
+Bangladesh_national_cricket_team,How many people served as the coach of the Bangladesh national cricket team?,5,"Seven coaches 
+"
+Bangladesh_national_cricket_team,Who served as the test captain of the Bangladesh national cricket team prior to Shakib Al Hasan?,"Mominul Haque, Mushfiqur Rahim","Mushfiqur Rahim 
+"
+Bangladesh_national_cricket_team,Who served as the test captain of the Bangladesh national cricket team prior to Mominul Haque?,Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Who served as the od captain of the Bangladesh national cricket team prior to Tamim Iqbal?,Mashrafe Mortaza,"Mashrafe Mortaza 
+"
+Bangladesh_national_cricket_team,Who served as the t20i captain of the Bangladesh national cricket team prior to Shakib Al Hasan?,Mahmudullah,
+Bangladesh_national_cricket_team,Who was the t20i captain of the Bangladesh national cricket team before Mahmudullah?,Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Who served as the coach of the Bangladesh national cricket team prior to Chandika Hathurusingha?,Sridharan Sriram,"Russell Domingo 
+"
+Bangladesh_national_cricket_team,Who served as the coach of the Bangladesh national cricket team prior to Steve Rhodes?,Richard Halsall,"Richard Halsall 
+"
+Bangladesh_national_cricket_team,Who was the coach of the Bangladesh national cricket team before Russell Domingo?,Steve Rhodes,"Steve Rhodes 
+"
+Bangladesh_national_cricket_team,Who served as the coach of the Bangladesh national cricket team prior to Sridharan Sriram?,Russell Domingo,"Russell Domingo 
+"
+Bangladesh_national_cricket_team,Who was the test captain of Bangladesh national cricket team after Mushfiqur Rahim?,Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Who assumed the role of test captain for the Bangladesh national cricket team following Shakib Al Hasan?,Mominul Haque,"Mominul Haque 
+"
+Bangladesh_national_cricket_team,Who was the test captain of Bangladesh national cricket team after Mominul Haque?,Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Who was the od captain of Bangladesh national cricket team after Mashrafe Mortaza?,Tamim Iqbal,"Tamim Iqbal 
+"
+Bangladesh_national_cricket_team,Who was the t20i captain of Bangladesh national cricket team after Shakib Al Hasan?,Mahmudullah,
+Bangladesh_national_cricket_team,Who assumed the role of t20i captain for the Bangladesh national cricket team following Mahmudullah?,Shakib Al Hasan,"Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Who assumed the role of coach for the Bangladesh national cricket team following Richard Halsall?,Steve Rhodes,"Steve Rhodes 
+"
+Bangladesh_national_cricket_team,Who was the coach of Bangladesh national cricket team after Steve Rhodes?,Russell Domingo,"Russell Domingo 
+"
+Bangladesh_national_cricket_team,Who was the coach of Bangladesh national cricket team after Russell Domingo?,Sridharan Sriram,"Chandika Hathurusingha 
+"
+Bangladesh_national_cricket_team,Who assumed the role of coach for the Bangladesh national cricket team following Sridharan Sriram?,Chandika Hathurusingha,"Chandika Hathurusingha 
+"
+Bangladesh_national_cricket_team,"How many total(including ODIs,Tests,T20Is) matches did the Bangladesh national cricket team play between 2018 and 2019? (including both the years)",76,"161 matches 
+"
+Bangladesh_national_cricket_team,"How many total(including ODIs,Tests,T20Is) matches did the Bangladesh national cricket team play between 2018 and 2020? (including both the years)",85,"266 matches 
+"
+Bangladesh_national_cricket_team,"How many total(including ODIs,Tests,T20Is) matches did the Bangladesh national cricket team play between 2018 and 2021? (including both the years)",131,"247 matches 
+"
+Bangladesh_national_cricket_team,"How many total(including ODIs,Tests,T20Is) matches did the Bangladesh national cricket team play between 2019 and 2020? (including both the years)",39,"73 matches 
+"
+Bangladesh_national_cricket_team,"How many total(including ODIs,Tests,T20Is) matches did the Bangladesh national cricket team play between 2019 and 2021? (including both the years)",85,"147 matches 
+"
+Bangladesh_national_cricket_team,"How many total(including ODIs,Tests,T20Is) matches did the Bangladesh national cricket team play between 2020 and 2021? (including both the years)",55,"85 matches 
+"
+Bangladesh_national_cricket_team,How many test matches did the Bangladesh national cricket team play between 2018 and 2019? (including both the years),13,"8 test matches 
+"
+Bangladesh_national_cricket_team,How many test matches did the Bangladesh national cricket team play between 2018 and 2020? (including both the years),15,"22 test matches
+"
+Bangladesh_national_cricket_team,How many test matches did the Bangladesh national cricket team play between 2018 and 2021? (including both the years),22,"28 test matches 
+"
+Bangladesh_national_cricket_team,How many test matches did the Bangladesh national cricket team play between 2019 and 2020? (including both the years),7,"5 test matches
+"
+Bangladesh_national_cricket_team,How many test matches did the Bangladesh national cricket team play between 2019 and 2021? (including both the years),14,"22 matches
+"
+Bangladesh_national_cricket_team,How many test matches did the Bangladesh national cricket team play between 2020 and 2021? (including both the years),9,"7 test matches 
+"
+Bangladesh_national_cricket_team,How many odi matches did the Bangladesh national cricket team play between 2018 and 2019? (including both the years),38,"19
+"
+Bangladesh_national_cricket_team,How many odi matches did the Bangladesh national cricket team play between 2018 and 2020? (including both the years),41,"21 matches 
+"
+Bangladesh_national_cricket_team,How many odi matches did the Bangladesh national cricket team play between 2018 and 2021? (including both the years),53,"119 matches 
+"
+Bangladesh_national_cricket_team,How many odi matches did the Bangladesh national cricket team play between 2019 and 2020? (including both the years),21,"16 matches 
+"
+Bangladesh_national_cricket_team,How many odi matches did the Bangladesh national cricket team play between 2019 and 2021? (including both the years),33,"112 matches 
+"
+Bangladesh_national_cricket_team,How many odi matches did the Bangladesh national cricket team play between 2020 and 2021? (including both the years),15,"12 
+"
+Bangladesh_national_cricket_team,How many t20 matches did the Bangladesh national cricket team play between 2018 and 2019? (including both the years),25,"23 matches 
+"
+Bangladesh_national_cricket_team,How many t20 matches did the Bangladesh national cricket team play between 2018 and 2020? (including both the years),29,"28 matches 
+"
+Bangladesh_national_cricket_team,How many t20 matches did the Bangladesh national cricket team play between 2018 and 2021? (including both the years),56,"60 matches 
+"
+Bangladesh_national_cricket_team,How many t20 matches did the Bangladesh national cricket team play between 2019 and 2020? (including both the years),11,"17 matches 
+"
+Bangladesh_national_cricket_team,How many t20 matches did the Bangladesh national cricket team play between 2019 and 2021? (including both the years),38,"36 matches 
+"
+Bangladesh_national_cricket_team,How many t20 matches did the Bangladesh national cricket team play between 2020 and 2021? (including both the years),31,"16 matches 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) who held the position of the test_captain for the Bangladesh national cricket team from 2018 and 2019? (including both the years),"Mominul Haque, Shakib Al Hasan","Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) who held the position of the test_captain for the Bangladesh national cricket team from 2018 and 2020? (including both the years),"Mominul Haque, Shakib Al Hasan","Shakib Al Hasan, Mominul Haque 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) who held the position of the test_captain for the Bangladesh national cricket team from 2018 and 2021? (including both the years),"Mominul Haque, Shakib Al Hasan","Shakib Al Hasan, Mominul Haque 
+"
+Bangladesh_national_cricket_team,Name the people who serve as test_captain of Bangladesh national cricket team between 2019 and 2020. (including both the years),"Mominul Haque, Shakib Al Hasan","Shakib Al Hasan, Mominul Haque 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) who held the position of the test_captain for the Bangladesh national cricket team from 2019 and 2021? (including both the years),"Mominul Haque, Shakib Al Hasan","Shakib Al Hasan, Mominul Haque 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) who held the position of the test_captain for the Bangladesh national cricket team from 2020 and 2021? (including both the years),Mominul Haque,"Mominul Haque 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) who held the position of the od_captain for the Bangladesh national cricket team from 2018 and 2019? (including both the years),Mashrafe Mortaza,"Mashrafe Mortaza 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) who held the position of the od_captain for the Bangladesh national cricket team from 2018 and 2020? (including both the years),"Mashrafe Mortaza, Tamim Iqbal","Mashrafe Mortaza 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) who held the position of the od_captain for the Bangladesh national cricket team from 2018 and 2021? (including both the years),"Mashrafe Mortaza, Tamim Iqbal","Mashrafe Mortaza, Tamim Iqbal 
+"
+Bangladesh_national_cricket_team,Name the people who serve as od_captain of Bangladesh national cricket team between 2019 and 2020. (including both the years),"Mashrafe Mortaza, Tamim Iqbal","Mashrafe Mortaza 
+"
+Bangladesh_national_cricket_team,Name the people who serve as od_captain of Bangladesh national cricket team between 2019 and 2021. (including both the years),"Mashrafe Mortaza, Tamim Iqbal","Mashrafe Mortaza, Tamim Iqbal 
+"
+Bangladesh_national_cricket_team,Name the people who serve as od_captain of Bangladesh national cricket team between 2020 and 2021. (including both the years),"Mashrafe Mortaza, Tamim Iqbal","Mashrafe Mortaza, Tamim Iqbal 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) who held the position of the t20i_captain for the Bangladesh national cricket team from 2018 and 2019? (including both the years),"Mahmudullah, Shakib Al Hasan","Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) who held the position of the t20i_captain for the Bangladesh national cricket team from 2018 and 2020? (including both the years),"Mahmudullah, Shakib Al Hasan","Shakib Al Hasan, Mahmudullah 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) who held the position of the t20i_captain for the Bangladesh national cricket team from 2018 and 2021? (including both the years),"Mahmudullah, Shakib Al Hasan","Shakib Al Hasan, Mahmudullah 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) who held the position of the t20i_captain for the Bangladesh national cricket team from 2019 and 2020? (including both the years),"Mahmudullah, Shakib Al Hasan","Mahmudullah, Shakib Al Hasan 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) who held the position of the t20i_captain for the Bangladesh national cricket team from 2019 and 2021? (including both the years),"Mahmudullah, Shakib Al Hasan","Shakib Al Hasan and Mahmudullah 
+"
+Bangladesh_national_cricket_team,Name the people who serve as t20i_captain of Bangladesh national cricket team between 2020 and 2021. (including both the years),Mahmudullah,
+Bangladesh_national_cricket_team,Who were the individual(s) who held the position of the coach for the Bangladesh national cricket team from 2018 and 2019? (including both the years),"Russell Domingo, Richard Halsall, Steve Rhodes","Steve Rhodes 
+"
+Bangladesh_national_cricket_team,Name the people who serve as coach of Bangladesh national cricket team between 2018 and 2020. (including both the years),"Russell Domingo, Richard Halsall, Steve Rhodes","Richard Halsall, Steve Rhodes, Russell Domingo 
+"
+Bangladesh_national_cricket_team,Name the people who serve as coach of Bangladesh national cricket team between 2018 and 2021. (including both the years),"Russell Domingo, Richard Halsall, Steve Rhodes","Richard Halsall, Steve Rhodes, Russell Domingo 
+"
+Bangladesh_national_cricket_team,Name the people who serve as coach of Bangladesh national cricket team between 2019 and 2020. (including both the years),"Russell Domingo, Steve Rhodes","Russell Domingo 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) who held the position of the coach for the Bangladesh national cricket team from 2019 and 2021? (including both the years),"Russell Domingo, Steve Rhodes","Russell Domingo 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) who held the position of the coach for the Bangladesh national cricket team from 2020 and 2021? (including both the years),Russell Domingo,"Russell Domingo 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) who acted as the coach of the Bangladesh national cricket team in 2018?,"Richard Halsall, Steve Rhodes","Richard Halsall, Steve Rhodes 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the coach of the Bangladesh national cricket team in 2019.,"Russell Domingo, Steve Rhodes","Russell Domingo 
+"
+Bangladesh_national_cricket_team,Who were the individual(s) who acted as the coach of the Bangladesh national cricket team in 2020?,Russell Domingo,"Russell Domingo 
+"
+Bangladesh_national_cricket_team,Name the person(s) who served as the coach of the Bangladesh national cricket team in 2021.,Russell Domingo,"Russell Domingo 
+"
+Bangladesh_national_cricket_team,What was the highest ranking achieved by the Bangladesh national cricket team in the test format in 2018?,8,"8th 
+"
+Bangladesh_national_cricket_team,what was the best test rank of the Bangladesh national cricket team in 2019?,9,"9th 
+"
+Bangladesh_national_cricket_team,what was the best test rank of the Bangladesh national cricket team in 2020?,9,"9th 
+"
+Bangladesh_national_cricket_team,what was the best test rank of the Bangladesh national cricket team in 2021?,9,"9th 
+"
+Bangladesh_national_cricket_team,what was the best odi rank of the Bangladesh national cricket team in 2018?,7,"7th 
+"
+Bangladesh_national_cricket_team,What was the highest ranking achieved by the Bangladesh national cricket team in the odi format in 2019?,7,"7th 
+"
+Bangladesh_national_cricket_team,what was the best odi rank of the Bangladesh national cricket team in 2020?,7,"7th 
+"
+Bangladesh_national_cricket_team,What was the highest ranking achieved by the Bangladesh national cricket team in the odi format in 2021?,7,"7th 
+"
+Bangladesh_national_cricket_team,what was the best t20i rank of the Bangladesh national cricket team in 2018?,10,"10th 
+"
+Bangladesh_national_cricket_team,what was the best t20i rank of the Bangladesh national cricket team in 2019?,9,"9th
+"
+Bangladesh_national_cricket_team,What was the highest ranking achieved by the Bangladesh national cricket team in the t20i format in 2020?,8,"8th 
+"
+Bangladesh_national_cricket_team,what was the best t20i rank of the Bangladesh national cricket team in 2021?,6,"6th 
+"
+Bangladesh_national_cricket_team,What is the win to loss ratio of Bangladesh national cricket team in test format in 2017?(Answer in decimal form.),0.5,"0.14 
+"
+Bangladesh_national_cricket_team,What is the ratio of wins to losses for the Bangladesh national cricket team in the test format for 2018?(Answer in decimal form.),0.75,"0.125 
+"
+Bangladesh_national_cricket_team,What is the ratio of wins to losses for the Bangladesh national cricket team in the test format for 2019?(Answer in decimal form.),0.0,"0.375 
+"
+Bangladesh_national_cricket_team,What is the ratio of wins to losses for the Bangladesh national cricket team in the test format for 2020?(Answer in decimal form.),1.0,"0.14 
+"
+Bangladesh_national_cricket_team,What is the win to loss ratio of Bangladesh national cricket team in test format in 2021?(Answer in decimal form.),0.2,"1.5 
+"
+Bangladesh_national_cricket_team,What is the win to loss ratio of Bangladesh national cricket team in odi format in 2017?(Answer in decimal form.),0.57,"1.13 
+"
+Bangladesh_national_cricket_team,What is the ratio of wins to losses for the Bangladesh national cricket team in the odi format for 2018?(Answer in decimal form.),1.86,"1.80 
+"
+Bangladesh_national_cricket_team,What is the win to loss ratio of Bangladesh national cricket team in odi format in 2019?(Answer in decimal form.),0.64,"1.25 
+"
+Bangladesh_national_cricket_team,What is the ratio of wins to losses for the Bangladesh national cricket team in the odi format for 2021?(Answer in decimal form.),2.0,"1.57 
+"
+Bangladesh_national_cricket_team,What is the ratio of wins to losses for the Bangladesh national cricket team in the t20i format for 2017?(Answer in decimal form.),0.25,"1.33 
+"
+Bangladesh_national_cricket_team,What is the ratio of wins to losses for the Bangladesh national cricket team in the t20i format for 2018?(Answer in decimal form.),0.45,"1.18 
+"
+Bangladesh_national_cricket_team,What is the ratio of wins to losses for the Bangladesh national cricket team in the t20i format for 2019?(Answer in decimal form.),1.33,"1.75 
+"
+Bangladesh_national_cricket_team,What is the win to loss ratio of Bangladesh national cricket team in t20i format in 2020?(Answer in decimal form.),1.0,"1.5 
+"
+Bangladesh_national_cricket_team,What is the win to loss ratio of Bangladesh national cricket team in t20i format in 2021?(Answer in decimal form.),0.69,"2.25 
+"

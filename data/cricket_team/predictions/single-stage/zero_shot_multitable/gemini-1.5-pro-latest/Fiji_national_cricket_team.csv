@@ -1,0 +1,29 @@
+entity,question,actual_answer,predicted_answer
+Fiji_national_cricket_team,Name the person(s) who served as the t20i captain when Shane Jurgensen was the coach of the Fiji national cricket team.,"Jone Wesele, Josefa Rika","Josefa Rika, Jone Wesele 
+"
+Fiji_national_cricket_team,Name the person(s) who served as the coach when Josefa Rika was the t20i captain of the Fiji national cricket team.,Shane Jurgensen,"Shane Jurgensen 
+"
+Fiji_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Jone Wesele as the t20i captain of the Fiji national cricket team?,Shane Jurgensen,"Shane Jurgensen 
+"
+Fiji_national_cricket_team,Does the Fiji national cricket team have the best win percentage in the t20i format in 2022 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2023,"2022 
+"
+Fiji_national_cricket_team,"How long did Josefa Rika serve as the t20i captain of Fiji national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",985 days,"1096 days 
+"
+Fiji_national_cricket_team,"How long did Jone Wesele serve as the t20i captain of Fiji national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",476 days,"803 days 
+"
+Fiji_national_cricket_team,"Who had the longest stint as the t20i captain of the Fiji national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Josefa Rika,"Jone Wesele 
+"
+Fiji_national_cricket_team,"Which person had the shortest tenure as the t20i captain of the Fiji national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Jone Wesele,
+Fiji_national_cricket_team,How many individuals took on the role of t20i captain of the Fiji national cricket team?,2,"Two 
+"
+Fiji_national_cricket_team,Who served as the t20i captain of the Fiji national cricket team prior to Jone Wesele?,Josefa Rika,
+Fiji_national_cricket_team,Who assumed the role of t20i captain for the Fiji national cricket team following Josefa Rika?,Jone Wesele,"Jone Wesele 
+"
+Fiji_national_cricket_team,Who were the individual(s) who acted as the coach of the Fiji national cricket team in 2023?,Shane Jurgensen,"Shane Jurgensen 
+"
+Fiji_national_cricket_team,what was the best t20i rank of the Fiji national cricket team in 2023?,62,"62nd 
+"
+Fiji_national_cricket_team,What is the win to loss ratio of Fiji national cricket team in t20i format in 2022?(Answer in decimal form.),1.0,"1.0 
+"
+Fiji_national_cricket_team,What is the win to loss ratio of Fiji national cricket team in t20i format in 2023?(Answer in decimal form.),1.0,"1.0 
+"

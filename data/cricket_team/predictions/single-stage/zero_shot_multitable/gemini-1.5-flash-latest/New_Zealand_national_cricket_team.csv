@@ -1,0 +1,65 @@
+entity,question,actual_answer,predicted_answer
+New_Zealand_national_cricket_team,Name the person(s) who served as the test captain when Gary Stead was the coach of the New Zealand national cricket team.,"Tim Southee, Kane Williamson","Kane Williamson, Tim Southee 
+"
+New_Zealand_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Kane Williamson as the test captain of the New Zealand national cricket team?,Gary Stead,"Gary Stead 
+"
+New_Zealand_national_cricket_team,Name the person(s) who served as the coach when Tim Southee was the test captain of the New Zealand national cricket team.,Gary Stead,"Gary Stead 
+"
+New_Zealand_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Kane Williamson as the od captain of the New Zealand national cricket team?,Gary Stead,"Gary Stead 
+"
+New_Zealand_national_cricket_team,Name the person(s) who served as the coach when Kane Williamson was the t20i captain of the New Zealand national cricket team.,Gary Stead,"Gary Stead 
+"
+New_Zealand_national_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Tim Southee as the test captain of the New Zealand national cricket team?,Kane Williamson,
+New_Zealand_national_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Gary Stead as the coach of the New Zealand national cricket team?,Kane Williamson,
+New_Zealand_national_cricket_team,Name the person(s) who served as the t20i captain when Tim Southee was the test captain of the New Zealand national cricket team.,Kane Williamson,
+New_Zealand_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Gary Stead as the coach of the New Zealand national cricket team?,Kane Williamson,
+New_Zealand_national_cricket_team,Does the New Zealand national cricket team have the best win percentage in the test format in 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2019
+"
+New_Zealand_national_cricket_team,Was the New Zealand national cricket team's win percentage the highest in the odi format in either 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2021 
+"
+New_Zealand_national_cricket_team,Does the New Zealand national cricket team have the best win percentage in the t20i format in 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2021 
+"
+New_Zealand_national_cricket_team,"Name the person(s) who served as the coach during the tenure of Kane Williamson and Tim Southee as the t20i captain and test captain, respectively, of the New Zealand national cricket team.",Gary Stead,"Gary Stead 
+"
+New_Zealand_national_cricket_team,"Name the person(s) who served as the od captain during the tenure of Tim Southee and Gary Stead as the test captain and coach, respectively, of the New Zealand national cricket team.",Kane Williamson,
+New_Zealand_national_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Tim Southee and Gary Stead as the test captain and coach, respectively, of the New Zealand national cricket team.",Kane Williamson,
+New_Zealand_national_cricket_team,"What was the duration of Kane Williamson's tenure as the test captain of New Zealand national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1462 days,"1467 days 
+"
+New_Zealand_national_cricket_team,"What was the duration of Tim Southee's tenure as the test captain of New Zealand national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",68 days,"223 days 
+"
+New_Zealand_national_cricket_team,"What was the duration of Kane Williamson's tenure as the od captain of New Zealand national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1530 days,"1477 days 
+"
+New_Zealand_national_cricket_team,"How long did Kane Williamson serve as the t20i captain of New Zealand national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1530 days,"1549 days 
+"
+New_Zealand_national_cricket_team,"How long did Gary Stead serve as the coach of New Zealand national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1530 days,"1463 days 
+"
+New_Zealand_national_cricket_team,"Who had the longest stint as the test captain of the New Zealand national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Kane Williamson,
+New_Zealand_national_cricket_team,"Who had the longest stint as the od captain of the New Zealand national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Kane Williamson,
+New_Zealand_national_cricket_team,"Which person had the longest tenure as the t20i captain of the New Zealand national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Kane Williamson,
+New_Zealand_national_cricket_team,"Who had the longest stint as the coach of the New Zealand national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Gary Stead,"Gary Stead 
+"
+New_Zealand_national_cricket_team,"Who had the shortest stint as the test captain of the New Zealand national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Tim Southee,
+New_Zealand_national_cricket_team,"Who had the shortest stint as the od captain of the New Zealand national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Kane Williamson,
+New_Zealand_national_cricket_team,"Which person had the shortest tenure as the t20i captain of the New Zealand national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Kane Williamson,
+New_Zealand_national_cricket_team,"Which person had the shortest tenure as the coach of the New Zealand national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Gary Stead,"Gary Stead 
+"
+New_Zealand_national_cricket_team,How many people served as the test captain of the New Zealand national cricket team?,2,"Two people. 
+"
+New_Zealand_national_cricket_team,How many people served as the od captain of the New Zealand national cricket team?,1,"One person. 
+"
+New_Zealand_national_cricket_team,How many individuals took on the role of t20i captain of the New Zealand national cricket team?,1,"One individual. 
+"
+New_Zealand_national_cricket_team,How many people served as the coach of the New Zealand national cricket team?,1,"One person. 
+"
+New_Zealand_national_cricket_team,Who was the test captain of the New Zealand national cricket team before Tim Southee?,Kane Williamson,
+New_Zealand_national_cricket_team,Who assumed the role of test captain for the New Zealand national cricket team following Kane Williamson?,Tim Southee,
+New_Zealand_national_cricket_team,What is the ratio of wins to losses for the New Zealand national cricket team in the test format for 2019?(Answer in decimal form.),5.0,"1.5 
+"
+New_Zealand_national_cricket_team,What is the ratio of wins to losses for the New Zealand national cricket team in the test format for 2021?(Answer in decimal form.),3.0,"1.125 
+"
+New_Zealand_national_cricket_team,What is the win to loss ratio of New Zealand national cricket team in odi format in 2019?(Answer in decimal form.),1.86,"2.14 
+"
+New_Zealand_national_cricket_team,What is the ratio of wins to losses for the New Zealand national cricket team in the t20i format for 2019?(Answer in decimal form.),1.75,"1.43 
+"
+New_Zealand_national_cricket_team,What is the ratio of wins to losses for the New Zealand national cricket team in the t20i format for 2021?(Answer in decimal form.),1.3,"1.25 
+"

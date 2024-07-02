@@ -1,0 +1,166 @@
+entity,question,actual_answer,predicted_answer
+India_national_cricket_team,Name the person(s) who served as the coach when Virat Kohli was the test captain of the India national cricket team.,"Rahul Dravid, Ravi Shastri","Ravi Shastri 
+"
+India_national_cricket_team,Who were the individual(s) serving as the test captain during the tenure of Rahul Dravid as the coach of the India national cricket team?,"Virat Kohli, Rohit Sharma","Virat Kohli, Rohit Sharma 
+"
+India_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Rohit Sharma as the test captain of the India national cricket team?,Rahul Dravid,"Rahul Dravid 
+"
+India_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Virat Kohli as the od captain of the India national cricket team?,Ravi Shastri,"Ravi Shastri 
+"
+India_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Rohit Sharma as the od captain of the India national cricket team?,Rahul Dravid,"Rahul Dravid 
+"
+India_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Virat Kohli as the t20i captain of the India national cricket team?,Ravi Shastri,"Ravi Shastri 
+"
+India_national_cricket_team,Name the person(s) who served as the coach when Rohit Sharma was the t20i captain of the India national cricket team.,Rahul Dravid,"Rahul Dravid 
+"
+India_national_cricket_team,Name the person(s) who served as the coach when Bharat Arun was the bowling coach of the India national cricket team.,Ravi Shastri,"Ravi Shastri 
+"
+India_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Ramakrishnan Sridhar as the fielding coach of the India national cricket team?,Ravi Shastri,"Ravi Shastri 
+"
+India_national_cricket_team,Name the person(s) who served as the bowling coach when Virat Kohli was the test captain of the India national cricket team.,Bharat Arun,
+India_national_cricket_team,Name the person(s) who served as the bowling coach when Virat Kohli was the od captain of the India national cricket team.,Bharat Arun,
+India_national_cricket_team,Who were the individual(s) serving as the bowling coach during the tenure of Virat Kohli as the t20i captain of the India national cricket team?,Bharat Arun,
+India_national_cricket_team,Who were the individual(s) serving as the bowling coach during the tenure of Ravi Shastri as the coach of the India national cricket team?,Bharat Arun,
+India_national_cricket_team,Name the person(s) who served as the bowling coach when Ramakrishnan Sridhar was the fielding coach of the India national cricket team.,Bharat Arun,
+India_national_cricket_team,Who were the individual(s) serving as the fielding coach during the tenure of Virat Kohli as the test captain of the India national cricket team?,Ramakrishnan Sridhar,"Ramakrishnan Sridhar 
+"
+India_national_cricket_team,Who were the individual(s) serving as the fielding coach during the tenure of Virat Kohli as the od captain of the India national cricket team?,Ramakrishnan Sridhar,"Ramakrishnan Sridhar 
+"
+India_national_cricket_team,Name the person(s) who served as the fielding coach when Virat Kohli was the t20i captain of the India national cricket team.,Ramakrishnan Sridhar,"Ramakrishnan Sridhar 
+"
+India_national_cricket_team,Who were the individual(s) serving as the fielding coach during the tenure of Ravi Shastri as the coach of the India national cricket team?,Ramakrishnan Sridhar,"Ramakrishnan Sridhar 
+"
+India_national_cricket_team,Name the person(s) who served as the fielding coach when Bharat Arun was the bowling coach of the India national cricket team.,Ramakrishnan Sridhar,"Ramakrishnan Sridhar 
+"
+India_national_cricket_team,Who were the individual(s) serving as the test captain during the tenure of Ravi Shastri as the coach of the India national cricket team?,Virat Kohli,"Virat Kohli 
+"
+India_national_cricket_team,Name the person(s) who served as the test captain when Bharat Arun was the bowling coach of the India national cricket team.,Virat Kohli,"Virat Kohli 
+"
+India_national_cricket_team,Who were the individual(s) serving as the test captain during the tenure of Ramakrishnan Sridhar as the fielding coach of the India national cricket team?,Virat Kohli,"Virat Kohli 
+"
+India_national_cricket_team,Name the person(s) who served as the od captain when Ravi Shastri was the coach of the India national cricket team.,Virat Kohli,"Virat Kohli 
+"
+India_national_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Rahul Dravid as the coach of the India national cricket team?,Rohit Sharma,"Rohit Sharma, Virat Kohli 
+"
+India_national_cricket_team,Name the person(s) who served as the od captain when Bharat Arun was the bowling coach of the India national cricket team.,Virat Kohli,"Virat Kohli 
+"
+India_national_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Ramakrishnan Sridhar as the fielding coach of the India national cricket team?,Virat Kohli,"Virat Kohli 
+"
+India_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Ravi Shastri as the coach of the India national cricket team?,Virat Kohli,"Virat Kohli 
+"
+India_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Rahul Dravid as the coach of the India national cricket team?,Rohit Sharma,"Virat Kohli, Rohit Sharma 
+"
+India_national_cricket_team,Name the person(s) who served as the t20i captain when Bharat Arun was the bowling coach of the India national cricket team.,Virat Kohli,"Virat Kohli 
+"
+India_national_cricket_team,Name the person(s) who served as the t20i captain when Ramakrishnan Sridhar was the fielding coach of the India national cricket team.,Virat Kohli,"Virat Kohli 
+"
+India_national_cricket_team,Was the India national cricket team's win percentage the highest in the test format in either 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2019 
+"
+India_national_cricket_team,Does the India national cricket team have the best win percentage in the odi format in 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2019 
+"
+India_national_cricket_team,Was the India national cricket team's win percentage the highest in the t20i format in either 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2021 
+"
+India_national_cricket_team,Who was the coach when t20i captain was Virat Kohli and bowling coach was Bharat Arun of the India national cricket team?,Ravi Shastri,"Ravi Shastri 
+"
+India_national_cricket_team,"Name the person(s) who served as the coach during the tenure of Virat Kohli and Ramakrishnan Sridhar as the t20i captain and fielding coach, respectively, of the India national cricket team.",Ravi Shastri,"Ravi Shastri 
+"
+India_national_cricket_team,"Name the person(s) who served as the coach during the tenure of Rohit Sharma and Virat Kohli as the t20i captain and test captain, respectively, of the India national cricket team.",Rahul Dravid,"Ravi Shastri 
+"
+India_national_cricket_team,Who was the coach when bowling coach was Bharat Arun and fielding coach was Ramakrishnan Sridhar of the India national cricket team?,Ravi Shastri,"Ravi Shastri 
+"
+India_national_cricket_team,"Name the person(s) who served as the bowling coach during the tenure of Virat Kohli and Ravi Shastri as the t20i captain and coach, respectively, of the India national cricket team.",Bharat Arun,
+India_national_cricket_team,Who was the bowling coach when t20i captain was Virat Kohli and fielding coach was Ramakrishnan Sridhar of the India national cricket team?,Bharat Arun,
+India_national_cricket_team,Who was the bowling coach when coach was Ravi Shastri and fielding coach was Ramakrishnan Sridhar of the India national cricket team?,Bharat Arun,
+India_national_cricket_team,Who was the fielding coach when t20i captain was Virat Kohli and coach was Ravi Shastri of the India national cricket team?,Ramakrishnan Sridhar,"Ramakrishnan Sridhar 
+"
+India_national_cricket_team,"Name the person(s) who served as the fielding coach during the tenure of Virat Kohli and Bharat Arun as the t20i captain and bowling coach, respectively, of the India national cricket team.",Ramakrishnan Sridhar,"Ramakrishnan Sridhar 
+"
+India_national_cricket_team,Who was the fielding coach when coach was Ravi Shastri and bowling coach was Bharat Arun of the India national cricket team?,Ramakrishnan Sridhar,"Ramakrishnan Sridhar 
+"
+India_national_cricket_team,Who was the test captain when coach was Ravi Shastri and bowling coach was Bharat Arun of the India national cricket team?,Virat Kohli,"Virat Kohli 
+"
+India_national_cricket_team,Who was the test captain when coach was Ravi Shastri and fielding coach was Ramakrishnan Sridhar of the India national cricket team?,Virat Kohli,"Virat Kohli 
+"
+India_national_cricket_team,"Name the person(s) who served as the test captain during the tenure of Bharat Arun and Ramakrishnan Sridhar as the bowling coach and fielding coach, respectively, of the India national cricket team.",Virat Kohli,"Virat Kohli 
+"
+India_national_cricket_team,"Name the person(s) who served as the od captain during the tenure of Virat Kohli and Rahul Dravid as the test captain and coach, respectively, of the India national cricket team.",Rohit Sharma,"Rohit Sharma 
+"
+India_national_cricket_team,"Name the person(s) who served as the od captain during the tenure of Ravi Shastri and Bharat Arun as the coach and bowling coach, respectively, of the India national cricket team.",Virat Kohli,"Virat Kohli 
+"
+India_national_cricket_team,"Name the person(s) who served as the od captain during the tenure of Ravi Shastri and Ramakrishnan Sridhar as the coach and fielding coach, respectively, of the India national cricket team.",Virat Kohli,"Virat Kohli 
+"
+India_national_cricket_team,Who was the od captain when bowling coach was Bharat Arun and fielding coach was Ramakrishnan Sridhar of the India national cricket team?,Virat Kohli,"Virat Kohli 
+"
+India_national_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Virat Kohli and Rahul Dravid as the test captain and coach, respectively, of the India national cricket team.",Rohit Sharma,"Rohit Sharma 
+"
+India_national_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Ravi Shastri and Bharat Arun as the coach and bowling coach, respectively, of the India national cricket team.",Virat Kohli,"Virat Kohli 
+"
+India_national_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Ravi Shastri and Ramakrishnan Sridhar as the coach and fielding coach, respectively, of the India national cricket team.",Virat Kohli,"Virat Kohli 
+"
+India_national_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Bharat Arun and Ramakrishnan Sridhar as the bowling coach and fielding coach, respectively, of the India national cricket team.",Virat Kohli,"Virat Kohli 
+"
+India_national_cricket_team,"What was the duration of Virat Kohli's tenure as the test captain of India national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1478 days,"1214 
+"
+India_national_cricket_team,"What was the duration of Rohit Sharma's tenure as the test captain of India national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",133 days,"557 
+"
+India_national_cricket_team,"What was the duration of Virat Kohli's tenure as the od captain of India national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1084 days,"1214 
+"
+India_national_cricket_team,"What was the duration of Rohit Sharma's tenure as the od captain of India national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",527 days,"654 
+"
+India_national_cricket_team,"What was the duration of Virat Kohli's tenure as the t20i captain of India national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1084 days,"1258 
+"
+India_national_cricket_team,"What was the duration of Rohit Sharma's tenure as the t20i captain of India national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",527 days,"658 days 
+"
+India_national_cricket_team,"How long did Ravi Shastri serve as the coach of India national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1084 days,"1123 
+"
+India_national_cricket_team,"How long did Rahul Dravid serve as the coach of India national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",527 days,"712 
+"
+India_national_cricket_team,"Who had the longest stint as the test captain of the India national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Virat Kohli,"Virat Kohli 
+"
+India_national_cricket_team,"Who had the longest stint as the od captain of the India national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Virat Kohli,"Virat Kohli 
+"
+India_national_cricket_team,"Which person had the longest tenure as the t20i captain of the India national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Virat Kohli,"Virat Kohli 
+"
+India_national_cricket_team,"Which person had the longest tenure as the coach of the India national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Ravi Shastri,"Ravi Shastri 
+"
+India_national_cricket_team,"Who had the shortest stint as the test captain of the India national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Rohit Sharma,"Rohit Sharma 
+"
+India_national_cricket_team,"Which person had the shortest tenure as the od captain of the India national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Rohit Sharma,"Rohit Sharma 
+"
+India_national_cricket_team,"Who had the shortest stint as the t20i captain of the India national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Rohit Sharma,"Virat Kohli 
+"
+India_national_cricket_team,"Who had the shortest stint as the coach of the India national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Rahul Dravid,
+India_national_cricket_team,How many people served as the test captain of the India national cricket team?,2,"Two 
+"
+India_national_cricket_team,How many people served as the od captain of the India national cricket team?,2,"Two 
+"
+India_national_cricket_team,How many individuals took on the role of t20i captain of the India national cricket team?,2,"Two 
+"
+India_national_cricket_team,How many people served as the coach of the India national cricket team?,2,"Two 
+"
+India_national_cricket_team,Who was the test captain of the India national cricket team before Rohit Sharma?,Virat Kohli,"Virat Kohli 
+"
+India_national_cricket_team,Who served as the od captain of the India national cricket team prior to Rohit Sharma?,Virat Kohli,"Virat Kohli 
+"
+India_national_cricket_team,Who was the t20i captain of the India national cricket team before Rohit Sharma?,Virat Kohli,"Virat Kohli 
+"
+India_national_cricket_team,Who served as the coach of the India national cricket team prior to Rahul Dravid?,Ravi Shastri,"Ravi Shastri 
+"
+India_national_cricket_team,Who assumed the role of test captain for the India national cricket team following Virat Kohli?,Rohit Sharma,"Rohit Sharma 
+"
+India_national_cricket_team,Who was the od captain of India national cricket team after Virat Kohli?,Rohit Sharma,"Rohit Sharma 
+"
+India_national_cricket_team,Who was the t20i captain of India national cricket team after Virat Kohli?,Rohit Sharma,"Rohit Sharma 
+"
+India_national_cricket_team,Who was the coach of India national cricket team after Ravi Shastri?,Rahul Dravid,"Rahul Dravid 
+"
+India_national_cricket_team,What is the win to loss ratio of India national cricket team in test format in 2021?(Answer in decimal form.),2.67,"1.625 
+"
+India_national_cricket_team,What is the win to loss ratio of India national cricket team in odi format in 2019?(Answer in decimal form.),2.25,"1.875 
+"
+India_national_cricket_team,What is the ratio of wins to losses for the India national cricket team in the odi format for 2021?(Answer in decimal form.),2.0,"1.0 
+"
+India_national_cricket_team,What is the win to loss ratio of India national cricket team in t20i format in 2019?(Answer in decimal form.),1.29,"1.14
+"
+India_national_cricket_team,What is the win to loss ratio of India national cricket team in t20i format in 2021?(Answer in decimal form.),1.67,"1.70
+"

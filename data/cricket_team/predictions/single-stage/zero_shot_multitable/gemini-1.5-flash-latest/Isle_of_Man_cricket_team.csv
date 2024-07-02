@@ -1,0 +1,35 @@
+entity,question,actual_answer,predicted_answer
+Isle_of_Man_cricket_team,Who were the individual(s) serving as the coach during the tenure of Matthew Ansell as the t20i captain of the Isle of Man cricket team?,Greig Wright,"Greig Wright 
+"
+Isle_of_Man_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Greig Wright as the coach of the Isle of Man cricket team?,Matthew Ansell,"Matthew Ansell 
+"
+Isle_of_Man_cricket_team,Does the Isle of Man cricket team have the best win percentage in the t20i format in 2020 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2022 
+"
+Isle_of_Man_cricket_team,Was the Isle of Man cricket team's win percentage the highest in the t20i format in either 2020 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2023,"2022
+"
+Isle_of_Man_cricket_team,Was the Isle of Man cricket team's win percentage the highest in the t20i format in either 2022 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2022 
+"
+Isle_of_Man_cricket_team,"What was the duration of Matthew Ansell's tenure as the t20i captain of Isle of Man cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1230 days,"1,546 days 
+"
+Isle_of_Man_cricket_team,"How long did Greig Wright serve as the coach of Isle of Man cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1230 days,"1,582 days 
+"
+Isle_of_Man_cricket_team,"Which person had the longest tenure as the t20i captain of the Isle of Man cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Matthew Ansell,"Matthew Ansell 
+"
+Isle_of_Man_cricket_team,"Which person had the longest tenure as the coach of the Isle of Man cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Greig Wright,"Greig Wright 
+"
+Isle_of_Man_cricket_team,"Which person had the shortest tenure as the t20i captain of the Isle of Man cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Matthew Ansell,"Matthew Ansell 
+"
+Isle_of_Man_cricket_team,"Which person had the shortest tenure as the coach of the Isle of Man cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Greig Wright,"Greig Wright 
+"
+Isle_of_Man_cricket_team,How many individuals took on the role of t20i captain of the Isle of Man cricket team?,1,"One 
+"
+Isle_of_Man_cricket_team,How many people served as the coach of the Isle of Man cricket team?,1,"One 
+"
+Isle_of_Man_cricket_team,Name the person(s) who served as the coach of the Isle of Man cricket team in 2023.,Greig Wright,"Greig Wright 
+"
+Isle_of_Man_cricket_team,What was the highest ranking achieved by the Isle of Man cricket team in the t20i format in 2023?,38,"38th 
+"
+Isle_of_Man_cricket_team,What is the win to loss ratio of Isle of Man cricket team in t20i format in 2020?(Answer in decimal form.),0.0,"0.0
+"
+Isle_of_Man_cricket_team,What is the ratio of wins to losses for the Isle of Man cricket team in the t20i format for 2023?(Answer in decimal form.),0.0,"0.67 
+"

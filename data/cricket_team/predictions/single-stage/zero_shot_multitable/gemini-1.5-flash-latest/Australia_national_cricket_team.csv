@@ -1,0 +1,215 @@
+entity,question,actual_answer,predicted_answer
+Australia_national_cricket_team,Name the person(s) who served as the coach when Pat Cummins was the test captain of the Australia national cricket team.,"Andrew McDonald (cricketer), Justin Langer","Andrew McDonald (cricketer) 
+"
+Australia_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Aaron Finch as the od captain of the Australia national cricket team?,"Andrew McDonald (cricketer), Justin Langer","Justin Langer, Andrew McDonald (cricketer) 
+"
+Australia_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Aaron Finch as the t20i captain of the Australia national cricket team?,"Andrew McDonald (cricketer), Justin Langer","Justin Langer, Andrew McDonald (cricketer) 
+"
+Australia_national_cricket_team,Who were the individual(s) serving as the test captain during the tenure of Aaron Finch as the od captain of the Australia national cricket team?,"Pat Cummins, Tim Paine","Tim Paine, Pat Cummins 
+"
+Australia_national_cricket_team,Who were the individual(s) serving as the test captain during the tenure of Aaron Finch as the t20i captain of the Australia national cricket team?,"Pat Cummins, Tim Paine","Tim Paine, Pat Cummins 
+"
+Australia_national_cricket_team,Name the person(s) who served as the test captain when Justin Langer was the coach of the Australia national cricket team.,"Pat Cummins, Tim Paine","Tim Paine 
+"
+Australia_national_cricket_team,Who were the individual(s) serving as the od captain during the tenure of Andrew McDonald (cricketer) as the coach of the Australia national cricket team?,"Pat Cummins, Aaron Finch","Aaron Finch, Pat Cummins 
+"
+Australia_national_cricket_team,Name the person(s) who served as the coach when Tim Paine was the test captain of the Australia national cricket team.,Justin Langer,"Justin Langer 
+"
+Australia_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Pat Cummins as the od captain of the Australia national cricket team?,Andrew McDonald (cricketer),"Andrew McDonald (cricketer) 
+"
+Australia_national_cricket_team,Who were the individual(s) serving as the test captain during the tenure of Andrew McDonald (cricketer) as the coach of the Australia national cricket team?,Pat Cummins,"Pat Cummins 
+"
+Australia_national_cricket_team,Name the person(s) who served as the od captain when Tim Paine was the test captain of the Australia national cricket team.,Aaron Finch,"Aaron Finch 
+"
+Australia_national_cricket_team,Name the person(s) who served as the od captain when Justin Langer was the coach of the Australia national cricket team.,Aaron Finch,"Aaron Finch 
+"
+Australia_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Tim Paine as the test captain of the Australia national cricket team?,Aaron Finch,"Aaron Finch 
+"
+Australia_national_cricket_team,Name the person(s) who served as the t20i captain when Justin Langer was the coach of the Australia national cricket team.,Aaron Finch,"Aaron Finch 
+"
+Australia_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Andrew McDonald (cricketer) as the coach of the Australia national cricket team?,Aaron Finch,"Aaron Finch 
+"
+Australia_national_cricket_team,Was the Australia national cricket team's win percentage the highest in the test format in either 2019 or 2020?(Answer in year)(Include no results/ties/draws in total number of matches.),2020,"2020 
+"
+Australia_national_cricket_team,Was the Australia national cricket team's win percentage the highest in the test format in either 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2019 
+"
+Australia_national_cricket_team,Does the Australia national cricket team have the best win percentage in the test format in 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2022 
+"
+Australia_national_cricket_team,Does the Australia national cricket team have the best win percentage in the test format in 2020 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2020,"2020 
+"
+Australia_national_cricket_team,Was the Australia national cricket team's win percentage the highest in the test format in either 2020 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2020,"2022 
+"
+Australia_national_cricket_team,Was the Australia national cricket team's win percentage the highest in the test format in either 2021 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2022 
+"
+Australia_national_cricket_team,Does the Australia national cricket team have the best win percentage in the odi format in 2019 or 2020?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2019 
+"
+Australia_national_cricket_team,Does the Australia national cricket team have the best win percentage in the odi format in 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2021 
+"
+Australia_national_cricket_team,Does the Australia national cricket team have the best win percentage in the odi format in 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2022 
+"
+Australia_national_cricket_team,Does the Australia national cricket team have the best win percentage in the odi format in 2020 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2020 
+"
+Australia_national_cricket_team,Does the Australia national cricket team have the best win percentage in the odi format in 2020 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2022 
+"
+Australia_national_cricket_team,Does the Australia national cricket team have the best win percentage in the odi format in 2021 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2022
+"
+Australia_national_cricket_team,Was the Australia national cricket team's win percentage the highest in the t20i format in either 2019 or 2020?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2019 
+"
+Australia_national_cricket_team,Was the Australia national cricket team's win percentage the highest in the t20i format in either 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2021 
+"
+Australia_national_cricket_team,Does the Australia national cricket team have the best win percentage in the t20i format in 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2022 
+"
+Australia_national_cricket_team,Does the Australia national cricket team have the best win percentage in the t20i format in 2020 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2021 
+"
+Australia_national_cricket_team,Was the Australia national cricket team's win percentage the highest in the t20i format in either 2020 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2022 
+"
+Australia_national_cricket_team,Does the Australia national cricket team have the best win percentage in the t20i format in 2021 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2022 
+"
+Australia_national_cricket_team,Who was the test captain when t20i captain was Aaron Finch and coach was Justin Langer of the Australia national cricket team?,"Pat Cummins, Tim Paine","Tim Paine 
+"
+Australia_national_cricket_team,"Name the person(s) who served as the coach during the tenure of Aaron Finch and Pat Cummins as the t20i captain and od captain, respectively, of the Australia national cricket team.",Andrew McDonald (cricketer),"Andrew McDonald (cricketer) 
+"
+Australia_national_cricket_team,Who was the coach when t20i captain was Aaron Finch and test captain was Tim Paine of the Australia national cricket team?,Justin Langer,"Justin Langer 
+"
+Australia_national_cricket_team,Who was the test captain when t20i captain was Aaron Finch and coach was Andrew McDonald (cricketer) of the Australia national cricket team?,Pat Cummins,"Pat Cummins 
+"
+Australia_national_cricket_team,"Name the person(s) who served as the od captain during the tenure of Tim Paine and Justin Langer as the test captain and coach, respectively, of the Australia national cricket team.",Aaron Finch,"Aaron Finch 
+"
+Australia_national_cricket_team,Who was the od captain when test captain was Pat Cummins and coach was Justin Langer of the Australia national cricket team?,Aaron Finch,"Aaron Finch 
+"
+Australia_national_cricket_team,Who was the t20i captain when od captain was Pat Cummins and coach was Andrew McDonald (cricketer) of the Australia national cricket team?,Aaron Finch,"Aaron Finch 
+"
+Australia_national_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Tim Paine and Justin Langer as the test captain and coach, respectively, of the Australia national cricket team.",Aaron Finch,"Aaron Finch 
+"
+Australia_national_cricket_team,"Name the person(s) who served as the t20i captain during the tenure of Pat Cummins and Justin Langer as the test captain and coach, respectively, of the Australia national cricket team.",Aaron Finch,"Aaron Finch 
+"
+Australia_national_cricket_team,In which year did Andrew McDonald (cricketer) become the coach of the Australia national cricket team for the first time?,2022,"2022 
+"
+Australia_national_cricket_team,In which year did Pat Cummins become the test_captain of the Australia national cricket team for the first time?,2022,"2022 
+"
+Australia_national_cricket_team,In which year did Pat Cummins first assume the role of od_captain for the Australia national cricket team?,2022,"2022 
+"
+Australia_national_cricket_team,In which year did Pat Cummins first assume the role of t20i_captain for the Australia national cricket team?,2023,"2023 
+"
+Australia_national_cricket_team,"How long did Tim Paine serve as the test captain of Australia national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1070 days,"1,272 days 
+"
+Australia_national_cricket_team,"What was the duration of Pat Cummins's tenure as the test captain of Australia national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",438 days,"484 days 
+"
+Australia_national_cricket_team,"How long did Aaron Finch serve as the od captain of Australia national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1435 days,"1362 days 
+"
+Australia_national_cricket_team,"What was the duration of Pat Cummins's tenure as the od captain of Australia national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",77 days,"163 days 
+"
+Australia_national_cricket_team,"How long did Aaron Finch serve as the t20i captain of Australia national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1512 days,"1,357 days 
+"
+Australia_national_cricket_team,"Who had the longest stint as the test captain of the Australia national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Tim Paine,"Tim Paine 
+"
+Australia_national_cricket_team,"Who had the longest stint as the od captain of the Australia national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Aaron Finch,"Aaron Finch 
+"
+Australia_national_cricket_team,"Who had the longest stint as the t20i captain of the Australia national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Aaron Finch,"Aaron Finch 
+"
+Australia_national_cricket_team,"Which person had the shortest tenure as the od captain of the Australia national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Pat Cummins,"Pat Cummins 
+"
+Australia_national_cricket_team,"Which person had the shortest tenure as the t20i captain of the Australia national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Pat Cummins,"Aaron Finch 
+"
+Australia_national_cricket_team,How many individuals took on the role of test captain of the Australia national cricket team?,2,"Two individuals. 
+"
+Australia_national_cricket_team,How many individuals took on the role of od captain of the Australia national cricket team?,2,"Two individuals. 
+"
+Australia_national_cricket_team,How many individuals took on the role of t20i captain of the Australia national cricket team?,2,"One individual. 
+"
+Australia_national_cricket_team,Who served as the od captain of the Australia national cricket team prior to Pat Cummins?,Aaron Finch,"Aaron Finch 
+"
+Australia_national_cricket_team,Who served as the t20i captain of the Australia national cricket team prior to Pat Cummins?,Aaron Finch,"Aaron Finch 
+"
+Australia_national_cricket_team,Who assumed the role of od captain for the Australia national cricket team following Aaron Finch?,Pat Cummins,"Pat Cummins 
+"
+Australia_national_cricket_team,Who assumed the role of t20i captain for the Australia national cricket team following Aaron Finch?,Pat Cummins,"Pat Cummins 
+"
+Australia_national_cricket_team,"How many total(including ODIs,Tests,T20Is) matches did the Australia national cricket team play between 2020 and 2021? (including both the years)",54,"100 matches 
+"
+Australia_national_cricket_team,"How many total(including ODIs,Tests,T20Is) matches did the Australia national cricket team play between 2020 and 2022? (including both the years)",106,"242 matches 
+"
+Australia_national_cricket_team,"How many total(including ODIs,Tests,T20Is) matches did the Australia national cricket team play between 2021 and 2022? (including both the years)",79,"94 matches 
+"
+Australia_national_cricket_team,How many test matches did the Australia national cricket team play between 2020 and 2021? (including both the years),7,"Six test matches. 
+"
+Australia_national_cricket_team,How many test matches did the Australia national cricket team play between 2020 and 2022? (including both the years),21,"22 matches 
+"
+Australia_national_cricket_team,How many test matches did the Australia national cricket team play between 2021 and 2022? (including both the years),16,"6 matches 
+"
+Australia_national_cricket_team,How many odi matches did the Australia national cricket team play between 2020 and 2021? (including both the years),16,"8 matches 
+"
+Australia_national_cricket_team,How many odi matches did the Australia national cricket team play between 2020 and 2022? (including both the years),33,"42 matches 
+"
+Australia_national_cricket_team,How many odi matches did the Australia national cricket team play between 2021 and 2022? (including both the years),20,"6 matches. 
+"
+Australia_national_cricket_team,How many t20 matches did the Australia national cricket team play between 2020 and 2021? (including both the years),31,"23 matches 
+"
+Australia_national_cricket_team,How many t20 matches did the Australia national cricket team play between 2020 and 2022? (including both the years),52,"47 matches 
+"
+Australia_national_cricket_team,How many t20 matches did the Australia national cricket team play between 2021 and 2022? (including both the years),43,"39 matches 
+"
+Australia_national_cricket_team,Name the people who serve as test_captain of Australia national cricket team between 2020 and 2021. (including both the years),Tim Paine,"Tim Paine, Pat Cummins 
+"
+Australia_national_cricket_team,Name the people who serve as test_captain of Australia national cricket team between 2020 and 2022. (including both the years),"Pat Cummins, Tim Paine","Tim Paine, Pat Cummins 
+"
+Australia_national_cricket_team,Who were the individual(s) who held the position of the test_captain for the Australia national cricket team from 2021 and 2022? (including both the years),"Pat Cummins, Tim Paine","Tim Paine and Pat Cummins. 
+"
+Australia_national_cricket_team,Name the people who serve as od_captain of Australia national cricket team between 2020 and 2021. (including both the years),Aaron Finch,"Aaron Finch 
+"
+Australia_national_cricket_team,Name the people who serve as od_captain of Australia national cricket team between 2020 and 2022. (including both the years),"Pat Cummins, Aaron Finch","Aaron Finch, Pat Cummins 
+"
+Australia_national_cricket_team,Name the people who serve as od_captain of Australia national cricket team between 2021 and 2022. (including both the years),"Pat Cummins, Aaron Finch","Aaron Finch, Pat Cummins 
+"
+Australia_national_cricket_team,Name the people who serve as t20i_captain of Australia national cricket team between 2020 and 2021. (including both the years),Aaron Finch,"Aaron Finch 
+"
+Australia_national_cricket_team,Who were the individual(s) who held the position of the t20i_captain for the Australia national cricket team from 2020 and 2022? (including both the years),Aaron Finch,"Aaron Finch 
+"
+Australia_national_cricket_team,Name the people who serve as t20i_captain of Australia national cricket team between 2021 and 2022. (including both the years),Aaron Finch,"Aaron Finch 
+"
+Australia_national_cricket_team,Who were the individual(s) who acted as the coach of the Australia national cricket team in 2020?,Justin Langer,"Justin Langer 
+"
+Australia_national_cricket_team,Name the person(s) who served as the coach of the Australia national cricket team in 2021.,Justin Langer,"Justin Langer 
+"
+Australia_national_cricket_team,Name the person(s) who served as the coach of the Australia national cricket team in 2022.,"Andrew McDonald (cricketer), Justin Langer","Andrew McDonald (cricketer) 
+"
+Australia_national_cricket_team,Who were the individual(s) who acted as the coach of the Australia national cricket team in 2023?,Andrew McDonald (cricketer),"Andrew McDonald (cricketer) 
+"
+Australia_national_cricket_team,What was the highest ranking achieved by the Australia national cricket team in the test format in 2020?,1,"2nd 
+"
+Australia_national_cricket_team,what was the best test rank of the Australia national cricket team in 2021?,1,"3rd 
+"
+Australia_national_cricket_team,what was the best test rank of the Australia national cricket team in 2022?,1,"1st 
+"
+Australia_national_cricket_team,What was the highest ranking achieved by the Australia national cricket team in the odi format in 2020?,4,"4th 
+"
+Australia_national_cricket_team,What was the highest ranking achieved by the Australia national cricket team in the odi format in 2021?,2,"2nd 
+"
+Australia_national_cricket_team,What was the highest ranking achieved by the Australia national cricket team in the odi format in 2022?,3,"5th 
+"
+Australia_national_cricket_team,what was the best t20i rank of the Australia national cricket team in 2020?,2,"2nd 
+"
+Australia_national_cricket_team,What was the highest ranking achieved by the Australia national cricket team in the t20i format in 2021?,2,"2nd 
+"
+Australia_national_cricket_team,What was the highest ranking achieved by the Australia national cricket team in the t20i format in 2022?,5,"6th rank 
+"
+Australia_national_cricket_team,What is the win to loss ratio of Australia national cricket team in test format in 2019?(Answer in decimal form.),3.0,"1.82 
+"
+Australia_national_cricket_team,What is the ratio of wins to losses for the Australia national cricket team in the test format for 2021?(Answer in decimal form.),0.0,"1.38 
+"
+Australia_national_cricket_team,What is the ratio of wins to losses for the Australia national cricket team in the test format for 2022?(Answer in decimal form.),7.0,"2.89 
+"
+Australia_national_cricket_team,What is the ratio of wins to losses for the Australia national cricket team in the odi format for 2019?(Answer in decimal form.),2.29,"16.00 
+"
+Australia_national_cricket_team,What is the ratio of wins to losses for the Australia national cricket team in the odi format for 2020?(Answer in decimal form.),0.86,"1.43 
+"
+Australia_national_cricket_team,What is the ratio of wins to losses for the Australia national cricket team in the odi format for 2021?(Answer in decimal form.),2.0,"1.77 
+"
+Australia_national_cricket_team,What is the win to loss ratio of Australia national cricket team in odi format in 2022?(Answer in decimal form.),1.83,"1.78 
+"
+Australia_national_cricket_team,What is the win to loss ratio of Australia national cricket team in t20i format in 2020?(Answer in decimal form.),0.8,"1.39 
+"
+Australia_national_cricket_team,What is the win to loss ratio of Australia national cricket team in t20i format in 2021?(Answer in decimal form.),0.83,"1.48 
+"
+Australia_national_cricket_team,What is the win to loss ratio of Australia national cricket team in t20i format in 2022?(Answer in decimal form.),1.71,"1.19 
+"

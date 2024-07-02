@@ -1,4 +1,0 @@
-entity,question,actual_answer,predicted_answer
-Jersey cricket team,Does the Jersey cricket team have the best win percentage in the t20i format in 2019 or 2022?(Answer in year),2022,2019
-Jersey cricket team,What is the ratio of wins to losses for the Jersey cricket team in the t20i format for 2019?,1.4285714285714286,6/3 = 2.
-Jersey cricket team,What is the ratio of wins to losses for the Jersey cricket team in the t20i format for 2022?,1.6666666666666667,5/3 = 1.67

@@ -1,0 +1,45 @@
+entity,question,actual_answer,predicted_answer
+Denmark_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Frederik Klokker as the t20i captain of the Denmark national cricket team?,"Ruan Louw, Keith Dabengwa",
+Denmark_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Hamid Shah as the t20i captain of the Denmark national cricket team?,Jeremy Bray (cricketer),"Jeremy Bray (cricketer) 
+"
+Denmark_national_cricket_team,Name the person(s) who served as the t20i captain when Jeremy Bray (cricketer) was the coach of the Denmark national cricket team.,Hamid Shah,
+Denmark_national_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Ruan Louw as the coach of the Denmark national cricket team?,Frederik Klokker,"Frederik Klokker 
+"
+Denmark_national_cricket_team,Name the person(s) who served as the t20i captain when Keith Dabengwa was the coach of the Denmark national cricket team.,Frederik Klokker,"Frederik Klokker 
+"
+Denmark_national_cricket_team,Was the Denmark national cricket team's win percentage the highest in the t20i format in either 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2019
+"
+Denmark_national_cricket_team,"What was the duration of Hamid Shah's tenure as the t20i captain of Denmark national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",841 days,"589 days 
+"
+Denmark_national_cricket_team,"What was the duration of Frederik Klokker's tenure as the t20i captain of Denmark national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",132 days,"606 days 
+"
+Denmark_national_cricket_team,"What was the duration of Jeremy Bray (cricketer)'s tenure as the coach of Denmark national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",841 days,"686 days 
+"
+Denmark_national_cricket_team,"What was the duration of Ruan Louw's tenure as the coach of Denmark national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",55 days,"400 days 
+"
+Denmark_national_cricket_team,"How long did Keith Dabengwa serve as the coach of Denmark national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",77 days,"236 days 
+"
+Denmark_national_cricket_team,"Who had the longest stint as the t20i captain of the Denmark national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Hamid Shah,"Frederik Klokker 
+"
+Denmark_national_cricket_team,"Which person had the longest tenure as the coach of the Denmark national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Jeremy Bray (cricketer),"Jeremy Bray (cricketer) 
+"
+Denmark_national_cricket_team,"Who had the shortest stint as the t20i captain of the Denmark national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Frederik Klokker,
+Denmark_national_cricket_team,"Which person had the shortest tenure as the coach of the Denmark national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Ruan Louw,
+Denmark_national_cricket_team,How many individuals took on the role of t20i captain of the Denmark national cricket team?,2,"Two individuals 
+"
+Denmark_national_cricket_team,How many people served as the coach of the Denmark national cricket team?,3,"Three people 
+"
+Denmark_national_cricket_team,Who served as the t20i captain of the Denmark national cricket team prior to Frederik Klokker?,Hamid Shah,
+Denmark_national_cricket_team,Who was the coach of the Denmark national cricket team before Ruan Louw?,Jeremy Bray (cricketer),"Jeremy Bray (cricketer) 
+"
+Denmark_national_cricket_team,Who was the coach of the Denmark national cricket team before Keith Dabengwa?,Ruan Louw,"Ruan Louw 
+"
+Denmark_national_cricket_team,Who assumed the role of t20i captain for the Denmark national cricket team following Hamid Shah?,Frederik Klokker,"Frederik Klokker 
+"
+Denmark_national_cricket_team,Who was the coach of Denmark national cricket team after Jeremy Bray (cricketer)?,Ruan Louw,"Ruan Louw 
+"
+Denmark_national_cricket_team,Who was the coach of Denmark national cricket team after Ruan Louw?,Keith Dabengwa,
+Denmark_national_cricket_team,What is the ratio of wins to losses for the Denmark national cricket team in the t20i format for 2019?(Answer in decimal form.),1.33,"1.25 
+"
+Denmark_national_cricket_team,What is the ratio of wins to losses for the Denmark national cricket team in the t20i format for 2021?(Answer in decimal form.),0.29,"0.6
+"

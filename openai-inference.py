@@ -35,14 +35,14 @@ def generate_response(model,prompt):
     )
     return response
 
-with open('data/cricketer/cricketer_questions.json','r') as f:
+with open('data/cricket_team/cricket_questions_latest_remaining.json','r') as f:
     entities = json.load(f)
 total_questions = 0
 for entity in entities:
     folder_question = 0
     entity_name = entity.split(" ")
     entity_name = "_".join(entity_name)
-    with open(f'data/cricketer/{entity_name}.json','r') as f:
+    with open(f'data/cricket_team/{entity_name}.json','r') as f:
         timeline = json.load(f)
     if len(timeline)>20:
         continue
@@ -58,7 +58,7 @@ for entity in entities:
             try:
                 response = generate_response("google/gemini-1.5-pro-001",prompt)
             except:
-                time.sleep(90)
+                time.sleep(60)
                 response = generate_response("google/gemini-1.5-pro-001",prompt)
             # print(response)
             predicted_ans = ""
@@ -66,7 +66,7 @@ for entity in entities:
                 predicted_ans = response.choices[0].message.content
             except:
                 try:
-                    time.sleep(120)
+                    time.sleep(90)
                     response = generate_response("google/gemini-1.5-pro-001",prompt)
                 except:
                     print(entity,questions_category,actual_question)
@@ -81,5 +81,5 @@ for entity in entities:
     total_questions += folder_question
     print(f"{entity} -- {folder_question}")
     dataframe = pd.DataFrame(df)
-    dataframe.to_csv(f"data/cricketer/predictions/gemini-1.5-pro/{entity}.csv", index=False)
+    dataframe.to_csv(f"data/cricket_team/predictions/single-stage/zero_shot-multitable/gemini-1.5-pro-latest/{entity}.csv", index=False)
 print(f"total - {total_questions}")

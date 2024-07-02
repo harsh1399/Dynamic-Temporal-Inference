@@ -1,0 +1,90 @@
+entity,question,actual_answer,predicted_answer
+United_Arab_Emirates_national_cricket_team,Name the person(s) who served as the coach when Ahmed Raza (Emirati cricketer) was the od captain of the United Arab Emirates national cricket team.,"Robin Singh (cricketer), Dougie Brown","Dougie Brown and Robin Singh 
+"
+United_Arab_Emirates_national_cricket_team,Name the person(s) who served as the coach when Ahmed Raza (Emirati cricketer) was the t20i captain of the United Arab Emirates national cricket team.,"Robin Singh (cricketer), Dougie Brown","Robin Singh (cricketer) 
+"
+United_Arab_Emirates_national_cricket_team,Name the person(s) who served as the od captain when Dougie Brown was the coach of the United Arab Emirates national cricket team.,"Ahmed Raza (Emirati cricketer), Mohammad Naveed","Mohammad Naveed 
+"
+United_Arab_Emirates_national_cricket_team,Name the person(s) who served as the t20i captain when Dougie Brown was the coach of the United Arab Emirates national cricket team.,"Ahmed Raza (Emirati cricketer), Mohammad Naveed","Mohammad Naveed 
+"
+United_Arab_Emirates_national_cricket_team,Name the person(s) who served as the t20i captain when Robin Singh (cricketer) was the coach of the United Arab Emirates national cricket team.,"Chundangapoyil Rizwan, Ahmed Raza (Emirati cricketer)",
+United_Arab_Emirates_national_cricket_team,Name the person(s) who served as the coach when Mohammad Naveed was the od captain of the United Arab Emirates national cricket team.,Dougie Brown,"Dougie Brown 
+"
+United_Arab_Emirates_national_cricket_team,Name the person(s) who served as the coach when Mohammad Naveed was the t20i captain of the United Arab Emirates national cricket team.,Dougie Brown,"Dougie Brown 
+"
+United_Arab_Emirates_national_cricket_team,Name the person(s) who served as the coach when Chundangapoyil Rizwan was the t20i captain of the United Arab Emirates national cricket team.,Robin Singh (cricketer),"Robin Singh (cricketer) 
+"
+United_Arab_Emirates_national_cricket_team,Name the person(s) who served as the od captain when Chundangapoyil Rizwan was the t20i captain of the United Arab Emirates national cricket team.,Ahmed Raza (Emirati cricketer),"Ahmed Raza (Emirati cricketer) 
+"
+United_Arab_Emirates_national_cricket_team,Name the person(s) who served as the od captain when Robin Singh (cricketer) was the coach of the United Arab Emirates national cricket team.,Ahmed Raza (Emirati cricketer),"Ahmed Raza (Emirati cricketer) 
+"
+United_Arab_Emirates_national_cricket_team,Does the United Arab Emirates national cricket team have the best win percentage in the odi format in 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2022 
+"
+United_Arab_Emirates_national_cricket_team,Does the United Arab Emirates national cricket team have the best win percentage in the t20i format in 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2019,"2022 
+"
+United_Arab_Emirates_national_cricket_team,Who was the coach when t20i captain was Chundangapoyil Rizwan and od captain was Ahmed Raza (Emirati cricketer) of the United Arab Emirates national cricket team?,Robin Singh (cricketer),"Robin Singh (cricketer) 
+"
+United_Arab_Emirates_national_cricket_team,Who was the od captain when t20i captain was Chundangapoyil Rizwan and coach was Robin Singh (cricketer) of the United Arab Emirates national cricket team?,Ahmed Raza (Emirati cricketer),"Ahmed Raza (Emirati cricketer) 
+"
+United_Arab_Emirates_national_cricket_team,"What was the duration of Mohammad Naveed's tenure as the od captain of United Arab Emirates national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",334 days,"638 days 
+"
+United_Arab_Emirates_national_cricket_team,"What was the duration of Ahmed Raza (Emirati cricketer)'s tenure as the od captain of United Arab Emirates national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1155 days,"1151 days 
+"
+United_Arab_Emirates_national_cricket_team,"What was the duration of Mohammad Naveed's tenure as the t20i captain of United Arab Emirates national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",334 days,"421 days 
+"
+United_Arab_Emirates_national_cricket_team,"How long did Ahmed Raza (Emirati cricketer) serve as the t20i captain of United Arab Emirates national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",968 days,"833 days 
+"
+United_Arab_Emirates_national_cricket_team,"What was the duration of Chundangapoyil Rizwan's tenure as the t20i captain of United Arab Emirates national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",187 days,"221 days 
+"
+United_Arab_Emirates_national_cricket_team,"What was the duration of Dougie Brown's tenure as the coach of United Arab Emirates national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1066 days,"1,067 days 
+"
+United_Arab_Emirates_national_cricket_team,"How long did Robin Singh (cricketer) serve as the coach of United Arab Emirates national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",423 days,"1,044 days 
+"
+United_Arab_Emirates_national_cricket_team,"Who had the longest stint as the od captain of the United Arab Emirates national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Ahmed Raza (Emirati cricketer),"Ahmed Raza (Emirati cricketer) 
+"
+United_Arab_Emirates_national_cricket_team,"Who had the longest stint as the t20i captain of the United Arab Emirates national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Ahmed Raza (Emirati cricketer),"Ahmed Raza (Emirati cricketer) 
+"
+United_Arab_Emirates_national_cricket_team,"Who had the longest stint as the coach of the United Arab Emirates national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Dougie Brown,"Robin Singh (cricketer) 
+"
+United_Arab_Emirates_national_cricket_team,"Who had the shortest stint as the od captain of the United Arab Emirates national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Mohammad Naveed,"Mohammad Naveed 
+"
+United_Arab_Emirates_national_cricket_team,"Who had the shortest stint as the t20i captain of the United Arab Emirates national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Chundangapoyil Rizwan,
+United_Arab_Emirates_national_cricket_team,"Who had the shortest stint as the coach of the United Arab Emirates national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Robin Singh (cricketer),"Dougie Brown 
+"
+United_Arab_Emirates_national_cricket_team,How many individuals took on the role of od captain of the United Arab Emirates national cricket team?,2,"Two individuals. 
+"
+United_Arab_Emirates_national_cricket_team,How many people served as the t20i captain of the United Arab Emirates national cricket team?,3,"Two people. 
+"
+United_Arab_Emirates_national_cricket_team,How many people served as the coach of the United Arab Emirates national cricket team?,2,"Two people 
+"
+United_Arab_Emirates_national_cricket_team,Who was the od captain of the United Arab Emirates national cricket team before Ahmed Raza (Emirati cricketer)?,Mohammad Naveed,"Mohammad Naveed 
+"
+United_Arab_Emirates_national_cricket_team,Who was the t20i captain of the United Arab Emirates national cricket team before Ahmed Raza (Emirati cricketer)?,Mohammad Naveed,"Mohammad Naveed 
+"
+United_Arab_Emirates_national_cricket_team,Who served as the t20i captain of the United Arab Emirates national cricket team prior to Chundangapoyil Rizwan?,Ahmed Raza (Emirati cricketer),"Ahmed Raza (Emirati cricketer) 
+"
+United_Arab_Emirates_national_cricket_team,Who was the coach of the United Arab Emirates national cricket team before Robin Singh (cricketer)?,Dougie Brown,"Dougie Brown 
+"
+United_Arab_Emirates_national_cricket_team,Who assumed the role of od captain for the United Arab Emirates national cricket team following Mohammad Naveed?,Ahmed Raza (Emirati cricketer),"Ahmed Raza (Emirati cricketer) 
+"
+United_Arab_Emirates_national_cricket_team,Who assumed the role of t20i captain for the United Arab Emirates national cricket team following Mohammad Naveed?,Ahmed Raza (Emirati cricketer),"Ahmed Raza (Emirati cricketer) 
+"
+United_Arab_Emirates_national_cricket_team,Who was the t20i captain of United Arab Emirates national cricket team after Ahmed Raza (Emirati cricketer)?,Chundangapoyil Rizwan,
+United_Arab_Emirates_national_cricket_team,Who assumed the role of coach for the United Arab Emirates national cricket team following Dougie Brown?,Robin Singh (cricketer),"Robin Singh (cricketer) 
+"
+United_Arab_Emirates_national_cricket_team,Name the person(s) who served as the coach of the United Arab Emirates national cricket team in 2022.,Robin Singh (cricketer),"Robin Singh (cricketer) 
+"
+United_Arab_Emirates_national_cricket_team,Name the person(s) who served as the coach of the United Arab Emirates national cricket team in 2023.,Robin Singh (cricketer),"Robin Singh (cricketer) 
+"
+United_Arab_Emirates_national_cricket_team,What was the highest ranking achieved by the United Arab Emirates national cricket team in the odi format in 2022?,13,"13th 
+"
+United_Arab_Emirates_national_cricket_team,what was the best t20i rank of the United Arab Emirates national cricket team in 2022?,12,"12th 
+"
+United_Arab_Emirates_national_cricket_team,What is the ratio of wins to losses for the United Arab Emirates national cricket team in the odi format for 2019?(Answer in decimal form.),0.14,"0.33 
+"
+United_Arab_Emirates_national_cricket_team,What is the ratio of wins to losses for the United Arab Emirates national cricket team in the odi format for 2022?(Answer in decimal form.),1.0,"1.28 
+"
+United_Arab_Emirates_national_cricket_team,What is the ratio of wins to losses for the United Arab Emirates national cricket team in the t20i format for 2019?(Answer in decimal form.),1.67,"1.5 
+"
+United_Arab_Emirates_national_cricket_team,What is the win to loss ratio of United Arab Emirates national cricket team in t20i format in 2022?(Answer in decimal form.),1.0,"1.17 
+"

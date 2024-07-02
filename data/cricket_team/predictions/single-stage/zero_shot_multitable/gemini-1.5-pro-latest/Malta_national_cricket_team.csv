@@ -1,0 +1,61 @@
+entity,question,actual_answer,predicted_answer
+Malta_national_cricket_team,Name the person(s) who served as the coach when Bikram Arora was the t20i captain of the Malta national cricket team.,"Subhas Roy, Rajkumar Sharma","Rajkumar Sharma, Subhas Roy 
+"
+Malta_national_cricket_team,Name the person(s) who served as the t20i captain when Rajkumar Sharma was the coach of the Malta national cricket team.,"Bikram Arora, Nowell Khosla","Nowell Khosla, Bikram Arora 
+"
+Malta_national_cricket_team,Name the person(s) who served as the t20i captain when Subhas Roy was the coach of the Malta national cricket team.,"Bikram Arora, Samuel Aquilina",
+Malta_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Nowell Khosla as the t20i captain of the Malta national cricket team?,Rajkumar Sharma,"Rajkumar Sharma 
+"
+Malta_national_cricket_team,Who were the individual(s) serving as the coach during the tenure of Samuel Aquilina as the t20i captain of the Malta national cricket team?,Subhas Roy,"Subhas Roy 
+"
+Malta_national_cricket_team,Was the Malta national cricket team's win percentage the highest in the t20i format in either 2019 or 2021?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2021 
+"
+Malta_national_cricket_team,Does the Malta national cricket team have the best win percentage in the t20i format in 2019 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2023,"2023 
+"
+Malta_national_cricket_team,Does the Malta national cricket team have the best win percentage in the t20i format in 2021 or 2023?(Answer in year)(Include no results/ties/draws in total number of matches.),2021,"2021 
+"
+Malta_national_cricket_team,"What was the duration of Nowell Khosla's tenure as the t20i captain of Malta national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",242 days,"152 days 
+"
+Malta_national_cricket_team,"How long did Bikram Arora serve as the t20i captain of Malta national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1201 days,"1095 days 
+"
+Malta_national_cricket_team,"What was the duration of Samuel Aquilina's tenure as the t20i captain of Malta national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",260 days,"236 days 
+"
+Malta_national_cricket_team,"How long did Rajkumar Sharma serve as the coach of Malta national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",614 days,"1064 days 
+"
+Malta_national_cricket_team,"How long did Subhas Roy serve as the coach of Malta national cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1089 days,"1126 
+"
+Malta_national_cricket_team,"Who had the longest stint as the t20i captain of the Malta national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Bikram Arora,"Bikram Arora 
+"
+Malta_national_cricket_team,"Who had the longest stint as the coach of the Malta national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Subhas Roy,"Subhas Roy 
+"
+Malta_national_cricket_team,"Who had the shortest stint as the t20i captain of the Malta national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Nowell Khosla,"Nowell Khosla 
+"
+Malta_national_cricket_team,"Who had the shortest stint as the coach of the Malta national cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Rajkumar Sharma,"Rajkumar Sharma 
+"
+Malta_national_cricket_team,How many people served as the t20i captain of the Malta national cricket team?,3,"Three 
+"
+Malta_national_cricket_team,How many people served as the coach of the Malta national cricket team?,2,"Two 
+"
+Malta_national_cricket_team,Who was the t20i captain of the Malta national cricket team before Bikram Arora?,"Samuel Aquilina, Nowell Khosla","Nowell Khosla 
+"
+Malta_national_cricket_team,Who was the t20i captain of the Malta national cricket team before Samuel Aquilina?,Bikram Arora,"Bikram Arora 
+"
+Malta_national_cricket_team,Who served as the coach of the Malta national cricket team prior to Subhas Roy?,Rajkumar Sharma,"Rajkumar Sharma 
+"
+Malta_national_cricket_team,Who assumed the role of t20i captain for the Malta national cricket team following Nowell Khosla?,Bikram Arora,"Bikram Arora 
+"
+Malta_national_cricket_team,Who was the t20i captain of Malta national cricket team after Bikram Arora?,Samuel Aquilina,
+Malta_national_cricket_team,Who assumed the role of t20i captain for the Malta national cricket team following Samuel Aquilina?,Bikram Arora,"Bikram Arora 
+"
+Malta_national_cricket_team,Who was the coach of Malta national cricket team after Rajkumar Sharma?,Subhas Roy,"Subhas Roy 
+"
+Malta_national_cricket_team,Who were the individual(s) who acted as the coach of the Malta national cricket team in 2023?,Subhas Roy,"Subhas Roy 
+"
+Malta_national_cricket_team,what was the best t20i rank of the Malta national cricket team in 2023?,54,"54th 
+"
+Malta_national_cricket_team,What is the ratio of wins to losses for the Malta national cricket team in the t20i format for 2019?(Answer in decimal form.),0.0,"0.00 
+"
+Malta_national_cricket_team,What is the ratio of wins to losses for the Malta national cricket team in the t20i format for 2021?(Answer in decimal form.),0.89,"0.625 
+"
+Malta_national_cricket_team,What is the win to loss ratio of Malta national cricket team in t20i format in 2023?(Answer in decimal form.),0.0,"0.00 
+"

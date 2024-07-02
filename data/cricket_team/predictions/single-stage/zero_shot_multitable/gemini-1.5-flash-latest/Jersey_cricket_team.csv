@@ -1,0 +1,27 @@
+entity,question,actual_answer,predicted_answer
+Jersey_cricket_team,Name the person(s) who served as the coach when Charles Perchard was the t20i captain of the Jersey cricket team.,Neil MacRae,"Neil MacRae 
+"
+Jersey_cricket_team,Who were the individual(s) serving as the t20i captain during the tenure of Neil MacRae as the coach of the Jersey cricket team?,Charles Perchard,"Charles Perchard 
+"
+Jersey_cricket_team,Was the Jersey cricket team's win percentage the highest in the t20i format in either 2019 or 2022?(Answer in year)(Include no results/ties/draws in total number of matches.),2022,"2019 
+"
+Jersey_cricket_team,"How long did Charles Perchard serve as the t20i captain of Jersey cricket team? (answer in number of days)(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1292 days,"1087 days 
+"
+Jersey_cricket_team,"What was the duration of Neil MacRae's tenure as the coach of Jersey cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",1292 days,"1252 days 
+"
+Jersey_cricket_team,"Who had the longest stint as the t20i captain of the Jersey cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Charles Perchard,"Charles Perchard 
+"
+Jersey_cricket_team,"Who had the longest stint as the coach of the Jersey cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Neil MacRae,"Neil MacRae 
+"
+Jersey_cricket_team,"Which person had the shortest tenure as the t20i captain of the Jersey cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Charles Perchard,"Charles Perchard 
+"
+Jersey_cricket_team,"Which person had the shortest tenure as the coach of the Jersey cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",Neil MacRae,"Neil MacRae 
+"
+Jersey_cricket_team,How many people served as the t20i captain of the Jersey cricket team?,1,"One person 
+"
+Jersey_cricket_team,How many individuals took on the role of coach of the Jersey cricket team?,1,"One individual 
+"
+Jersey_cricket_team,What is the ratio of wins to losses for the Jersey cricket team in the t20i format for 2019?(Answer in decimal form.),1.43,"1.33 
+"
+Jersey_cricket_team,What is the ratio of wins to losses for the Jersey cricket team in the t20i format for 2022?(Answer in decimal form.),1.67,"1.5 
+"

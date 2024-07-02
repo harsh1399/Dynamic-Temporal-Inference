@@ -1,0 +1,51 @@
+{
+	"q1-single":{
+
+                "Q": "Who were the individual(s) serving as the coach during the tenure of Kieron Pollard as the t20i captain of the West Indies cricket team?",
+                "A": "Phil Simmons"
+
+	},
+	"q2":{
+
+                "Q": "Was the West Indies cricket team's win percentage the highest in the t20i format in either 2017 or 2019?(Answer in year)(Include no results/ties/draws in total number of matches.)",
+                "A": "2017"
+
+	},
+	"q4":{
+
+                "Q": "In which year did Richard Pybus become the coach of the West Indies cricket team for the first time?",
+                "A": "2019"
+
+	},
+	"q5":{
+
+                "Q": "What was the duration of Richard Pybus's tenure as the coach of West Indies cricket team? (answer in number of days)(Assume that tenure for a position starts when the person first in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "267 days"
+
+	},
+	"q6":{
+
+                "Q": "Which person had the longest tenure as the coach of the West Indies cricket team?(Assume that tenure for a position starts when the person appears in the timeline in that role and ends when either the timeline ends, or someone else replaces him.)",
+                "A": "Stuart Law"
+
+	},
+	"q7":{
+
+                "Q": "How many people served as the t20i captain of the West Indies cricket team?",
+                "A": "3"
+
+	},
+	"q8":{
+
+                "Q": "Who was the t20i captain of the West Indies cricket team before Kieron Pollard?",
+                "A": "Jason Holder"
+
+	},
+	"q9":{
+
+                "Q": "Who assumed the role of t20i captain for the West Indies cricket team following Carlos Brathwaite?",
+                "A": "Jason Holder"
+
+	}
+
+}
